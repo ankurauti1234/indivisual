@@ -2,20 +2,135 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@font-face {
+  font-family: Nunito;
+  src: url("/fonts/Nunito.ttf");
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Nunito, Arial, Helvetica, sans-serif;
+}
+
+@layer base {
+  :root {
+    /* Professional light theme with subtle accents */
+    --background: 0 0% 98%;              /* Soft white */
+    --foreground: 220 15% 15%;           /* Rich dark gray */
+    --card: 0 0% 100%;                   /* Pure white */
+    --card-foreground: 220 15% 15%;      /* Rich dark gray */
+    --popover: 0 0% 98%;                 /* Soft white */
+    --popover-foreground: 220 15% 15%;   /* Rich dark gray */
+    --primary: 220 80% 50%;            /* Royal blue */
+    --primary-foreground: 0 0% 100%;   /* White */
+    --secondary: 40 70% 50%;           /* Mustard yellow */
+    --secondary-foreground: 0 0% 100%; /* White */
+    --muted: 0 0% 90%;                 /* Light gray */
+    --muted-foreground: 0 0% 50%;      /* Medium gray */
+    --accent: 220 45% 90%;             /* Soft royal blue (minimal accent) */
+    --accent-foreground: 220 80% 30%;  /* Slightly darker desaturated blue */
+    --destructive: 0 70% 50%;          /* Crimson red */
+    --destructive-foreground: 0 0% 100%; /* White */
+    --border: 0 0% 85%;                /* Subtle gray for borders */
+    --input: 0 0% 85%;                 /* Light gray for inputs */
+    --ring: 220 80% 50%;               /* Royal blue */
+
+    /* Visualization Palette */
+    --chart-1: 210 90% 60%;              /* Vibrant blue */
+    --chart-2: 0 70% 55%;                /* Bright red */
+    --chart-3: 145 75% 45%;              /* Vibrant green */
+    --chart-4: 50 90% 55%;               /* Bright yellow */
+    --chart-5: 280 65% 55%;              /* Rich purple */
+    --chart-6: 35 85% 55%;               /* Warm orange */
+    --chart-7: 200 85% 60%;              /* Light blue */
+    --chart-8: 330 75% 60%;              /* Soft pink */
+
+    /* Sidebar */
+    --sidebar-background: 0 0% 96%;    /* Light gray */
+    --sidebar-foreground: 0 0% 20%;    /* Dark gray */
+    --sidebar-primary: 220 80% 50%;    /* Royal blue */
+    --sidebar-primary-foreground: 0 0% 100%; /* White */
+    --sidebar-accent: 220 45% 90%;     /* Subtle royal blue accent */
+    --sidebar-accent-foreground: 220 80% 30%; /* Muted blue for text */
+    --sidebar-border: 0 0% 85%;        /* Subtle gray */
+    --sidebar-ring: 220 80% 50%;       /* Royal blue */
+
+    --radius: 0.65rem;                  /* Subtle rounded corners for a professional feel */
+  }
+
+  .dark {
+    /* Professional dark theme with bold contrasts and minimal accents */
+    --background: 220 15% 10%;           /* Dark gray */
+    --foreground: 0 0% 98%;              /* Off-white */
+    --card: 220 15% 15%;                 /* Rich dark gray */
+    --card-foreground: 0 0% 98%;         /* Off-white */
+    --popover: 220 15% 15%;              /* Rich dark gray */
+    --popover-foreground: 0 0% 98%;      /* Off-white */
+    --primary: 220 70% 50%;            /* Bright royal blue */
+    --primary-foreground: 0 0% 100%;   /* White */
+    --secondary: 40 70% 50%;           /* Golden yellow */
+    --secondary-foreground: 0 0% 100%; /* White */
+    --muted: 220 15% 15%;              /* Dark gray */
+    --muted-foreground: 0 0% 75%;      /* Medium gray */
+    --accent: 220 30% 20%;             /* Softer navy tone (minimal accent) */
+    --accent-foreground: 220 70% 50%;  /* Slightly brighter muted blue */
+    --destructive: 0 70% 50%;          /* Bright red */
+    --destructive-foreground: 0 0% 100%; /* White */
+    --border: 220 15% 20%;             /* Dark gray */
+    --input: 220 15% 20%;              /* Dark gray */
+    --ring: 220 70% 50%;               /* Bright royal blue */
+
+    /* Visualization Palette */
+    --chart-1: 210 90% 60%;              /* Vibrant blue */
+    --chart-2: 0 70% 55%;                /* Bright red */
+    --chart-3: 145 75% 45%;              /* Vibrant green */
+    --chart-4: 50 90% 55%;               /* Bright yellow */
+    --chart-5: 280 65% 55%;              /* Rich purple */
+    --chart-6: 35 85% 55%;               /* Warm orange */
+    --chart-7: 200 85% 60%;              /* Light blue */
+    --chart-8: 330 75% 60%;              /* Soft pink */
+
+    /* Sidebar */
+    --sidebar-background: 220 15% 12%; /* Darker navy */
+    --sidebar-foreground: 0 0% 90%;    /* Light gray */
+    --sidebar-primary: 220 70% 50%;    /* Bright royal blue */
+    --sidebar-primary-foreground: 0 0% 100%; /* White */
+    --sidebar-accent: 220 30% 20%;     /* Subtle muted navy accent */
+    --sidebar-accent-foreground: 220 70% 50%; /* Muted brighter blue */
+    --sidebar-border: 220 15% 20%;     /* Dark gray */
+    --sidebar-ring: 220 70% 50%;       /* Bright royal blue */
+  }
+}
+
+
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.recharts-cartesian-grid-horizontal line,
+.recharts-cartesian-grid-vertical line {
+  stroke: hsl(var(--border));
+}
+
+.recharts-text {
+  fill: hsl(var(--foreground));
+}
+
+.recharts-default-tooltip {
+  background-color: hsl(var(--background)) !important;
+  border-color: hsl(var(--border)) !important;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.recharts-tooltip-label {
+  color: hsl(var(--foreground)) !important;
+}
+
+.recharts-tooltip-item {
+  color: hsl(var(--muted-foreground)) !important;
 }
