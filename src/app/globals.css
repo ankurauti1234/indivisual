@@ -13,93 +13,94 @@ body {
 
 @layer base {
   :root {
-    /* Professional light theme with subtle accents */
-    --background: 0 0% 98%;              /* Soft white */
-    --foreground: 220 15% 15%;           /* Rich dark gray */
-    --card: 0 0% 100%;                   /* Pure white */
-    --card-foreground: 220 15% 15%;      /* Rich dark gray */
-    --popover: 0 0% 98%;                 /* Soft white */
-    --popover-foreground: 220 15% 15%;   /* Rich dark gray */
-    --primary: 220 80% 50%;            /* Royal blue */
-    --primary-foreground: 0 0% 100%;   /* White */
-    --secondary: 40 70% 50%;           /* Mustard yellow */
-    --secondary-foreground: 0 0% 100%; /* White */
-    --muted: 0 0% 90%;                 /* Light gray */
-    --muted-foreground: 0 0% 50%;      /* Medium gray */
-    --accent: 220 45% 90%;             /* Soft royal blue (minimal accent) */
-    --accent-foreground: 220 80% 30%;  /* Slightly darker desaturated blue */
-    --destructive: 0 70% 50%;          /* Crimson red */
-    --destructive-foreground: 0 0% 100%; /* White */
-    --border: 0 0% 85%;                /* Subtle gray for borders */
-    --input: 0 0% 85%;                 /* Light gray for inputs */
-    --ring: 220 80% 50%;               /* Royal blue */
+    /* Tech & Analytics Light Theme */
+    --background: 220 40% 95%; /* Soft blue-gray */
+    --foreground: 220 15% 20%; /* Dark charcoal gray */
+    --card: 0 0% 100%; /* Pure white */
+    --card-foreground: 220 15% 20%; /* Dark charcoal gray */
+    --popover: 220 40% 98%; /* Lighter blue-gray */
+    --popover-foreground: 220 15% 20%; /* Dark charcoal gray */
+    --primary: 220 70% 55%; /* Vivid technology blue */
+    --primary-foreground: 0 0% 100%; /* Pure white */
+    --secondary: 150 40% 50%; /* Fresh green for insights */
+    --secondary-foreground: 0 0% 100%; /* Pure white */
+    --muted: 220 20% 85%; /* Soft blue-gray */
+    --muted-foreground: 220 15% 40%; /* Medium charcoal gray */
+    --accent: 220 80% 65%; /* Electric purple */
+    --accent-foreground: 0 0% 100%; /* Pure white */
+    --destructive: 0 65% 55%; /* Bright red */
+    --destructive-foreground: 0 0% 100%; /* Pure white */
+    --border: 220 15% 85%; /* Subtle blue-gray */
+    --input: 220 15% 95%; /* Light blue-gray */
+    --ring: 220 70% 55%; /* Vivid technology blue */
 
     /* Visualization Palette */
-    --chart-1: 210 90% 60%;              /* Vibrant blue */
-    --chart-2: 0 70% 55%;                /* Bright red */
-    --chart-3: 145 75% 45%;              /* Vibrant green */
-    --chart-4: 50 90% 55%;               /* Bright yellow */
-    --chart-5: 280 65% 55%;              /* Rich purple */
-    --chart-6: 35 85% 55%;               /* Warm orange */
-    --chart-7: 200 85% 60%;              /* Light blue */
-    --chart-8: 330 75% 60%;              /* Soft pink */
+    --chart-1: 220 70% 55%; /* Vivid blue */
+    --chart-2: 150 40% 50%; /* Fresh green */
+    --chart-3: 260 60% 60%; /* Electric purple */
+    --chart-4: 40 60% 65%; /* Bright yellow */
+    --chart-5: 0 65% 55%; /* Bright red */
+    --chart-6: 200 60% 50%; /* Cyan */
+    --chart-7: 290 50% 50%; /* Soft magenta */
+    --chart-8: 210 20% 80%; /* Cool gray */
 
     /* Sidebar */
-    --sidebar-background: 0 0% 96%;    /* Light gray */
-    --sidebar-foreground: 0 0% 20%;    /* Dark gray */
-    --sidebar-primary: 220 80% 50%;    /* Royal blue */
-    --sidebar-primary-foreground: 0 0% 100%; /* White */
-    --sidebar-accent: 220 45% 90%;     /* Subtle royal blue accent */
-    --sidebar-accent-foreground: 220 80% 30%; /* Muted blue for text */
-    --sidebar-border: 0 0% 85%;        /* Subtle gray */
-    --sidebar-ring: 220 80% 50%;       /* Royal blue */
+    --sidebar-background: 220 30% 90%; /* Light blue-gray */
+    --sidebar-foreground: 220 15% 30%; /* Darker gray */
+    --sidebar-primary: 220 70% 55%; /* Vivid technology blue */
+    --sidebar-primary-foreground: 0 0% 100%; /* Pure white */
+    --sidebar-accent: 220 80% 65%; /* Electric purple */
+    --sidebar-accent-foreground: 0 0% 100%; /* Pure white */
+    --sidebar-border: 220 20% 85%; /* Subtle gray */
+    --sidebar-ring: 220 70% 55%; /* Vivid technology blue */
 
-    --radius: 0.65rem;                  /* Subtle rounded corners for a professional feel */
+    --radius: 0.5rem; /* Sharper corners for a modern feel */
   }
 
   .dark {
-    /* Professional dark theme with bold contrasts and minimal accents */
-    --background: 220 15% 10%;           /* Dark gray */
-    --foreground: 0 0% 98%;              /* Off-white */
-    --card: 220 15% 15%;                 /* Rich dark gray */
-    --card-foreground: 0 0% 98%;         /* Off-white */
-    --popover: 220 15% 15%;              /* Rich dark gray */
-    --popover-foreground: 0 0% 98%;      /* Off-white */
-    --primary: 220 70% 50%;            /* Bright royal blue */
-    --primary-foreground: 0 0% 100%;   /* White */
-    --secondary: 40 70% 50%;           /* Golden yellow */
-    --secondary-foreground: 0 0% 100%; /* White */
-    --muted: 220 15% 15%;              /* Dark gray */
-    --muted-foreground: 0 0% 75%;      /* Medium gray */
-    --accent: 220 30% 20%;             /* Softer navy tone (minimal accent) */
-    --accent-foreground: 220 70% 50%;  /* Slightly brighter muted blue */
-    --destructive: 0 70% 50%;          /* Bright red */
-    --destructive-foreground: 0 0% 100%; /* White */
-    --border: 220 15% 20%;             /* Dark gray */
-    --input: 220 15% 20%;              /* Dark gray */
-    --ring: 220 70% 50%;               /* Bright royal blue */
+    /* Tech & Analytics Dark Theme */
+    --background: 220 30% 10%; /* Deep blue-gray */
+    --foreground: 220 20% 85%; /* Light blue-gray */
+    --card: 220 20% 15%; /* Dark blue-gray */
+    --card-foreground: 220 20% 85%; /* Light blue-gray */
+    --popover: 220 20% 15%; /* Dark blue-gray */
+    --popover-foreground: 220 20% 85%; /* Light blue-gray */
+    --primary: 220 70% 55%; /* Vivid technology blue */
+    --primary-foreground: 220 20% 95%; /* Soft white */
+    --secondary: 150 40% 50%; /* Fresh green */
+    --secondary-foreground: 220 20% 95%; /* Soft white */
+    --muted: 220 20% 20%; /* Dark muted gray */
+    --muted-foreground: 220 20% 60%; /* Medium gray */
+    --accent: 220 80% 65%; /* Electric purple */
+    --accent-foreground: 220 20% 95%; /* Soft white */
+    --destructive: 0 65% 55%; /* Bright red */
+    --destructive-foreground: 220 20% 95%; /* Light gray */
+    --border: 220 20% 25%; /* Dark gray */
+    --input: 220 20% 20%; /* Deep blue-gray */
+    --ring: 220 70% 55%; /* Vivid technology blue */
 
     /* Visualization Palette */
-    --chart-1: 210 90% 60%;              /* Vibrant blue */
-    --chart-2: 0 70% 55%;                /* Bright red */
-    --chart-3: 145 75% 45%;              /* Vibrant green */
-    --chart-4: 50 90% 55%;               /* Bright yellow */
-    --chart-5: 280 65% 55%;              /* Rich purple */
-    --chart-6: 35 85% 55%;               /* Warm orange */
-    --chart-7: 200 85% 60%;              /* Light blue */
-    --chart-8: 330 75% 60%;              /* Soft pink */
+    --chart-1: 220 70% 55%; /* Vivid blue */
+    --chart-2: 150 40% 50%; /* Fresh green */
+    --chart-3: 260 60% 60%; /* Electric purple */
+    --chart-4: 40 60% 65%; /* Bright yellow */
+    --chart-5: 0 65% 55%; /* Bright red */
+    --chart-6: 200 60% 50%; /* Cyan */
+    --chart-7: 290 50% 50%; /* Soft magenta */
+    --chart-8: 210 20% 80%; /* Cool gray */
 
     /* Sidebar */
-    --sidebar-background: 220 15% 12%; /* Darker navy */
-    --sidebar-foreground: 0 0% 90%;    /* Light gray */
-    --sidebar-primary: 220 70% 50%;    /* Bright royal blue */
-    --sidebar-primary-foreground: 0 0% 100%; /* White */
-    --sidebar-accent: 220 30% 20%;     /* Subtle muted navy accent */
-    --sidebar-accent-foreground: 220 70% 50%; /* Muted brighter blue */
-    --sidebar-border: 220 15% 20%;     /* Dark gray */
-    --sidebar-ring: 220 70% 50%;       /* Bright royal blue */
+    --sidebar-background: 220 30% 12%; /* Deep blue-gray */
+    --sidebar-foreground: 220 20% 75%; /* Light gray */
+    --sidebar-primary: 220 70% 55%; /* Vivid technology blue */
+    --sidebar-primary-foreground: 220 20% 95%; /* Soft white */
+    --sidebar-accent: 220 80% 65%; /* Electric purple */
+    --sidebar-accent-foreground: 220 20% 95%; /* Soft white */
+    --sidebar-border: 220 20% 25%; /* Dark gray */
+    --sidebar-ring: 220 70% 55%; /* Vivid technology blue */
   }
 }
+
 
 
 
@@ -110,6 +111,11 @@ body {
   body {
     @apply bg-background text-foreground;
   }
+}
+
+.paper{
+background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
+background-blend-mode:color-burn;
 }
 
 .recharts-cartesian-grid-horizontal line,

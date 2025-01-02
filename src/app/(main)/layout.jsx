@@ -12,7 +12,7 @@ export default function MainLayout({ children }) {
   return (
     <SidebarProvider>
       <AppSidebar />
-      <SidebarInset className="shadow-inner border overflow-hidden h-[98vh] p-0 m-0">
+      <SidebarInset className="shadow-inner border overflow-hidden h-[97vh] p-0 m-0">
         <Topbar />
         <main className="p-4 overflow-auto">{children}</main>
       </SidebarInset>

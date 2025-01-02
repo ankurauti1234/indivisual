@@ -47,7 +47,7 @@ const data = {
         },
         {
           title: "Advertisers",
-          url: "/dashboard/tv/advertisers",
+          url: "/dashboard/tv/ads",
         },
         {
           title: "Brands",
@@ -66,7 +66,7 @@ const data = {
         },
         {
           title: "Advertisers",
-          url: "/dashboard/radio/advertisers",
+          url: "/dashboard/radio/ads",
         },
         {
           title: "Brands",
@@ -125,18 +125,18 @@ export function AppSidebar({ ...props }) {
       <SidebarHeader>
         <SidebarMenu>
           <SidebarMenuItem>
-            <SidebarMenuButton size="lg" asChild>
+            <SidebarMenuButton size="sm" asChild className="hover:bg-black/0 hover:scale-105 transition-all duration-300 flex items-center justify-center">
               <a href="/dashboard">
-                <div className="flex aspect-square size-8 items-center justify-center rounded-lg bg-sidebar-primary text-sidebar-primary-foreground">
-                  <Command className="size-4" />
-                </div>
-                <div className="grid flex-1 text-left text-sm leading-tight">
-                  <span className="truncate font-semibold">Rex</span>
-                  <span className="truncate text-xs">Enterprise</span>
-                </div>
+               
+                    <img
+                      src="/images/indivisual.svg"
+                      alt="logo"
+                      className="h-10"
+                    />
               </a>
             </SidebarMenuButton>
           </SidebarMenuItem>
+          <hr/>
         </SidebarMenu>
       </SidebarHeader>
       <SidebarContent>

@@ -20,7 +20,7 @@ export default function AuthPage() {
         >
           <div className="flex justify-center gap-2 md:justify-start">
             <a href="/" className="flex items-center gap-2">
-              <img src="/images/logo.png" alt="logo" className="h-12" />
+              <img src="/images/indivisual.svg" alt="logo" className="h-12" />
             </a>
           </div>
           <div className="flex flex-1 items-center justify-center">
@@ -50,7 +50,7 @@ export default function AuthPage() {
           className="relative hidden lg:block overflow-hidden shadow-xl"
           animate={{
             order: isLogin ? 1 : 0,
-            borderRadius: !isLogin ? "0 3rem 3rem 0" : "3rem 0 0 3rem",
+            // borderRadius: !isLogin ? "0 3rem 3rem 0" : "3rem 0 0 3rem",
           }}
           transition={{ duration: 0.5 }}
         >

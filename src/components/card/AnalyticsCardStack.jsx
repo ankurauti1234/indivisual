@@ -3,7 +3,7 @@ import { CardStack } from "../ui/card-stack";
 import { cn } from "@/lib/utils";
 export default function AnalyticsCardStack() {
   return (
-    <div className="h-[40rem] flex items-center justify-center w-full">
+    <div className="h-[25rem] flex items-center justify-center w-full">
       <CardStack items={CARDS} />
     </div>
   );
@@ -32,16 +32,11 @@ const CARDS = [
   {
     id: 1,
     title: "Marketing Dashboard",
-    image: "/images/analytics.png",
+    image: "/images/broadcasters/audience-insights.png",
   },
   {
     id: 2,
     title: "Project Management Dashboard",
-    image: "/images/analytics.png",
-  },
-  {
-    id: 3,
-    title: "Finance Dashboard",
-    image: "/images/analytics.png",
+    image: "/images/broadcasters/daily-summary-report.png",
   },
 ];

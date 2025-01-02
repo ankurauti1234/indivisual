@@ -1,57 +1,111 @@
-import React from "react";
-import { motion } from "framer-motion";
-import { cn } from "@/lib/utils";
+'use client'
 
-const BounceCard = ({ className, children }) => {
+import React from "react"
+import { Card } from "@/components/ui/card"
+import Link from "next/link"
+import { motion } from "framer-motion"
+import { Clock, ArrowRight, BarChart2, TrendingUp, Users } from 'lucide-react'
+import { Badge } from "@/components/ui/badge"
+
+const useCardHover = () => {
+  const [isHovered, setIsHovered] = React.useState(false)
+  return {
+    isHovered,
+    hoverProps: {
+      onMouseEnter: () => setIsHovered(true),
+      onMouseLeave: () => setIsHovered(false),
+    },
+  }
+}
+
+const ReportCard = ({ id, image, title, lastUpdated, page, subpage, slug, metrics }) => {
+  const { isHovered, hoverProps } = useCardHover()
+
   return (
-    <motion.div
-      whileHover={{ scale: 1.02, translateY: -5 }}
-      transition={{
-        type: "spring",
-        stiffness: 300,
-        damping: 20,
-      }}
-      className={cn(
-        "group relative min-h-[300px] cursor-pointer overflow-hidden rounded-xl p-8",
-        "bg-background/50 backdrop-blur-sm border border-primary/10",
-        "before:absolute before:inset-0 before:bg-gradient-to-br before:from-primary/5 before:to-secondary/5 before:opacity-0 before:transition-opacity",
-        "hover:before:opacity-100",
-        "after:absolute after:inset-0 after:bg-grid-white/[0.02] after:opacity-0 after:transition-opacity",
-        "hover:after:opacity-100",
-        className
-      )}
+    <Link
+      href={`/dashboard/${page}/${subpage}/${slug}`}
+      className="block no-underline group"
+      {...hoverProps}
     >
-      {/* Gradient orb effects */}
-      <div className="absolute -inset-0.5 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
-        <div className="absolute top-0 right-0 w-40 h-40 bg-primary/10 rounded-full blur-3xl transform translate-x-1/2 -translate-y-1/2" />
-        <div className="absolute bottom-0 left-0 w-40 h-40 bg-secondary/10 rounded-full blur-3xl transform -translate-x-1/2 translate-y-1/2" />
-      </div>
+      <motion.div 
+        whileHover={{ scale: 1.03 }} 
+        transition={{ duration: 0.3, ease: "easeOut" }}
+      >
+        <Card className="relative overflow-hidden backdrop-blur-xl border border-border/50 hover:border-primary/20 transition-all duration-300 shadow-lg">
+          {/* Full-size image container */}
+          <div className="h-[400px] relative">
+            {/* Background Image with parallax effect */}
+            <motion.div
+              className="absolute inset-0 bg-cover bg-center"
+              style={{ backgroundImage: `url(${image})` }}
+              animate={{
+                y: isHovered ? -15 : 0,
+              }}
+              transition={{ duration: 0.5 }}
+            />
 
-      {/* Card shine effect */}
-      <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
-        <div className="absolute inset-0 bg-gradient-to-br from-primary/10 via-transparent to-transparent rotate-45 transform translate-y-full group-hover:translate-y-0 transition-transform duration-500" />
-      </div>
+            {/* Gradient overlay */}
+            <div className="absolute inset-0 bg-gradient-to-t from-background via-background/70 to-transparent opacity-90 group-hover:opacity-75 transition-opacity duration-300" />
 
-      {/* Content container with relative positioning */}
-      <div className=" z-10">
-        <motion.div
-          initial={{ opacity: 0, y: 10 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5 }}
-        >
-          {children}
-        </motion.div>
-      </div>
+            {/* Content overlay */}
+            <div className="absolute inset-0 p-6 flex flex-col justify-between">
+              {/* Top section with badges */}
+              <div className="flex justify-between items-start">
+                <Badge variant="secondary" className="bg-primary/10 text-primary">
+                  Analytics Report
+                </Badge>
+                <Badge variant="outline" className="bg-background/50">
+                  <Clock className="w-3 h-3 mr-1" />
+                  {lastUpdated}
+                </Badge>
+              </div>
 
-      {/* Interactive gradient border */}
-      <motion.div
-        className="absolute inset-0 rounded-xl border border-primary/10 opacity-0 group-hover:opacity-100"
-        initial={{ opacity: 0 }}
-        whileHover={{ opacity: 1 }}
-        transition={{ duration: 0.3 }}
-      />
-    </motion.div>
-  );
-};
+              {/* Bottom section with title and metrics */}
+              <div className="space-y-4">
+                <h3 className="text-2xl font-bold text-foreground/90 group-hover:text-primary transition-colors duration-300">
+                  {title}
+                </h3>
+                
+                {/* Metrics grid */}
+                <div className="grid grid-cols-3 gap-4">
+                  {metrics.map((metric, index) => (
+                    <div key={index} className="bg-background/30 backdrop-blur-sm p-2 rounded-lg">
+                      <div className="flex items-center justify-between mb-1">
+                        {metric.icon}
+                        <span className="text-xs font-medium text-muted-foreground">{metric.label}</span>
+                      </div>
+                      <div className="text-lg font-semibold">{metric.value}</div>
+                    </div>
+                  ))}
+                </div>
 
-export default BounceCard;
+                {/* View Report button */}
+                <motion.div
+                  animate={{
+                    x: isHovered ? 5 : 0,
+                    opacity: isHovered ? 1 : 0.8,
+                  }}
+                  transition={{ duration: 0.2 }}
+                  className="flex items-center gap-2 text-primary bg-primary/10 py-2 px-3 rounded-full w-fit"
+                >
+                  <span className="text-sm font-medium">View Full Report</span>
+                  <ArrowRight className="w-4 h-4" />
+                </motion.div>
+              </div>
+            </div>
+
+            {/* Hover accent line */}
+            <motion.div
+              className="absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r from-primary via-secondary to-primary"
+              initial={{ scaleX: 0 }}
+              animate={{ scaleX: isHovered ? 1 : 0 }}
+              transition={{ duration: 0.3 }}
+            />
+          </div>
+        </Card>
+      </motion.div>
+    </Link>
+  )
+}
+
+export default ReportCard

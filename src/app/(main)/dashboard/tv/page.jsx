@@ -1,123 +1,120 @@
 import React from "react";
 import Link from "next/link";
 import {
+  Tv,
+  Target,
+  Building,
+  Activity,
+  BarChart2,
+  Clock,
+  Users,
+} from "lucide-react";
+import {
   Card,
   CardHeader,
   CardTitle,
   CardDescription,
   CardContent,
 } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import {
-  ChevronRight,
-  Tv,
-  Circle,
-  Building2,
-  Headphones,
-  BarChart,
-  Clock,
-} from "lucide-react";
 
-const FeatureCard = ({ icon: Icon, title, description, href }) => (
+const FeatureCard = ({ icon: Icon, title, description, href, metrics }) => (
   <Link href={href}>
-    <Card className="group cursor-pointer h-full hover:bg-accent/5 transition-all duration-300">
+    <Card className="h-full hover:border-primary/50 transition-colors duration-200">
       <CardHeader>
-        <div className="flex items-center justify-between">
-          <div className="p-2 bg-primary/10 rounded-lg w-fit">
-            <Icon className="w-6 h-6 text-primary" />
+        <div className="flex items-center gap-3">
+          <div className="p-2 rounded-md bg-muted">
+            <Icon className="w-5 h-5 text-foreground/70" />
           </div>
-          <ChevronRight className="w-5 h-5 text-muted-foreground group-hover:translate-x-1 transition-transform duration-300" />
+          <div>
+            <CardTitle className="text-lg">{title}</CardTitle>
+            <CardDescription>{description}</CardDescription>
+          </div>
         </div>
-        <CardTitle className="mt-4">{title}</CardTitle>
-        <CardDescription>{description}</CardDescription>
       </CardHeader>
+      <CardContent>
+        <div className="space-y-2">
+          {metrics.map((metric, idx) => (
+            <div key={idx} className="flex items-center gap-2">
+              <span className="w-1 h-1 rounded-full bg-foreground/30" />
+              <span className="text-sm text-muted-foreground">{metric}</span>
+            </div>
+          ))}
+        </div>
+      </CardContent>
     </Card>
   </Link>
 );
 
-const Feature = ({ icon: Icon, title }) => (
-  <div className="flex items-center gap-2">
-    <div className="p-1 bg-primary/10 rounded-lg">
-      <Icon className="w-4 h-4 text-primary" />
+const StatCard = ({ icon: Icon, value, label }) => (
+  <Card className="p-4">
+    <div className="flex items-center gap-3">
+      <Icon className="w-5 h-5 text-muted-foreground" />
+      <div>
+        <div className="text-xl font-semibold">{value}</div>
+        <div className="text-sm text-muted-foreground">{label}</div>
+      </div>
     </div>
-    <span className="text-sm text-muted-foreground">{title}</span>
-  </div>
+  </Card>
 );
 
 const TelevisionPage = () => {
-  const features = [
-    { icon: BarChart, title: "Comprehensive analytics reports" },
-    { icon: Clock, title: "Real-time data monitoring" },
+  const stats = [
+    { icon: Users, value: "2.5M+", label: "Daily Viewers" },
+    { icon: BarChart2, value: "50+", label: "Active Channels" },
+    { icon: Activity, value: "98%", label: "Uptime" },
+    { icon: Clock, value: "24/7", label: "Monitoring" },
   ];
 
-  const cards = [
+  const features = [
+    {
+      icon: Building,
+      title: "TV Broadcasters",
+      description: "Access channel performance metrics and audience insights",
+      href: "/dashboard/tv/broadcasters",
+      metrics: ["Audience Share", "Peak Hours", "Content Performance"],
+    },
+    {
+      icon: Target,
+      title: "TV Advertisers",
+      description: "Track campaign ROI and engagement analytics",
+      href: "/dashboard/tv/ads",
+      metrics: ["Campaign Metrics", "Audience Reach", "ROI Analysis"],
+    },
     {
       icon: Tv,
-      title: "Broadcasters",
-      description:
-        "Access channel performance metrics and detailed audience insights",
-      href: "/dashboard/tv/broadcasters",
-    },
-    {
-      icon: Circle,
-      title: "Advertisers",
-      description:
-        "Track campaign ROI and engagement with advanced analytics tools",
-      href: "/dashboard/tv/advertisers",
-    },
-    {
-      icon: Building2,
-      title: "Brands",
-      description: "Monitor brand visibility and analyze audience demographics",
+      title: "TV Brands",
+      description: "Monitor brand visibility and audience demographics",
       href: "/dashboard/tv/brands",
+      metrics: ["Brand Mentions", "Market Share", "Competitor Analysis"],
     },
   ];
 
   return (
-    <div className="container mx-auto p-6 space-y-10">
-      <div className="space-y-4">
-        <h1 className="text-4xl font-bold tracking-tight">
-          Television Analytics
-        </h1>
-        <p className="text-lg text-muted-foreground max-w-3xl">
-          Unlock powerful insights for broadcasters, advertisers, and brands
-          with our comprehensive analytics platform.
-        </p>
-        <div className="flex flex-wrap gap-4">
+    <div className="min-h-screen bg-background">
+      <div className="container mx-auto px-4 py-8">
+        {/* Header Section */}
+        <div className="mb-8">
+          <h1 className="text-3xl font-semibold mb-2">Television Analytics</h1>
+          <p className="text-muted-foreground">
+            Comprehensive analytics platform for broadcasters, advertisers, and
+            brands
+          </p>
+        </div>
+
+        {/* Stats Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+          {stats.map((stat, index) => (
+            <StatCard key={index} {...stat} />
+          ))}
+        </div>
+
+        {/* Main Features */}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
           {features.map((feature, index) => (
-            <Feature key={index} {...feature} />
+            <FeatureCard key={index} {...feature} />
           ))}
         </div>
       </div>
-
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {cards.map((card, index) => (
-          <FeatureCard key={index} {...card} />
-        ))}
-      </div>
-
-      <Card>
-        <CardHeader>
-          <div className="flex items-center gap-2">
-            <Headphones className="w-5 h-5 text-primary" />
-            <CardTitle>Need Assistance?</CardTitle>
-          </div>
-          <CardDescription>
-            Our support team is here to help you get the most out of your
-            analytics
-          </CardDescription>
-        </CardHeader>
-        <CardContent className="flex flex-col gap-4">
-          <p className="text-sm text-muted-foreground">
-            Contact us for personalized support or to discuss custom analytics
-            solutions tailored to your needs.
-          </p>
-          <div className="flex gap-2">
-            <Badge variant="secondary">support@example.com</Badge>
-            <Badge variant="outline">24/7 Support</Badge>
-          </div>
-        </CardContent>
-      </Card>
     </div>
   );
 };

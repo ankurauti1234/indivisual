@@ -1,180 +1,198 @@
 import React from "react";
 import Link from "next/link";
 import {
+  Building,
+  Target,
+  Globe,
+  TrendingUp,
+  Radio,
+  Tv,
+  BarChart2,
+  Users,
+  Activity,
+  ArrowUpRight,
+} from "lucide-react";
+import {
   Card,
   CardContent,
-  CardDescription,
   CardHeader,
   CardTitle,
+  CardDescription,
 } from "@/components/ui/card";
-import {
-  GlobeIcon,
-  RadioIcon,
-  TvIcon,
-  BarChart3Icon,
-  UsersIcon,
-  BuildingIcon,
-} from "lucide-react";
+
+const navigationLinks = [
+  {
+    section: "Television",
+    icon: Tv,
+    links: [
+      {
+        href: "/dashboard/tv/broadcasters",
+        label: "TV Broadcasters",
+        description: "Channel performance and viewer engagement analytics",
+        icon: Building,
+        stats: { label: "Active Channels", value: "50+" },
+      },
+      {
+        href: "/dashboard/tv/ads",
+        label: "TV Advertising",
+        description: "Campaign tracking and ROI measurement tools",
+        icon: Target,
+        stats: { label: "Active Campaigns", value: "120+" },
+      },
+      {
+        href: "/dashboard/tv/brands",
+        label: "TV Brand Analytics",
+        description: "Brand visibility and market impact tracking",
+        icon: Globe,
+        stats: { label: "Tracked Brands", value: "85+" },
+      },
+    ],
+  },
+  {
+    section: "Radio",
+    icon: Radio,
+    links: [
+      {
+        href: "/dashboard/radio/broadcasters",
+        label: "Radio Stations",
+        description: "Station metrics and listener engagement data",
+        icon: Building,
+        stats: { label: "Active Stations", value: "120+" },
+      },
+      {
+        href: "/dashboard/radio/ads",
+        label: "Radio Advertising",
+        description: "Ad performance and audience reach analytics",
+        icon: Target,
+        stats: { label: "Live Campaigns", value: "95+" },
+      },
+      {
+        href: "/dashboard/radio/brands",
+        label: "Radio Brand Analytics",
+        description: "Brand presence and market performance tracking",
+        icon: Globe,
+        stats: { label: "Monitored Brands", value: "65+" },
+      },
+    ],
+  },
+];
+
+const QuickStats = () => (
+  <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
+    {[
+      { icon: Users, label: "Total Daily Audience", value: "4.3M+" },
+      { icon: Activity, label: "Platform Uptime", value: "99.9%" },
+      { icon: BarChart2, label: "Active Markets", value: "55" },
+      { icon: TrendingUp, label: "YoY Growth", value: "24%" },
+    ].map((stat, index) => (
+      <Card key={index}>
+        <CardContent className="pt-4">
+          <div className="flex items-center gap-3">
+            <div className="p-2 rounded-md bg-muted">
+              <stat.icon className="w-4 h-4 text-muted-foreground" />
+            </div>
+            <div>
+              <div className="text-xl font-semibold">{stat.value}</div>
+              <div className="text-sm text-muted-foreground">{stat.label}</div>
+            </div>
+          </div>
+        </CardContent>
+      </Card>
+    ))}
+  </div>
+);
+
+const NavigationSection = ({ section, icon: Icon, links }) => (
+  <div className="space-y-4">
+    <div className="flex items-center gap-2 px-2">
+      <Icon className="w-5 h-5 text-muted-foreground" />
+      <h2 className="text-lg font-semibold">{section}</h2>
+    </div>
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      {links.map((link, index) => (
+        <Link key={index} href={link.href} className="block">
+          <Card className="h-full hover:border-primary/50 hover:bg-muted/50 transition-all group">
+            <CardHeader>
+              <div className="flex items-center justify-between">
+                <div className="p-2 rounded-md bg-muted">
+                  <link.icon className="w-4 h-4 text-muted-foreground" />
+                </div>
+                <ArrowUpRight className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity" />
+              </div>
+              <CardTitle className="text-lg mt-2">{link.label}</CardTitle>
+              <CardDescription>{link.description}</CardDescription>
+            </CardHeader>
+            <CardContent>
+              <div className="text-sm">
+                <span className="font-medium text-foreground">
+                  {link.stats.value}
+                </span>{" "}
+                <span className="text-muted-foreground">
+                  {link.stats.label}
+                </span>
+              </div>
+            </CardContent>
+          </Card>
+        </Link>
+      ))}
+    </div>
+  </div>
+);
 
 const DashboardPage = () => {
-  const statsCards = [
-    {
-      title: "Total Broadcasters",
-      value: "250+",
-      description: "Active TV & Radio channels",
-      icon: <BuildingIcon className="w-4 h-4" />,
-      className: "md:col-span-1 row-span-1",
-    },
-    {
-      title: "Active Brands",
-      value: "1,500+",
-      description: "Across all platforms",
-      icon: <GlobeIcon className="w-4 h-4" />,
-      className: "md:col-span-1 row-span-1",
-    },
-    {
-      title: "Monthly Campaigns",
-      value: "3,000+",
-      description: "Media campaigns tracked",
-      icon: <BarChart3Icon className="w-4 h-4" />,
-      className: "md:col-span-1 row-span-1",
-    },
-  ];
-
-  const platformCards = [
-    {
-      title: "Television Analytics",
-      description:
-        "Comprehensive insights for TV broadcasting and advertising performance",
-      icon: <TvIcon className="w-6 h-6" />,
-      links: [
-        { href: "/dashboard/tv/advertisers", label: "TV Advertisers" },
-        { href: "/dashboard/tv/brands", label: "TV Brands" },
-        { href: "/dashboard/tv/broadcasters", label: "TV Broadcasters" },
-      ],
-      className: "md:col-span-2 row-span-2",
-    },
-    {
-      title: "Radio Analytics",
-      description:
-        "In-depth analysis of radio advertising and broadcasting metrics",
-      icon: <RadioIcon className="w-6 h-6" />,
-      links: [
-        { href: "/dashboard/radio/advertisers", label: "Radio Advertisers" },
-        { href: "/dashboard/radio/brands", label: "Radio Brands" },
-        { href: "/dashboard/radio/broadcasters", label: "Radio Broadcasters" },
-      ],
-      className: "md:col-span-2 row-span-2",
-    },
-  ];
-
   return (
-    <div className="container mx-auto p-4 space-y-8">
-      <div className="space-y-2">
-        <h1 className="text-4xl font-bold tracking-tight">
-          Media Analytics Dashboard
-        </h1>
-        <p className="text-muted-foreground">
-          Your comprehensive hub for broadcast media insights and analytics
-        </p>
-      </div>
+    <div className="min-h-screen bg-background">
+      <div className="container mx-auto px-4 py-8">
+        {/* Header */}
+        <div className="mb-8">
+          <h1 className="text-3xl font-bold mb-2">Media Analytics Platform</h1>
+          <p className="text-lg text-muted-foreground">
+            Access detailed insights across your media channels
+          </p>
+        </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
-        {/* Stats Cards */}
-        {statsCards.map((card) => (
-          <Card key={card.title} className={card.className}>
-            <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-sm font-medium">
-                {card.title}
-              </CardTitle>
-              {card.icon}
-            </CardHeader>
-            <CardContent>
-              <div className="text-2xl font-bold">{card.value}</div>
-              <p className="text-xs text-muted-foreground">
-                {card.description}
-              </p>
-            </CardContent>
-          </Card>
-        ))}
+        {/* Quick Stats Overview */}
+        <QuickStats />
 
-        {/* Quick Access Card */}
-        <Card className="md:col-span-1 row-span-1">
-          <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-            <CardTitle className="text-sm font-medium">Quick Access</CardTitle>
-            <UsersIcon className="w-4 h-4" />
-          </CardHeader>
-          <CardContent>
-            <div className="text-sm text-muted-foreground">
-              Access your most recent reports and analytics
-            </div>
-          </CardContent>
-        </Card>
-
-        {/* Platform Cards */}
-        {platformCards.map((platform) => (
-          <Card key={platform.title} className={platform.className}>
-            <CardHeader>
-              <div className="flex items-center gap-2">
-                {platform.icon}
-                <CardTitle>{platform.title}</CardTitle>
-              </div>
-              <CardDescription>{platform.description}</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <div className="grid grid-cols-1 gap-2">
-                {platform.links.map((link) => (
-                  <Link
-                    key={link.href}
-                    href={link.href}
-                    className="flex items-center justify-between p-2 rounded-lg hover:bg-accent transition-colors"
-                  >
-                    <span>{link.label}</span>
-                    <span className="text-muted-foreground">→</span>
-                  </Link>
-                ))}
-              </div>
-            </CardContent>
-          </Card>
-        ))}
-
-        {/* Features Overview Card */}
-        <Card className="md:col-span-4">
+        {/* Latest Activity Card */}
+        <Card className="mb-8">
           <CardHeader>
-            <CardTitle>Platform Features</CardTitle>
-            <CardDescription>
-              Comprehensive tools and features available across our platform
-            </CardDescription>
+            <CardTitle>Platform Updates</CardTitle>
+            <CardDescription>Recent changes and improvements</CardDescription>
           </CardHeader>
           <CardContent>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-              <div className="space-y-2">
-                <h4 className="font-semibold">Broadcasters</h4>
-                <ul className="text-sm text-muted-foreground space-y-1">
-                  <li>• Real-time audience metrics</li>
-                  <li>• Content performance analysis</li>
-                  <li>• Competitive insights</li>
-                </ul>
-              </div>
-              <div className="space-y-2">
-                <h4 className="font-semibold">Advertisers</h4>
-                <ul className="text-sm text-muted-foreground space-y-1">
-                  <li>• Campaign performance tracking</li>
-                  <li>• ROI measurement tools</li>
-                  <li>• Audience targeting insights</li>
-                </ul>
-              </div>
-              <div className="space-y-2">
-                <h4 className="font-semibold">Brands</h4>
-                <ul className="text-sm text-muted-foreground space-y-1">
-                  <li>• Brand visibility metrics</li>
-                  <li>• Market impact analysis</li>
-                  <li>• Competitor benchmarking</li>
-                </ul>
-              </div>
+            <div className="space-y-4">
+              {[
+                {
+                  date: "Today",
+                  update: "New advertiser ROI tracking features added",
+                },
+                {
+                  date: "Yesterday",
+                  update: "Enhanced audience segmentation tools deployed",
+                },
+                {
+                  date: "2 days ago",
+                  update: "Real-time analytics performance improvements",
+                },
+              ].map((item, index) => (
+                <div key={index} className="flex items-start gap-4">
+                  <div className="w-20 text-sm text-muted-foreground">
+                    {item.date}
+                  </div>
+                  <div className="flex-1 text-sm">{item.update}</div>
+                </div>
+              ))}
             </div>
           </CardContent>
         </Card>
+
+        {/* Navigation Sections */}
+        <div className="space-y-8">
+          {navigationLinks.map((section, index) => (
+            <NavigationSection key={index} {...section} />
+          ))}
+        </div>
       </div>
     </div>
   );

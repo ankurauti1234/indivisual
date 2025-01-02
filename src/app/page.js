@@ -1,7 +1,7 @@
 'use client'
-import React from "react";
+import React, { useState } from "react";
 import {
-  BarChart2,
+BarChart2, Target,
   Tv,
   Users,
   Radio,
@@ -13,6 +13,7 @@ import {
   Sparkles,
   Globe,
   ArrowRightIcon,
+  Brain,
 } from "lucide-react";
 import {
   Card,
@@ -31,25 +32,114 @@ import { motion } from "framer-motion";
 import AnalyticsCardStack from "@/components/card/AnalyticsCardStack";
 import AnimatedShinyText from "@/components/ui/animated-shiny-text";
 
-const DemoChart = () => (
-  <div className="w-full bg-gradient-to-br from-primary/20 via-primary/10 to-background rounded-lg flex items-center justify-center">
-    <img src="/images/analytics.png" className="rounded-lg border opacity-85" />
-  </div>
-);
 
 const LandingPage = () => {
+    const [activeFeature, setActiveFeature] = useState(0);
+
+    const features = [
+      {
+        icon: Brain,
+        title: "AI-Powered Analytics",
+        description:
+          "Advanced machine learning algorithms process viewer behavior patterns and predict content performance with unprecedented accuracy.",
+        stats: [
+          { label: "Prediction Accuracy", value: "96%" },
+          { label: "Data Points", value: "1M+" },
+          { label: "Processing Time", value: "<1s" },
+        ],
+        gradient: "from-violet-500 to-purple-500",
+      },
+      {
+        icon: Globe,
+        title: "Real-Time Monitoring",
+        description:
+          "Track audience engagement across multiple channels simultaneously with live updates and instant notifications.",
+        stats: [
+          { label: "Update Frequency", value: "Live" },
+          { label: "Channel Support", value: "50+" },
+          { label: "Data Lag", value: "<2ms" },
+        ],
+        gradient: "from-blue-500 to-cyan-500",
+      },
+      {
+        icon: Users,
+        title: "Audience Insights",
+        description:
+          "Deep dive into demographic data and viewer preferences to optimize content strategy and targeting.",
+        stats: [
+          { label: "Demographics", value: "25+" },
+          { label: "Segments", value: "100+" },
+          { label: "Accuracy", value: "99%" },
+        ],
+        gradient: "from-orange-500 to-red-500",
+      },
+      {
+        icon: Activity,
+        title: "Performance Metrics",
+        description:
+          "Comprehensive analytics dashboard with customizable KPIs and automated reporting capabilities.",
+        stats: [
+          { label: "Metrics", value: "200+" },
+          { label: "Reports", value: "50+" },
+          { label: "Templates", value: "30+" },
+        ],
+        gradient: "from-green-500 to-emerald-500",
+      },
+    ];
+  
+   const ActiveFeatureIcon = features[activeFeature].icon;
 
   const texts = ["Broadcasters", "Advertisers", "Brand"];
+
+    const solutions = [
+      {
+        icon: Tv,
+        title: "Broadcasters",
+        description:
+          "Real-time audience measurement and content performance analytics for TV networks and streaming platforms",
+        features: [
+          "Viewer Demographics",
+          "Content Performance",
+          "Ad Impact Analysis",
+        ],
+        gradient: "from-blue-400 to-indigo-400",
+      },
+      {
+        icon: Target,
+        title: "Advertisers",
+        description:
+          "Optimize campaign performance with precise targeting and measurement across all broadcasting channels",
+        features: [
+          "Campaign Analytics",
+          "Audience Targeting",
+          "ROI Measurement",
+        ],
+        gradient: "from-orange-400 to-red-400",
+      },
+      {
+        icon: PieChart,
+        title: "Brands",
+        description:
+          "Track brand visibility and audience engagement across multiple broadcasting channels",
+        features: ["Brand Impact", "Audience Insights", "Competition Analysis"],
+        gradient: "from-green-400 to-emerald-400",
+      },
+    ];  
   
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
       <header className="min-h-screen relative">
         <div className="absolute inset-0 bg-grid-white/[0.02]" />
+        <div className="absolute inset-0">
+          <div className="absolute bottom-0 right-1/3 w-[500px] h-[500px] bg-primary/10 rounded-full blur-3xl" />
+          <div className="absolute  top-0 left-1/3  w-[500px] h-[500px] bg-secondary/10 rounded-full blur-3xl" />
+        </div>
         <nav className="container mx-auto px-6 py-8 relative">
           <div className="flex items-center justify-between">
             <div className="text-2xl font-bold text-primary flex items-center gap-2">
-              <img src="/images/logo.png" alt="logo" className="h-14" />
+              <img src="/images/indivisual.svg" alt="logo" className="h-12" />
+              
             </div>
             <div className="hidden md:flex space-x-8">
               <a
@@ -83,9 +173,9 @@ const LandingPage = () => {
           </div>
         </nav>
 
-        <div className=" px-6 lg:px-32 flex items-center min-h-[calc(100vh-120px)] relative">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center relative">
-            <div className="space-y-8 flex flex-col items-start h-full">
+        <div className=" px-6 lg:px-32 flex items-center justify-center min-h-[calc(100vh-120px)] relative">
+          <div className="flex flex-col lg:flex-row gap-16 items-center justify-between">
+            <div className="space-y-8 flex flex-col items-start h-full ">
               <div className="z-10 flex items-center justify-center">
                 <div
                   className={cn(
@@ -93,7 +183,7 @@ const LandingPage = () => {
                   )}
                 >
                   <AnimatedShinyText className="inline-flex items-center justify-center px-4 py-1 transition ease-out hover:text-neutral-600 hover:duration-300 hover:dark:text-neutral-400">
-                    <span>✨ Introducing Rex Analytics</span>
+                    <span>✨ Introducing INDI-VISUAL</span>
                     <ArrowRightIcon className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
                   </AnimatedShinyText>
                 </div>
@@ -130,118 +220,284 @@ const LandingPage = () => {
                 </Button>
               </div>
             </div>
-            
-              <AnalyticsCardStack />
-          
 
-            <AnimatedGridPattern
-              numSquares={30}
-              maxOpacity={0.1}
-              duration={3}
-              repeatDelay={1}
-              className={cn(
-                "[mask-image:radial-gradient(500px_circle_at_center,white,transparent)]",
-                "inset-x-0 inset-y-[-30%] h-[200%] skew-y-12 -z-10"
-              )}
-            />
+            <AnalyticsCardStack />
           </div>
         </div>
+        <AnimatedGridPattern
+          numSquares={30}
+          maxOpacity={0.1}
+          duration={3}
+          repeatDelay={1}
+          className={cn(
+            "[mask-image:radial-gradient(500px_circle_at_center,white,transparent)]",
+            "inset-x-0 inset-y-[-30%] h-[200%] skew-y-12 -z-10"
+          )}
+        />
       </header>
 
-      {/* sample section */}
-      <section className="mx-auto container px-4 py-12 text-slate-800">
-        <div className="mb-8 flex flex-col items-start justify-between gap-4 md:flex-row md:items-end md:px-8">
-          <h2 className="max-w-lg text-4xl font-bold md:text-5xl">
-            Analytics with
-            <span className="text-slate-400"> intelligent insights</span>
-          </h2>
-          <motion.button
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            className="whitespace-nowrap rounded-lg bg-slate-900 px-4 py-2 font-medium text-white shadow-xl transition-colors hover:bg-slate-700"
-          >
-            View Features
-          </motion.button>
+      {/* features section */}
+      <section id="features" className="py-32 relative overflow-hidden">
+        {/* Background elements */}
+        <div className="absolute inset-0 bg-grid-white/[0.02]" />
+        <div className="absolute inset-0">
+          <div className="absolute top-0 left-1/3 w-[500px] h-[500px] bg-primary/10 rounded-full blur-3xl" />
+          <div className="absolute bottom-0 right-1/3 w-[500px] h-[500px] bg-secondary/10 rounded-full blur-3xl" />
         </div>
-        <div className="mb-4 grid grid-cols-12 gap-4">
-          <BounceCard className="col-span-12 md:col-span-4">
-            <h3 className="text-3xl font-extrabold">Real-Time Monitoring</h3>
 
-            <p className="text-sm text-slate-600">
-              Monitor viewer engagement and channel performance in real time,
-              enabling quick decision-making and adjustments.
-            </p>
-            <div className="absolute bottom-0 left-4 right-4 top-32 translate-y-8 rounded-t-2xl bg-gradient-to-br from-violet-400 to-indigo-400 p-4 transition-transform duration-[250ms] group-hover:translate-y-4 group-hover:rotate-[2deg]">
-              <div className="flex h-full flex-col items-center justify-center">
-                <span className="text-center text-lg font-bold text-white">
-                  Live Viewership Analytics
-                </span>
-                <p className="mt-2 text-center text-base text-white/80">
-                  Track audience behavior and engagement metrics as they happen.
-                </p>
-              </div>
-            </div>
-          </BounceCard>
-          <BounceCard className="col-span-12 md:col-span-8">
-            <h3 className="text-3xl font-extrabold">Audience Insights</h3>
+        <div className="container mx-auto px-6 relative">
+          <div className="text-center space-y-4 mb-16">
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.5 }}
+              className="flex justify-center"
+            >
+              <Badge
+                variant="outline"
+                className="px-4 py-2 text-sm font-medium border-primary/20 bg-background/50"
+              >
+                <Sparkles className="w-4 h-4 mr-2 text-primary" />
+                Powerful Features
+              </Badge>
+            </motion.div>
 
-            <p className="text-sm text-slate-600">
-              Deep dive into demographic and behavioral patterns of your
-              audience to inform content strategy and engagement.
-            </p>
-            <div className="absolute bottom-0 left-4 right-4 top-32 translate-y-8 rounded-t-2xl bg-gradient-to-br from-amber-400 to-orange-400 p-4 transition-transform duration-[250ms] group-hover:translate-y-4 group-hover:rotate-[2deg]">
-              <div className="flex h-full flex-col items-center justify-center">
-                <span className="text-center text-lg font-bold text-white">
-                  Demographics & Segmentation
-                </span>
-                <p className="mt-2 text-center text-base text-white/80">
-                  Gain insights into viewer profiles and behavior patterns for
-                  targeted strategies.
-                </p>
-              </div>
+            <motion.h2
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.5, delay: 0.1 }}
+              className="text-4xl font-bold leading-tight"
+            >
+              Advanced Analytics
+              <span className="block text-5xl mt-2 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+                Made Simple
+              </span>
+            </motion.h2>
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            {/* Interactive Feature Cards */}
+            <div className="space-y-6">
+              {features.map((feature, index) => (
+                <motion.div
+                  key={index}
+                  initial={{ opacity: 0, x: -20 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ duration: 0.5, delay: index * 0.1 }}
+                >
+                  <Card
+                    className={cn(
+                      "relative cursor-pointer transition-all duration-300",
+                      activeFeature === index
+                        ? "bg-primary/10 border-primary/20"
+                        : "bg-background/50 border-primary/10 hover:bg-primary/5"
+                    )}
+                    onClick={() => setActiveFeature(index)}
+                  >
+                    <CardContent className="p-6">
+                      <div className="flex items-center gap-4">
+                        <div
+                          className={cn(
+                            "p-3 rounded-lg transition-colors",
+                            activeFeature === index
+                              ? "bg-primary/20"
+                              : "bg-primary/10"
+                          )}
+                        >
+                          {React.createElement(feature.icon, {
+                            className: "w-6 h-6 text-primary",
+                          })}
+                        </div>
+                        <div className="flex-1">
+                          <h3 className="text-xl font-semibold mb-1">
+                            {feature.title}
+                          </h3>
+                          <p className="text-sm text-muted-foreground">
+                            {feature.description}
+                          </p>
+                        </div>
+                        <ArrowRight
+                          className={cn(
+                            "w-5 h-5 transition-transform",
+                            activeFeature === index ? "rotate-90" : ""
+                          )}
+                        />
+                      </div>
+                    </CardContent>
+                  </Card>
+                </motion.div>
+              ))}
             </div>
-          </BounceCard>
+
+            {/* Stats Display */}
+            <motion.div
+              initial={{ opacity: 0, scale: 0.95 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 0.5 }}
+              className="relative"
+            >
+              <div className="absolute -inset-4 bg-gradient-to-br from-primary/20 via-secondary/20 to-primary/20 blur-3xl rounded-full" />
+
+              <Card className="relative bg-background/50 backdrop-blur-sm border-primary/10">
+                <CardContent className="p-8">
+                  <motion.div
+                    key={activeFeature}
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.3 }}
+                    className="space-y-6"
+                  >
+                    <div className="flex items-center gap-4">
+                      <div className="p-3 rounded-lg bg-primary/10">
+                        <ActiveFeatureIcon className="w-6 h-6 text-primary" />
+                      </div>
+                      <h3 className="text-2xl font-bold">
+                        {features[activeFeature].title}
+                      </h3>
+                    </div>
+
+                    <p className="text-muted-foreground">
+                      {features[activeFeature].description}
+                    </p>
+
+                    <div className="grid grid-cols-3 gap-4">
+                      {features[activeFeature].stats.map((stat, index) => (
+                        <div
+                          key={index}
+                          className="p-4 rounded-lg bg-primary/5 border border-primary/10"
+                        >
+                          <div className="text-2xl font-bold text-primary">
+                            {stat.value}
+                          </div>
+                          <div className="text-sm text-muted-foreground">
+                            {stat.label}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+
+                    <Button className="w-full group">
+                      Learn More
+                      <ArrowRight className="w-4 h-4 ml-2 transition-transform group-hover:translate-x-1" />
+                    </Button>
+                  </motion.div>
+                </CardContent>
+              </Card>
+            </motion.div>
+          </div>
         </div>
-        <div className="grid grid-cols-12 gap-4">
-          <BounceCard className="col-span-12 md:col-span-8">
-            <h3 className="text-3xl font-extrabold">Content Performance</h3>
 
-            <p className="text-sm text-slate-600">
-              Evaluate the effectiveness of your content strategy with detailed
-              performance metrics across platforms.
-            </p>
-            <div className="absolute bottom-0 left-4 right-4 top-32 translate-y-8 rounded-t-2xl bg-gradient-to-br from-green-400 to-emerald-400 p-4 transition-transform duration-[250ms] group-hover:translate-y-4 group-hover:rotate-[2deg]">
-              <div className="flex h-full flex-col items-center justify-center">
-                <span className="text-center text-lg font-bold text-white">
-                  Content Analytics
-                </span>
-                <p className="mt-2 text-center text-base text-white/80">
-                  Analyze how different types of content resonate with your
-                  audience to optimize future campaigns.
-                </p>
-              </div>
-            </div>
-          </BounceCard>
-          <BounceCard className="col-span-12 md:col-span-4">
-            <h3 className="text-3xl font-extrabold">AI-Powered Insights</h3>
+        <AnimatedGridPattern
+          numSquares={30}
+          maxOpacity={0.1}
+          duration={3}
+          repeatDelay={1}
+          className={cn(
+            "[mask-image:radial-gradient(500px_circle_at_center,white,transparent)]",
+            "inset-x-0 inset-y-[-30%] h-[200%] skew-y-12 -z-10"
+          )}
+        />
+      </section>
 
-            <p className="text-sm text-slate-600">
-              Leverage AI and machine learning to predict trends and optimize
-              your content strategy for maximum impact.
-            </p>
-            <div className="absolute bottom-0 left-4 right-4 top-32 translate-y-8 rounded-t-2xl bg-gradient-to-br from-pink-400 to-red-400 p-4 transition-transform duration-[250ms] group-hover:translate-y-4 group-hover:rotate-[2deg]">
-              <div className="flex h-full flex-col items-center justify-center">
-                <span className="text-center text-lg font-bold text-white">
-                  Predictive Analytics
-                </span>
-                <p className="mt-2 text-center text-base text-white/80">
-                  Get actionable insights to drive audience growth and content
-                  optimization.
-                </p>
-              </div>
-            </div>
-          </BounceCard>
+      <section id="solutions" className="py-32 relative overflow-hidden">
+        {/* Background elements */}
+        <div className="absolute inset-0 bg-grid-white/[0.02]" />
+        <div className="absolute inset-0">
+          <div className="absolute top-0 right-1/4 w-[500px] h-[500px] bg-primary/10 rounded-full blur-3xl" />
+          <div className="absolute bottom-0 left-1/4 w-[500px] h-[500px] bg-secondary/10 rounded-full blur-3xl" />
         </div>
+
+        <div className="container mx-auto px-6 relative">
+          <div className="text-center space-y-4 mb-16">
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.5 }}
+              className="flex justify-center"
+            >
+              <Badge
+                variant="outline"
+                className="px-4 py-2 text-sm font-medium border-primary/20 bg-background/50"
+              >
+                <BarChart2 className="w-4 h-4 mr-2 text-primary" />
+                Tailored Solutions
+              </Badge>
+            </motion.div>
+
+            <motion.h2
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.5, delay: 0.1 }}
+              className="text-4xl font-bold leading-tight"
+            >
+              Powerful Solutions for
+              <span className="block text-5xl mt-2 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+                Every Industry
+              </span>
+            </motion.h2>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {solutions.map((solution, index) => (
+              <motion.div
+                key={index}
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.5, delay: index * 0.1 }}
+              >
+                <Card className="relative h-full bg-background/50 backdrop-blur-sm border-primary/10 overflow-hidden group">
+                  <CardContent className="p-6 space-y-4">
+                    <div className="p-3 rounded-lg bg-primary/10 w-fit">
+                      <solution.icon className="w-6 h-6 text-primary" />
+                    </div>
+
+                    <h3 className="text-2xl font-bold">{solution.title}</h3>
+                    <p className="text-muted-foreground">
+                      {solution.description}
+                    </p>
+
+                    <ul className="space-y-2">
+                      {solution.features.map((feature, fIndex) => (
+                        <li key={fIndex} className="flex items-center gap-2">
+                          <div className="w-1.5 h-1.5 rounded-full bg-primary" />
+                          <span className="text-sm text-muted-foreground">
+                            {feature}
+                          </span>
+                        </li>
+                      ))}
+                    </ul>
+
+                    {/* <Button className="mt-4 w-full group" variant="outline">
+                      Learn More
+                      <ArrowRight className="w-4 h-4 ml-2 transition-transform group-hover:translate-x-1" />
+                    </Button> */}
+
+                    {/* <div
+                      className={`absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r ${solution.gradient} transform origin-left scale-x-0 transition-transform group-hover:scale-x-100`}
+                    /> */}
+                  </CardContent>
+                </Card>
+              </motion.div>
+            ))}
+          </div>
+        </div>
+
+        <AnimatedGridPattern
+          numSquares={30}
+          maxOpacity={0.1}
+          duration={3}
+          repeatDelay={1}
+          className={cn(
+            "[mask-image:radial-gradient(500px_circle_at_center,white,transparent)]",
+            "inset-x-0 inset-y-[-30%] h-[200%] skew-y-12 -z-10"
+          )}
+        />
       </section>
 
       {/* PeopleMeter Section */}
@@ -330,7 +586,7 @@ const LandingPage = () => {
                   <motion.div
                     key={index}
                     whileHover={{ scale: 1.05 }}
-                    className="relative p-6 rounded-xl bg-gradient-to-br from-background/80 to-background/40 border border-primary/10 backdrop-blur-sm group"
+                    className="relative p-6 rounded-lg bg-gradient-to-br from-background/80 to-background/40 border border-primary/10 backdrop-blur-sm group"
                   >
                     <div className="flex items-start space-x-4">
                       <div className="p-3 rounded-lg bg-primary/10 group-hover:bg-primary/20 transition-colors">
@@ -446,7 +702,7 @@ const LandingPage = () => {
       </section>
 
       {/* CTA Section */}
-      <section className="py-24 relative overflow-hidden">
+      <section className="py-24 relative overflow-hidden" id="contact">
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
@@ -526,7 +782,7 @@ const LandingPage = () => {
                     <motion.div
                       key={index}
                       whileHover={{ scale: 1.05 }}
-                      className="relative p-6 rounded-xl bg-gradient-to-br from-background/80 to-background/40 border border-primary/10 backdrop-blur-sm"
+                      className="relative p-6 rounded-lg bg-gradient-to-br from-background/80 to-background/40 border border-primary/10 backdrop-blur-sm"
                     >
                       <div className="flex flex-col items-center space-y-3">
                         <div className="p-3 rounded-lg bg-primary/10">
@@ -548,7 +804,7 @@ const LandingPage = () => {
                   className="text-xl text-muted-foreground"
                 >
                   Join the leading broadcasters and advertisers who are making
-                  data-driven decisions with REX Analytics.
+                  data-driven decisions with Indi-Visual Analytics.
                 </motion.p>
 
                 <motion.div
@@ -583,7 +839,9 @@ const LandingPage = () => {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
             <div className="space-y-4">
               <div className="flex items-center gap-2">
-                <img src="/images/logo.png" alt="logo" className="h-24" />
+                <h1 className="text-primary font-extrabold text-2xl">
+                  INDI-VISUAL
+                </h1>
               </div>
               <p className="text-muted-foreground">
                 Leading the future of TV analytics and audience measurement.
@@ -621,7 +879,7 @@ const LandingPage = () => {
             ))}
           </div>
           <div className="border-t border-border mt-16 pt-8 text-center text-muted-foreground">
-            <p>&copy; 2024 REX Analytics. All rights reserved.</p>
+            <p>&copy; 2024 INDI-VISUAL. All rights reserved.</p>
           </div>
         </div>
       </footer>
