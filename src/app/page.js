@@ -34,98 +34,102 @@ import AnimatedShinyText from "@/components/ui/animated-shiny-text";
 
 
 const LandingPage = () => {
-    const [activeFeature, setActiveFeature] = useState(0);
+  const [activeFeature, setActiveFeature] = useState(0);
 
-    const features = [
-      {
-        icon: Brain,
-        title: "AI-Powered Analytics",
-        description:
-          "Advanced machine learning algorithms process viewer behavior patterns and predict content performance with unprecedented accuracy.",
-        stats: [
-          { label: "Prediction Accuracy", value: "96%" },
-          { label: "Data Points", value: "1M+" },
-          { label: "Processing Time", value: "<1s" },
-        ],
-        gradient: "from-violet-500 to-purple-500",
-      },
-      {
-        icon: Globe,
-        title: "Real-Time Monitoring",
-        description:
-          "Track audience engagement across multiple channels simultaneously with live updates and instant notifications.",
-        stats: [
-          { label: "Update Frequency", value: "Live" },
-          { label: "Channel Support", value: "50+" },
-          { label: "Data Lag", value: "<2ms" },
-        ],
-        gradient: "from-blue-500 to-cyan-500",
-      },
-      {
-        icon: Users,
-        title: "Audience Insights",
-        description:
-          "Deep dive into demographic data and viewer preferences to optimize content strategy and targeting.",
-        stats: [
-          { label: "Demographics", value: "25+" },
-          { label: "Segments", value: "100+" },
-          { label: "Accuracy", value: "99%" },
-        ],
-        gradient: "from-orange-500 to-red-500",
-      },
-      {
-        icon: Activity,
-        title: "Performance Metrics",
-        description:
-          "Comprehensive analytics dashboard with customizable KPIs and automated reporting capabilities.",
-        stats: [
-          { label: "Metrics", value: "200+" },
-          { label: "Reports", value: "50+" },
-          { label: "Templates", value: "30+" },
-        ],
-        gradient: "from-green-500 to-emerald-500",
-      },
-    ];
-  
-   const ActiveFeatureIcon = features[activeFeature].icon;
+  // Add these stats arrays at the top of your component, outside of the JSX
+  const surveyStats = [
+    { label: "Questions", value: "15+" },
+    { label: "Time", value: "5 min" },
+    { label: "Topics", value: "5" },
+    { label: "Reward", value: "Yes" },
+  ];
+
+  const features = [
+    {
+      icon: Brain,
+      title: "AI-Powered Analytics",
+      description:
+        "Advanced machine learning algorithms process viewer behavior patterns and predict content performance with unprecedented accuracy.",
+      stats: [
+        { label: "Prediction Accuracy", value: "96%" },
+        { label: "Data Points", value: "1M+" },
+        { label: "Processing Time", value: "<1s" },
+      ],
+      gradient: "from-violet-500 to-purple-500",
+    },
+    {
+      icon: Globe,
+      title: "Real-Time Monitoring",
+      description:
+        "Track audience engagement across multiple channels simultaneously with live updates and instant notifications.",
+      stats: [
+        { label: "Update Frequency", value: "Live" },
+        { label: "Channel Support", value: "50+" },
+        { label: "Data Lag", value: "<2ms" },
+      ],
+      gradient: "from-blue-500 to-cyan-500",
+    },
+    {
+      icon: Users,
+      title: "Audience Insights",
+      description:
+        "Deep dive into demographic data and viewer preferences to optimize content strategy and targeting.",
+      stats: [
+        { label: "Demographics", value: "25+" },
+        { label: "Segments", value: "100+" },
+        { label: "Accuracy", value: "99%" },
+      ],
+      gradient: "from-orange-500 to-red-500",
+    },
+    {
+      icon: Activity,
+      title: "Performance Metrics",
+      description:
+        "Comprehensive analytics dashboard with customizable KPIs and automated reporting capabilities.",
+      stats: [
+        { label: "Metrics", value: "200+" },
+        { label: "Reports", value: "50+" },
+        { label: "Templates", value: "30+" },
+      ],
+      gradient: "from-green-500 to-emerald-500",
+    },
+  ];
+
+  const ActiveFeatureIcon = features[activeFeature].icon;
 
   const texts = ["Broadcasters", "Advertisers", "Brand"];
 
-    const solutions = [
-      {
-        icon: Tv,
-        title: "Broadcasters",
-        description:
-          "Real-time audience measurement and content performance analytics for TV networks and streaming platforms",
-        features: [
-          "Viewer Demographics",
-          "Content Performance",
-          "Ad Impact Analysis",
-        ],
-        gradient: "from-blue-400 to-indigo-400",
-      },
-      {
-        icon: Target,
-        title: "Advertisers",
-        description:
-          "Optimize campaign performance with precise targeting and measurement across all broadcasting channels",
-        features: [
-          "Campaign Analytics",
-          "Audience Targeting",
-          "ROI Measurement",
-        ],
-        gradient: "from-orange-400 to-red-400",
-      },
-      {
-        icon: PieChart,
-        title: "Brands",
-        description:
-          "Track brand visibility and audience engagement across multiple broadcasting channels",
-        features: ["Brand Impact", "Audience Insights", "Competition Analysis"],
-        gradient: "from-green-400 to-emerald-400",
-      },
-    ];  
-  
+  const solutions = [
+    {
+      icon: Tv,
+      title: "Broadcasters",
+      description:
+        "Real-time audience measurement and content performance analytics for TV networks and streaming platforms",
+      features: [
+        "Viewer Demographics",
+        "Content Performance",
+        "Ad Impact Analysis",
+      ],
+      gradient: "from-blue-400 to-indigo-400",
+    },
+    {
+      icon: Target,
+      title: "Advertisers",
+      description:
+        "Optimize campaign performance with precise targeting and measurement across all broadcasting channels",
+      features: ["Campaign Analytics", "Audience Targeting", "ROI Measurement"],
+      gradient: "from-orange-400 to-red-400",
+    },
+    {
+      icon: PieChart,
+      title: "Brands",
+      description:
+        "Track brand visibility and audience engagement across multiple broadcasting channels",
+      features: ["Brand Impact", "Audience Insights", "Competition Analysis"],
+      gradient: "from-green-400 to-emerald-400",
+    },
+  ];
+
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
@@ -139,7 +143,6 @@ const LandingPage = () => {
           <div className="flex items-center justify-between">
             <div className="text-2xl font-bold text-primary flex items-center gap-2">
               <img src="/images/indivisual.svg" alt="logo" className="h-12" />
-              
             </div>
             <div className="hidden md:flex space-x-8">
               <a
@@ -486,6 +489,110 @@ const LandingPage = () => {
               </motion.div>
             ))}
           </div>
+        </div>
+
+        <AnimatedGridPattern
+          numSquares={30}
+          maxOpacity={0.1}
+          duration={3}
+          repeatDelay={1}
+          className={cn(
+            "[mask-image:radial-gradient(500px_circle_at_center,white,transparent)]",
+            "inset-x-0 inset-y-[-30%] h-[200%] skew-y-12 -z-10"
+          )}
+        />
+      </section>
+
+      {/* Survey Section */}
+      <section className="py-32 relative overflow-hidden">
+        {/* Background elements */}
+        <div className="absolute inset-0 bg-grid-white/[0.02]" />
+        <div className="absolute inset-0">
+          <div className="absolute top-0 right-1/3 w-[500px] h-[500px] bg-primary/10 rounded-full blur-3xl" />
+          <div className="absolute bottom-0 left-1/3 w-[500px] h-[500px] bg-secondary/10 rounded-full blur-3xl" />
+        </div>
+
+        <div className="container mx-auto px-6 relative">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.5 }}
+            className="max-w-3xl mx-auto text-center space-y-8"
+          >
+            <Badge
+              variant="outline"
+              className="px-4 py-2 text-sm font-medium border-primary/20 bg-background/50"
+            >
+              <Radio className="w-4 h-4 mr-2 text-primary" />
+              Analytics Survey
+            </Badge>
+
+            <h2 className="text-4xl font-bold leading-tight">
+              Help Shape the Future of
+              <span className="block text-5xl mt-2 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+                Broadcasting Analytics
+              </span>
+            </h2>
+
+            <p className="text-xl text-muted-foreground">
+              Your insights are valuable to us. Take our quick survey and help
+              us improve our services.
+            </p>
+
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.5, delay: 0.2 }}
+              className="pt-8"
+            >
+              <Card className="relative bg-background/50 backdrop-blur-sm border-primary/10">
+                <CardContent className="p-6">
+                  <div className="space-y-4">
+                    <div className="p-4 rounded-lg bg-primary/5 border border-primary/10">
+                      <div className="flex items-center justify-between">
+                        <div className="space-y-1">
+                          <h3 className="font-semibold text-lg">
+                            Broadcasting Industry Survey
+                          </h3>
+                          <p className="text-sm text-muted-foreground">
+                            Estimated time: 5 minutes
+                          </p>
+                        </div>
+                        <div className="p-3 rounded-full bg-primary/10">
+                          <Radio className="w-5 h-5 text-primary" />
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* <div className="grid grid-cols-2 gap-4 py-4">
+                        {surveyStats?.map((stat, index) => (
+                          <div
+                            key={index}
+                            className="p-3 rounded-lg bg-primary/5 text-center"
+                          >
+                            <div className="text-primary font-bold">
+                              {stat.value}
+                            </div>
+                            <div className="text-sm text-muted-foreground">
+                              {stat.label}
+                            </div>
+                          </div>
+                        ))}
+                      </div> */}
+
+                    <a href="/survey">
+                      <Button className="w-full group">
+                        Take Survey
+                        <ArrowRight className="w-4 h-4 ml-2 transition-transform group-hover:translate-x-1" />
+                      </Button>
+                    </a>
+                  </div>
+                </CardContent>
+              </Card>
+            </motion.div>
+          </motion.div>
         </div>
 
         <AnimatedGridPattern
