@@ -35,14 +35,15 @@ export const tv_broad_reports = [
     subpage: "broadcasters",
     slug: "competitive-landscape",
   },
+
   {
     id: 5,
-    image: "/images/channel-specific-reports.png",
-    title: "Channel Specific Reports",
+    image: "/images/program-grid.png",
+    title: "Program Grids",
     lastUpdated: "May 10, 2024",
     page: "tv",
     subpage: "broadcasters",
-    slug: "channel-specific-reports",
+    slug: "program-grid",
   },
   {
     id: 6,
@@ -52,6 +53,15 @@ export const tv_broad_reports = [
     page: "tv",
     subpage: "broadcasters",
     slug: "language-specific-reports",
+  },
+  {
+    id: 7,
+    image: "/images/channel-specific-reports.png",
+    title: "Channel Specific Reports",
+    lastUpdated: "May 10, 2024",
+    page: "tv",
+    subpage: "broadcasters",
+    slug: "channel-specific-reports",
   },
 ];
 
@@ -76,12 +86,12 @@ export const tv_ads_reports = [
   },
   {
     id: 3,
-    image: "/images.png",
-    title: "Ad Spend Analysis",
+    image: "/images/program-grid.png",
+    title: "Ad Grid Analysis",
     lastUpdated: "April 10, 2024",
     page: "tv",
     subpage: "ads",
-    slug: "ad-spend-analysis",
+    slug: "ad-grid",
   },
   {
     id: 4,
@@ -196,11 +206,86 @@ export const tv_brands_reports = [
   },
 ];
 
+export const radio_broad_reports = [
+  {
+    id: 1,
+    image: "/images/program-grid.png",
+    title: "Program Grid",
+    lastUpdated: "May 1, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "program-grid",
+  },
+  {
+    id: 2,
+    image: "/images/daily-analysis.png",
+    title: "Daily Analysis",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "daily-analysis",
+  },
+  {
+    id: 3,
+    image: "/images/audience-insights-radio.png",
+    title: "Audience Insights",
+    lastUpdated: "May 5, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "audience-insights",
+  },
+];
+
+export const radio_ads_reports = [
+  {
+    id: 1,
+    image: "/images/ad-frequency-radio.png",
+    title: "Ad Frequency Analysis",
+    lastUpdated: "May 10, 2024",
+    page: "radio",
+    subpage: "ads",
+    slug: "ad-frequency-analysis",
+  },
+  {
+    id: 2,
+    image: "/images/prime-time-ads-radio.png",
+    title: "Prime-Time Ad Analysis",
+    lastUpdated: "May 15, 2024",
+    page: "radio",
+    subpage: "ads",
+    slug: "prime-time-ad-analysis",
+  },
+];
+
+export const radio_brands_reports = [
+  {
+    id: 1,
+    image: "/images/brand-engagement-radio.png",
+    title: "Brand Engagement Analysis",
+    lastUpdated: "May 20, 2024",
+    page: "radio",
+    subpage: "brands",
+    slug: "brand-engagement-analysis",
+  },
+  {
+    id: 2,
+    image: "/images/top-performing-brands-radio.png",
+    title: "Top Performing Brands",
+    lastUpdated: "May 25, 2024",
+    page: "radio",
+    subpage: "brands",
+    slug: "top-performing-brands",
+  },
+];
+
 export const getReportBySlug = (slug, type) => {
   const allReports = {
     tv_broad_reports,
     tv_ads_reports,
     tv_brands_reports,
+    radio_broad_reports,
+    radio_ads_reports,
+    radio_brands_reports,
   };
 
   return allReports[type]?.find((report) => report.slug === slug);
