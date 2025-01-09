@@ -26,8 +26,8 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 
-const MIN_HOUR_WIDTH = 75;
-const MAX_HOUR_WIDTH = 500;
+const MIN_HOUR_WIDTH = 275;
+const MAX_HOUR_WIDTH = 4500;
 const TIMELINE_HEIGHT = 60;
 const CHANNEL_HEIGHT = 120;
 const HOURS_IN_DAY = 24;

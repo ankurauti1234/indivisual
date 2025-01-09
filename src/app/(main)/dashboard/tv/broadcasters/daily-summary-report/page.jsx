@@ -620,17 +620,17 @@ const DailySummary = () => {
               <GenderDistributionChart />
             </div>
           </div>
+          
+          {/* Regional Analysis */}
+          <div className="space-y-6">
+            <h3 className="text-xl font-semibold">4. Regional Analysis</h3>
+            <RegionDistributionChart />
+          </div>
 
           {/* Top Programs */}
           <div className="space-y-6">
             <h3 className="text-xl font-semibold">3. Top Programs</h3>
             <TopProgramsChart />
-          </div>
-
-          {/* Regional Analysis */}
-          <div className="space-y-6">
-            <h3 className="text-xl font-semibold">4. Regional Analysis</h3>
-            <RegionDistributionChart />
           </div>
         </div>
       </section>
