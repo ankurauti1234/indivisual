@@ -38,7 +38,7 @@ const colors = {
       total: 115,
     },
     {
-      station: "Capital Radio",
+      station: "Radio Mirchi",
       Automotive: 22,
       FMCG: 15,
       Telecom: 18,
@@ -48,7 +48,7 @@ const colors = {
       total: 120,
     },
     {
-      station: "Wave FM",
+      station: "Red FM",
       Automotive: 28,
       FMCG: 25,
       Telecom: 20,
@@ -58,7 +58,7 @@ const colors = {
       total: 143,
     },
     {
-      station: "Melody 90.4",
+      station: "Big FM",
       Automotive: 35,
       FMCG: 17,
       Telecom: 10,
@@ -68,7 +68,7 @@ const colors = {
       total: 122,
     },
     {
-      station: "Rhythm Radio",
+      station: "Rainbow FM",
       Automotive: 25,
       FMCG: 23,
       Telecom: 16,

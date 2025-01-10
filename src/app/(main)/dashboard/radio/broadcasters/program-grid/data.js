@@ -12,7 +12,9 @@ function createDateTime(hour, minute) {
   return date.toISOString();
 }
 
-export const allPrograms = [
+export const allPrograms =
+  
+  [
   // Channel 1 - Radio Mirchi
   {
     id: "ch1-1a",
@@ -262,7 +264,7 @@ export const allPrograms = [
     channel: "ch1",
   },
   {
-    id: "ch1-ad13",
+    id: "ch1-ad13a",
     title: "Dominos",
     startTime: createDateTime(17, 55),
     endTime: createDateTime(18, 0),
@@ -271,7 +273,7 @@ export const allPrograms = [
     channel: "ch1",
   },
   {
-    id: "ch1-ad13",
+    id: "ch1-ad13b",
     title: "Pantene Ad",
     startTime: createDateTime(18, 0),
     endTime: createDateTime(18, 5),
@@ -299,7 +301,7 @@ export const allPrograms = [
     channel: "ch1",
   },
   {
-    id: "ch1-ad14",
+    id: "ch1-ad14a",
     title: "Domino's Pizza Ad",
     startTime: createDateTime(18, 50),
     endTime: createDateTime(18, 55),
@@ -308,7 +310,7 @@ export const allPrograms = [
     channel: "ch1",
   },
   {
-    id: "ch1-ad14",
+    id: "ch1-ad14b",
     title: "Bata",
     startTime: createDateTime(18, 55),
     endTime: createDateTime(19, 0),

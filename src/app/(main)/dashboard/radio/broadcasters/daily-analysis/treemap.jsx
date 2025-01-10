@@ -29,10 +29,10 @@ const AppleStyleTreemap = () => {
 
   const stations = [
     { id: "1", name: "Radio City FM" },
-    { id: "2", name: "Capital Radio" },
-    { id: "3", name: "Wave FM" },
-    { id: "4", name: "Melody 90.4" },
-    { id: "5", name: "Rhythm Radio" },
+    { id: "2", name: "Radio Mirchi" },
+    { id: "3", name: "Red FM" },
+    { id: "4", name: "Big FM" },
+    { id: "5", name: "Rainbow FM" },
   ];
 
   // Enhanced station data with new colors

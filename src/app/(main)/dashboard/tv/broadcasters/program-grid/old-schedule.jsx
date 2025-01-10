@@ -1,5 +1,5 @@
 "use client";
-import { useState, useRef, useEffect, useMemo } from "react"; 
+import { useState, useRef, useEffect, useMemo } from "react";
 import { Button } from "@/components/ui/button";
 import {
   Clock,
@@ -64,7 +64,7 @@ const getViewershipForTime = (channelId, time) => {
   return viewershipPoint ? viewershipPoint.viewers : 0;
 };
 
-export function TVSchedule() {
+export function OldTVSchedule() {
   const [selectedProgram, setSelectedProgram] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [favorites, setFavorites] = useState([]);
@@ -220,7 +220,13 @@ export function TVSchedule() {
             transform="translate(0 9)"
             className="animate-pulse z-50 -translate-y-8"
           />
-          <text x="8" y="-8" fill="#FF9D23" className="text-xs font-medium" dy=".3em">
+          <text
+            x="8"
+            y="-8"
+            fill="#FF9D23"
+            className="text-xs font-medium"
+            dy=".3em"
+          >
             Peak: {formatViewers(dataPoints.maxViewers)}
           </text>
         </g>
@@ -419,7 +425,7 @@ export function TVSchedule() {
           <div className="w-48 flex-none border-r border-border bg-background/95 backdrop-blur-lg">
             <div
               style={{ height: TIMELINE_HEIGHT }}
-              classNameclassName="border-b border-border"
+              className="border-b border-border"
             />
             {channels.map((channel) => (
               <div
@@ -497,7 +503,7 @@ export function TVSchedule() {
                         return (
                           <div
                             key={program.id}
-                            className={`absolute top-2 bottom-2 rounded-lg shadow-inner cursor-pointer
+                            className={`absolute top-2 bottom-2 rounded-none shadow-inner cursor-pointer
                                 ${
                                   program.type === "ad"
                                     ? "bg-red-500/10 hover:bg-red-500/20 border border-red-500/40 dark:bg-red-500/20 dark:hover:bg-red-500/30 dark:border-red-500/50"
@@ -616,4 +622,4 @@ export function TVSchedule() {
   );
 }
 
-export default TVSchedule;
+export default OldTVSchedule;

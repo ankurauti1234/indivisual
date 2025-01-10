@@ -13,10 +13,10 @@ const RadioAdBarChart = () => {
 
   const data = [
     { station: "Radio City FM", avgAds: 156, color: "#3B82F6" },
-    { station: "Capital Radio", avgAds: 142, color: "#6366F1" },
-    { station: "Wave FM", avgAds: 128, color: "#8B5CF6" },
-    { station: "Melody 90.4", avgAds: 115, color: "#A855F7" },
-    { station: "Rhythm Radio", avgAds: 98, color: "#D946EF" },
+    { station: "Radio Mirchi", avgAds: 142, color: "#6366F1" },
+    { station: "Red FM", avgAds: 128, color: "#8B5CF6" },
+    { station: "Big FM", avgAds: 115, color: "#A855F7" },
+    { station: "Rainbow FM", avgAds: 98, color: "#D946EF" },
   ];
 
   const maxAds = Math.max(...data.map((d) => d.avgAds));
