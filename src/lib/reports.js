@@ -224,16 +224,7 @@ export const radio_broad_reports = [
     page: "radio",
     subpage: "broadcasters",
     slug: "daily-analysis",
-  },
-  {
-    id: 3,
-    image: "/images/audience-insights-radio.png",
-    title: "Audience Insights",
-    lastUpdated: "May 5, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "audience-insights",
-  },
+  }
 ];
 
 export const radio_ads_reports = [
