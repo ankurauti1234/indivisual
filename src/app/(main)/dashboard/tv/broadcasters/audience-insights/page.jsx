@@ -28,6 +28,11 @@ import {
   Download,
 } from "lucide-react";
 import ViewershipMap from "./viwership-map";
+import ChannelFlowSankey from "./channel-flow-sankey";
+import ChannelFlowAnalysis from "./channel-gain-loss";
+import AudienceInsights from "./persona-charts";
+import GrpLineChart from "./break-grp";
+import AvgGrpBarChart from "./grp-bar-chart";
 
 const CHART_COLORS = {
   blue: "#2563eb",
@@ -565,6 +570,15 @@ const AudienceInsightsReport = () => {
           </div>
         </div>
       </section>
+
+      <ChannelFlowSankey />
+      
+      <ChannelFlowAnalysis />
+
+      <AudienceInsights />
+      <GrpLineChart />
+
+      <AvgGrpBarChart/>
 
       {/* Recommendations */}
       <section className="mb-12 bg-card border p-6 rounded-lg shadow">

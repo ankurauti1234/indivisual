@@ -15,7 +15,7 @@ import {
 import { tvdata } from "./radioData";
 import { Input } from "@/components/ui/input";
 
-const MIN_HOUR_WIDTH = 7500;
+const MIN_HOUR_WIDTH = 1000;
 const MAX_HOUR_WIDTH = 10000;
 const TIMELINE_HEIGHT = 60;
 const CHANNEL_HEIGHT = 120;
@@ -30,7 +30,7 @@ export function TVSchedule() {
   const [selectedProgram, setSelectedProgram] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedDate, setSelectedDate] = useState(new Date());
-  const [hourWidth, setHourWidth] = useState(500);
+  const [hourWidth, setHourWidth] = useState(5000);
   const scrollContainerRef = useRef(null);
   const [currentTime, setCurrentTime] = useState(new Date());
 
@@ -77,7 +77,7 @@ export function TVSchedule() {
 
       const oldHourWidth = hourWidth;
       const newHourWidth = Math.min(
-        Math.max(zoomIn ? hourWidth + 30 : hourWidth - 30, MIN_HOUR_WIDTH),
+        Math.max(zoomIn ? hourWidth + 500 : hourWidth - 500, MIN_HOUR_WIDTH),
         MAX_HOUR_WIDTH
       );
 
