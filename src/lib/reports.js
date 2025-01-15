@@ -3,6 +3,8 @@ export const tv_broad_reports = [
     id: 1,
     image: "/images/daily-summary-report.png",
     title: "Daily Summary",
+    description:
+      "Comprehensive daily overview of broadcast performance metrics, including viewership ratings, peak hours, and program performance statistics.",
     lastUpdated: "April 15, 2024",
     page: "tv",
     subpage: "broadcasters",
@@ -12,6 +14,8 @@ export const tv_broad_reports = [
     id: 2,
     image: "/images/audience-insights.png",
     title: "Audience Insights",
+    description:
+      "Detailed analysis of viewer demographics, preferences, viewing patterns, and engagement levels across different time slots and programs.",
     lastUpdated: "April 20, 2024",
     page: "tv",
     subpage: "broadcasters",
@@ -21,6 +25,8 @@ export const tv_broad_reports = [
     id: 3,
     image: "/images/revenue-insights.png",
     title: "Revenue Insights",
+    description:
+      "Financial performance analysis including advertising revenue, sponsorship earnings, and ROI metrics for different programming blocks.",
     lastUpdated: "April 25, 2024",
     page: "tv",
     subpage: "broadcasters",
@@ -30,39 +36,46 @@ export const tv_broad_reports = [
     id: 4,
     image: "/images/competitive-landscape.png",
     title: "Competitive Landscape",
+    description:
+      "Market analysis comparing channel performance against competitors, including share of voice, audience share, and programming strategies.",
     lastUpdated: "May 1, 2024",
     page: "tv",
     subpage: "broadcasters",
     slug: "competitive-landscape",
   },
-
   {
     id: 5,
     image: "/images/program-grid.png",
     title: "Program Grids",
+    description:
+      "Visual representation of programming schedules, including time slots, show durations, and performance metrics for each program block.",
     lastUpdated: "May 10, 2024",
     page: "tv",
     subpage: "broadcasters",
     slug: "program-grid",
   },
-  {
-    id: 6,
-    image: "/images/language-specific-reports.png",
-    title: "Language Specific Reports",
-    lastUpdated: "May 15, 2024",
-    page: "tv",
-    subpage: "broadcasters",
-    slug: "language-specific-reports",
-  },
-  {
-    id: 7,
-    image: "/images/channel-specific-reports.png",
-    title: "Channel Specific Reports",
-    lastUpdated: "May 10, 2024",
-    page: "tv",
-    subpage: "broadcasters",
-    slug: "channel-specific-reports",
-  },
+  // {
+  //   id: 6,
+  //   image: "/images/language-specific-reports.png",
+  //   title: "Language Specific Reports",
+  //   description:
+  //     "Detailed analysis of viewership patterns and program performance across different language segments and regional markets.",
+  //   lastUpdated: "May 15, 2024",
+  //   page: "tv",
+  //   subpage: "broadcasters",
+  //   slug: "language-specific-reports",
+  // },
+  // {
+  //   id: 7,
+  //   image: "/images/channel-specific-reports.png",
+  //   title: "Channel Specific Reports",
+  //   description:
+  //     "Individual channel performance metrics including ratings, audience retention, and revenue generation specific to each channel.",
+  //   lastUpdated: "May 10, 2024",
+  //   page: "tv",
+  //   subpage: "broadcasters",
+  //   slug: "channel-specific-reports",
+  // },
 ];
 
 export const tv_ads_reports = [
@@ -70,6 +83,8 @@ export const tv_ads_reports = [
     id: 1,
     image: "/images/content-performance.png",
     title: "Content Performance",
+    description:
+      "Analysis of the advertising content effectiveness, including the viewer engagement rates, completion rates, and impact metrics.",
     lastUpdated: "April 15, 2024",
     page: "tv",
     subpage: "ads",
@@ -79,6 +94,8 @@ export const tv_ads_reports = [
     id: 2,
     image: "/images/audience-demographics.png",
     title: "Audience Demographics",
+    description:
+      "Detailed breakdown of viewer demographics for different ad campaigns, including age groups, interests, and viewing habits.",
     lastUpdated: "March 31, 2024",
     page: "tv",
     subpage: "ads",
@@ -88,6 +105,8 @@ export const tv_ads_reports = [
     id: 3,
     image: "/images/program-grid.png",
     title: "Ad Grid Analysis",
+    description:
+      "Comprehensive view of ad placement patterns, timing strategies, and performance metrics across different time slots.",
     lastUpdated: "April 10, 2024",
     page: "tv",
     subpage: "ads",
@@ -95,49 +114,59 @@ export const tv_ads_reports = [
   },
   {
     id: 4,
-    image: "/images.png",
-    title: "Ad Placement Trends",
+    image: "/images/adex.png",
+    title: "AdEx",
+    description:
+      "Analysis of GRP and Ad spent.",
     lastUpdated: "April 20, 2024",
     page: "tv",
     subpage: "ads",
-    slug: "ad-placement-trends",
+    slug: "adex",
   },
-  {
-    id: 5,
-    image: "/images.png",
-    title: "Return on Ad Spend (ROAS) Insights",
-    lastUpdated: "April 25, 2024",
-    page: "tv",
-    subpage: "ads",
-    slug: "roas-insights",
-  },
-  {
-    id: 6,
-    image: "/images.png",
-    title: "Ad Frequency Analysis",
-    lastUpdated: "April 30, 2024",
-    page: "tv",
-    subpage: "ads",
-    slug: "ad-frequency-analysis",
-  },
-  {
-    id: 7,
-    image: "/images.png",
-    title: "Ad Engagement Metrics",
-    lastUpdated: "May 5, 2024",
-    page: "tv",
-    subpage: "ads",
-    slug: "ad-engagement-metrics",
-  },
-  {
-    id: 8,
-    image: "/images.png",
-    title: "Prime-Time Ad Analysis",
-    lastUpdated: "May 10, 2024",
-    page: "tv",
-    subpage: "ads",
-    slug: "prime-time-ad-analysis",
-  },
+  // {
+  //   id: 5,
+  //   image: "/images.png",
+  //   title: "Return on Ad Spend (ROAS) Insights",
+  //   description:
+  //     "Detailed financial analysis of advertising campaigns, including cost efficiency, conversion rates, and revenue generation.",
+  //   lastUpdated: "April 25, 2024",
+  //   page: "tv",
+  //   subpage: "ads",
+  //   slug: "roas-insights",
+  // },
+  // {
+  //   id: 6,
+  //   image: "/images.png",
+  //   title: "Ad Frequency Analysis",
+  //   description:
+  //     "Study of ad repetition patterns, optimal frequency levels, and their impact on viewer engagement and brand recall.",
+  //   lastUpdated: "April 30, 2024",
+  //   page: "tv",
+  //   subpage: "ads",
+  //   slug: "ad-frequency-analysis",
+  // },
+  // {
+  //   id: 7,
+  //   image: "/images.png",
+  //   title: "Ad Engagement Metrics",
+  //   description:
+  //     "Comprehensive analysis of viewer interaction with ads, including attention rates, emotional response, and call-to-action effectiveness.",
+  //   lastUpdated: "May 5, 2024",
+  //   page: "tv",
+  //   subpage: "ads",
+  //   slug: "ad-engagement-metrics",
+  // },
+  // {
+  //   id: 8,
+  //   image: "/images.png",
+  //   title: "Prime-Time Ad Analysis",
+  //   description:
+  //     "Focused analysis of advertising performance during peak viewing hours, including audience reach and engagement metrics.",
+  //   lastUpdated: "May 10, 2024",
+  //   page: "tv",
+  //   subpage: "ads",
+  //   slug: "prime-time-ad-analysis",
+  // },
 ];
 
 export const tv_brands_reports = [
@@ -145,6 +174,8 @@ export const tv_brands_reports = [
     id: 1,
     image: "/images/brands.png",
     title: "Top Performing Brands",
+    description:
+      "Analysis of the most successful brands on television, including market presence, audience connection, and advertising effectiveness.",
     lastUpdated: "April 10, 2024",
     page: "tv",
     subpage: "brands",
@@ -154,6 +185,8 @@ export const tv_brands_reports = [
     id: 2,
     image: "/images/brands.png",
     title: "Brand Awareness Trends",
+    description:
+      "Tracking of brand recognition and recall metrics over time, including impact of advertising campaigns on brand visibility.",
     lastUpdated: "April 15, 2024",
     page: "tv",
     subpage: "brands",
@@ -163,6 +196,8 @@ export const tv_brands_reports = [
     id: 3,
     image: "/images/brands.png",
     title: "Brand Recall Metrics",
+    description:
+      "Measurement of audience memory and recognition of brand messages, including effectiveness of different advertising approaches.",
     lastUpdated: "April 20, 2024",
     page: "tv",
     subpage: "brands",
@@ -172,6 +207,8 @@ export const tv_brands_reports = [
     id: 4,
     image: "/images/brands.png",
     title: "Market Share Analysis",
+    description:
+      "Comprehensive review of brand positioning and market share within specific industries, including competitive analysis.",
     lastUpdated: "April 25, 2024",
     page: "tv",
     subpage: "brands",
@@ -181,6 +218,8 @@ export const tv_brands_reports = [
     id: 5,
     image: "/images/brands.png",
     title: "Customer Loyalty Insights",
+    description:
+      "Analysis of brand loyalty patterns, including repeat customer behavior, brand preference trends, and loyalty program effectiveness.",
     lastUpdated: "April 30, 2024",
     page: "tv",
     subpage: "brands",
@@ -190,6 +229,8 @@ export const tv_brands_reports = [
     id: 6,
     image: "/images/brands.png",
     title: "Brand Engagement Analysis",
+    description:
+      "Detailed metrics on how audiences interact with brand content, including social media response and cross-platform engagement.",
     lastUpdated: "May 5, 2024",
     page: "tv",
     subpage: "brands",
@@ -199,6 +240,8 @@ export const tv_brands_reports = [
     id: 7,
     image: "/images/brands.png",
     title: "Emerging Brands Report",
+    description:
+      "Identification and analysis of up-and-coming brands, including growth trajectories and market penetration strategies.",
     lastUpdated: "May 10, 2024",
     page: "tv",
     subpage: "brands",
@@ -211,6 +254,8 @@ export const radio_broad_reports = [
     id: 1,
     image: "/images/program-grid.png",
     title: "Program Grid",
+    description:
+      "Visual breakdown of radio programming schedules, including show timings, audience metrics, and performance analytics.",
     lastUpdated: "May 1, 2024",
     page: "radio",
     subpage: "broadcasters",
@@ -220,11 +265,13 @@ export const radio_broad_reports = [
     id: 2,
     image: "/images/daily-analysis.png",
     title: "Daily Analysis",
+    description:
+      "Daily performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
     lastUpdated: "May 2, 2024",
     page: "radio",
     subpage: "broadcasters",
     slug: "daily-analysis",
-  }
+  },
 ];
 
 export const radio_ads_reports = [
@@ -232,6 +279,8 @@ export const radio_ads_reports = [
     id: 1,
     image: "/images/ad-frequency-radio.png",
     title: "Ad Frequency Analysis",
+    description:
+      "Analysis of radio advertising frequency patterns, including optimal repetition rates and listener response metrics.",
     lastUpdated: "May 10, 2024",
     page: "radio",
     subpage: "ads",
@@ -241,6 +290,8 @@ export const radio_ads_reports = [
     id: 2,
     image: "/images/prime-time-ads-radio.png",
     title: "Prime-Time Ad Analysis",
+    description:
+      "Detailed review of advertising performance during peak radio listening hours, including reach and engagement statistics.",
     lastUpdated: "May 15, 2024",
     page: "radio",
     subpage: "ads",
@@ -253,6 +304,8 @@ export const radio_brands_reports = [
     id: 1,
     image: "/images/brand-engagement-radio.png",
     title: "Brand Engagement Analysis",
+    description:
+      "Measurement of how radio audiences engage with brand messages, including call-to-action response rates and brand recall metrics.",
     lastUpdated: "May 20, 2024",
     page: "radio",
     subpage: "brands",
@@ -262,6 +315,8 @@ export const radio_brands_reports = [
     id: 2,
     image: "/images/top-performing-brands-radio.png",
     title: "Top Performing Brands",
+    description:
+      "Analysis of the most successful brands in radio advertising, including audience reach, engagement levels, and campaign effectiveness.",
     lastUpdated: "May 25, 2024",
     page: "radio",
     subpage: "brands",

@@ -1,54 +1,60 @@
-"use client";
-
+'use client'
 import React from "react";
-import { Card } from "@/components/ui/card";
 import Link from "next/link";
-import { motion } from "framer-motion";
-import { Clock, ArrowRight } from "lucide-react";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { FollowerPointerCard } from "../ui/following-pointer";
 
-const ReportCard = ({ image, title, lastUpdated, page, subpage, slug }) => {
+const TitleComponent = ({
+  title,
+}) => (
+  <div className="flex space-x-2 items-center bg-muted rounded-full border shadow-xl">
+    <p className="text-foreground p-2">Go to {title}</p>
+  </div>
+);
+
+const ReportCard = ({ image, title, lastUpdated, page, subpage, slug, description }) => {
   return (
     <Link
       href={`/dashboard/${page}/${subpage}/${slug}`}
       className="block no-underline group"
     >
-      <motion.div
-        whileHover={{ y: -5 }}
-        transition={{ duration: 0.2, ease: "easeOut" }}
+      <FollowerPointerCard
+        title={
+          <TitleComponent
+            title={title}
+          />
+        }
       >
-        <Card className="overflow-hidden border border-border/50 hover:border-primary/20 hover:shadow-md transition-all duration-300">
-          <div className="relative">
-            {/* Image */}
-            <div
-              className="h-48 bg-cover bg-center"
-              style={{ backgroundImage: `url(${image})` }}
-            />
-
-            {/* Content */}
-            <div className="p-4">
-              <h3 className="text-lg font-semibold text-foreground mb-2 group-hover:text-primary transition-colors duration-300">
-                {title}
-              </h3>
-
-              <div className="flex items-center justify-between text-sm text-muted-foreground">
-                <div className="flex items-center">
-                  <Clock className="w-4 h-4 mr-1.5" />
-                  {lastUpdated}
+        <Card className="p-0 rounded-[2rem]  shadow-[0px_3px_1px_rgba(178,_135,_253,_0.25),_0_1px_2px_rgba(178,_135,_253,_0.2)] hover:-translate-y-4 hover:shadow-[0px_10px_1px_rgba(178,_135,_253,_0.25),_0_10px_20px_rgba(178,_135,_253,_0.2)] transition-all duration-500 border-2 ">
+          <CardContent className="p-0">
+            <div className="flex flex-col gap-2">
+              <div className=" w-full  rounded-lg flex items-center justify-center p-3">
+                <img
+                  src={image}
+                  alt={title}
+                  className="w-full rounded-[1.75rem] h-56 border-2 shadow-inner p-px"
+                />
+              </div>
+              <div className="p-3 space-y-2">
+                <h3 className="text-xl font-bold">{title}</h3>
+                <p className="text-sm ">{description}</p>
+                <div className="flex w-full items-center justify-end">
+                  <p className="text-xs text-muted-foreground bg-accent/50 p-2 rounded-xl w-fit ">
+                    {lastUpdated}
+                  </p>
                 </div>
-
-                <motion.div
-                  className="flex items-center text-primary"
-                  whileHover={{ x: 3 }}
-                  transition={{ duration: 0.2 }}
-                >
-                  <span className="mr-1">View</span>
-                  <ArrowRight className="w-4 h-4" />
-                </motion.div>
               </div>
             </div>
-          </div>
+          </CardContent>
         </Card>
-      </motion.div>
+      </FollowerPointerCard>
     </Link>
   );
 };

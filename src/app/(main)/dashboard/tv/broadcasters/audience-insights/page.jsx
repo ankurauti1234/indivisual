@@ -33,6 +33,7 @@ import ChannelFlowAnalysis from "./channel-gain-loss";
 import AudienceInsights from "./persona-charts";
 import GrpLineChart from "./break-grp";
 import AvgGrpBarChart from "./grp-bar-chart";
+import GRPSunburstChart from "../../ads/adex/sub-brust-grp";
 
 const CHART_COLORS = {
   blue: "#2563eb",
@@ -578,7 +579,9 @@ const AudienceInsightsReport = () => {
       <AudienceInsights />
       <GrpLineChart />
 
-      <AvgGrpBarChart/>
+      <AvgGrpBarChart />
+      
+      {/* <GRPSunburstChart /> */}
 
       {/* Recommendations */}
       <section className="mb-12 bg-card border p-6 rounded-lg shadow">
