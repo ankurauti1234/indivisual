@@ -54,28 +54,28 @@ export const tv_broad_reports = [
     subpage: "broadcasters",
     slug: "program-grid",
   },
-  // {
-  //   id: 6,
-  //   image: "/images/language-specific-reports.png",
-  //   title: "Language Specific Reports",
-  //   description:
-  //     "Detailed analysis of viewership patterns and program performance across different language segments and regional markets.",
-  //   lastUpdated: "May 15, 2024",
-  //   page: "tv",
-  //   subpage: "broadcasters",
-  //   slug: "language-specific-reports",
-  // },
-  // {
-  //   id: 7,
-  //   image: "/images/channel-specific-reports.png",
-  //   title: "Channel Specific Reports",
-  //   description:
-  //     "Individual channel performance metrics including ratings, audience retention, and revenue generation specific to each channel.",
-  //   lastUpdated: "May 10, 2024",
-  //   page: "tv",
-  //   subpage: "broadcasters",
-  //   slug: "channel-specific-reports",
-  // },
+  {
+    id: 6,
+    image: "/images/audience-flow.png",
+    title: "Audience Flow",
+    description:
+      "Detailed analysis of the viewership patterns, personas and ttop channels performance based on audience and channel data and metrics.",
+    lastUpdated: "May 15, 2024",
+    page: "tv",
+    subpage: "broadcasters",
+    slug: "audience-flow",
+  },
+  {
+    id: 7,
+    image: "/images/ad-spend.png",
+    title: "AD spend Reports",
+    description:
+      "Individual channel performance metrics including ratings, audience retention, and revenue generation specific to each channel based on AD spend.",
+    lastUpdated: "May 10, 2024",
+    page: "tv",
+    subpage: "broadcasters",
+    slug: "ad-spend",
+  },
 ];
 
 export const tv_ads_reports = [

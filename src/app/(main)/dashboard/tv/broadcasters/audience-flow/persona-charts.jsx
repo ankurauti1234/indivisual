@@ -23,6 +23,8 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import ChartCard from "@/components/card/charts-card";
+import { BarChart2 } from "lucide-react";
 
 // Persona descriptions
 const personaDescriptions = {
@@ -63,15 +65,12 @@ const ChannelTimeSpentChart = () => {
   const timeSpentData = generateTimeSpentData(selectedPersona, selectedGenre);
 
   return (
-    <Card className="w-full">
-      <CardHeader>
-        <CardTitle>Time Spent on Channels</CardTitle>
-        <CardDescription>
-          View time spent on channels based on the selected persona and genre.
-        </CardDescription>
-      </CardHeader>
-      <CardContent>
-        <div className="grid grid-cols-2 gap-4 mb-6">
+    <ChartCard
+      icon={<BarChart2 className="w-6 h-6" />}
+      title="Time Spent on Channels"
+      description="View time spent on channels based on the selected persona and genre."
+      action={
+        <div className="grid grid-cols-2 gap-4">
           <div>
             <p className="text-sm font-medium mb-2">Select Persona</p>
             <Select value={selectedPersona} onValueChange={setSelectedPersona}>
@@ -102,12 +101,23 @@ const ChannelTimeSpentChart = () => {
             </Select>
           </div>
         </div>
-
+      }
+      chart={
         <ResponsiveContainer width="100%" height={400}>
           <BarChart data={timeSpentData}>
             <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="name" />
-            <YAxis />
+            <XAxis
+              dataKey="name"
+              tickLine={false}
+              tickMargin={10}
+              axisLine={false}
+            />
+            <YAxis
+              tickLine={false}
+              axisLine={false}
+              tickMargin={8}
+              tickCount={8}
+            />
             <Tooltip />
             <Legend />
             <Bar
@@ -115,81 +125,19 @@ const ChannelTimeSpentChart = () => {
               fill="#8884d8"
               name="Time Spent (mins)"
               label={{ position: "top", fontSize: 14 }}
+              radius={16}
             />
           </BarChart>
         </ResponsiveContainer>
-      </CardContent>
-    </Card>
+      }
+      footer={
+        <p className="text-sm text-gray-500">
+          Data generated dynamically. Updated based on your selection.
+        </p>
+      }
+    />
   );
 };
 
-const PersonaTimeSpentChart = () => {
-  const [selectedChannel, setSelectedChannel] = useState("NTV");
 
-  // Example data (replace with real data fetching logic)
-  const generatePersonaTimeSpentData = (channel) => {
-    const personaData = Object.keys(personaDescriptions).map((persona) => ({
-      name: persona.replace("-", " ").toUpperCase(),
-      timeSpent: Math.floor(Math.random() * 10) + 1, // Random time spent data (in minutes)
-    }));
-
-    return personaData;
-  };
-
-  const personaTimeSpentData = generatePersonaTimeSpentData(selectedChannel);
-
-  return (
-    <Card className="w-full">
-      <CardHeader>
-        <CardTitle>Time Spent by Personas on Channel</CardTitle>
-        <CardDescription>
-          View time spent by personas on the selected channel.
-        </CardDescription>
-      </CardHeader>
-      <CardContent>
-        <div className="mb-6">
-          <p className="text-sm font-medium mb-2">Select Channel</p>
-          <Select value={selectedChannel} onValueChange={setSelectedChannel}>
-            <SelectTrigger>
-              <SelectValue placeholder="Select channel" />
-            </SelectTrigger>
-            <SelectContent>
-              {channels.map((channel) => (
-                <SelectItem key={channel.name} value={channel.name}>
-                  {channel.name}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-        </div>
-
-        <ResponsiveContainer width="100%" height={400}>
-          <BarChart data={personaTimeSpentData}>
-            <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="name" />
-            <YAxis />
-            <Tooltip />
-            <Legend />
-            <Bar
-              dataKey="timeSpent"
-              fill="#82ca9d"
-              name="Time Spent (mins)"
-              label={{ position: "top", fontSize: 14 }}
-            />
-          </BarChart>
-        </ResponsiveContainer>
-      </CardContent>
-    </Card>
-  );
-};
-
-const AudienceInsights = () => {
-  return (
-    <div>
-      <ChannelTimeSpentChart />
-      <PersonaTimeSpentChart />
-    </div>
-  );
-};
-
-export default AudienceInsights;
+export default ChannelTimeSpentChart;

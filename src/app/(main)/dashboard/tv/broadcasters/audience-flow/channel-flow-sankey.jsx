@@ -4,6 +4,8 @@ import { useState } from 'react'
 import { ResponsiveSankey } from '@nivo/sankey'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import ChartCard from '@/components/card/charts-card'
+import { LineChartIcon } from 'lucide-react'
 
 // Import the data
 const personaFlows = {
@@ -513,43 +515,41 @@ export default function TVChannelSankeyChart() {
   const data = transformData(personaFlows[selectedPersona])
 
   return (
-    <Card className="w-full ">
-      <CardHeader>
-        <CardTitle>TV Channel Audience Flow</CardTitle>
-        <CardDescription>
-          Visualizing audience flow across TV channels for various personas
-        </CardDescription>
-      </CardHeader>
-      <CardContent>
-        <div className="mb-4">
-          <Select
-            onValueChange={setSelectedPersona}
-            defaultValue={selectedPersona}
-          >
-            <SelectTrigger className="w-[280px]">
-              <SelectValue placeholder="Select a persona" />
-            </SelectTrigger>
-            <SelectContent>
-              {Object.keys(personaFlows).map((persona) => (
-                <SelectItem key={persona} value={persona}>
-                  {formatPersonaName(persona)}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-        </div>
+    <ChartCard
+      icon={<LineChartIcon className="w-6 h-6" />}
+      title="TV Channel Audience Flow"
+      description="Visualizing audience flow across TV channels for various personas"
+      action={
+        <Select
+          onValueChange={setSelectedPersona}
+          defaultValue={selectedPersona}
+        >
+          <SelectTrigger>
+            <SelectValue placeholder="Select a persona" />
+          </SelectTrigger>
+          <SelectContent>
+            {Object.keys(personaFlows).map((persona) => (
+              <SelectItem key={persona} value={persona}>
+                {formatPersonaName(persona)}
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
+      }
+      chart={
         <div style={{ height: "500px" }}>
           <ResponsiveSankey
             data={data}
             margin={{ top: 40, right: 150, bottom: 40, left: 150 }}
             align="justify"
+            sort="auto"
             colors={(node) => node.color || "#000000"}
-            nodeOpacity={1}
+            nodeOpacity={100}
             nodeThickness={18}
             nodeInnerPadding={3}
             nodeSpacing={24}
             nodeBorderWidth={0}
-            linkOpacity={0.5}
+            linkOpacity={0.75}
             linkHoverOthersOpacity={0.1}
             // enableLinkGradient={true}
             labelPosition="inside"
@@ -601,8 +601,13 @@ export default function TVChannelSankeyChart() {
             )}
           />
         </div>
-      </CardContent>
-    </Card>
+      }
+      footer={
+        <p className="text-sm text-gray-500">
+          Data generated dynamically. Updated based on your selection.
+        </p>
+      }
+    />
   );
 }
 

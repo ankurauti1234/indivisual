@@ -16,6 +16,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import ChartCard from "@/components/card/charts-card";
+import { LineChartIcon } from "lucide-react";
 
 const allChannels = [
   "Kantipur TV",
@@ -79,15 +81,12 @@ const ChannelFlowAnalysis = () => {
   };
 
   return (
-    <Card className="w-full">
-      <CardHeader>
-        <CardTitle>Channel Audience Flow Analysis</CardTitle>
-        <CardDescription>
-          Analyze audience movement between TV channels
-        </CardDescription>
-      </CardHeader>
-      <CardContent>
-        <div className="grid grid-cols-3 gap-4 mb-6">
+      <ChartCard
+      icon={<LineChartIcon className="w-6 h-6" />}
+      title="Channel Audience Flow Analysis"
+      description="Analyze audience movement between TV channels"
+      action={
+       <div className="grid grid-cols-3 gap-4">
           <div>
             <p className="text-sm font-medium mb-2">Source Channel (Loss)</p>
             <Select value={sourceChannel} onValueChange={setSourceChannel}>
@@ -142,7 +141,8 @@ const ChannelFlowAnalysis = () => {
             </Select>
           </div>
         </div>
-
+      }
+      chart={
         <div style={{ height: "400px" }}>
           <ResponsiveSankey
             data={flowData}
@@ -211,8 +211,15 @@ const ChannelFlowAnalysis = () => {
             )}
           />
         </div>
-      </CardContent>
-    </Card>
+      }
+      footer={
+        <p className="text-sm text-gray-500">
+          Data generated dynamically. Updated based on your selection.
+        </p>
+      }
+    />
+
+
   );
 };
 

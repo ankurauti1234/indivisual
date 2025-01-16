@@ -28,13 +28,6 @@ import {
   Download,
 } from "lucide-react";
 import ViewershipMap from "./viwership-map";
-import ChannelFlowSankey from "./channel-flow-sankey";
-import ChannelFlowAnalysis from "./channel-gain-loss";
-import AudienceInsights from "./persona-charts";
-import GrpLineChart from "./break-grp";
-import AvgGrpBarChart from "./grp-bar-chart";
-import GRPSunburstChart from "../../ads/adex/sub-brust-grp";
-
 const CHART_COLORS = {
   blue: "#2563eb",
   green: "#16a34a",
@@ -572,15 +565,8 @@ const AudienceInsightsReport = () => {
         </div>
       </section>
 
-      <ChannelFlowSankey />
-      
-      <ChannelFlowAnalysis />
 
-      <AudienceInsights />
-      <GrpLineChart />
 
-      <AvgGrpBarChart />
-      
       {/* <GRPSunburstChart /> */}
 
       {/* Recommendations */}

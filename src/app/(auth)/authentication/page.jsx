@@ -9,10 +9,10 @@ export default function AuthPage() {
   const [isLogin, setIsLogin] = useState(true);
 
   return (
-    <div className="grid min-h-svh bg-gray-50">
-      <div className="relative grid lg:grid-cols-2">
+    <div className="grid min-h-svh p-2 shadow-lg bg-gray-200">
+      <div className="relative grid lg:grid-cols-2 border-2 rounded-2xl overflow-hidden">
         <motion.div
-          className="flex flex-col gap-6 p-8 md:p-12"
+          className="flex flex-col gap-6 p-8 md:p-12 bg-card"
           animate={{
             order: isLogin ? 0 : 1,
           }}
@@ -47,7 +47,7 @@ export default function AuthPage() {
         </motion.div>
 
         <motion.div
-          className="relative hidden lg:block overflow-hidden shadow-xl"
+          className="relative hidden lg:block overflow-hidden "
           animate={{
             order: isLogin ? 1 : 0,
             // borderRadius: !isLogin ? "0 3rem 3rem 0" : "3rem 0 0 3rem",
@@ -57,7 +57,7 @@ export default function AuthPage() {
           <AnimatePresence mode="wait">
             <motion.div
               key={isLogin ? "login-section" : "register-section"}
-              className="absolute inset-0 h-full w-full bg-gradient-to-br from-primary to-primary/80"
+              className="absolute inset-0 h-full w-full gradient"
               initial={{ x: isLogin ? 100 : -100, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
               exit={{ x: isLogin ? -100 : 100, opacity: 0 }}
@@ -83,7 +83,7 @@ export default function AuthPage() {
                           continue your journey.
                         </p>
                       </div>
-                      <div className="mt-12 space-y-8">
+                      {/* <div className="mt-12 space-y-8">
                         <div className="flex items-start gap-6 group">
                           <Shield className="mt-1 size-8 transition-transform group-hover:scale-110" />
                           <div className="space-y-2">
@@ -107,20 +107,12 @@ export default function AuthPage() {
                             </p>
                           </div>
                         </div>
-                      </div>
+                      </div> */}
                       <div className="mt-auto flex justify-center">
                         <motion.img
-                          src="/images/3.svg"
+                          src="/assets/Idea.svg"
                           alt="Login illustration"
                           className="h-[40vh] w-auto object-contain"
-                          initial={{ scale: 0.95, opacity: 0.8 }}
-                          animate={{ scale: 1, opacity: 1 }}
-                          transition={{
-                            duration: 2,
-                            repeat: Infinity,
-                            repeatType: "reverse",
-                            ease: "easeInOut",
-                          }}
                         />
                       </div>
                     </>
@@ -135,7 +127,7 @@ export default function AuthPage() {
                           community.
                         </p>
                       </div>
-                      <div className="mt-12 space-y-6">
+                      {/* <div className="mt-12 space-y-6">
                         <motion.div
                           className="flex items-center gap-4 group"
                           whileHover={{ x: 10 }}
@@ -166,20 +158,12 @@ export default function AuthPage() {
                             Connect with other members
                           </p>
                         </motion.div>
-                      </div>
+                      </div> */}
                       <div className="mt-auto flex justify-center">
                         <motion.img
-                          src="/images/2.svg"
+                          src="/assets/Meeting.svg"
                           alt="Register illustration"
                           className="h-[40vh] w-auto object-contain"
-                          initial={{ scale: 0.95, opacity: 0.8 }}
-                          animate={{ scale: 1, opacity: 1 }}
-                          transition={{
-                            duration: 2,
-                            repeat: Infinity,
-                            repeatType: "reverse",
-                            ease: "easeInOut",
-                          }}
                         />
                       </div>
                     </>

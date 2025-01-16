@@ -27,7 +27,6 @@ import AnimatedGridPattern from "@/components/ui/animated-grid-pattern";
 import { cn } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
 import MorphingText from "@/components/ui/morphing-text";
-import BounceCard from "@/components/card/BounceCard";
 import { motion } from "framer-motion";
 import AnalyticsCardStack from "@/components/card/AnalyticsCardStack";
 import AnimatedShinyText from "@/components/ui/animated-shiny-text";

@@ -8,24 +8,12 @@ import {
   Tooltip,
   Legend,
   ResponsiveContainer,
-  Text,
+  LabelList,
 } from "recharts";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { LineChart as LineChartIcon } from "lucide-react";
+import ChartCard from "@/components/card/charts-card";
 
-// Channel data (You can replace this with your actual GRP data)
+// Channel data
 const channels = [
   { name: "NTV", color: "#EB5A3C" },
   { name: "Kantipur TV", color: "#0D92F4" },
@@ -71,58 +59,69 @@ const GrpLineChart = () => {
   const [grpData, setGrpData] = useState(generateGrpData());
   const [selectedChannel, setSelectedChannel] = useState("NTV");
 
-  // Handle data filtering or updates based on selected channel (if needed)
   const handleChannelChange = (channel) => {
     setSelectedChannel(channel);
   };
 
   return (
-    <Card className="w-full">
-      <CardHeader>
-        <CardTitle>GRP Analysis Across 4 Breaks</CardTitle>
-        <CardDescription>
-          View GRP of ads across 4 breaks for different TV channels.
-        </CardDescription>
-      </CardHeader>
-      <CardContent>
-        <div className="mb-6">
-          <p className="text-sm font-medium mb-2">Select Channel</p>
-          <Select value={selectedChannel} onValueChange={handleChannelChange}>
-            <SelectTrigger>
-              <SelectValue placeholder="Select channel" />
-            </SelectTrigger>
-            <SelectContent>
-              {channels.map((channel) => (
-                <SelectItem key={channel.name} value={channel.name}>
-                  {channel.name}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-        </div>
-
+    <ChartCard
+      icon={<LineChartIcon className="w-6 h-6" />}
+      title="GRP Analysis Across 4 Breaks"
+      description="View GRP of ads across 4 breaks for different TV channels."
+      chart={
         <ResponsiveContainer width="100%" height={400}>
-          <LineChart data={grpData}>
-            <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="break" />
-            <YAxis />
+          <LineChart
+            data={grpData}
+            margin={{
+              left: 12,
+              right: 12,
+              top: 12,
+            }}
+          >
+            <CartesianGrid vertical={false} />
+            <XAxis
+              dataKey="break"
+              tickLine={false}
+              axisLine={false}
+              tickMargin={8}
+            />
+            <YAxis
+              tickLine={false}
+              axisLine={false}
+              tickMargin={8}
+              tickCount={8}
+            />
+            {/* <YAxis /> */}
             <Tooltip />
             <Legend />
             {channels.map((channel) => (
               <Line
                 key={channel.name}
-                type="monotone"
+                type="linear"
                 dataKey={channel.name}
                 stroke={channel.color}
-                strokeWidth={2}
-                dot={{ r: 4 }}
+                strokeWidth={4}
+                dot={{ r: 6 }}
                 activeDot={{ r: 8 }}
-              />
+              >
+                <LabelList
+                  position="top"
+                  offset={12}
+                  className="fill-foreground"
+                  fontSize={14}
+                  fontWeight={600}
+                />
+              </Line>
             ))}
           </LineChart>
         </ResponsiveContainer>
-      </CardContent>
-    </Card>
+      }
+      footer={
+        <p className="text-sm text-gray-500">
+          Data generated dynamically. Updated based on your selection.
+        </p>
+      }
+    />
   );
 };
 

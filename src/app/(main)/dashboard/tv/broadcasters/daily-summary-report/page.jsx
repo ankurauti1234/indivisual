@@ -8,6 +8,9 @@ import {
   Map,
   BarChartIcon as ChartBar,
   Download,
+  BarChart2,
+  PieChartIcon,
+  LayoutDashboard,
 } from "lucide-react";
 import {
   BarChart,
@@ -25,6 +28,7 @@ import {
   Cell,
   LabelList,
 } from "recharts";
+
 import {
   Card,
   CardContent,
@@ -34,6 +38,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import ChartCard from "@/components/card/charts-card";
 
 const COLORS = {
   primary: "hsl(var(--chart-1))",
@@ -103,46 +108,56 @@ const data = {
     { channel_name: "TV Today HD", gender: "Female", percentage: 47 },
   ],
   regionDistribution: [
-    { channel_name: "NTV", region: "Bagmati", percentage: 30 },
-    { channel_name: "NTV", region: "Gandaki", percentage: 25 },
-    { channel_name: "NTV", region: "Lumbini", percentage: 20 },
-    { channel_name: "NTV", region: "Janakpur", percentage: 15 },
+    { channel_name: "NTV", region: "Bagmati", percentage: 25 },
+    { channel_name: "NTV", region: "Gandaki", percentage: 20 },
+    { channel_name: "NTV", region: "Lumbini", percentage: 15 },
+    { channel_name: "NTV", region: "Janakpur", percentage: 10 },
     { channel_name: "NTV", region: "Karnali", percentage: 10 },
-    { channel_name: "Kantipur TV", region: "Bagmati", percentage: 28 },
-    { channel_name: "Kantipur TV", region: "Gandaki", percentage: 27 },
-    { channel_name: "Kantipur TV", region: "Lumbini", percentage: 22 },
-    { channel_name: "Kantipur TV", region: "Janakpur", percentage: 13 },
+    { channel_name: "NTV", region: "Sudurpashchim", percentage: 10 },
+    { channel_name: "NTV", region: "Madhesh", percentage: 10 },
+
+    { channel_name: "Kantipur TV", region: "Bagmati", percentage: 22 },
+    { channel_name: "Kantipur TV", region: "Gandaki", percentage: 20 },
+    { channel_name: "Kantipur TV", region: "Lumbini", percentage: 18 },
+    { channel_name: "Kantipur TV", region: "Janakpur", percentage: 15 },
     { channel_name: "Kantipur TV", region: "Karnali", percentage: 10 },
-    { channel_name: "AP1 TV", region: "Bagmati", percentage: 26 },
-    { channel_name: "AP1 TV", region: "Gandaki", percentage: 24 },
-    { channel_name: "AP1 TV", region: "Lumbini", percentage: 25 },
+    { channel_name: "Kantipur TV", region: "Sudurpashchim", percentage: 8 },
+    { channel_name: "Kantipur TV", region: "Madhesh", percentage: 7 },
+
+    { channel_name: "AP1 TV", region: "Bagmati", percentage: 24 },
+    { channel_name: "AP1 TV", region: "Gandaki", percentage: 20 },
+    { channel_name: "AP1 TV", region: "Lumbini", percentage: 18 },
     { channel_name: "AP1 TV", region: "Janakpur", percentage: 15 },
     { channel_name: "AP1 TV", region: "Karnali", percentage: 10 },
-    { channel_name: "Himalaya TV", region: "Bagmati", percentage: 29 },
-    { channel_name: "Himalaya TV", region: "Gandaki", percentage: 26 },
-    { channel_name: "Himalaya TV", region: "Lumbini", percentage: 23 },
-    { channel_name: "Himalaya TV", region: "Janakpur", percentage: 12 },
+    { channel_name: "AP1 TV", region: "Sudurpashchim", percentage: 8 },
+    { channel_name: "AP1 TV", region: "Madhesh", percentage: 5 },
+
+    { channel_name: "Himalaya TV", region: "Bagmati", percentage: 25 },
+    { channel_name: "Himalaya TV", region: "Gandaki", percentage: 22 },
+    { channel_name: "Himalaya TV", region: "Lumbini", percentage: 20 },
+    { channel_name: "Himalaya TV", region: "Janakpur", percentage: 13 },
     { channel_name: "Himalaya TV", region: "Karnali", percentage: 10 },
-    { channel_name: "TV Today HD", region: "Bagmati", percentage: 27 },
-    { channel_name: "TV Today HD", region: "Gandaki", percentage: 25 },
-    { channel_name: "TV Today HD", region: "Lumbini", percentage: 24 },
-    { channel_name: "TV Today HD", region: "Janakpur", percentage: 14 },
+    { channel_name: "Himalaya TV", region: "Sudurpashchim", percentage: 6 },
+    { channel_name: "Himalaya TV", region: "Madhesh", percentage: 4 },
+
+    { channel_name: "TV Today HD", region: "Bagmati", percentage: 26 },
+    { channel_name: "TV Today HD", region: "Gandaki", percentage: 22 },
+    { channel_name: "TV Today HD", region: "Lumbini", percentage: 18 },
+    { channel_name: "TV Today HD", region: "Janakpur", percentage: 12 },
     { channel_name: "TV Today HD", region: "Karnali", percentage: 10 },
+    { channel_name: "TV Today HD", region: "Sudurpashchim", percentage: 7 },
+    { channel_name: "TV Today HD", region: "Madhesh", percentage: 5 },
   ],
 };
 
 const TopProgramsChart = () => {
   return (
-    <Card>
-      <CardHeader>
-        <div className="flex items-center gap-2">
-          <Tv className="h-4 w-4" />
-          <CardTitle>Top Programs</CardTitle>
-        </div>
-        <CardDescription>Most watched programs across channels</CardDescription>
-      </CardHeader>
-      <CardContent>
-        <ResponsiveContainer width="100%" height={600}>
+    <ChartCard
+        icon={<BarChart2 className="w-6 h-6" />}
+        title="Top Programs"
+        description="Most watched programs across channels"
+        chart={
+          <ResponsiveContainer width="100%" height={600}>
           <BarChart
             accessibilityLayer
             data={data.topPrograms}
@@ -156,14 +171,14 @@ const TopProgramsChart = () => {
               hide
               dataKey="program_title"
               tickLine={true}
-              axisLine={true}
+                axisLine={true}
             />
             <XAxis type="number" />
             <Tooltip />
             <Bar
               dataKey="viewer_percentage"
               fill={COLORS.primary}
-              radius={[0, 4, 4, 0]}
+              radius={16}
             >
               <LabelList
                 dataKey="program_title"
@@ -183,31 +198,29 @@ const TopProgramsChart = () => {
             </Bar>
           </BarChart>
         </ResponsiveContainer>
-      </CardContent>
-      <CardFooter className="text-sm text-muted-foreground">
-        Showing viewer percentage for top programs
-      </CardFooter>
-    </Card>
+        }
+        footer={
+          <p className="text-sm text-gray-500">
+            Showing viewer percentage for top programs
+          </p>
+        }
+      />
   );
 };
 
 const ChannelRatingsChart = () => {
   return (
-    <Card>
-      <CardHeader>
-        <div className="flex items-center gap-2">
-          <ChartBar className="h-4 w-4" />
-          <CardTitle>Channel Ratings</CardTitle>
-        </div>
-        <CardDescription>Average ratings by channel</CardDescription>
-      </CardHeader>
-      <CardContent>
+    <ChartCard
+      icon={<BarChart2 className="w-6 h-6" />}
+      title="Channel Ratings"
+      description="Average ratings by channel"
+      chart={
         <ResponsiveContainer width="100%" height={400}>
           <BarChart
             data={data.channelRatings}
-            margin={{ top: 20, right: 20, bottom: 40, left: 20 }}
+            margin={16}
           >
-            <CartesianGrid strokeDasharray="3 3" />
+            <CartesianGrid strokeDasharray="3 3" vertical={false} />
             <XAxis
               type="category"
               dataKey="channel_name"
@@ -216,15 +229,15 @@ const ChannelRatingsChart = () => {
             />
             <YAxis
               type="number"
-              tickFormatter={(value) => `${value}%`}
+              tickFormatter={(value) => `${value}`}
               allowDecimals={false}
+              tickLine={false}
+              tickMargin={10}
+              axisLine={false}
+              tickCount={2}
             />
             <Tooltip />
-            <Bar
-              dataKey="average_rating"
-              fill={COLORS.primary}
-              radius={[4, 4, 0, 0]}
-            >
+            <Bar dataKey="average_rating" fill={COLORS.primary} radius={16}>
               <LabelList
                 dataKey="average_rating"
                 position="top"
@@ -234,25 +247,23 @@ const ChannelRatingsChart = () => {
             </Bar>
           </BarChart>
         </ResponsiveContainer>
-      </CardContent>
-      <CardFooter className="text-sm text-muted-foreground">
-        Displaying average rating percentage per channel
-      </CardFooter>
-    </Card>
+      }
+      footer={
+        <p className="text-sm text-gray-500">
+          Displaying average rating percentage per channel
+        </p>
+      }
+    />
   );
 };
 
 const ChannelSharesChart = () => (
-  <Card>
-    <CardHeader>
-      <div className="flex items-center gap-2">
-        <Share2 className="h-4 w-4" />
-        <CardTitle>Channel Shares</CardTitle>
-      </div>
-      <CardDescription>Market share distribution</CardDescription>
-    </CardHeader>
-    <CardContent>
-      <ResponsiveContainer width="100%" height={400}>
+   <ChartCard
+      icon={<PieChartIcon className="w-6 h-6" />}
+      title="Channel Shares"
+      description="Audience share distribution"
+      chart={
+        <ResponsiveContainer width="100%" height={400}>
         <PieChart>
           <Pie
             data={data.channelShares}
@@ -278,11 +289,13 @@ const ChannelSharesChart = () => (
           <Legend />
         </PieChart>
       </ResponsiveContainer>
-    </CardContent>
-    <CardFooter className="text-sm text-muted-foreground">
-      Channel market share percentage distribution
-    </CardFooter>
-  </Card>
+      }
+      footer={
+        <p className="text-sm text-gray-500">
+          Channel audience share percentage distribution
+        </p>
+      }
+    />
 );
 
 const AgeDistributionChart = () => {
@@ -330,17 +343,11 @@ const AgeDistributionChart = () => {
   };
 
   return (
-    <Card className="w-full">
-      <CardHeader>
-        <div className="flex items-center gap-2">
-          <Users className="h-4 w-4" />
-          <CardTitle>Age Distribution Heatmap</CardTitle>
-        </div>
-        <CardDescription>
-          Viewer age demographics across channels
-        </CardDescription>
-      </CardHeader>
-      <CardContent>
+    <ChartCard
+      icon={<LayoutDashboard className="w-6 h-6" />}
+      title="Age Distribution Heatmap"
+      description="Viewer age demographics across channels"
+      chart={
         <div className="w-full overflow-x-auto">
           <div className="min-w-[600px]">
             <div className="grid grid-cols-5 gap-1 mb-2">
@@ -360,7 +367,7 @@ const AgeDistributionChart = () => {
                 {["3-17", "18-29", "30-64", "65+"].map((age) => (
                   <div
                     key={age}
-                    className="p-2 text-center transition-colors duration-200"
+                    className="p-2 text-center transition-colors duration-200 rounded-lg"
                     style={{
                       backgroundColor: getColor(row[age]),
                       color:
@@ -382,17 +389,27 @@ const AgeDistributionChart = () => {
             </div>
           </div>
         </div>
-      </CardContent>
-      <CardFooter className="text-sm text-muted-foreground">
-        Percentage of viewers by age group for each channel
-      </CardFooter>
-    </Card>
+      }
+      footer={
+        <p className="text-sm text-gray-500">
+          Percentage of viewers by age group for each channel
+        </p>
+      }
+    />
   );
 };
 
 const RegionDistributionChart = () => {
   const processData = (data) => {
-    const regions = ["Bagmati", "Gandaki", "Lumbini", "Janakpur", "Karnali"];
+    const regions = [
+      "Bagmati",
+      "Gandaki",
+      "Lumbini",
+      "Janakpur",
+      "Karnali",
+      "Sudurpashchim",
+      "Madhesh",
+    ];
     const channels = [...new Set(data.map((item) => item.channel_name))];
 
     const matrix = channels.map((channel) => {
@@ -434,52 +451,57 @@ const RegionDistributionChart = () => {
   };
 
   return (
-    <Card>
-      <CardHeader>
-        <div className="flex items-center gap-2">
-          <Map className="h-4 w-4" />
-          <CardTitle>Regional Distribution Heatmap</CardTitle>
-        </div>
-        <CardDescription>
-          Viewer distribution by province across channels
-        </CardDescription>
-      </CardHeader>
-      <CardContent>
-        <div className="w-full overflow-x-auto">
+
+       <ChartCard
+      icon={<LayoutDashboard className="w-6 h-6" />}
+      title="Regional Distribution Heatmap"
+      description="Viewer distribution by province across channels"
+      chart={
+       <div className="w-full overflow-x-auto">
           <div className="min-w-[600px]">
-            <div className="grid grid-cols-6 gap-1 mb-2">
+            <div className="grid grid-cols-8 gap-1 mb-2">
               <div className="font-bold p-2">Channel</div>
-              {["Bagmati", "Gandaki", "Lumbini", "Janakpur", "Karnali"].map(
-                (region) => (
-                  <div key={region} className="font-bold p-2 text-center">
-                    {region}
-                  </div>
-                )
-              )}
+              {[
+                "Bagmati",
+                "Gandaki",
+                "Lumbini",
+                "Janakpur",
+                "Karnali",
+                "Sudurpashchim",
+                "Madhesh",
+              ].map((region) => (
+                <div key={region} className="font-bold p-2 text-center">
+                  {region}
+                </div>
+              ))}
             </div>
 
             {matrix.map((row, idx) => (
-              <div key={idx} className="grid grid-cols-6 gap-1 mb-1">
+              <div key={idx} className="grid grid-cols-8 gap-1 mb-1">
                 <div className="py-5 font-medium text-center">
                   {row.channel_name}
                 </div>
-                {["Bagmati", "Gandaki", "Lumbini", "Janakpur", "Karnali"].map(
-                  (region) => (
-                    <div
-                      key={region}
-                      className="p-2 text-center transition-colors duration-200"
-                      style={{
-                        backgroundColor: getColor(row[region]),
-                        color:
-                          row[region] > (max - min) / 2 + min
-                            ? "white"
-                            : "black",
-                      }}
-                    >
-                      {row[region].toFixed(1)}%
-                    </div>
-                  )
-                )}
+                {[
+                  "Bagmati",
+                  "Gandaki",
+                  "Lumbini",
+                  "Janakpur",
+                  "Karnali",
+                  "Sudurpashchim",
+                  "Madhesh",
+                ].map((region) => (
+                  <div
+                    key={region}
+                    className="p-2 text-center transition-colors duration-200"
+                    style={{
+                      backgroundColor: getColor(row[region]),
+                      color:
+                        row[region] > (max - min) / 2 + min ? "white" : "black",
+                    }}
+                  >
+                    {row[region].toFixed(1)}%
+                  </div>
+                ))}
               </div>
             ))}
           </div>
@@ -492,11 +514,14 @@ const RegionDistributionChart = () => {
             </div>
           </div>
         </div>
-      </CardContent>
-      <CardFooter className="text-sm text-muted-foreground">
-        Percentage of viewers by province for each channel
-      </CardFooter>
-    </Card>
+      }
+      footer={
+        <p className="text-sm text-gray-500">
+           Percentage of viewers by province for each channel
+        </p>
+      }
+    />
+
   );
 };
 
@@ -516,39 +541,50 @@ const GenderDistributionChart = () => {
   );
 
   return (
-    <Card>
-      <CardHeader>
-        <div className="flex items-center gap-2">
-          <Users className="h-4 w-4" />
-          <CardTitle>Gender Distribution</CardTitle>
-        </div>
-        <CardDescription>Viewer gender split by channel</CardDescription>
-      </CardHeader>
-      <CardContent>
-        <ResponsiveContainer width="100%" height={400}>
-          <BarChart data={processedData}>
-            <CartesianGrid strokeDasharray="3 3" />
+    <ChartCard
+      icon={<BarChart2 className="w-6 h-6" />}
+      title="Gender Distribution"
+      description="Viewer gender split by channel"
+      chart={
+        <ResponsiveContainer width="100%" height={420}>
+          <BarChart
+            data={processedData}
+            margin={{
+              left: -20,
+              right: 12,
+            }}
+          >
+            <CartesianGrid vertical={false} />
             <XAxis
               dataKey="channel_name"
-              angle={-45}
-              textAnchor="end"
+              // angle={-90}
               height={80}
+              tickLine={false}
+              axisLine={false}
+              tickMargin={8}
             />
-            <YAxis />
+            <YAxis
+              tickLine={false}
+              axisLine={false}
+              tickMargin={8}
+              tickCount={3}
+            />
+
             <Tooltip />
             <Legend />
-            <Bar dataKey="Male" fill={COLORS.primary} />
-            <Bar dataKey="Female" fill={COLORS.secondary} />
+            <Bar dataKey="Male" fill={COLORS.primary} radius={8} />
+            <Bar dataKey="Female" fill={COLORS.secondary} radius={8} />
           </BarChart>
         </ResponsiveContainer>
-      </CardContent>
-      <CardFooter className="text-sm text-muted-foreground">
-        Gender distribution percentage by channel
-      </CardFooter>
-    </Card>
+      }
+      footer={
+        <p className="text-sm text-gray-500">
+          Gender distribution percentage by channel
+        </p>
+      }
+    />
   );
 };
-
 
 const DailySummary = () => {
   return (
@@ -620,7 +656,7 @@ const DailySummary = () => {
               <GenderDistributionChart />
             </div>
           </div>
-          
+
           {/* Regional Analysis */}
           <div className="space-y-6">
             <h3 className="text-xl font-semibold">4. Regional Analysis</h3>
