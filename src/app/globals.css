@@ -28,17 +28,17 @@ body {
     --card-foreground: 252 74% 2%;
     --border: 252 5% 95%;
     --input: 252 5% 95%;
-    --primary: 252 100% 76%;
+    --primary: 253 91% 58%;
     --primary-foreground: 252 100% 16%;
-    --secondary: 72 100% 76%;
+    --secondary: 106.75 100% 80%;
     --secondary-foreground: 72 100% 16%;
-    --accent: 72 100% 76%;
+    --accent: 106.75 100% 80%;
     --accent-foreground: 72 100% 16%;
     --destructive: 14 93% 24%;
     --destructive-foreground: 14 93% 84%;
-    --ring: 252 100% 76%;
+    --ring: 253 91% 58%;
     --chart-1: 220 90% 60%; /* Soft pastel blue */
-    --chart-2: 252 100% 76%; /* Pastel green */
+    --chart-2: 253 91% 58%; /* Pastel green */
     --chart-3: 300 90% 70%; /* Light pastel pink */
     --chart-4: 45 100% 60%; /* Pastel yellow */
     --chart-5: 82 70% 65%; /* Soft lavender */
@@ -57,22 +57,23 @@ body {
     --card-foreground: 252 26% 97%;
     --border: 252 5% 15%;
     --input: 252 5% 15%;
-    --primary: 252 100% 76%;
+    --primary: 253 91% 58%;
     --primary-foreground: 252 100% 16%;
-    --secondary: 72 100% 76%;
+    --secondary: 106.75 100% 80%;
     --secondary-foreground: 72 100% 16%;
-    --accent: 72 100% 76%;
+    --accent: 106.75 100% 80%;
     --accent-foreground: 72 100% 16%;
     --destructive: 14 93% 45%;
     --destructive-foreground: 0 0% 100%;
-    --ring: 252 100% 76%;
+    --ring: 253 91% 58%;
     --chart-1: 220 90% 60%; /* Soft pastel blue */
-    --chart-2: 252 100% 76%; /* Pastel green */
+    --chart-2: 253 91% 58%; /* Pastel green */
     --chart-3: 300 90% 70%; /* Light pastel pink */
     --chart-4: 45 100% 60%; /* Pastel yellow */
     --chart-5: 82 70% 65%; /* Soft lavender */
   }
 }
+
 
 @layer base {
   * {
@@ -84,7 +85,11 @@ body {
 }
 
 .gradient {
-  background: radial-gradient(at 9% 99%, #e7ff88 0px, transparent 50%),
+  background: radial-gradient(at 9% 99%, #87FF65 0px, transparent 50%),
     radial-gradient(at 81% 16%, #9d85ff 0px, transparent 50%),
     radial-gradient(at 83% 84%, #bbabfc 0px, transparent 50%), #e6e9af;
+}
+
+.text-shadow{
+  text-shadow: 2px 2px #87FF6588;
 }

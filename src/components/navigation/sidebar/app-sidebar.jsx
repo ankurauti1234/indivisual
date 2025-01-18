@@ -129,9 +129,9 @@ export function AppSidebar({ ...props }) {
               <a href="/dashboard">
                
                     <img
-                      src="/images/indivisual.svg"
+                      src="/assets/indi.svg"
                       alt="logo"
-                      className="h-10"
+                      className="h-6"
                     />
               </a>
             </SidebarMenuButton>

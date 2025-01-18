@@ -19,15 +19,9 @@ import {
 import { channels, allPrograms } from "./data";
 import viewershipData from "./views";
 import { Input } from "@/components/ui/input";
-import {
-  Tooltip,
-  TooltipContent,
-  TooltipProvider,
-  TooltipTrigger,
-} from "@/components/ui/tooltip";
 
-const MIN_HOUR_WIDTH = 75;
-const MAX_HOUR_WIDTH = 500;
+const MIN_HOUR_WIDTH = 750;
+const MAX_HOUR_WIDTH = 7500;
 const TIMELINE_HEIGHT = 60;
 const CHANNEL_HEIGHT = 120;
 const HOURS_IN_DAY = 24;
@@ -59,23 +53,19 @@ const getViewershipForTime = (channelId, time) => {
   const channel = viewershipData[channelId];
   if (!channel) return 0;
 
-  const timeString = time.toLocaleTimeString("en-US", {
-    hour: "2-digit",
-    minute: "2-digit",
-    hour12: false,
-  });
+  const timeString = time.toTimeString().slice(0, 8);
 
   const viewershipPoint = channel.viewership.find((v) => v.time === timeString);
   return viewershipPoint ? viewershipPoint.viewers : 0;
 };
 
-export function TVSchedule() {
+export function NewTVSchedule() {
   const [selectedProgram, setSelectedProgram] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [favorites, setFavorites] = useState([]);
   const [selectedDate, setSelectedDate] = useState(new Date());
   const [view, setView] = useState("grid");
-  const [hourWidth, setHourWidth] = useState(240);
+  const [hourWidth, setHourWidth] = useState(1500);
   const [hoverInfo, setHoverInfo] = useState(null);
   const scrollContainerRef = useRef(null);
   const now = new Date();
@@ -329,17 +319,8 @@ export function TVSchedule() {
 
   const isLive = (program) => {
     const now = new Date();
-    const start = new Date(
-      `${selectedDate.toDateString()} ${program.startTime}`
-    );
-    const end = new Date(`${selectedDate.toDateString()} ${program.endTime}`);
-
-    // Handle programs that end after midnight
-    if (end < start) {
-      end.setDate(end.getDate() + 1);
-    }
-
-    return now >= start && now <= end;
+    const currentTime = now.toTimeString().split(" ")[0];
+    return currentTime >= program.startTime && currentTime <= program.endTime;
   };
 
   const totalWidth = HOURS_IN_DAY * hourWidth;
@@ -430,6 +411,31 @@ export function TVSchedule() {
     end.setHours(23, 59, 59, 999);
     setTimeRange({ start, end });
   };
+
+  // Helper function to convert time string to Date object
+  const timeStringToDate = (timeString) => {
+    const [hours, minutes] = timeString.split(":").map(Number);
+    const date = new Date(timeRange.start);
+    date.setHours(hours, minutes, 0, 0);
+    return date;
+  };
+
+  // Helper function to calculate position and width
+  const calculateProgramPosition = (program) => {
+    const startTime = timeStringToDate(program.startTime);
+    const endTime = timeStringToDate(program.endTime);
+
+    // Handle programs that span across midnight
+    if (endTime < startTime) {
+      endTime.setDate(endTime.getDate() + 1);
+    }
+
+    const left = ((startTime - timeRange.start) / (1000 * 60 * 60)) * hourWidth;
+    const width = ((endTime - startTime) / (1000 * 60 * 60)) * hourWidth;
+
+    return { left, width };
+  };
+
   return (
     <div className="min-h-[50vh] w-full bg-card text-foreground border overflow-hidden">
       {/* Header */}
@@ -570,34 +576,26 @@ export function TVSchedule() {
                     {filteredPrograms
                       .filter((program) => program.channel === channel.id)
                       .map((program) => {
-                        const start = new Date(
-                          `${selectedDate.toDateString()} ${program.startTime}`
-                        );
-                        const end = new Date(
-                          `${selectedDate.toDateString()} ${program.endTime}`
-                        );
-
-                        // Handle programs that end after midnight
-                        if (end < start) {
-                          end.setDate(end.getDate() + 1);
-                        }
-
+                        const { left, width } =
+                          calculateProgramPosition(program);
                         const isLiveProgram = isLive(program);
 
-                        const left =
-                          ((start - timeRange.start) / (1000 * 60 * 60)) *
-                          hourWidth;
-                        const width =
-                          ((end - start) / (1000 * 60 * 60)) * hourWidth;
-
+                        // Don't render if program is completely outside visible area
                         if (left + width < 0 || left > totalWidth) {
                           return null;
                         }
 
+                        // Adjust left and width to handle partial visibility
+                        const adjustedLeft = Math.max(0, left);
+                        const adjustedWidth = Math.min(
+                          width,
+                          totalWidth - left
+                        );
+
                         return (
                           <div
                             key={program.id}
-                            className={`absolute top-3 bottom-3 rounded-xl shadow-lg cursor-pointer transform transition-all duration-300 hover:scale-[1.02] hover:z-10
+                            className={`absolute top-3 bottom-3 rounded-xl shadow-lg cursor-pointer transform transition-all duration-300  hover:z-10
                                 ${
                                   isLiveProgram
                                     ? "bg-green-50 dark:bg-green-900/20 hover:bg-green-100 dark:hover:bg-green-900/30 border border-green-200 dark:border-green-800"
@@ -607,8 +605,8 @@ export function TVSchedule() {
                                 }
                                 backdrop-blur-sm group overflow-hidden`}
                             style={{
-                              left: `${Math.max(0, left)}px`,
-                              width: `${Math.min(width, totalWidth - left)}px`,
+                              left: `${adjustedLeft}px`,
+                              width: `${adjustedWidth}px`,
                             }}
                             onClick={() => setSelectedProgram(program)}
                           >
@@ -628,21 +626,7 @@ export function TVSchedule() {
                                   <div className="mt-1 flex flex-col text-xs text-gray-500 truncate group-hover:whitespace-normal">
                                     {program.description}
                                     <span className="mt-1 text-gray-400">
-                                      {new Date(
-                                        program.startTime
-                                      ).toLocaleTimeString([], {
-                                        hour: "2-digit",
-                                        minute: "2-digit",
-                                        hour12: true,
-                                      })}
-                                      {" - "}
-                                      {new Date(
-                                        program.endTime
-                                      ).toLocaleTimeString([], {
-                                        hour: "2-digit",
-                                        minute: "2-digit",
-                                        hour12: true,
-                                      })}
+                                      {program.startTime} - {program.endTime}
                                     </span>
                                   </div>
                                 )}
@@ -705,29 +689,14 @@ export function TVSchedule() {
                     <div className="mt-2 flex items-center gap-3 text-sm text-muted-foreground">
                       <div className="flex items-center gap-1">
                         <Clock className="h-4 w-4" />
-                        {new Date(
-                          `${selectedDate.toDateString()} ${
-                            selectedProgram.startTime
-                          }`
-                        ).toLocaleTimeString([], {
-                          hour: "2-digit",
-                          minute: "2-digit",
-                          hour12: true,
-                        })}
-                        {" - "}
-                        {new Date(
-                          `${selectedDate.toDateString()} ${
-                            selectedProgram.endTime
-                          }`
-                        ).toLocaleTimeString([], {
-                          hour: "2-digit",
-                          minute: "2-digit",
-                          hour12: true,
-                        })}
+                        {selectedProgram.startTime.slice(0, 5)} -{" "}
+                        {selectedProgram.endTime.slice(0, 5)}
                       </div>
                       <div className="flex items-center gap-1">
                         <Calendar className="h-4 w-4" />
-                        {selectedDate.toLocaleDateString()}
+                        {new Date(
+                          selectedProgram.startTime
+                        ).toLocaleDateString()}
                       </div>
                     </div>
                   </div>
@@ -772,4 +741,4 @@ export function TVSchedule() {
   );
 }
 
-export default TVSchedule;
+export default NewTVSchedule;

@@ -17,6 +17,8 @@ import {
   ResponsiveContainer,
   Cell,
 } from "recharts";
+import { BarChart2 } from "lucide-react";
+import ChartCard from "@/components/card/charts-card";
 
 const mockData = {
   "Home Improvement & Decor": {
@@ -118,47 +120,52 @@ const SectorBarChart = () => {
   };
 
   return (
-    <Card className="w-full flex-1">
-      <CardHeader>
-        <CardTitle>Total Ad Spend by Sector</CardTitle>
-      </CardHeader>
-      <CardContent>
-        <div className="h-[400px] w-full">
-          <ResponsiveContainer width="100%" height="100%">
-            <BarChart
-              data={sectorData}
-              margin={{ top: 20, right: 30, left: 20, bottom: 60 }}
-            >
-              <CartesianGrid strokeDasharray="3 3" />
-              <XAxis
-                dataKey="name"
-                angle={-45}
-                textAnchor="end"
-                height={80}
-                interval={0}
-              />
-              <YAxis
-                tickFormatter={formatValue}
-                label={{
-                  value: "Ad Spend (NPR)",
-                  angle: -90,
-                  position: "insideLeft",
-                  style: { textAnchor: "middle" },
-                }}
-              />
-              <Tooltip
-                formatter={(value) => [`NPR ${formatValue(value)}`, "Ad Spend"]}
-              />
-              <Bar dataKey="adSpend" fill="#4444ff" radius={[4, 4, 0, 0]}>
-                {sectorData.map((entry, index) => (
-                  <Cell key={`cell-${index}`} fill={entry.color} />
-                ))}
-              </Bar>
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-      </CardContent>
-    </Card>
+    <ChartCard
+      icon={<BarChart2 className="w-6 h-6" />}
+      title="Total Ad Spend by Sector"
+      // description="Most performing channels this year"
+      // action={
+
+      // }
+      chart={
+        <ResponsiveContainer width="100%" height={400}>
+          <BarChart
+            data={sectorData}
+            margin={40}
+          >
+            <CartesianGrid strokeDasharray="3 3" vertical={false} />
+            <XAxis
+              dataKey="name"
+              // angle={-45}
+              // textAnchor="end"
+              height={90}
+              interval={0}
+              fontSize={10}
+            />
+            <YAxis
+              tickFormatter={formatValue}
+              label={{
+                value: "Ad Spend (NPR)",
+                angle: -90,
+                position: "insideLeft",
+                style: { textAnchor: "middle" },
+              }}
+            />
+            <Tooltip
+              formatter={(value) => [`NPR ${formatValue(value)}`, "Ad Spend"]}
+            />
+            <Bar dataKey="adSpend" fill="#4444ff" radius={16}>
+              {sectorData.map((entry, index) => (
+                <Cell key={`cell-${index}`} fill={entry.color} />
+              ))}
+            </Bar>
+          </BarChart>
+        </ResponsiveContainer>
+      }
+      // footer={
+      //   renderLegend()
+      // }
+    />
   );
 };
 
@@ -183,10 +190,12 @@ const CategoryBarChart = () => {
   };
 
   return (
-    <Card className="w-full flex-1">
-      <CardHeader>
-        <div className="flex items-center justify-between">
-          <CardTitle>Ad Spend by Category</CardTitle>
+    <ChartCard
+      icon={<BarChart2 className="w-6 h-6" />}
+      title="Ad Spend by Category"
+      // description="Most performing channels this year"
+      action={
+        <div className="flex items-center justify-end">
           <Select value={selectedSector} onValueChange={setSelectedSector}>
             <SelectTrigger className="w-[280px]">
               <SelectValue placeholder="Select sector" />
@@ -200,50 +209,51 @@ const CategoryBarChart = () => {
             </SelectContent>
           </Select>
         </div>
-      </CardHeader>
-      <CardContent>
-        <div className="h-[400px] w-full">
-          <ResponsiveContainer width="100%" height="100%">
-            <BarChart
-              data={categoryData}
-              margin={{ top: 20, right: 30, left: 20, bottom: 60 }}
-            >
-              <CartesianGrid strokeDasharray="3 3" />
-              <XAxis
-                dataKey="name"
-                angle={-45}
-                textAnchor="end"
-                height={80}
-                interval={0}
-              />
-              <YAxis
-                tickFormatter={formatValue}
-                label={{
-                  value: "Ad Spend (NPR)",
-                  angle: -90,
-                  position: "insideLeft",
-                  style: { textAnchor: "middle" },
-                }}
-              />
-              <Tooltip
-                formatter={(value) => [`NPR ${formatValue(value)}`, "Ad Spend"]}
-              />
-              <Bar
-                dataKey="adSpend"
-                fill={mockData[selectedSector].color}
-                radius={[4, 4, 0, 0]}
-              />
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-      </CardContent>
-    </Card>
+      }
+      chart={
+        <ResponsiveContainer width="100%" height={400}>
+          <BarChart data={categoryData} margin={40}>
+            <CartesianGrid strokeDasharray="3 3" vertical={false} />
+           
+
+            <XAxis
+              dataKey="name"
+              // angle={-45}
+              // textAnchor="end"
+              height={90}
+              interval={0}
+              fontSize={10}
+            />
+            <YAxis
+              tickFormatter={formatValue}
+              label={{
+                value: "Ad Spend (NPR)",
+                angle: -90,
+                position: "insideLeft",
+                style: { textAnchor: "middle" },
+              }}
+            />
+            <Tooltip
+              formatter={(value) => [`NPR ${formatValue(value)}`, "Ad Spend"]}
+            />
+            <Bar
+              dataKey="adSpend"
+              fill={mockData[selectedSector].color}
+              radius={16}
+            />
+          </BarChart>
+        </ResponsiveContainer>
+      }
+      // footer={
+      //   renderLegend()
+      // }
+    />
   );
 };
 
 const AdSpentBars = () => {
   return (
-    <div className="p-4 space-x-8 flex h-full">
+    <div className="space-y-6 flex flex-col h-full">
       <SectorBarChart />
       <CategoryBarChart />
     </div>

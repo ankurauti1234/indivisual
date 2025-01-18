@@ -8,6 +8,8 @@ import {
 } from "@/components/ui/select";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { ResponsiveScatterPlot } from "@nivo/scatterplot";
+import { ChartScatter } from "lucide-react";
+import ChartCard from "@/components/card/charts-card";
 
 // Extended mock data with more entries and realistic values
 const mockData = {
@@ -126,10 +128,14 @@ const SectorScatterPlot = () => {
   };
 
   return (
-    <Card className="w-full  p-4">
-      <CardHeader>
-        <CardTitle>Category Performance by Sector</CardTitle>
-        <Select value={selectedSector} onValueChange={setSelectedSector}>
+
+    <ChartCard
+      icon={<ChartScatter className="w-6 h-6" />}
+      title="Category Performance by Sector"
+      // description="Most performing channels this year"
+      action={
+          <div className="flex items-center justify-end gap-2">
+            <Select value={selectedSector} onValueChange={setSelectedSector}>
           <SelectTrigger className="w-full max-w-xs">
             <SelectValue placeholder="Select Sector" />
           </SelectTrigger>
@@ -142,8 +148,9 @@ const SectorScatterPlot = () => {
             ))}
           </SelectContent>
         </Select>
-      </CardHeader>
-      <CardContent>
+        </div>
+      }
+      chart={
         <div className="h-[600px]">
           <ResponsiveScatterPlot
             data={formatData()}
@@ -211,8 +218,9 @@ const SectorScatterPlot = () => {
             )}
           />
         </div>
-      </CardContent>
-    </Card>
+      }
+    />
+
   );
 };
 

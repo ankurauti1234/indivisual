@@ -1,14 +1,14 @@
 export const tv_broad_reports = [
   {
     id: 1,
-    image: "/images/daily-summary-report.png",
-    title: "Daily Summary",
+    image: "/images/weekly-summary-report.png",
+    title: "Weekly Summary",
     description:
       "Comprehensive daily overview of broadcast performance metrics, including viewership ratings, peak hours, and program performance statistics.",
     lastUpdated: "April 15, 2024",
     page: "tv",
     subpage: "broadcasters",
-    slug: "daily-summary-report",
+    slug: "weekly-summary-report",
   },
   {
     id: 2,
@@ -64,18 +64,7 @@ export const tv_broad_reports = [
     page: "tv",
     subpage: "broadcasters",
     slug: "audience-flow",
-  },
-  {
-    id: 7,
-    image: "/images/ad-spend.png",
-    title: "AD spend Reports",
-    description:
-      "Individual channel performance metrics including ratings, audience retention, and revenue generation specific to each channel based on AD spend.",
-    lastUpdated: "May 10, 2024",
-    page: "tv",
-    subpage: "broadcasters",
-    slug: "ad-spend",
-  },
+  }
 ];
 
 export const tv_ads_reports = [

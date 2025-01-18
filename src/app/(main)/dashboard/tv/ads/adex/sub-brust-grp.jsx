@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { ChevronLeft, Info } from "lucide-react";
+import { Blocks, ChevronLeft, Info } from "lucide-react";
+import ChartCard from "@/components/card/charts-card";
 
 const COLORS = {
   "Home Improvement & Decor": "#FF6B6B",
@@ -13,114 +14,113 @@ const COLORS = {
   "Construction Materials": "#9B786F",
 };
 
-  const data = {
-    id: "Total GRP",
-    color: "hsl(201, 70%, 50%)",
-    children: [
-      {
-        id: "Home Improvement & Decor",
-        color: "hsl(45, 70%, 50%)",
-        children: [
-          { id: "Wall Paints", value: 20, color: "hsl(45, 70%, 60%)" },
-          { id: "Wood Finishes", value: 15, color: "hsl(45, 70%, 65%)" },
-          {
-            id: "Waterproofing Solutions",
-            value: 12,
-            color: "hsl(45, 70%, 70%)",
-          },
-          { id: "Decorative Paints", value: 18, color: "hsl(45, 70%, 75%)" },
-          { id: "Industrial Coatings", value: 10, color: "hsl(45, 70%, 80%)" },
-        ],
-      },
-      {
-        id: "Food & Beverages",
-        color: "hsl(180, 70%, 50%)",
-        children: [
-          { id: "Instant Noodles", value: 25, color: "hsl(180, 70%, 60%)" },
-          { id: "Ready-to-Eat Snacks", value: 20, color: "hsl(180, 70%, 65%)" },
-          { id: "Spices", value: 15, color: "hsl(180, 70%, 70%)" },
-          {
-            id: "Noodle-Based Recipes",
-            value: 18,
-            color: "hsl(180, 70%, 75%)",
-          },
-          { id: "Condiments & Sauces", value: 12, color: "hsl(180, 70%, 80%)" },
-        ],
-      },
-      {
-        id: "Media & Entertainment",
-        color: "hsl(120, 70%, 50%)",
-        children: [
-          { id: "DTH Services", value: 22, color: "hsl(120, 70%, 60%)" },
-          { id: "HD Channel Packages", value: 18, color: "hsl(120, 70%, 65%)" },
-          { id: "Internet Services", value: 20, color: "hsl(120, 70%, 70%)" },
-          { id: "VOD Services", value: 15, color: "hsl(120, 70%, 75%)" },
-          { id: "IPTV", value: 12, color: "hsl(120, 70%, 80%)" },
-        ],
-      },
-      {
-        id: "Financial Services",
-        color: "hsl(0, 70%, 50%)",
-        children: [
-          { id: "Retail Banking", value: 30, color: "hsl(0, 70%, 60%)" },
-          { id: "Corporate Banking", value: 25, color: "hsl(0, 70%, 65%)" },
-          { id: "Insurance Services", value: 20, color: "hsl(0, 70%, 70%)" },
-          { id: "Investment Banking", value: 15, color: "hsl(0, 70%, 75%)" },
-          {
-            id: "Digital Payment Solutions",
-            value: 18,
-            color: "hsl(0, 70%, 80%)",
-          },
-        ],
-      },
-      {
-        id: "Telecommunications",
-        color: "hsl(270, 70%, 50%)",
-        children: [
-          { id: "Mobile Services", value: 35, color: "hsl(270, 70%, 60%)" },
-          { id: "Broadband Internet", value: 30, color: "hsl(270, 70%, 65%)" },
-          {
-            id: "Value-Added Services",
-            value: 20,
-            color: "hsl(270, 70%, 70%)",
-          },
-          {
-            id: "Enterprise Solutions",
-            value: 25,
-            color: "hsl(270, 70%, 75%)",
-          },
-          {
-            id: "Satellite Communication",
-            value: 15,
-            color: "hsl(270, 70%, 80%)",
-          },
-        ],
-      },
-      {
-        id: "FMCG",
-        color: "hsl(90, 70%, 50%)",
-        children: [
-          { id: "Personal Care", value: 40, color: "hsl(90, 70%, 60%)" },
-          { id: "Home Care", value: 35, color: "hsl(90, 70%, 65%)" },
-          { id: "Packaged Foods", value: 30, color: "hsl(90, 70%, 70%)" },
-          { id: "Oral Care", value: 25, color: "hsl(90, 70%, 75%)" },
-          { id: "Baby Care Products", value: 20, color: "hsl(90, 70%, 80%)" },
-        ],
-      },
-      {
-        id: "Construction Materials",
-        color: "hsl(135, 70%, 50%)",
-        children: [
-          { id: "OPC", value: 25, color: "hsl(135, 70%, 60%)" },
-          { id: "PPC", value: 20, color: "hsl(135, 70%, 65%)" },
-          { id: "Ready-Mix Concrete", value: 18, color: "hsl(135, 70%, 70%)" },
-          { id: "Specialty Cement", value: 15, color: "hsl(135, 70%, 75%)" },
-          { id: "Cement Accessories", value: 12, color: "hsl(135, 70%, 80%)" },
-        ],
-      },
-    ],
-  };
-
+const data = {
+  id: "Total GRP",
+  color: "hsl(201, 70%, 50%)",
+  children: [
+    {
+      id: "Home Improvement & Decor",
+      color: "hsl(45, 70%, 50%)",
+      children: [
+        { id: "Wall Paints", value: 20, color: "hsl(45, 70%, 60%)" },
+        { id: "Wood Finishes", value: 15, color: "hsl(45, 70%, 65%)" },
+        {
+          id: "Waterproofing Solutions",
+          value: 12,
+          color: "hsl(45, 70%, 70%)",
+        },
+        { id: "Decorative Paints", value: 18, color: "hsl(45, 70%, 75%)" },
+        { id: "Industrial Coatings", value: 10, color: "hsl(45, 70%, 80%)" },
+      ],
+    },
+    {
+      id: "Food & Beverages",
+      color: "hsl(180, 70%, 50%)",
+      children: [
+        { id: "Instant Noodles", value: 25, color: "hsl(180, 70%, 60%)" },
+        { id: "Ready-to-Eat Snacks", value: 20, color: "hsl(180, 70%, 65%)" },
+        { id: "Spices", value: 15, color: "hsl(180, 70%, 70%)" },
+        {
+          id: "Noodle-Based Recipes",
+          value: 18,
+          color: "hsl(180, 70%, 75%)",
+        },
+        { id: "Condiments & Sauces", value: 12, color: "hsl(180, 70%, 80%)" },
+      ],
+    },
+    {
+      id: "Media & Entertainment",
+      color: "hsl(120, 70%, 50%)",
+      children: [
+        { id: "DTH Services", value: 22, color: "hsl(120, 70%, 60%)" },
+        { id: "HD Channel Packages", value: 18, color: "hsl(120, 70%, 65%)" },
+        { id: "Internet Services", value: 20, color: "hsl(120, 70%, 70%)" },
+        { id: "VOD Services", value: 15, color: "hsl(120, 70%, 75%)" },
+        { id: "IPTV", value: 12, color: "hsl(120, 70%, 80%)" },
+      ],
+    },
+    {
+      id: "Financial Services",
+      color: "hsl(0, 70%, 50%)",
+      children: [
+        { id: "Retail Banking", value: 30, color: "hsl(0, 70%, 60%)" },
+        { id: "Corporate Banking", value: 25, color: "hsl(0, 70%, 65%)" },
+        { id: "Insurance Services", value: 20, color: "hsl(0, 70%, 70%)" },
+        { id: "Investment Banking", value: 15, color: "hsl(0, 70%, 75%)" },
+        {
+          id: "Digital Payment Solutions",
+          value: 18,
+          color: "hsl(0, 70%, 80%)",
+        },
+      ],
+    },
+    {
+      id: "Telecommunications",
+      color: "hsl(270, 70%, 50%)",
+      children: [
+        { id: "Mobile Services", value: 35, color: "hsl(270, 70%, 60%)" },
+        { id: "Broadband Internet", value: 30, color: "hsl(270, 70%, 65%)" },
+        {
+          id: "Value-Added Services",
+          value: 20,
+          color: "hsl(270, 70%, 70%)",
+        },
+        {
+          id: "Enterprise Solutions",
+          value: 25,
+          color: "hsl(270, 70%, 75%)",
+        },
+        {
+          id: "Satellite Communication",
+          value: 15,
+          color: "hsl(270, 70%, 80%)",
+        },
+      ],
+    },
+    {
+      id: "FMCG",
+      color: "hsl(90, 70%, 50%)",
+      children: [
+        { id: "Personal Care", value: 40, color: "hsl(90, 70%, 60%)" },
+        { id: "Home Care", value: 35, color: "hsl(90, 70%, 65%)" },
+        { id: "Packaged Foods", value: 30, color: "hsl(90, 70%, 70%)" },
+        { id: "Oral Care", value: 25, color: "hsl(90, 70%, 75%)" },
+        { id: "Baby Care Products", value: 20, color: "hsl(90, 70%, 80%)" },
+      ],
+    },
+    {
+      id: "Construction Materials",
+      color: "hsl(135, 70%, 50%)",
+      children: [
+        { id: "OPC", value: 25, color: "hsl(135, 70%, 60%)" },
+        { id: "PPC", value: 20, color: "hsl(135, 70%, 65%)" },
+        { id: "Ready-Mix Concrete", value: 18, color: "hsl(135, 70%, 70%)" },
+        { id: "Specialty Cement", value: 15, color: "hsl(135, 70%, 75%)" },
+        { id: "Cement Accessories", value: 12, color: "hsl(135, 70%, 80%)" },
+      ],
+    },
+  ],
+};
 
 const GRPSunburstChart = () => {
   const [currentPath, setCurrentPath] = useState([]);
@@ -302,16 +302,15 @@ const GRPSunburstChart = () => {
   };
 
   return (
-    <Card className="w-full bg-gray-50/50 backdrop-blur-sm border border-gray-200/50">
-      <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-4">
-        <div className="flex flex-col gap-2">
-          <CardTitle className="text-2xl font-semibold text-gray-900">
-            GRP Distribution
-          </CardTitle>
-          <div className="flex items-center gap-2">
+    <ChartCard
+      icon={<Blocks className="w-6 h-6" />}
+      title="GRP Distribution treemap"
+      // description="Most performing channels this year"
+      action={
+          <div className="flex items-center justify-end gap-2">
             {currentPath.length > 0 && (
               <Button
-                variant="ghost"
+                variant="outline"
                 className="h-8 px-2 text-gray-600 hover:text-gray-900"
                 onClick={() => setCurrentPath(currentPath.slice(0, -1))}
               >
@@ -322,41 +321,31 @@ const GRPSunburstChart = () => {
             <div className="text-sm text-gray-500">
               {currentPath.length > 0 ? currentPath.join(" > ") : "Overview"}
             </div>
-          </div>
-        </div>
-        {hoveredSlice && (
-          <div
-            className="absolute bg-white p-4 rounded-lg shadow-lg border border-gray-200/50 backdrop-blur-sm"
-            style={{
-              left: `${tooltipPosition.x + 10}px`,
-              top: `${tooltipPosition.y + 10}px`,
-              transform: "translate(-50%, -100%)",
-              zIndex: 50,
-            }}
-          >
-            <div className="flex items-center gap-2 mb-2">
-              <div
-                className="w-3 h-3 rounded-full"
-                style={{ backgroundColor: hoveredSlice.color }}
-              />
-              <span className="font-medium">{hoveredSlice.id}</span>
-            </div>
-            <div className="text-sm text-gray-500">
-              <div>Value: {calculateTotalValue(hoveredSlice)}</div>
-              <div>
-                Share:{" "}
-                {(
-                  (calculateTotalValue(hoveredSlice) /
-                    calculateTotalValue(getCurrentNode())) *
-                  100
-                ).toFixed(1)}
-                %
+
+  
+          {hoveredSlice && (
+            <div
+              className="absolute bg-white p-4 rounded-lg shadow-lg border border-gray-200/50 backdrop-blur-sm"
+              style={{
+                left: `${tooltipPosition.x + 10}px`,
+                top: `${tooltipPosition.y + 10}px`,
+                transform: "translate(-50%, -100%)",
+                zIndex: 50,
+              }}
+            >
+              <div className="flex items-center gap-2 mb-2">
+                <div
+                  className="w-3 h-3 rounded-full"
+                  style={{ backgroundColor: hoveredSlice.color }}
+                />
+                <span className="font-medium">{hoveredSlice.id}</span>
               </div>
+              
             </div>
-          </div>
-        )}
-      </CardHeader>
-      <CardContent>
+          )}
+        </div>
+      }
+      chart={
         <div
           id="chart-container"
           className="relative w-full flex flex-col items-center"
@@ -378,10 +367,13 @@ const GRPSunburstChart = () => {
             </defs>
             {renderSlices()}
           </svg>
-          {renderLegend()}
+          
         </div>
-      </CardContent>
-    </Card>
+      }
+      footer={
+        renderLegend()
+      }
+    />
   );
 };
 

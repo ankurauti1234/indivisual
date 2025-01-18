@@ -7,6 +7,8 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { LayoutTemplate } from "lucide-react";
+import ChartCard from "@/components/card/charts-card";
 
 const mockData = {
   "Home Improvement & Decor": {
@@ -137,11 +139,14 @@ const SectorHeatmap = () => {
   };
 
   return (
-    <Card className="w-full">
-      <CardHeader>
-        <CardTitle>Monthly Ad Spend by Sector</CardTitle>
-      </CardHeader>
-      <CardContent>
+    <ChartCard
+      icon={<LayoutTemplate className="w-6 h-6" />}
+      title="Monthly Ad Spend by Sector"
+      // description="Most performing channels this year"
+      // action={
+        
+      // }
+      chart={
         <div className="overflow-x-auto">
           <table className="w-full">
             <thead>
@@ -188,8 +193,11 @@ const SectorHeatmap = () => {
             </tbody>
           </table>
         </div>
-      </CardContent>
-    </Card>
+      }
+      // footer={
+      //   renderLegend()
+      // }
+    />
   );
 };
 
@@ -219,10 +227,12 @@ return `rgb(120, 210, ${Math.floor(255 * (0.2 + intensity))})`;
   };
 
   return (
-    <Card className="w-full mt-8">
-      <CardHeader>
-        <div className="flex items-center justify-between">
-          <CardTitle>Monthly Ad Spend by Category</CardTitle>
+    <ChartCard
+      icon={<LayoutTemplate className="w-6 h-6" />}
+      title="Monthly Ad Spend by Category"
+      // description="Most performing channels this year"
+      action={
+        <div className="flex itc justify-end">
           <Select value={selectedSector} onValueChange={setSelectedSector}>
             <SelectTrigger className="w-[280px]">
               <SelectValue placeholder="Select sector" />
@@ -236,8 +246,8 @@ return `rgb(120, 210, ${Math.floor(255 * (0.2 + intensity))})`;
             </SelectContent>
           </Select>
         </div>
-      </CardHeader>
-      <CardContent>
+      }
+      chart={
         <div className="overflow-x-auto">
           <table className="w-full">
             <thead>
@@ -284,8 +294,11 @@ return `rgb(120, 210, ${Math.floor(255 * (0.2 + intensity))})`;
             </tbody>
           </table>
         </div>
-      </CardContent>
-    </Card>
+      }
+      // footer={
+      //   renderLegend()
+      // }
+    />
   );
 };
 

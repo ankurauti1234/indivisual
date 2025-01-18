@@ -9,7 +9,7 @@ import {
 
 const ChartCard = ({ icon, title, description, action, footer, chart }) => {
   return (
-    <Card className="w-full border-2 border-ring/15 bg-card shadow-lg rounded-xl hover:shadow-2xl transition-all duration-300">
+    <Card className="w-full flex-1 border-2 border-ring/15 bg-card shadow-none rounded-xl hover:shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(45,78,255,0.15)] transition-all duration-300">
       <CardHeader className="pb-4 border-b border-ring/15 ">
         <div className="flex flex-col flex-wrap md:flex-row md:items-center justify-between gap-6">
           <CardTitle className="flex flex-1 items-center gap-4">

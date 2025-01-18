@@ -155,7 +155,7 @@ const AvgGrpBarChart = () => {
       chart={
         <ResponsiveContainer width="100%" height={400}>
           <BarChart data={avgGrpData}>
-            <CartesianGrid vertical={false} />
+            <CartesianGrid vertical={false} strokeDasharray="3 3" />
             <XAxis
               dataKey="name"
               tickLine={false}

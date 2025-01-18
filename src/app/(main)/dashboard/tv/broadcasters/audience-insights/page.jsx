@@ -26,8 +26,13 @@ import {
   Map,
   BarChart as ChartBar,
   Download,
+  PieChartIcon,
+  BarChart2,
 } from "lucide-react";
 import ViewershipMap from "./viwership-map";
+import ChartCard from "@/components/card/charts-card";
+import ReportLayout from "@/components/layout/report-layout";
+import { Button } from "@/components/ui/button";
 const CHART_COLORS = {
   blue: "#2563eb",
   green: "#16a34a",
@@ -119,52 +124,26 @@ const AudienceInsightsReport = () => {
   ];
 
   return (
-    <div className="container mx-auto p-8 bg-popover shadow-inner rounded-lg border paper">
-      {/* Header Section */}
-      <div className="mb-8">
-        <div className="flex items-center justify-between">
-          <h1 className="text-4xl font-bold text-primary">
-            Audience Insights Report
-          </h1>
-          <button className="flex items-center gap-2 p-2 bg-primary text-white rounded-lg hover:bg-blue-700">
-            <Download className="h-4 w-4" />
-          </button>
+    <ReportLayout
+      title="Audience Insights"
+      description="Comprehensive analysis of channel performance, viewer behavior, and audience metrics"
+      action={
+        <div className="flex gap-4">
+          <Button>Export Report</Button>
         </div>
-        <p className="mt-4 text-lg text-muted-foreground">
-          Comprehensive analysis of viewer behavior, preferences, and engagement
-          patterns across all channels and platforms. Data collected from
-          January 2024 to December 2024.
-        </p>
-      </div>
-
-      {/* Executive Summary */}
-      <section className="mb-12 bg-card border p-6 rounded-lg shadow">
-        <h2 className="text-2xl font-bold mb-4">Executive Summary</h2>
-        <p className="text-foreground/75 mb-4">
-          Our analysis reveals significant viewer engagement during prime time
-          hours, with a strong preference for news and entertainment content.
-          Urban audiences continue to dominate viewership, while regional
-          distribution shows concentrated engagement in the Bagmati and Gandaki
-          regions.
-        </p>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
-          <div className="bg-blue-600/25 p-4 rounded-lg">
-            <h3 className="font-semibold text-blue-900">Total Viewership</h3>
-            <p className="text-2xl font-bold text-blue-600">1.5M</p>
-          </div>
-          <div className="bg-emerald-600/25 p-4 rounded-lg">
-            <h3 className="font-semibold text-green-900">Average Watch Time</h3>
-            <p className="text-2xl font-bold text-green-600">53 mins</p>
-          </div>
-          <div className="bg-amber-600/25 p-4 rounded-lg">
-            <h3 className="font-semibold text-orange-900">Content Retention</h3>
-            <p className="text-2xl font-bold text-orange-600">85%</p>
+      }
+      footer={
+        <div className="flex justify-between items-center w-full text-sm text-muted-foreground">
+          {/* <div>Last updated: {currentDate}</div> */}
+          <div className="flex gap-4">
+            <span>Data source: TV Analytics Platform</span>
+            <span>•</span>
+            <span>Report ID: TV-ANALYTICS-2025-01</span>
           </div>
         </div>
-      </section>
-
-      {/* Key Findings */}
-      <section className="mb-12">
+      }
+    >
+      <section >
         <h2 className="text-2xl font-bold mb-6">Key Findings</h2>
         <div className="grid grid-cols-1 gap-8">
           {/* Viewership Distribution */}
@@ -174,19 +153,12 @@ const AudienceInsightsReport = () => {
             </h3>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
               {/* Prime Time Analysis */}
-              <Card>
-                <CardHeader>
-                  <div className="flex items-center gap-2">
-                    <TrendingUp className="h-4 w-4" />
-                    <CardTitle>Prime Time vs Non-Prime Time</CardTitle>
-                  </div>
-                </CardHeader>
-                <CardContent>
-                  <p className="mb-4 text-gray-600">
-                    Prime time viewing accounts for 66.7% of total viewership,
-                    indicating strong evening engagement patterns. This suggests
-                    optimal scheduling opportunities for premium content.
-                  </p>
+
+              <ChartCard
+                icon={<PieChartIcon className="w-6 h-6" />}
+                title="Prime Time vs Non-Prime Time"
+                // description="View GRP of ads across 4 breaks for different TV channels."
+                chart={
                   <div className="h-[300px]">
                     <ResponsiveContainer width="100%" height="100%">
                       <PieChart>
@@ -215,51 +187,56 @@ const AudienceInsightsReport = () => {
                       </PieChart>
                     </ResponsiveContainer>
                   </div>
-                </CardContent>
-              </Card>
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
+                    Prime time viewing accounts for 66.7% of total viewership,
+                    indicating strong evening engagement patterns. This suggests
+                    optimal scheduling opportunities for premium content.
+                  </p>
+                }
+              />
 
               {/* Urban vs Rural */}
-              <Card>
-                <CardHeader>
-                  <div className="flex items-center gap-2">
-                    <Users className="h-4 w-4" />
-                    <CardTitle>Urban vs Rural Demographics</CardTitle>
-                  </div>
-                </CardHeader>
-                <CardContent>
-                  <p className="mb-4 text-gray-600">
+
+              <ChartCard
+                icon={<PieChartIcon className="w-6 h-6" />}
+                title="Urban vs Rural Demographics"
+                // description="View GRP of ads across 4 breaks for different TV channels."
+                chart={
+                  <ResponsiveContainer width="100%" height={300}>
+                    <PieChart>
+                      <Pie
+                        data={urbanVsRural}
+                        cx="50%"
+                        cy="50%"
+                        labelLine={false}
+                        outerRadius={90}
+                        fill={CHART_COLORS.blue}
+                        dataKey="value"
+                        label={({ name, percent }) =>
+                          `${name} ${(percent * 100).toFixed(0)}%`
+                        }
+                      >
+                        {urbanVsRural.map((entry, index) => (
+                          <Cell
+                            key={`cell-${index}`}
+                            fill={Object.values(CHART_COLORS)[index]}
+                          />
+                        ))}
+                      </Pie>
+                      <Tooltip content={<CustomTooltip />} />
+                    </PieChart>
+                  </ResponsiveContainer>
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
                     Urban viewers represent 70% of our audience, highlighting
                     the need for targeted content strategies for rural market
                     penetration.
                   </p>
-                  <div className="h-[300px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <PieChart>
-                        <Pie
-                          data={urbanVsRural}
-                          cx="50%"
-                          cy="50%"
-                          labelLine={false}
-                          outerRadius={90}
-                          fill={CHART_COLORS.blue}
-                          dataKey="value"
-                          label={({ name, percent }) =>
-                            `${name} ${(percent * 100).toFixed(0)}%`
-                          }
-                        >
-                          {urbanVsRural.map((entry, index) => (
-                            <Cell
-                              key={`cell-${index}`}
-                              fill={Object.values(CHART_COLORS)[index]}
-                            />
-                          ))}
-                        </Pie>
-                        <Tooltip content={<CustomTooltip />} />
-                      </PieChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
+                }
+              />
             </div>
           </div>
 
@@ -267,32 +244,196 @@ const AudienceInsightsReport = () => {
           <div className="space-y-6">
             <h3 className="text-xl font-semibold">2. Content Performance</h3>
             {/* Top Genres */}
-            <Card>
-              <CardHeader>
-                <div className="flex items-center gap-2">
-                  <ChartBar className="h-4 w-4" />
-                  <CardTitle>Genre Performance Analysis</CardTitle>
-                </div>
-              </CardHeader>
-              <CardContent>
-                <p className="mb-4 text-gray-600">
+
+            <ChartCard
+              icon={<BarChart2 className="w-6 h-6" />}
+              title="Genre Performance Analysis"
+              // description="View GRP of ads across 4 breaks for different TV channels."
+              chart={
+                <ResponsiveContainer width="100%" height={400}>
+                  <BarChart data={topGenres}>
+                    <CartesianGrid strokeDasharray="3 3" vertical={false} />
+                    <XAxis
+                      dataKey="genre"
+                      tickLine={false}
+                      tickMargin={10}
+                      axisLine={false}
+                    />
+                    <YAxis
+                      tickLine={false}
+                      axisLine={false}
+                      // tickMargin={8}
+                      tickCount={8}
+                    />
+                    <Tooltip content={<CustomTooltip />} />
+                    <Bar
+                      dataKey="viewers"
+                      fill={CHART_COLORS.green}
+                      radius={16}
+                    >
+                      <LabelList
+                        position="center"
+                        offset={12}
+                        className="fill-foreground"
+                        fontSize={16}
+                        fontWeight={600}
+                      />
+                    </Bar>
+                  </BarChart>
+                </ResponsiveContainer>
+              }
+              footer={
+                <p className="text-sm text-gray-500">
                   News and entertainment consistently lead viewer engagement,
                   with documentaries showing potential for growth. Sports
                   content shows strong seasonal variations but maintains a loyal
                   viewer base.
                 </p>
-                <div className="h-[400px]">
-                  <ResponsiveContainer width="100%" height="100%">
-                    <BarChart data={topGenres}>
-                      <CartesianGrid strokeDasharray="3 3" />
-                      <XAxis dataKey="genre" />
-                      <YAxis />
+              }
+            />
+          </div>
+
+          {/* Regional Analysis */}
+          <div className="space-y-6">
+            <h3 className="text-xl font-semibold">3. Regional Analysis</h3>
+
+            <ChartCard
+              icon={<Map className="w-6 h-6" />}
+              title="Geographic Distribution"
+              // description="View GRP of ads across 4 breaks for different TV channels."
+              chart={<ViewershipMap data={viewershipByRegion} />}
+              footer={
+                <p className="text-sm text-gray-500">
+                  Bagmati and Gandaki provinces show the highest engagement
+                  levels, suggesting opportunities for region-specific content
+                  development and marketing initiatives.
+                </p>
+              }
+            />
+          </div>
+
+          {/* Program Performance */}
+          <div className="space-y-6">
+            <h3 className="text-xl font-semibold">4. Program Performance</h3>
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+              {/* Top Programs */}
+
+              <ChartCard
+                icon={<BarChart2 className="w-6 h-6" />}
+                title="Top Performing Programs"
+                // description="View GRP of ads across 4 breaks for different TV channels."
+                chart={
+                  <ResponsiveContainer width="100%" height={400}>
+                    <BarChart data={topPrograms} layout="vertical">
+                      <CartesianGrid strokeDasharray="3 3" horizontal={false} />
+                      <XAxis
+                        type="number"
+                        tickLine={false}
+                        tickMargin={10}
+                        axisLine={false}
+                      />
+                      <YAxis
+                        dataKey="program"
+                        type="category"
+                        tickLine={false}
+                        axisLine={false}
+                        width={80}
+                      />
                       <Tooltip content={<CustomTooltip />} />
                       <Bar
                         dataKey="viewers"
-                        fill={CHART_COLORS.green}
-                        radius={8}
+                        fill={CHART_COLORS.blue}
+                        radius={16}
                       >
+                        <LabelList
+                          dataKey="viewers"
+                          position="insideRight"
+                          offset={8}
+                          stroke="#ffffff"
+                          fontSize={14}
+                        />
+                      </Bar>
+                    </BarChart>
+                  </ResponsiveContainer>
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
+                    Breaking News Live and Comedy Hour lead viewership,
+                    demonstrating strong audience preference for timely news
+                    coverage and entertainment content.
+                  </p>
+                }
+              />
+
+              {/* Program Mix */}
+              <ChartCard
+                icon={<PieChartIcon className="w-6 h-6" />}
+                title="Content Mix Analysis"
+                // description="View GRP of ads across 4 breaks for different TV channels."
+                chart={
+                  <ResponsiveContainer width="100%" height={400}>
+                    <PieChart>
+                      <Pie
+                        data={newVsOldPrograms}
+                        cx="50%"
+                        cy="50%"
+                        labelLine={false}
+                        outerRadius={90}
+                        fill={CHART_COLORS.blue}
+                        dataKey="value"
+                        label={({ name, percent }) =>
+                          `${name} ${(percent * 100).toFixed(0)}%`
+                        }
+                      >
+                        {newVsOldPrograms.map((entry, index) => (
+                          <Cell
+                            key={`cell-${index}`}
+                            fill={Object.values(CHART_COLORS)[index]}
+                          />
+                        ))}
+                      </Pie>
+                      <Tooltip content={<CustomTooltip />} />
+                    </PieChart>
+                  </ResponsiveContainer>
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
+                    The current programming mix maintains a healthy balance
+                    between established shows and new content, ensuring audience
+                    retention while allowing for innovation.
+                  </p>
+                }
+              />
+            </div>
+          </div>
+
+          {/* Engagement Metrics */}
+          <div className="space-y-6">
+            <h3 className="text-xl font-semibold">5. Engagement Metrics</h3>
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+              {/* Average Watch Time */}
+              <ChartCard
+                icon={<BarChart2 className="w-6 h-6" />}
+                title="Average Watch Time by Genre"
+                // description="View GRP of ads across 4 breaks for different TV channels."
+                chart={
+                  <ResponsiveContainer width="100%" height={400}>
+                    <BarChart data={averageWatchTime}>
+                      <CartesianGrid vertical={false} strokeDasharray="3 3" />
+                      <XAxis
+                        dataKey="program"
+                        tickLine={false}
+                        tickMargin={10}
+                        axisLine={false}
+                      />
+                      <YAxis
+                        tickLine={false}
+                        axisLine={false}
+                        tickMargin={8}
+                        tickCount={8}
+                      />
+                      <Tooltip content={<CustomTooltip />} />
+                      <Bar dataKey="time" fill={CHART_COLORS.blue} radius={8}>
                         <LabelList
                           position="center"
                           offset={12}
@@ -303,322 +444,154 @@ const AudienceInsightsReport = () => {
                       </Bar>
                     </BarChart>
                   </ResponsiveContainer>
-                </div>
-              </CardContent>
-            </Card>
-          </div>
-
-          {/* Regional Analysis */}
-          <div className="space-y-6">
-            <h3 className="text-xl font-semibold">3. Regional Analysis</h3>
-            <Card>
-              <CardHeader>
-                <div className="flex items-center gap-2">
-                  <Map className="h-4 w-4" />
-                  <CardTitle>Geographic Distribution</CardTitle>
-                </div>
-              </CardHeader>
-              <CardContent>
-                <p className="mb-4 text-gray-600">
-                  Bagmati and Gandaki provinces show the highest engagement
-                  levels, suggesting opportunities for region-specific content
-                  development and marketing initiatives.
-                </p>
-                <ViewershipMap data={viewershipByRegion} />
-              </CardContent>
-            </Card>
-          </div>
-
-          {/* Program Performance */}
-          <div className="space-y-6">
-            <h3 className="text-xl font-semibold">4. Program Performance</h3>
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-              {/* Top Programs */}
-              <Card>
-                <CardHeader>
-                  <div className="flex items-center gap-2">
-                    <Tv className="h-4 w-4" />
-                    <CardTitle>Top Performing Programs</CardTitle>
-                  </div>
-                </CardHeader>
-                <CardContent>
-                  <p className="mb-4 text-gray-600">
-                    Breaking News Live and Comedy Hour lead viewership,
-                    demonstrating strong audience preference for timely news
-                    coverage and entertainment content.
-                  </p>
-                  <div className="h-[400px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={topPrograms} layout="vertical">
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis type="number" />
-                        <YAxis dataKey="program" type="category" />
-                        <Tooltip content={<CustomTooltip />} />
-                        <Bar dataKey="viewers" fill={CHART_COLORS.blue} />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
-
-              {/* Program Mix */}
-              <Card>
-                <CardHeader>
-                  <div className="flex items-center gap-2">
-                    <Share2 className="h-4 w-4" />
-                    <CardTitle>Content Mix Analysis</CardTitle>
-                  </div>
-                </CardHeader>
-                <CardContent>
-                  <p className="mb-4 text-gray-600">
-                    The current programming mix maintains a healthy balance
-                    between established shows and new content, ensuring audience
-                    retention while allowing for innovation.
-                  </p>
-                  <div className="h-[400px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <PieChart>
-                        <Pie
-                          data={newVsOldPrograms}
-                          cx="50%"
-                          cy="50%"
-                          labelLine={false}
-                          outerRadius={90}
-                          fill={CHART_COLORS.blue}
-                          dataKey="value"
-                          label={({ name, percent }) =>
-                            `${name} ${(percent * 100).toFixed(0)}%`
-                          }
-                        >
-                          {newVsOldPrograms.map((entry, index) => (
-                            <Cell
-                              key={`cell-${index}`}
-                              fill={Object.values(CHART_COLORS)[index]}
-                            />
-                          ))}
-                        </Pie>
-                        <Tooltip content={<CustomTooltip />} />
-                      </PieChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
-            </div>
-          </div>
-
-          {/* Engagement Metrics */}
-          <div className="space-y-6">
-            <h3 className="text-xl font-semibold">5. Engagement Metrics</h3>
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-              {/* Average Watch Time */}
-              <Card>
-                <CardHeader>
-                  <div className="flex items-center gap-2">
-                    <ChartBar className="h-4 w-4" />
-                    <CardTitle>Average Watch Time by Genre</CardTitle>
-                  </div>
-                </CardHeader>
-                <CardContent>
-                  <p className="mb-4 text-gray-600">
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
                     Sports content maintains the highest average watch time at
                     90 minutes, followed by documentaries at 60 minutes. This
                     indicates strong viewer engagement with long-format content.
                   </p>
-                  <div className="h-[400px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={averageWatchTime}>
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis dataKey="program" />
-                        <YAxis />
-                        <Tooltip content={<CustomTooltip />} />
-                        <Bar dataKey="time" fill={CHART_COLORS.blue} radius={8}>
-                          <LabelList
-                            position="center"
-                            offset={12}
-                            className="fill-foreground"
-                            fontSize={16}
-                            fontWeight={600}
-                          />
-                        </Bar>
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
+                }
+              />
 
               {/* Drop-off Rates */}
-              <Card>
-                <CardHeader>
-                  <div className="flex items-center gap-2">
-                    <TrendingUp className="h-4 w-4" />
-                    <CardTitle>Content Retention Analysis</CardTitle>
-                  </div>
-                </CardHeader>
-                <CardContent>
-                  <p className="mb-4 text-gray-600">
+
+              <ChartCard
+                icon={<BarChart2 className="w-6 h-6" />}
+                title="Content Retention Analysis"
+                // description="View GRP of ads across 4 breaks for different TV channels."
+                chart={
+                  <ResponsiveContainer width="100%" height={400}>
+                    <BarChart data={dropOffRates}>
+                      <CartesianGrid vertical={false} strokeDasharray="3 3" />
+                      <XAxis
+                        dataKey="program"
+                        tickLine={false}
+                        tickMargin={10}
+                        axisLine={false}
+                      />
+                      <YAxis
+                        tickLine={false}
+                        axisLine={false}
+                        tickMargin={8}
+                        tickCount={8}
+                      />
+                      <Tooltip content={<CustomTooltip />} />
+                      <Bar dataKey="rate" fill={CHART_COLORS.orange} radius={8}>
+                        <LabelList
+                          position="center"
+                          offset={12}
+                          className="fill-foreground"
+                          fontSize={16}
+                          fontWeight={600}
+                        />
+                      </Bar>
+                    </BarChart>
+                  </ResponsiveContainer>
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
                     Sports programming shows the lowest drop-off rate at 5%,
                     while talk shows experience the highest at 25%. This
                     suggests opportunities for format optimization in talk show
                     segments.
                   </p>
-                  <div className="h-[400px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={dropOffRates}>
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis dataKey="program" />
-                        <YAxis />
-                        <Tooltip content={<CustomTooltip />} />
-                        <Bar
-                          dataKey="rate"
-                          fill={CHART_COLORS.orange}
-                          radius={8}
-                        >
-                          <LabelList
-                            position="center"
-                            offset={12}
-                            className="fill-foreground"
-                            fontSize={16}
-                            fontWeight={600}
-                          />
-                        </Bar>
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
+                }
+              />
             </div>
           </div>
 
           {/* Seasonal Trends */}
           <div className="space-y-6">
             <h3 className="text-xl font-semibold">6. Seasonal Trends</h3>
-            <Card>
-              <CardHeader>
-                <div className="flex items-center gap-2">
-                  <TrendingUp className="h-4 w-4" />
-                  <CardTitle>Seasonal Content Performance</CardTitle>
-                </div>
-              </CardHeader>
-              <CardContent>
-                <p className="mb-4 text-gray-600">
+
+            <ChartCard
+              icon={<BarChart2 className="w-6 h-6" />}
+              title="Seasonal Content Performance"
+              // description="View GRP of ads across 4 breaks for different TV channels."
+              chart={
+                <ResponsiveContainer width="100%" height={400}>
+                  <AreaChart
+                    data={seasonalShifts}
+                    margin={{
+                      left: 12,
+                      right: 12,
+                      top: 34,
+                    }}
+                  >
+                    <CartesianGrid strokeDasharray="3 3" horizontal={false} />
+                    <XAxis
+                      dataKey="month"
+                      tickLine={false}
+                      axisLine={false}
+                      tickMargin={8}
+                    />
+                    <YAxis
+                      tickLine={false}
+                      axisLine={false}
+                      tickMargin={8}
+                      tickCount={5}
+                    />
+                    <Tooltip content={<CustomTooltip />} />
+                    <Legend />
+                    <Area
+                      type="linear"
+                      dataKey="news"
+                      stroke={CHART_COLORS.blue}
+                      fill={CHART_COLORS.blue + "80"}
+                      strokeWidth={2}
+                    >
+                      <LabelList
+                        position="top"
+                        offset={12}
+                        className="fill-foreground"
+                        fontSize={12}
+                      />
+                    </Area>
+                    <Area
+                      type="linear"
+                      dataKey="entertainment"
+                      stroke={CHART_COLORS.green}
+                      fill={CHART_COLORS.green + "80"}
+                      strokeWidth={2}
+                    >
+                      <LabelList
+                        position="top"
+                        offset={12}
+                        className="fill-foreground"
+                        fontSize={12}
+                      />
+                    </Area>
+                    <Area
+                      type="linear"
+                      dataKey="sports"
+                      stroke={CHART_COLORS.orange}
+                      fill={CHART_COLORS.orange + "80"}
+                      strokeWidth={2}
+                    >
+                      <LabelList
+                        position="top"
+                        offset={12}
+                        className="fill-foreground"
+                        fontSize={12}
+                      />
+                    </Area>
+                  </AreaChart>
+                </ResponsiveContainer>
+              }
+              footer={
+                <p className="text-sm text-gray-500">
                   Entertainment content peaks during summer months, while news
                   viewership shows stronger performance during winter. Sports
                   viewership demonstrates consistent growth through mid-year
                   with a decline in Q4.
                 </p>
-                <div className="h-[400px]">
-                  <ResponsiveContainer width="100%" height="100%">
-                    <AreaChart data={seasonalShifts}>
-                      <CartesianGrid strokeDasharray="3 3" horizontal={false} />
-                      <XAxis dataKey="month" />
-                      <YAxis />
-                      <Tooltip content={<CustomTooltip />} />
-                      <Legend />
-                      <Area
-                        type="monotone"
-                        dataKey="news"
-                        stroke={CHART_COLORS.blue}
-                        fill={CHART_COLORS.blue + "80"}
-                        strokeWidth={2}
-                      >
-                        <LabelList
-                          position="top"
-                          offset={12}
-                          className="fill-foreground"
-                          fontSize={12}
-                        />
-                      </Area>
-                      <Area
-                        type="monotone"
-                        dataKey="entertainment"
-                        stroke={CHART_COLORS.green}
-                        fill={CHART_COLORS.green + "80"}
-                        strokeWidth={2}
-                      >
-                        <LabelList
-                          position="top"
-                          offset={12}
-                          className="fill-foreground"
-                          fontSize={12}
-                        />
-                      </Area>
-                      <Area
-                        type="monotone"
-                        dataKey="sports"
-                        stroke={CHART_COLORS.orange}
-                        fill={CHART_COLORS.orange + "80"}
-                        strokeWidth={2}
-                      >
-                        <LabelList
-                          position="top"
-                          offset={12}
-                          className="fill-foreground"
-                          fontSize={12}
-                        />
-                      </Area>
-                    </AreaChart>
-                  </ResponsiveContainer>
-                </div>
-              </CardContent>
-            </Card>
+              }
+            />
           </div>
         </div>
       </section>
-
-
-
-      {/* <GRPSunburstChart /> */}
-
-      {/* Recommendations */}
-      <section className="mb-12 bg-card border p-6 rounded-lg shadow">
-        <h2 className="text-2xl font-bold mb-4">Recommendations</h2>
-        <div className="space-y-4">
-          <div className="p-4 bg-blue-600/25 rounded-lg">
-            <h3 className="font-semibold text-blue-900 mb-2">
-              Content Strategy
-            </h3>
-            <p className="text-foreground/75">
-              Invest in more sports and documentary content, given their high
-              engagement metrics and lower drop-off rates. Consider reformatting
-              talk shows to improve retention.
-            </p>
-          </div>
-          <div className="p-4 bg-emerald-600/25 rounded-lg">
-            <h3 className="font-semibold text-green-900 mb-2">
-              Regional Focus
-            </h3>
-            <p className="text-foreground/75">
-              Develop targeted content for underserved regions, particularly
-              Karnali and Janakpur, to boost viewership and engagement in these
-              areas.
-            </p>
-          </div>
-          <div className="p-4 bg-amber-600/25 rounded-lg">
-            <h3 className="font-semibold text-orange-900 mb-2">
-              Programming Schedule
-            </h3>
-            <p className="text-foreground/75">
-              Optimize prime time slots with high-performing genres and consider
-              expanding prime time programming given its strong viewership
-              share.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* Methodology Note */}
-      <section className="text-sm text-popover0 mt-8">
-        <h2 className="text-lg font-semibold text-foreground/75 mb-2">
-          Methodology
-        </h2>
-        <p>
-          This report analyzes viewership data collected through digital
-          platforms and traditional rating systems. All metrics are calculated
-          based on a 12-month period ending December 2024. Viewer segments and
-          engagement metrics are defined according to industry standards.
-        </p>
-      </section>
-    </div>
+    </ReportLayout>
   );
 };
 

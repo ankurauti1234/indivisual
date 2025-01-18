@@ -14,15 +14,15 @@ import DataTable from './data-table';
 
 const page = () => {
   return (
-    <div>
+    <div className='space-y-6'>
       <GRPStats />
       <GRPSunburstChart />
       <SectorScatterPlot />
       <AdSpendDashboard />
       <AdSpentBars />
       <BrandRadarChart />
-      <GRPvsSpendChart />
-      <AdSpotAnalysis />
+      {/* <GRPvsSpendChart /> */}
+      {/* <AdSpotAnalysis /> */}
       <DataTable data={tableData} />
     </div>
   );

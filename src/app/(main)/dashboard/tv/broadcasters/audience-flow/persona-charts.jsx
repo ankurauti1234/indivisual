@@ -8,6 +8,7 @@ import {
   Tooltip,
   Legend,
   ResponsiveContainer,
+  LabelList,
 } from "recharts";
 import {
   Select,
@@ -55,7 +56,7 @@ const ChannelTimeSpentChart = () => {
   const generateTimeSpentData = (persona, genre) => {
     const timeSpentData = channels.map((channel) => ({
       name: channel.name,
-      timeSpent: Math.floor(Math.random() * 10) + 1, // Random time spent data (in minutes)
+      timeSpent: Math.floor(Math.random() * 100) + 1, // Random time spent data (in minutes)
       color: channel.color,
     }));
 
@@ -105,7 +106,7 @@ const ChannelTimeSpentChart = () => {
       chart={
         <ResponsiveContainer width="100%" height={400}>
           <BarChart data={timeSpentData}>
-            <CartesianGrid strokeDasharray="3 3" />
+            <CartesianGrid strokeDasharray="3 3" vertical={false} />
             <XAxis
               dataKey="name"
               tickLine={false}
@@ -117,16 +118,25 @@ const ChannelTimeSpentChart = () => {
               axisLine={false}
               tickMargin={8}
               tickCount={8}
+              tickFormatter={(value) => `${value} m`}
             />
-            <Tooltip />
-            <Legend />
+            <Tooltip formatter={(value) => `${value} minutes`} />
+            {/* <Legend /> */}
             <Bar
               dataKey="timeSpent"
-              fill="#8884d8"
+              className="fill-secondary"
               name="Time Spent (mins)"
-              label={{ position: "top", fontSize: 14 }}
               radius={16}
-            />
+            >
+              <LabelList
+                position="center"
+                offset={12}
+                className="fill-foreground"
+                fontSize={16}
+                fontWeight={600}
+                formatter={(value) => `${value} min`} // Add "minutes" to labels
+              />
+            </Bar>
           </BarChart>
         </ResponsiveContainer>
       }

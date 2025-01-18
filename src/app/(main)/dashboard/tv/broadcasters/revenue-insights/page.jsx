@@ -43,7 +43,14 @@ import {
   AlertTriangle,
   Zap,
   Calendar,
+  LineChartIcon,
+  Table2,
+  BarChart2,
 } from "lucide-react";
+import ChartCard from "@/components/card/charts-card";
+import IndustryAdvertiserPieChart from "./ad-distribution-pie";
+import GenreRevenuePieChart from "./genre-revenue-pie";
+import ReportLayout from "@/components/layout/report-layout";
 
 // Mock data (replace with actual data in a real application)
 const revenueData = [
@@ -160,184 +167,100 @@ const RevenueInsights = () => {
   };
 
   return (
-    <div className="container mx-auto p-8 bg-popover shadow-inner rounded-lg border">
-      {/* Header Section */}
-      <div className="mb-8">
-        <div className="flex items-center justify-between">
-          <h1 className="text-4xl font-bold text-primary">Revenue Insights</h1>
-          <Button className="flex items-center gap-2 p-2 bg-primary text-white rounded-lg hover:bg-blue-700">
-            <Download className="h-4 w-4" />
-            Download Report
-          </Button>
+    <ReportLayout
+      title="Revenue Insights"
+      description="Comprehensive analysis of channel performance, viewer behavior, and audience metrics"
+      action={
+        <div className="flex gap-4">
+          <Button>Export Report</Button>
         </div>
-        <p className="mt-4 text-lg text-muted-foreground">
-          Comprehensive analysis of revenue streams, advertiser performance, and
-          content monetization strategies.
-        </p>
-      </div>
-
-      {/* Executive Summary */}
-      <section className="mb-12 bg-card border p-6 rounded-lg shadow">
-        <h2 className="text-2xl font-bold mb-4">Executive Summary</h2>
-        <p className="text-foreground/75 mb-4">
-          Our revenue analysis reveals strong growth trends, with significant
-          contributions from entertainment and sports genres. Prime time slots
-          continue to be our most lucrative, while key events drive substantial
-          revenue spikes.
-        </p>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
-          <div className="bg-blue-600/25 p-4 rounded-lg">
-            <h3 className="font-semibold text-blue-900">
-              Total Annual Revenue
-            </h3>
-            <p className="text-2xl font-bold text-blue-600">$22.65M</p>
-          </div>
-          <div className="bg-emerald-600/25 p-4 rounded-lg">
-            <h3 className="font-semibold text-green-900">
-              Top Performing Genre
-            </h3>
-            <p className="text-2xl font-bold text-green-600">Entertainment</p>
-          </div>
-          <div className="bg-amber-600/25 p-4 rounded-lg">
-            <h3 className="font-semibold text-orange-900">
-              Prime Time Revenue
-            </h3>
-            <p className="text-2xl font-bold text-orange-600">$9M</p>
+      }
+      footer={
+        <div className="flex justify-between items-center w-full text-sm text-muted-foreground">
+          {/* <div>Last updated: {currentDate}</div> */}
+          <div className="flex gap-4">
+            <span>Data source: TV Analytics Platform</span>
+            <span>•</span>
+            <span>Report ID: TV-ANALYTICS-2025-01</span>
           </div>
         </div>
-      </section>
-
-      {/* Key Findings */}
+      }
+    >
       <section className="mb-12">
         <h2 className="text-2xl font-bold mb-6">Key Findings</h2>
         <div className="grid grid-cols-1 gap-8">
           {/* Revenue Trends */}
           <div className="space-y-6">
             <h3 className="text-xl font-semibold">1. Revenue Trends</h3>
-            <Card>
-              <CardHeader>
-                <div className="flex items-center justify-between">
-                  <CardTitle className="flex items-center gap-2">
-                    <TrendingUp className="h-5 w-5" />
-                    Revenue Trends
-                  </CardTitle>
-                  <Select value={timeFrame} onValueChange={setTimeFrame}>
-                    <SelectTrigger className="w-[180px]">
-                      <SelectValue placeholder="Select Time Frame" />
-                    </SelectTrigger>
-                    <SelectContent>
-                      <SelectItem value="Monthly">Monthly</SelectItem>
-                      <SelectItem value="Quarterly">Quarterly</SelectItem>
-                      <SelectItem value="Yearly">Yearly</SelectItem>
-                    </SelectContent>
-                  </Select>
-                </div>
-              </CardHeader>
-              <CardContent>
-                <div className="h-[400px]">
-                  <ResponsiveContainer width="100%" height="100%">
-                    <LineChart data={revenueData}>
-                      <CartesianGrid strokeDasharray="3 3" />
-                      <XAxis dataKey="month" />
-                      <YAxis />
-                      <Tooltip content={<CustomTooltip />} />
-                      <Legend />
-                      <Line
-                        type="monotone"
-                        dataKey="revenue"
-                        stroke={CHART_COLORS[0]}
-                        activeDot={{ r: 8 }}
-                      />
-                    </LineChart>
-                  </ResponsiveContainer>
-                </div>
-              </CardContent>
-            </Card>
+
+            <ChartCard
+              icon={<LineChartIcon className="w-6 h-6" />}
+              title="Revenue Trends"
+              // description="View GRP of ads across 4 breaks for different TV channels."
+              chart={
+                <ResponsiveContainer width="100%" height={400}>
+                  <LineChart
+                    data={revenueData}
+                    margin={{
+                      left: 36,
+                      right: 12,
+                      top: 34,
+                    }}
+                  >
+                    <CartesianGrid strokeDasharray="3 3" horizontal={false} />
+                    <XAxis
+                      dataKey="month"
+                      tickLine={false}
+                      axisLine={false}
+                      tickMargin={8}
+                    />
+                    <YAxis
+                      tickLine={false}
+                      axisLine={false}
+                      tickMargin={8}
+                      tickCount={5}
+                    />
+                    <Tooltip content={<CustomTooltip />} />
+                    {/* <Legend /> */}
+                    <Line
+                      type="monotone"
+                      dataKey="revenue"
+                      stroke={CHART_COLORS[0]}
+                      activeDot={{ r: 8 }}
+                      strokeWidth={2}
+                    />
+                  </LineChart>
+                </ResponsiveContainer>
+              }
+              footer={
+                <p className="text-sm text-gray-500">
+                  This line graph shows an increase in revenue over the months,
+                  indicating a positive growth trend.
+                </p>
+              }
+            />
           </div>
 
           {/* Revenue by Genre and Time Slot */}
           <div className="space-y-6">
             <h3 className="text-xl font-semibold">
-              2. Revenue by Genre and Time Slot
+              2. Revenue by Genre and Industry Distribution
             </h3>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-              <Card>
-                <CardHeader>
-                  <CardTitle className="flex items-center gap-2">
-                    <Tv className="h-5 w-5" />
-                    Revenue by Genre
-                  </CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="h-[300px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <PieChart>
-                        <Pie
-                          data={genreRevenueData}
-                          cx="50%"
-                          cy="50%"
-                          labelLine={false}
-                          outerRadius={80}
-                          fill="#8884d8"
-                          dataKey="revenue"
-                          label={({ name, percent }) =>
-                            `${name} ${(percent * 100).toFixed(0)}%`
-                          }
-                        >
-                          {genreRevenueData.map((entry, index) => (
-                            <Cell
-                              key={`cell-${index}`}
-                              fill={CHART_COLORS[index % CHART_COLORS.length]}
-                            />
-                          ))}
-                        </Pie>
-                        <Tooltip />
-                        <Legend />
-                      </PieChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
-
-              <Card>
-                <CardHeader>
-                  <CardTitle className="flex items-center gap-2">
-                    <Clock className="h-5 w-5" />
-                    Revenue by Time Slot
-                  </CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="h-[300px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={timeSlotRevenueData}>
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis dataKey="slot" />
-                        <YAxis />
-                        <Tooltip />
-                        <Legend />
-                        <Bar dataKey="revenue" fill={CHART_COLORS[1]} />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
+              <GenreRevenuePieChart />
+              <IndustryAdvertiserPieChart />
             </div>
           </div>
 
           {/* Top Advertisers and Industry Distribution */}
           <div className="space-y-6">
-            <h3 className="text-xl font-semibold">
-              3. Top Advertisers and Industry Distribution
-            </h3>
+            <h3 className="text-xl font-semibold">3. Top Advertisers</h3>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-              <Card>
-                <CardHeader>
-                  <CardTitle className="flex items-center gap-2">
-                    <Users className="h-5 w-5" />
-                    Top Advertisers
-                  </CardTitle>
-                </CardHeader>
-                <CardContent>
+              <ChartCard
+                icon={<Table2 className="w-6 h-6" />}
+                title="Top Advertisers"
+                description="Percentage of Total Revenue"
+                chart={
                   <Table>
                     <TableHeader>
                       <TableRow>
@@ -356,46 +279,13 @@ const RevenueInsights = () => {
                       ))}
                     </TableBody>
                   </Table>
-                </CardContent>
-              </Card>
-
-              <Card>
-                <CardHeader>
-                  <CardTitle className="flex items-center gap-2">
-                    <DollarSign className="h-5 w-5" />
-                    Industry-wise Advertiser Distribution
-                  </CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="h-[300px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <PieChart>
-                        <Pie
-                          data={industryDistribution}
-                          cx="50%"
-                          cy="50%"
-                          labelLine={false}
-                          outerRadius={80}
-                          fill="#8884d8"
-                          dataKey="percentage"
-                          label={({ name, percent }) =>
-                            `${name} ${(percent * 100).toFixed(0)}%`
-                          }
-                        >
-                          {industryDistribution.map((entry, index) => (
-                            <Cell
-                              key={`cell-${index}`}
-                              fill={CHART_COLORS[index % CHART_COLORS.length]}
-                            />
-                          ))}
-                        </Pie>
-                        <Tooltip />
-                        <Legend />
-                      </PieChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
+                    Top Advertisers Last Year
+                  </p>
+                }
+              />
             </div>
           </div>
 
@@ -405,63 +295,103 @@ const RevenueInsights = () => {
               4. Top and Underperforming Programs
             </h3>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-              <Card>
-                <CardHeader>
-                  <CardTitle className="flex items-center gap-2">
-                    <TrendingUp className="h-5 w-5" />
-                    Top Performing Programs
-                  </CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="h-[300px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={topPerformingPrograms} layout="vertical">
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis type="number" />
-                        <YAxis dataKey="name" type="category" width={150} />
-                        <Tooltip />
-                        <Legend />
-                        <Bar dataKey="revenue" fill={CHART_COLORS[2]} />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
+              <ChartCard
+                icon={<BarChart2 className="w-6 h-6" />}
+                title="Top Performing Programs"
+                description="Most performing channels this year"
+                chart={
+                  <ResponsiveContainer width="100%" height={400}>
+                    <BarChart data={topPerformingPrograms} layout="vertical">
+                      <CartesianGrid strokeDasharray="3 3" horizontal={false} />
 
-              <Card>
-                <CardHeader>
-                  <CardTitle className="flex items-center gap-2">
-                    <AlertTriangle className="h-5 w-5" />
-                    Underperforming Programs
-                  </CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="h-[300px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart
-                        data={underperformingPrograms}
-                        layout="vertical"
-                      >
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis type="number" />
-                        <YAxis dataKey="name" type="category" width={150} />
-                        <Tooltip />
-                        <Legend />
-                        <Bar
-                          dataKey="revenue"
-                          fill={CHART_COLORS[3]}
-                          name="Current Revenue"
-                        />
-                        <Bar
-                          dataKey="potentialRevenue"
-                          fill={CHART_COLORS[4]}
-                          name="Potential Revenue"
-                        />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
+                      <XAxis
+                        type="number"
+                        tickLine={false}
+                        tickMargin={10}
+                        axisLine={false}
+                        tickCount={3}
+                        fontSize={12}
+                      />
+                      <YAxis
+                        type="category"
+                        dataKey="name"
+                        tickLine={false}
+                        axisLine={false}
+                        tickMargin={8}
+                        width={120}
+                        fontSize={12}
+                      />
+                      <Tooltip />
+                      <Legend />
+                      <Bar
+                        radius={16}
+                        dataKey="revenue"
+                        fill={CHART_COLORS[2]}
+                      />
+                    </BarChart>
+                  </ResponsiveContainer>
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
+                    Top-performing programs, with "Prime Time News" leading the
+                    list, generating the highest revenue.
+                  </p>
+                }
+              />
+
+              <ChartCard
+                icon={<BarChart2 className="w-6 h-6" />}
+                title="Underperforming Programs"
+                description="low performing programms this year"
+                chart={
+                  <ResponsiveContainer width="100%" height={400}>
+                    <BarChart
+                      data={underperformingPrograms}
+                      layout="vertical"
+                      margin={16}
+                    >
+                      <CartesianGrid strokeDasharray="3 3" horizontal={false} />
+
+                      <XAxis
+                        type="number"
+                        tickLine={false}
+                        tickMargin={10}
+                        axisLine={false}
+                        tickCount={3}
+                        fontSize={12}
+                      />
+                      <YAxis
+                        type="category"
+                        dataKey="name"
+                        tickLine={false}
+                        axisLine={false}
+                        tickMargin={8}
+                        width={120}
+                        fontSize={12}
+                      />
+                      <Tooltip />
+                      <Legend />
+                      <Bar
+                        radius={16}
+                        dataKey="revenue"
+                        fill={CHART_COLORS[3]}
+                        name="Current Revenue"
+                      />
+                      <Bar
+                        radius={16}
+                        dataKey="potentialRevenue"
+                        fill={CHART_COLORS[4]}
+                        name="Potential Revenue"
+                      />
+                    </BarChart>
+                  </ResponsiveContainer>
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
+                    Least-performing programs, with "Weekend Documentary"
+                  </p>
+                }
+              />
             </div>
           </div>
 
@@ -471,122 +401,94 @@ const RevenueInsights = () => {
               5. Event-based Revenue Analysis
             </h3>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-              <Card>
-                <CardHeader>
-                  <CardTitle className="flex items-center gap-2">
-                    <Zap className="h-5 w-5" />
-                    Revenue Spikes During Key Events
-                  </CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="h-[300px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={keyEvents}>
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis dataKey="event" />
-                        <YAxis />
-                        <Tooltip />
-                        <Legend />
-                        <Bar
-                          dataKey="revenue"
-                          fill={CHART_COLORS[5]}
-                          name="Event Revenue"
-                        />
-                        <Bar
-                          dataKey="normalRevenue"
-                          fill={CHART_COLORS[0]}
-                          name="Normal Revenue"
-                        />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
+              <ChartCard
+                icon={<BarChart2 className="w-6 h-6" />}
+                title="Revenue Spikes During Key Events"
+                // description="Most performing channels this year"
+                chart={
+                  <ResponsiveContainer width="100%" height={400}>
+                    <BarChart data={keyEvents}>
+                      <CartesianGrid strokeDasharray="3 3" />
+                      <XAxis
+                        dataKey="event"
+                        tickLine={false}
+                        tickMargin={10}
+                        axisLine={false}
+                        tickCount={3}
+                        fontSize={12}
+                        width={120}
+                      />
+                      <YAxis tickLine={false} axisLine={false} fontSize={12} />
+                      <Tooltip />
+                      <Legend />
+                      <Bar
+                        radius={16}
+                        dataKey="revenue"
+                        fill={CHART_COLORS[5]}
+                        name="Event Revenue"
+                      />
+                      <Bar
+                        radius={16}
+                        dataKey="normalRevenue"
+                        fill={CHART_COLORS[0]}
+                        name="Normal Revenue"
+                      />
+                    </BarChart>
+                  </ResponsiveContainer>
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
+                    Most revenue making channles during on going events
+                  </p>
+                }
+              />
 
-              <Card>
-                <CardHeader>
-                  <CardTitle className="flex items-center gap-2">
-                    <Calendar className="h-5 w-5" />
-                    Projected Revenue for Future Events
-                  </CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="h-[300px]">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={futureEvents}>
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis dataKey="event" />
-                        <YAxis />
-                        <Tooltip />
-                        <Legend />
-                        <Bar
-                          dataKey="projectedRevenue"
-                          fill={CHART_COLORS[1]}
-                          name="Projected Event Revenue"
-                        />
-                        <Bar
-                          dataKey="normalRevenue"
-                          fill={CHART_COLORS[2]}
-                          name="Normal Revenue"
-                        />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
+              <ChartCard
+                icon={<BarChart2 className="w-6 h-6" />}
+                title="Projected Revenue for Future Events"
+                // description="Most performing channels this year"
+                chart={
+                  <ResponsiveContainer width="100%" height={400}>
+                    <BarChart data={futureEvents}>
+                      <CartesianGrid strokeDasharray="3 3" />
+                      <XAxis
+                        dataKey="event"
+                        tickLine={false}
+                        tickMargin={10}
+                        axisLine={false}
+                        tickCount={3}
+                        fontSize={12}
+                        width={120}
+                      />
+                      <YAxis tickLine={false} axisLine={false} fontSize={12} />
+                      <Tooltip />
+                      <Legend />
+                      <Bar
+                        radius={16}
+                        dataKey="projectedRevenue"
+                        fill={CHART_COLORS[1]}
+                        name="Projected Event Revenue"
+                      />
+                      <Bar
+                        radius={16}
+                        dataKey="normalRevenue"
+                        fill={CHART_COLORS[2]}
+                        name="Normal Revenue"
+                      />
+                    </BarChart>
+                  </ResponsiveContainer>
+                }
+                footer={
+                  <p className="text-sm text-gray-500">
+                    Most revenue making channles during on going events
+                  </p>
+                }
+              />
             </div>
           </div>
         </div>
       </section>
-
-      {/* Recommendations */}
-      <section className="mb-12 bg-card border p-6 rounded-lg shadow">
-        <h2 className="text-2xl font-bold mb-4">Recommendations</h2>
-        <div className="space-y-4">
-          <div className="p-4 bg-blue-600/25 rounded-lg">
-            <h3 className="font-semibold text-blue-900 mb-2">
-              Optimize Prime Time Content
-            </h3>
-            <p className="text-foreground/75">
-              Focus on enhancing prime time (6PM-10PM) content quality and ad
-              strategies to maximize revenue during this peak viewing period.
-            </p>
-          </div>
-          <div className="p-4 bg-emerald-600/25 rounded-lg">
-            <h3 className="font-semibold text-green-900 mb-2">
-              Boost Underperforming Programs
-            </h3>
-            <p className="text-foreground/75">
-              Develop strategies to improve the Late Night Talk Show and Weekend
-              Documentary, aiming to bridge the gap between current and
-              potential revenue.
-            </p>
-          </div>
-          <div className="p-4 bg-amber-600/25 rounded-lg">
-            <h3 className="font-semibold text-orange-900 mb-2">
-              Leverage High-Impact Events
-            </h3>
-            <p className="text-foreground/75">
-              Create special programming and targeted ad packages for upcoming
-              events like Tihar Festival and National Elections to capitalize on
-              potential revenue spikes.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* Methodology Note */}
-      <section className="text-sm text-muted-foreground mt-8">
-        <h2 className="text-lg font-semibold mb-2">Methodology</h2>
-        <p>
-          This report analyzes revenue data collected from our internal
-          financial systems, advertiser contracts, and viewership metrics. The
-          data covers the most recent fiscal year and is compared against
-          historical trends where applicable. All financial figures are in USD,
-          and percentages are rounded to the nearest whole number.
-        </p>
-      </section>
-    </div>
+    </ReportLayout>
   );
 };
 

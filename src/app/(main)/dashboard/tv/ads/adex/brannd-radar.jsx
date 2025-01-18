@@ -1,5 +1,8 @@
-import React, { useState, useMemo } from "react";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+"use client";
+
+import React, { useState } from "react";
+import { RadarIcon, TrendingUp } from "lucide-react";
+import { PolarAngleAxis, PolarGrid, Radar, RadarChart } from "recharts";
 import {
   Select,
   SelectContent,
@@ -8,17 +11,21 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import {
-  RadarChart,
-  PolarGrid,
-  PolarAngleAxis,
-  PolarRadiusAxis,
-  Radar,
-  Legend,
-  ResponsiveContainer,
-  Tooltip,
-} from "recharts";
+  Card,
+  CardContent,
+  CardDescription,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import {
+  ChartConfig,
+  ChartContainer,
+  ChartTooltip,
+  ChartTooltipContent,
+} from "@/components/ui/chart";
+import ChartCard from "@/components/card/charts-card";
 
-// Mock data for brands
 const brandData = {
   "Wai Wai": {
     color: "#FF6B6B",
@@ -58,107 +65,82 @@ const brandData = {
   },
 };
 
-// Normalize data to 0-100 scale for radar chart
-const normalizeValue = (value, metric, allBrands) => {
-  const values = Object.values(allBrands).map((brand) => brand.metrics[metric]);
-  const max = Math.max(...values);
-  return (value / max) * 100;
-};
+export default function Component() {
+  const [selectedBrand, setSelectedBrand] = useState("Wai Wai");
 
-const BrandRadarChart = () => {
-  const [selectedBrand, setSelectedBrand] = useState("all");
+  // Transform the data for the radar chart
+  const chartData = Object.keys(brandData[selectedBrand].metrics).map(
+    (metric) => ({
+      metric,
+      value: brandData[selectedBrand].metrics[metric],
+    })
+  );
 
-  const normalizedData = useMemo(() => {
-    const metrics = [
-      "GRP",
-      "Ad Spend",
-      "Reach per Ad spot",
-      "Total No. of Spots",
-    ];
-
-    return metrics.map((metric) => {
-      const dataPoint = {
-        metric,
-        fullMetric: metric,
-      };
-
-      Object.entries(brandData).forEach(([brand, data]) => {
-        dataPoint[brand] = normalizeValue(
-          data.metrics[metric],
-          metric,
-          brandData
-        );
-      });
-
-      return dataPoint;
-    });
-  }, []);
-
-  const getTooltipContent = (metric, value, brand) => {
-    const originalValue = brandData[brand].metrics[metric];
-    if (metric === "Ad Spend") {
-      return `NPR ${(originalValue / 1000).toFixed(0)}K`;
-    }
-    return originalValue.toFixed(0);
+  // Normalize values to 0-100 scale for better visualization
+  const maxValues = {
+    GRP: 100,
+    "Ad Spend": 1500000,
+    "Reach per Ad spot": 100,
+    "Total No. of Spots": 600,
   };
 
-  const visibleBrands = useMemo(() => {
-    if (selectedBrand === "all") {
-      return Object.keys(brandData);
-    }
-    return [selectedBrand];
-  }, [selectedBrand]);
+  const normalizedChartData = chartData.map((item) => ({
+    metric: item.metric,
+    value: (item.value / maxValues[item.metric]) * 100,
+  }));
+
+  const chartConfig = {
+    performance: {
+      label: "Performance",
+      color: brandData[selectedBrand].color,
+    },
+  };
 
   return (
-    <Card className="w-full">
-      <CardHeader>
-        <div className="flex items-center justify-between">
-          <CardTitle>Brand Performance Comparison</CardTitle>
-          <Select value={selectedBrand} onValueChange={setSelectedBrand}>
-            <SelectTrigger className="w-[280px]">
-              <SelectValue placeholder="Select brand" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="all">All Brands</SelectItem>
-              {Object.keys(brandData).map((brand) => (
-                <SelectItem key={brand} value={brand}>
-                  {brand}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-        </div>
-      </CardHeader>
-      <CardContent>
-        <div className="h-[500px] w-full">
-          <ResponsiveContainer width="100%" height="100%">
-            <RadarChart outerRadius={150} data={normalizedData}>
-              <PolarGrid />
-              <PolarAngleAxis dataKey="metric" />
-              <PolarRadiusAxis angle={30} domain={[0, 100]} />
-              {visibleBrands.map((brand) => (
-                <Radar
-                  key={brand}
-                  name={brand}
-                  dataKey={brand}
-                  stroke={brandData[brand].color}
-                  fill={brandData[brand].color}
-                  fillOpacity={0.3}
-                />
-              ))}
-              <Tooltip
-                formatter={(value, name, props) => [
-                  getTooltipContent(props.payload.fullMetric, value, name),
-                  name,
-                ]}
-              />
-              <Legend />
-            </RadarChart>
-          </ResponsiveContainer>
-        </div>
-      </CardContent>
-    </Card>
+      <ChartCard
+      icon={<RadarIcon className="w-6 h-6" />}
+      title="Channel Performance Analysis"
+      description="Comparing key performance metrics across channels."
+      action={<div className="flex items-center justify-end">
+        <Select value={selectedBrand} onValueChange={setSelectedBrand}>
+          <SelectTrigger className="w-48">
+            <SelectValue placeholder="Select brand" />
+          </SelectTrigger>
+          <SelectContent>
+            {Object.keys(brandData).map((brand) => (
+              <SelectItem key={brand} value={brand}>
+                {brand}
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
+      </div>}
+      chart={
+       <ChartContainer
+          config={chartConfig}
+          className="flex items-center justify-center w-full max-h-[450px]"
+        >
+          <RadarChart data={normalizedChartData} margin={40}>
+            <ChartTooltip
+              cursor={false}
+              content={<ChartTooltipContent hideLabel />}
+            />
+            <PolarGrid className="fill-current opacity-20" />
+            <PolarAngleAxis dataKey="metric" />
+            <Radar
+              dataKey="value"
+              fill={brandData[selectedBrand].color}
+              fillOpacity={0.5}
+              stroke={brandData[selectedBrand].color}
+            />
+          </RadarChart>
+        </ChartContainer>
+      }
+      footer={
+        <p className="text-sm text-gray-500">
+          Data generated dynamically. Updated based on your selection.
+        </p>
+      }
+    />
   );
-};
-
-export default BrandRadarChart;
+}

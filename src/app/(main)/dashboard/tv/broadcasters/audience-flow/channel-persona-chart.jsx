@@ -8,6 +8,7 @@ import {
   Tooltip,
   Legend,
   ResponsiveContainer,
+  LabelList,
 } from "recharts";
 import {
   Select,
@@ -55,7 +56,7 @@ const PersonaTimeSpentChart = () => {
   const generatePersonaTimeSpentData = (channel) => {
     const personaData = Object.keys(personaDescriptions).map((persona) => ({
       name: persona.replace("-", " ").toUpperCase(),
-      timeSpent: Math.floor(Math.random() * 10) + 1, // Random time spent data (in minutes)
+      timeSpent: Math.floor(Math.random() * 100) + 1, // Random time spent data (in minutes)
     }));
 
     return personaData;
@@ -88,7 +89,7 @@ const PersonaTimeSpentChart = () => {
       chart={
         <ResponsiveContainer width="100%" height={400}>
           <BarChart data={personaTimeSpentData}>
-            <CartesianGrid vertical={false} />
+            <CartesianGrid vertical={false} strokeDasharray="3 3" />
             <XAxis
               dataKey="name"
               tickLine={false}
@@ -100,16 +101,25 @@ const PersonaTimeSpentChart = () => {
               axisLine={false}
               tickMargin={8}
               tickCount={8}
+              tickFormatter={(value) => `${value} m`}
             />
-            <Tooltip />
-            <Legend />
+            <Tooltip formatter={(value) => `${value} minutes`} />
+            {/* <Legend /> */}
             <Bar
               dataKey="timeSpent"
-              fill="#82ca9d"
+              className="fill-primary"
               name="Time Spent (mins)"
-              label={{ position: "top", fontSize: 14 }}
               radius={16}
-            />
+            >
+              <LabelList
+                position="center"
+                offset={12}
+                className="fill-foreground/75"
+                fontSize={16}
+                fontWeight={600}
+                formatter={(value) => `${value} mins`}
+              />
+            </Bar>
           </BarChart>
         </ResponsiveContainer>
       }
