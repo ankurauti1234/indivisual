@@ -20,7 +20,7 @@ export default function AuthPage() {
         >
           <div className="flex justify-center gap-2 md:justify-start">
             <a href="/" className="flex items-center gap-2">
-              <img src="/images/indi.svg" alt="logo" className="h-12" />
+              <img src="/images/indi.png" alt="logo" className="h-12" />
             </a>
           </div>
           <div className="flex flex-1 items-center justify-center">

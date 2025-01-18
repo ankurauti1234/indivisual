@@ -125,18 +125,17 @@ export function AppSidebar({ ...props }) {
       <SidebarHeader>
         <SidebarMenu>
           <SidebarMenuItem>
-            <SidebarMenuButton size="sm" asChild className="hover:bg-black/0 hover:scale-105 transition-all duration-300 flex items-center justify-center">
+            <SidebarMenuButton
+              size="sm"
+              asChild
+              className="hover:bg-black/0 hover:scale-105 transition-all duration-300 flex items-center justify-center"
+            >
               <a href="/dashboard">
-               
-                    <img
-                      src="/assets/indi.svg"
-                      alt="logo"
-                      className="h-6"
-                    />
+                <img src="/assets/indi.png" alt="logo" className="h-6" />
               </a>
             </SidebarMenuButton>
           </SidebarMenuItem>
-          <hr/>
+          <hr />
         </SidebarMenu>
       </SidebarHeader>
       <SidebarContent>

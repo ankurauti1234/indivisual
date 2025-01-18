@@ -1,7 +1,8 @@
-'use client'
+"use client";
 import React, { useState } from "react";
 import {
-BarChart2, Target,
+  BarChart2,
+  Target,
   Tv,
   Users,
   Radio,
@@ -30,7 +31,6 @@ import MorphingText from "@/components/ui/morphing-text";
 import { motion } from "framer-motion";
 import AnalyticsCardStack from "@/components/card/AnalyticsCardStack";
 import AnimatedShinyText from "@/components/ui/animated-shiny-text";
-
 
 const LandingPage = () => {
   const [activeFeature, setActiveFeature] = useState(0);
@@ -141,7 +141,7 @@ const LandingPage = () => {
         <nav className="container mx-auto px-6 py-8 relative">
           <div className="flex items-center justify-between">
             <div className="text-2xl font-bold text-primary flex items-center gap-2">
-              <img src="/images/indi.svg" alt="logo" className="h-7" />
+              <img src="/images/indi.png" alt="logo" className="h-7" />
             </div>
             <div className="hidden md:flex space-x-8">
               <a
@@ -945,7 +945,7 @@ const LandingPage = () => {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
             <div className="space-y-4">
               <div className="flex items-center gap-2">
-                <img src="/images/indi.svg" alt="logo" className="h-7" />
+                <img src="/images/indi.png" alt="logo" className="h-7" />
               </div>
               <p className="text-muted-foreground">
                 Leading the future of TV analytics and audience measurement.
