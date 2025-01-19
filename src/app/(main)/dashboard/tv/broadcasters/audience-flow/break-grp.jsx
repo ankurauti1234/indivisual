@@ -150,7 +150,7 @@ const GrpLineChart = () => {
             <BreakInfoCard
               breakNum="B4"
               time="20:00 - 23:00"
-              description="Night Prime Time"
+              description="Night Block"
             />
           </div>
         </div>
