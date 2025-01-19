@@ -5,6 +5,7 @@ import GenreAdSpend from './genre-ad-spend'
 import CostPerGRP from './cost-per-grp'
 import ReportLayout from '@/components/layout/report-layout'
 import { Button } from '@/components/ui/button'
+import NepalTVSpendChart from './channel-industry-ad-bar'
 
 const page = () => {
     return (
@@ -28,7 +29,9 @@ const page = () => {
         }
       >
         <div className="space-y-6">
+          <NepalTVSpendChart />
           <SectorTreemap />
+
           <div className="flex flex-row gap-6">
             <GenreAdSpend />
             <CostPerGRP />

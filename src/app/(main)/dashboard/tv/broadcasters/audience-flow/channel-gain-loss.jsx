@@ -1,14 +1,6 @@
-"use client";
-
 import React, { useState, useEffect } from "react";
 import { ResponsiveSankey } from "@nivo/sankey";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { LineChartIcon } from "lucide-react";
 import {
   Select,
   SelectContent,
@@ -17,7 +9,6 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import ChartCard from "@/components/card/charts-card";
-import { LineChartIcon } from "lucide-react";
 
 const allChannels = [
   "Kantipur TV",
@@ -38,27 +29,45 @@ const ChannelFlowAnalysis = () => {
   const [targetChannel, setTargetChannel] = useState("Image Channel");
 
   const generateFlowData = () => {
-    const sourceLoss = Math.floor(Math.random() * 2000) + 1000;
-    const targetGain = Math.floor(Math.random() * 2000) + 1000;
+    // Generate base audience numbers for each channel
+    const targetAudience = Math.floor(Math.random() * 50000) + 30000;
+    const mainAudience = Math.floor(Math.random() * 70000) + 50000;
+    const sourceAudience = Math.floor(Math.random() * 40000) + 20000;
+
+    // Generate flow numbers
+    const targetToMain = Math.floor(Math.random() * 5000) + 3000;
+    const mainToSource = Math.floor(Math.random() * 4000) + 2000;
 
     return {
       nodes: [
-        { id: sourceChannel },
-        { id: mainChannel },
-        { id: targetChannel },
+        {
+          id: targetChannel,
+          nodeColor: "#16C47F",
+          totalAudience: targetAudience,
+        },
+        {
+          id: mainChannel,
+          nodeColor: "#FF9D23",
+          totalAudience: mainAudience,
+        },
+        {
+          id: sourceChannel,
+          nodeColor: "#F93827",
+          totalAudience: sourceAudience,
+        },
       ],
       links: [
         {
-          source: sourceChannel,
+          source: targetChannel,
           target: mainChannel,
-          value: sourceLoss,
-          type: "loss",
+          value: targetToMain,
+          gradient: ["#16C47F", "#FF9D23"],
         },
         {
           source: mainChannel,
-          target: targetChannel,
-          value: targetGain,
-          type: "gain",
+          target: sourceChannel,
+          value: mainToSource,
+          gradient: ["#FF9D23", "#F93827"],
         },
       ],
     };
@@ -75,26 +84,26 @@ const ChannelFlowAnalysis = () => {
   };
 
   const customColors = {
-    [sourceChannel]: "#F93827",
-    [mainChannel]: "#FF9D23",
     [targetChannel]: "#16C47F",
+    [mainChannel]: "#FF9D23",
+    [sourceChannel]: "#F93827",
   };
 
   return (
-      <ChartCard
+    <ChartCard
       icon={<LineChartIcon className="w-6 h-6" />}
       title="Channel Audience Flow Analysis"
       description="Analyze audience movement between TV channels"
       action={
-       <div className="grid grid-cols-3 gap-4">
+        <div className="grid grid-cols-3 gap-4">
           <div>
-            <p className="text-sm font-medium mb-2">Source Channel (Loss)</p>
-            <Select value={sourceChannel} onValueChange={setSourceChannel}>
+            <p className="text-sm font-medium mb-2">Target Channel (Source)</p>
+            <Select value={targetChannel} onValueChange={setTargetChannel}>
               <SelectTrigger>
-                <SelectValue placeholder="Select source channel" />
+                <SelectValue placeholder="Select target channel" />
               </SelectTrigger>
               <SelectContent>
-                {getAvailableChannels([mainChannel, targetChannel]).map(
+                {getAvailableChannels([sourceChannel, mainChannel]).map(
                   (channel) => (
                     <SelectItem key={channel} value={channel}>
                       {channel}
@@ -124,13 +133,13 @@ const ChannelFlowAnalysis = () => {
           </div>
 
           <div>
-            <p className="text-sm font-medium mb-2">Target Channel (Gain)</p>
-            <Select value={targetChannel} onValueChange={setTargetChannel}>
+            <p className="text-sm font-medium mb-2">Source Channel (Target)</p>
+            <Select value={sourceChannel} onValueChange={setSourceChannel}>
               <SelectTrigger>
-                <SelectValue placeholder="Select target channel" />
+                <SelectValue placeholder="Select source channel" />
               </SelectTrigger>
               <SelectContent>
-                {getAvailableChannels([sourceChannel, mainChannel]).map(
+                {getAvailableChannels([mainChannel, targetChannel]).map(
                   (channel) => (
                     <SelectItem key={channel} value={channel}>
                       {channel}
@@ -165,6 +174,9 @@ const ChannelFlowAnalysis = () => {
             labelPosition="outside"
             labelOrientation="vertical"
             labelPadding={16}
+            label={(node) =>
+              `${node.id}\n(${node.totalAudience.toLocaleString()} viewers)`
+            }
             labelTextColor={{
               from: "color",
               modifiers: [["darker", 1]],
@@ -199,13 +211,19 @@ const ChannelFlowAnalysis = () => {
                 }}
               >
                 {node ? (
-                  <strong>{node.id}</strong>
+                  <div>
+                    <strong>{node.id}</strong>
+                    <br />
+                    Total Audience: {node.totalAudience.toLocaleString()}{" "}
+                    viewers
+                  </div>
                 ) : (
-                  <>
+                  <div>
                     <strong>{link.source.id}</strong> →{" "}
-                    <strong>{link.target.id}</strong>:{" "}
-                    {link.value.toLocaleString()} viewers
-                  </>
+                    <strong>{link.target.id}</strong>
+                    <br />
+                    Viewers Moved: {link.value.toLocaleString()}
+                  </div>
                 )}
               </div>
             )}
@@ -214,12 +232,11 @@ const ChannelFlowAnalysis = () => {
       }
       footer={
         <p className="text-sm text-gray-500">
-          Data generated dynamically. Updated based on your selection.
+          Data shows total audience per channel and viewer movement between
+          channels. Numbers are simulated.
         </p>
       }
     />
-
-
   );
 };
 

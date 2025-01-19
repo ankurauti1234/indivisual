@@ -1,5 +1,5 @@
 "use client";
-import { useState, useRef, useEffect, useMemo } from "react";
+import { useState, useRef, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import {
   Radio,
@@ -12,121 +12,54 @@ import {
   Heart,
   ZoomIn,
   ZoomOut,
-  Star,
-  Users,
-  Sparkles,
 } from "lucide-react";
 import { channels, allPrograms } from "./data";
-import viewershipData from "./views";
 import { Input } from "@/components/ui/input";
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipProvider,
+  TooltipTrigger,
+} from "@/components/ui/tooltip";
 
 const MIN_HOUR_WIDTH = 750;
 const MAX_HOUR_WIDTH = 7500;
 const TIMELINE_HEIGHT = 60;
 const CHANNEL_HEIGHT = 120;
-const HOURS_IN_DAY = 24;
-const VIEWERSHIP_HEIGHT = 60; // Height for viewership graph
-const MINUTE_WIDTH = 2; // 2px per minute
+const HOURS_IN_DAY = 12; // Changed from 24 to 12 (9am to 9pm)
 
-// Helper function to get max viewership across all channels
-const getMaxViewership = () => {
-  let max = 0;
-  Object.keys(viewershipData).forEach((channelId) => {
-    viewershipData[channelId].viewership.forEach((point) => {
-      if (point.viewers > max) max = point.viewers;
-    });
-  });
-  return max;
-};
 
-const formatViewers = (viewers) => {
-  if (viewers >= 1000000) {
-    return `${(viewers / 1000000).toFixed(1)}M`;
-  } else if (viewers >= 1000) {
-    return `${(viewers / 1000).toFixed(1)}K`;
-  }
-  return viewers.toString();
-};
-
-// Helper function to get viewership for a specific time
-const getViewershipForTime = (channelId, time) => {
-  const channel = viewershipData[channelId];
-  if (!channel) return 0;
-
-  const timeString = time.toTimeString().slice(0, 8);
-
-  const viewershipPoint = channel.viewership.find((v) => v.time === timeString);
-  return viewershipPoint ? viewershipPoint.viewers : 0;
-};
-
-export function NewTVSchedule() {
+export function NewTVSchedule() { 
   const [selectedProgram, setSelectedProgram] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
-  const [favorites, setFavorites] = useState([]);
   const [selectedDate, setSelectedDate] = useState(new Date());
-  const [view, setView] = useState("grid");
-  const [hourWidth, setHourWidth] = useState(1500);
-  const [hoverInfo, setHoverInfo] = useState(null);
+  const [hourWidth, setHourWidth] = useState(7500);
   const scrollContainerRef = useRef(null);
   const now = new Date();
-  const maxViewership = getMaxViewership();
 
   const [timeRange, setTimeRange] = useState(() => {
     const start = new Date(now);
-    start.setHours(0, 0, 0, 0);
+    start.setHours(9, 0, 0, 0);
     const end = new Date(start);
-    end.setHours(23, 59, 59, 999);
+    end.setHours(21, 0, 0, 0);
     return { start, end };
   });
 
-  const [brushStart, setBrushStart] = useState(null);
-  const [brushEnd, setBrushEnd] = useState(null);
-  const [isDragging, setIsDragging] = useState(false);
 
   const [currentTime, setCurrentTime] = useState(now);
 
-  const handleBrushStart = (e) => {
-    const rect = e.currentTarget.getBoundingClientRect();
-    const x = e.clientX - rect.left;
-    setBrushStart(x);
-    setBrushEnd(x);
-    setIsDragging(true);
-  };
-
-  const handleBrushMove = (e) => {
-    if (isDragging) {
-      const rect = e.currentTarget.getBoundingClientRect();
-      const x = Math.max(0, Math.min(e.clientX - rect.left, totalWidth));
-      setBrushEnd(x);
-    }
-  };
-
-  const handleBrushEnd = () => {
-    if (isDragging) {
-      setIsDragging(false);
-      if (brushStart !== null && brushEnd !== null) {
-        const startTime = new Date(
-          timeRange.start.getTime() +
-            (brushStart / totalWidth) * 24 * 60 * 60 * 1000
-        );
-        const endTime = new Date(
-          timeRange.start.getTime() +
-            (brushEnd / totalWidth) * 24 * 60 * 60 * 1000
-        );
-        setTimeRange({ start: startTime, end: endTime });
-        setHourWidth((totalWidth / (endTime - startTime)) * (60 * 60 * 1000));
-      }
-      setBrushStart(null);
-      setBrushEnd(null);
-    }
-  };
-
   useEffect(() => {
-    document.addEventListener("mouseup", handleBrushEnd);
-    return () => {
-      document.removeEventListener("mouseup", handleBrushEnd);
-    };
-  }, [isDragging]);
+    const interval = setInterval(() => {
+      setCurrentTime(new Date());
+    }, 1000);
+
+    return () => clearInterval(interval);
+  }, []);
+
+
+
+
+
 
   const renderTimelineMarks = () => {
     const marks = [];
@@ -145,14 +78,14 @@ export function NewTVSchedule() {
         />
       );
       if (i % 12 === 0) {
-        const hour = i / 12;
+        const hour = i / 12 + 9; // Adjusted to start from 9am
         marks.push(
           <span
             key={`label-${i}`}
             className="absolute top-6 text-xs font-medium text-gray-500"
             style={{ left: `${left + 4}px` }}
           >
-            {`${hour === 0 ? "12" : hour > 12 ? hour - 12 : hour}${
+            {`${hour === 12 ? "12" : hour > 12 ? hour - 12 : hour}${
               hour >= 12 ? "PM" : "AM"
             }`}
           </span>
@@ -162,156 +95,34 @@ export function NewTVSchedule() {
     return marks;
   };
 
-  // Function to render viewership graph for a channel
-  const renderViewershipGraph = (channelId) => {
-    const minutesPerPoint = 5;
-    const pointsCount = (24 * 60) / minutesPerPoint;
+  const calculateProgramPosition = (program) => {
+    const startTime = timeStringToDate(program.startTime);
+    const endTime = timeStringToDate(program.endTime);
 
-    const dataPoints = useMemo(() => {
-      const points = [];
-      let maxViewersForChannel = 0;
-      let maxViewersTime = null;
-      let totalViewers = 0;
+    // Handle programs that span across midnight
+    if (endTime < startTime) {
+      endTime.setDate(endTime.getDate() + 1);
+    }
 
-      for (let i = 0; i < pointsCount; i++) {
-        const time = new Date(timeRange.start);
-        time.setMinutes(time.getMinutes() + i * minutesPerPoint);
+    const rangeStart = new Date(timeRange.start);
+    rangeStart.setHours(9, 0, 0, 0);
 
-        if (time > currentTime) break;
-
-        const viewers = getViewershipForTime(channelId, time);
-
-        totalViewers += viewers;
-        if (viewers > maxViewersForChannel) {
-          maxViewersForChannel = viewers;
-          maxViewersTime = time;
-        }
-
-        points.push({
-          time,
-          viewers,
-          x: ((i * minutesPerPoint) / 60) * hourWidth,
-          y: VIEWERSHIP_HEIGHT - (viewers / maxViewership) * VIEWERSHIP_HEIGHT,
-        });
-      }
-
-      return {
-        points,
-        maxViewers: maxViewersForChannel,
-        maxViewersTime,
-        averageViewers: totalViewers / points.length,
-      };
-    }, [channelId, timeRange.start, hourWidth, maxViewership, currentTime]);
-
-    // Generate smooth line path
-    const linePath = dataPoints.points.reduce((acc, point, i) => {
-      if (i === 0) return `M ${point.x},${point.y}`;
-      const prevPoint = dataPoints.points[i - 1];
-      const cpX = (point.x - prevPoint.x) / 2;
-      return `${acc} C ${prevPoint.x + cpX},${prevPoint.y} ${point.x - cpX},${
-        point.y
-      } ${point.x},${point.y}`;
-    }, "");
-
-    const handleMouseMove = (e) => {
-      const rect = e.currentTarget.getBoundingClientRect();
-      const x = e.clientX - rect.left;
-      const timeAtX = new Date(
-        timeRange.start.getTime() + (x / hourWidth) * 60 * 60 * 1000
-      );
-      const viewers = getViewershipForTime(channelId, timeAtX);
-      const y =
-        VIEWERSHIP_HEIGHT - (viewers / maxViewership) * VIEWERSHIP_HEIGHT;
-
-      setHoverInfo({
-        x,
-        y,
-        time: timeAtX,
-        viewers,
-        pageX: e.pageX,
-        pageY: e.pageY,
-        channelId,
-      });
-    };
-
-    const handleMouseLeave = () => setHoverInfo(null);
-
-    const currentX =
-      ((currentTime - timeRange.start) / (1000 * 60 * 60)) * hourWidth;
-    const currentViewership = getViewershipForTime(channelId, currentTime);
-    const currentY =
-      VIEWERSHIP_HEIGHT -
-      (currentViewership / maxViewership) * VIEWERSHIP_HEIGHT;
-
-    return (
-      <g className="viewership-graph">
-        {/* Base line */}
-        <line
-          x1="0"
-          y1={VIEWERSHIP_HEIGHT}
-          x2={totalWidth}
-          y2={VIEWERSHIP_HEIGHT}
-          stroke="#374151"
-          strokeWidth="4"
-          className="opacity-20 hidden"
-        />
-
-        {/* Main line graph */}
-        <path
-          d={linePath}
-          fill="none"
-          stroke="#EB8317"
-          strokeWidth="2.5"
-          className="opacity-100"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-        />
-
-        {/* Current viewership dot and label */}
-        <g transform={`translate(${currentX},${currentY})`}>
-          <circle r="4" fill="#EB8317" className="animate-pulse" />
-          <circle r="6" fill="#EB8317" className="opacity-20" />
-          {/* <text
-          x="8"
-          y="0"
-          dy=".3em"
-          fill="#EB8317"
-          className="text-xs font-medium"
-        >
-          {formatViewers(currentViewership)} viewers
-        </text> */}
-        </g>
-
-        {/* Peak viewership indicator */}
-        <g
-          transform={`translate(${
-            ((dataPoints.maxViewersTime - timeRange.start) / (1000 * 60 * 60)) *
-            hourWidth
-          },${
-            VIEWERSHIP_HEIGHT -
-            (dataPoints.maxViewers / maxViewership) * VIEWERSHIP_HEIGHT
-          })`}
-        >
-          <Sparkles
-            size={25}
-            fill="#FFE700"
-            stroke="#EB8317"
-            strokeWidth={1.5}
-            className="animate-pulse"
-          />
-          <text
-            x="0"
-            y="0"
-            fill="#006BFF"
-            className="text-xs font-bold "
-            dy=".3em"
-          >
-            Peak: {formatViewers(dataPoints.maxViewers)}
-          </text>
-        </g>
-      </g>
+    const left = Math.max(
+      0,
+      ((startTime.getTime() - rangeStart.getTime()) / (1000 * 60 * 60)) *
+        hourWidth
     );
+    const width = Math.max(
+      0,
+      ((endTime.getTime() -
+        Math.max(startTime.getTime(), rangeStart.getTime())) /
+        (1000 * 60 * 60)) *
+        hourWidth
+    );
+
+    return { left, width };
   };
+
 
   const filteredPrograms = allPrograms.filter((program) =>
     program.title.toLowerCase().includes(searchQuery.toLowerCase())
@@ -393,13 +204,6 @@ export function NewTVSchedule() {
     return () => clearInterval(interval);
   }, []);
 
-  const toggleFavorite = (programId) => {
-    setFavorites((prev) =>
-      prev.includes(programId)
-        ? prev.filter((id) => id !== programId)
-        : [...prev, programId]
-    );
-  };
 
   const changeDate = (days) => {
     const newDate = new Date(selectedDate);
@@ -420,21 +224,9 @@ export function NewTVSchedule() {
     return date;
   };
 
-  // Helper function to calculate position and width
-  const calculateProgramPosition = (program) => {
-    const startTime = timeStringToDate(program.startTime);
-    const endTime = timeStringToDate(program.endTime);
+  
 
-    // Handle programs that span across midnight
-    if (endTime < startTime) {
-      endTime.setDate(endTime.getDate() + 1);
-    }
 
-    const left = ((startTime - timeRange.start) / (1000 * 60 * 60)) * hourWidth;
-    const width = ((endTime - startTime) / (1000 * 60 * 60)) * hourWidth;
-
-    return { left, width };
-  };
 
   return (
     <div className="min-h-[50vh] w-full bg-card text-foreground border overflow-hidden">
@@ -540,21 +332,8 @@ export function NewTVSchedule() {
               <div
                 className="sticky top-0 border-b border-gray-200 dark:border-gray-800 bg-popover/95 dark:bg-black/95 backdrop-blur-xl z-10"
                 style={{ height: TIMELINE_HEIGHT }}
-                // onMouseDown={handleBrushStart}
-                // onMouseMove={handleBrushMove}
               >
-                <div className="relative h-full">
-                  {renderTimelineMarks()}
-                  {brushStart !== null && brushEnd !== null && (
-                    <div
-                      className="absolute top-0 h-full bg-blue-200 dark:bg-blue-800 opacity-50"
-                      style={{
-                        left: `${Math.min(brushStart, brushEnd)}px`,
-                        width: `${Math.abs(brushEnd - brushStart)}px`,
-                      }}
-                    />
-                  )}
-                </div>
+                <div className="relative h-full">{renderTimelineMarks()}</div>
               </div>
 
               {/* Programs */}
@@ -565,14 +344,6 @@ export function NewTVSchedule() {
                     className="relative border-b border-gray-200 dark:border-gray-800"
                     style={{ height: CHANNEL_HEIGHT }}
                   >
-                    <svg
-                      className="absolute top-5 left-0 h-full w-full z-50"
-                      style={{ height: VIEWERSHIP_HEIGHT }}
-                      preserveAspectRatio="none"
-                    >
-                      {renderViewershipGraph(channel.id)}
-                    </svg>
-
                     {filteredPrograms
                       .filter((program) => program.channel === channel.id)
                       .map((program) => {
@@ -580,12 +351,8 @@ export function NewTVSchedule() {
                           calculateProgramPosition(program);
                         const isLiveProgram = isLive(program);
 
-                        // Don't render if program is completely outside visible area
-                        if (left + width < 0 || left > totalWidth) {
-                          return null;
-                        }
+                        if (left + width < 0 || left > totalWidth) return null;
 
-                        // Adjust left and width to handle partial visibility
                         const adjustedLeft = Math.max(0, left);
                         const adjustedWidth = Math.min(
                           width,
@@ -593,46 +360,69 @@ export function NewTVSchedule() {
                         );
 
                         return (
-                          <div
-                            key={program.id}
-                            className={`absolute top-3 bottom-3 rounded-xl shadow-lg cursor-pointer transform transition-all duration-300  hover:z-10
-                                ${
-                                  isLiveProgram
-                                    ? "bg-green-50 dark:bg-green-900/20 hover:bg-green-100 dark:hover:bg-green-900/30 border border-green-200 dark:border-green-800"
-                                    : program.type === "ad"
-                                    ? "bg-red-50 dark:bg-red-900/20 hover:bg-red-100 dark:hover:bg-red-900/30 border border-red-200 dark:border-red-800"
-                                    : "bg-blue-50 dark:bg-blue-900/20 hover:bg-blue-100 dark:hover:bg-blue-900/30 border border-blue-200 dark:border-blue-800"
-                                }
-                                backdrop-blur-sm group overflow-hidden`}
-                            style={{
-                              left: `${adjustedLeft}px`,
-                              width: `${adjustedWidth}px`,
-                            }}
-                            onClick={() => setSelectedProgram(program)}
-                          >
-                            <div className="flex justify-between items-start h-full p-3">
-                              <div className="flex-1 min-w-0">
-                                {program.type === "show" && (
-                                  <div className="font-medium truncate group-hover:whitespace-normal">
-                                    {program.title}
-                                    {isLiveProgram && (
-                                      <span className="ml-2 text-xs bg-red-500/10 text-red-600 dark:text-red-400 border border-red-200 dark:border-red-800 px-2 py-0.5 rounded-full">
-                                        LIVE
-                                      </span>
-                                    )}
+                          <TooltipProvider key={program.id}>
+                            <Tooltip delayDuration={200}>
+                              <TooltipTrigger asChild>
+                                <div
+                                  className={`absolute top-3 bottom-3 rounded shadow-inner transition-all duration-300 
+                                    ${
+                                      isLiveProgram
+                                        ? "bg-green-600/50 border border-green-600"
+                                        : program.type === "ad"
+                                        ? "bg-red-500/50 border border-red-500"
+                                        : "bg-primary/15 border border-primary/25"
+                                    }
+                                    backdrop-blur-sm group overflow-hidden`}
+                                  style={{
+                                    left: `${adjustedLeft}px`,
+                                    width: `${adjustedWidth}px`,
+                                  }}
+                                >
+                                  <div className="flex justify-between items-start h-full p-3">
+                                    <div className="flex-1 min-w-0">
+                                      <div className="font-medium text-foreground truncate group-hover:whitespace-normal">
+                                        {program.title}
+                                        {isLiveProgram && (
+                                          <span className="ml-2 text-xs bg-red-500/10 text-red-600 dark:text-red-400 border border-red-200 dark:border-red-800 px-2 py-0.5 rounded-full">
+                                            LIVE
+                                          </span>
+                                        )}
+                                      </div>
+                                      <div className="mt-1 flex flex-col text-xs truncate group-hover:whitespace-normal">
+                                        {program.description}
+                                        <span className="mt-1">
+                                          {program.startTime} -{" "}
+                                          {program.endTime}
+                                        </span>
+                                      </div>
+                                    </div>
                                   </div>
-                                )}
-                                {program.description && (
-                                  <div className="mt-1 flex flex-col text-xs text-gray-500 truncate group-hover:whitespace-normal">
-                                    {program.description}
-                                    <span className="mt-1 text-gray-400">
-                                      {program.startTime} - {program.endTime}
-                                    </span>
+                                </div>
+                              </TooltipTrigger>
+                              <TooltipContent
+                                side="top"
+                                className="w-80 p-4 space-y-2 bg-popover border-2 border-ring shadow-2xl"
+                              >
+                                <h3 className="font-semibold text-lg">
+                                  {program.title}
+                                </h3>
+                                <div className="flex items-center gap-3 text-sm text-muted-foreground">
+                                  <div className="flex items-center gap-1">
+                                    <Clock className="h-4 w-4" />
+                                    {program.startTime.slice(0, 5)} -{" "}
+                                    {program.endTime.slice(0, 5)}
                                   </div>
-                                )}
-                              </div>
-                            </div>
-                          </div>
+                                  <div className="flex items-center gap-1">
+                                    <Calendar className="h-4 w-4" />
+                                    {program.date}
+                                  </div>
+                                </div>
+                                <p className="text-sm text-muted-foreground">
+                                  {program.description}
+                                </p>
+                              </TooltipContent>
+                            </Tooltip>
+                          </TooltipProvider>
                         );
                       })}
                   </div>
@@ -667,78 +457,9 @@ export function NewTVSchedule() {
         </div>
       </div>
 
-      {/* Program details modal */}
-      {selectedProgram && (
-        <div className="fixed inset-0 flex items-center justify-center bg-background/80 backdrop-blur-sm z-50">
-          <div className="w-full max-w-2xl bg-background rounded-2xl shadow-2xl overflow-hidden">
-            <div className="relative h-48 bg-gradient-to-b from-muted to-background">
-              <Button
-                variant="icon"
-                size="sm"
-                className="absolute top-4 right-4"
-                onClick={() => setSelectedProgram(null)}
-              >
-                <X className="h-5 w-5" />
-              </Button>
-              <div className="absolute bottom-6 left-6 right-6">
-                <div className="flex items-start justify-between">
-                  <div>
-                    <h2 className="text-2xl font-semibold">
-                      {selectedProgram.title}
-                    </h2>
-                    <div className="mt-2 flex items-center gap-3 text-sm text-muted-foreground">
-                      <div className="flex items-center gap-1">
-                        <Clock className="h-4 w-4" />
-                        {selectedProgram.startTime.slice(0, 5)} -{" "}
-                        {selectedProgram.endTime.slice(0, 5)}
-                      </div>
-                      <div className="flex items-center gap-1">
-                        <Calendar className="h-4 w-4" />
-                        {new Date(
-                          selectedProgram.startTime
-                        ).toLocaleDateString()}
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="p-6 space-y-4">
-              {selectedProgram.description && (
-                <p className="text-muted-foreground leading-relaxed">
-                  {selectedProgram.description}
-                </p>
-              )}
-              <div className="flex items-center gap-4 pt-4 border-t border-border">
-                <Button
-                  variant="secondary"
-                  className="flex-1"
-                  onClick={() => {
-                    alert("Reminder set for " + selectedProgram.title);
-                    setSelectedProgram(null);
-                  }}
-                >
-                  Set Reminder
-                </Button>
-                {isLive(selectedProgram) && (
-                  <Button
-                    variant="default"
-                    className="flex-1 bg-red-500 hover:bg-red-500/90"
-                    onClick={() => {
-                      alert("Launching " + selectedProgram.title);
-                      setSelectedProgram(null);
-                    }}
-                  >
-                    Watch Now
-                  </Button>
-                )}
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
     </div>
   );
 }
+
 
 export default NewTVSchedule;

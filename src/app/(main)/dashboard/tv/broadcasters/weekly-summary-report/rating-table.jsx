@@ -50,7 +50,7 @@ export default function RatingTable() {
     return (
       <ChartCard
         icon={<Table2 className="w-6 h-6" />}
-        title="Top TV Channels rating"
+        title="Top TV Channels Rating"
         description="Ranked by viewer ratings and engagement"
         chart={
           <Table>

@@ -536,9 +536,9 @@ const DailySummary = () => {
       description="Comprehensive analysis of channel performance, viewer behavior, and audience metrics"
       action={
         <div className="flex gap-4">
-          <Button variant="outline">
+          <Button variant="outline" disabled>
             <Calendar className="mr-2 h-4 w-4" />
-            Select Date Range
+            11 Jan 2025
           </Button>
           <Button>Export Report</Button>
         </div>

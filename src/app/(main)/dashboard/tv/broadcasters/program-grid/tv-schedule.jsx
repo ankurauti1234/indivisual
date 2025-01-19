@@ -30,7 +30,7 @@ const MIN_HOUR_WIDTH = 75;
 const MAX_HOUR_WIDTH = 500;
 const TIMELINE_HEIGHT = 60;
 const CHANNEL_HEIGHT = 120;
-const HOURS_IN_DAY = 24;
+const HOURS_IN_DAY = 12;
 const VIEWERSHIP_HEIGHT = 60; // Height for viewership graph
 const MINUTE_WIDTH = 2; // 2px per minute
 
@@ -83,9 +83,9 @@ export function TVSchedule() {
 
   const [timeRange, setTimeRange] = useState(() => {
     const start = new Date(now);
-    start.setHours(0, 0, 0, 0);
+    start.setHours(9, 0, 0, 0);
     const end = new Date(start);
-    end.setHours(23, 59, 59, 999);
+    end.setHours(21, 0, 0, 0);
     return { start, end };
   });
 
@@ -155,14 +155,14 @@ export function TVSchedule() {
         />
       );
       if (i % 12 === 0) {
-        const hour = i / 12;
+        const hour = i / 12 + 9; // Adjusted to start from 9am
         marks.push(
           <span
             key={`label-${i}`}
             className="absolute top-6 text-xs font-medium text-gray-500"
             style={{ left: `${left + 4}px` }}
           >
-            {`${hour === 0 ? "12" : hour > 12 ? hour - 12 : hour}${
+            {`${hour === 12 ? "12" : hour > 12 ? hour - 12 : hour}${
               hour >= 12 ? "PM" : "AM"
             }`}
           </span>
