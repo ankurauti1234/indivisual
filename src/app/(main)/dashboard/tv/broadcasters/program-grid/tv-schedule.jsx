@@ -26,11 +26,11 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 
-const MIN_HOUR_WIDTH = 75;
-const MAX_HOUR_WIDTH = 500;
+const MIN_HOUR_WIDTH = 500;
+const MAX_HOUR_WIDTH = 5000;
 const TIMELINE_HEIGHT = 60;
 const CHANNEL_HEIGHT = 120;
-const HOURS_IN_DAY = 14;
+const HOURS_IN_DAY = 2;
 const VIEWERSHIP_HEIGHT = 60; // Height for viewership graph
 const MINUTE_WIDTH = 2; // 2px per minute
 
@@ -75,7 +75,7 @@ export function TVSchedule() {
   const [favorites, setFavorites] = useState([]);
   const [selectedDate, setSelectedDate] = useState(new Date());
   const [view, setView] = useState("grid");
-  const [hourWidth, setHourWidth] = useState(240);
+  const [hourWidth, setHourWidth] = useState(450);
   const [hoverInfo, setHoverInfo] = useState(null);
   const scrollContainerRef = useRef(null);
   const now = new Date();

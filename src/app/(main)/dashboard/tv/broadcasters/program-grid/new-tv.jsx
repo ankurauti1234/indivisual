@@ -26,7 +26,7 @@ const MIN_HOUR_WIDTH = 750;
 const MAX_HOUR_WIDTH = 7500;
 const TIMELINE_HEIGHT = 60;
 const CHANNEL_HEIGHT = 120;
-const HOURS_IN_DAY = 14; // Changed from 24 to 12 (9am to 9pm)
+const HOURS_IN_DAY = 12; // Changed from 24 to 12 (9am to 9pm)
 
 
 export function NewTVSchedule() { 
