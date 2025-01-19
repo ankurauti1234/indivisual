@@ -10,170 +10,656 @@ const TVChannelTreemap = () => {
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [hoveredItem, setHoveredItem] = useState(null);
 
-  const mockData = {
-    "Nepal Television": {
-      color: "#FF6B6B",
-      share: 25,
-      sectors: {
-        "Food & Beverages": {
-          color: "#4ECDC4",
-          share: 30,
-          categories: {
-            "Instant Noodles": {
-              share: 40,
-              brands: [
-                { name: "Wai Wai", share: 45 },
-                { name: "2PM", share: 35 },
-                { name: "Rara", share: 20 },
-              ],
-            },
-            "Soft Drinks": {
-              share: 60,
-              brands: [
-                { name: "Coca Cola", share: 50 },
-                { name: "Pepsi", share: 35 },
-                { name: "Fanta", share: 15 },
-              ],
-            },
+const mockData = {
+  "Nepal Television": {
+    color: "#FF6B6B",
+    share: 20,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 30,
+        categories: {
+          "Instant Noodles": {
+            share: 40,
+            brands: [
+              { name: "Wai Wai", share: 45 },
+              { name: "2PM", share: 35 },
+              { name: "Rara", share: 20 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 60,
+            brands: [
+              { name: "Coca Cola", share: 50 },
+              { name: "Pepsi", share: 35 },
+              { name: "Fanta", share: 15 },
+            ],
           },
         },
-        Telecommunications: {
-          color: "#9B59B6",
-          share: 25,
-          categories: {
-            "Mobile Services": {
-              share: 60,
-              brands: [
-                { name: "Ncell", share: 55 },
-                { name: "NTC", share: 45 },
-              ],
-            },
-            "Internet Services": {
-              share: 40,
-              brands: [
-                { name: "WorldLink", share: 60 },
-                { name: "Vianet", share: 40 },
-              ],
-            },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 25,
+        categories: {
+          "Mobile Services": {
+            share: 60,
+            brands: [
+              { name: "Ncell", share: 55 },
+              { name: "NTC", share: 45 },
+            ],
+          },
+          "Internet Services": {
+            share: 40,
+            brands: [
+              { name: "WorldLink", share: 60 },
+              { name: "Vianet", share: 40 },
+            ],
           },
         },
-        Banking: {
-          color: "#3498DB",
-          share: 15,
-          categories: {
-            "Personal Banking": {
-              share: 60,
-              brands: [
-                { name: "NIC Asia", share: 55 },
-                { name: "Global IME", share: 45 },
-              ],
-            },
-            "Credit Cards": {
-              share: 40,
-              brands: [
-                { name: "Nabil Bank", share: 60 },
-                { name: "Standard Chartered", share: 40 },
-              ],
-            },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 15,
+        categories: {
+          "Personal Banking": {
+            share: 60,
+            brands: [
+              { name: "NIC Asia", share: 55 },
+              { name: "Global IME", share: 45 },
+            ],
+          },
+          "Credit Cards": {
+            share: 40,
+            brands: [
+              { name: "Nabil Bank", share: 60 },
+              { name: "Standard Chartered", share: 40 },
+            ],
           },
         },
-        FMCG: {
-          color: "#F1C40F",
-          share: 30,
-          categories: {
-            "Personal Care": {
-              share: 100,
-              brands: [
-                { name: "Unilever", share: 60 },
-                { name: "P&G", share: 40 },
-              ],
-            },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 30,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 60 },
+              { name: "P&G", share: 40 },
+            ],
           },
         },
       },
     },
-    "Kantipur TV": {
-      color: "#2ECC71",
-      share: 22,
-      sectors: {
-        "Food & Beverages": {
-          color: "#4ECDC4",
-          share: 28,
-          categories: {
-            "Instant Noodles": {
-              share: 45,
-              brands: [
-                { name: "Wai Wai", share: 50 },
-                { name: "2PM", share: 30 },
-                { name: "Rara", share: 20 },
-              ],
-            },
-            "Soft Drinks": {
-              share: 55,
-              brands: [
-                { name: "Coca Cola", share: 45 },
-                { name: "Pepsi", share: 40 },
-                { name: "Fanta", share: 15 },
-              ],
-            },
+  },
+  "Kantipur TV": {
+    color: "#2ECC71",
+    share: 18,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 28,
+        categories: {
+          "Instant Noodles": {
+            share: 45,
+            brands: [
+              { name: "Wai Wai", share: 50 },
+              { name: "2PM", share: 30 },
+              { name: "Rara", share: 20 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 55,
+            brands: [
+              { name: "Coca Cola", share: 45 },
+              { name: "Pepsi", share: 40 },
+              { name: "Fanta", share: 15 },
+            ],
           },
         },
-        Telecommunications: {
-          color: "#9B59B6",
-          share: 27,
-          categories: {
-            "Mobile Services": {
-              share: 55,
-              brands: [
-                { name: "Ncell", share: 52 },
-                { name: "NTC", share: 48 },
-              ],
-            },
-            "Internet Services": {
-              share: 45,
-              brands: [
-                { name: "WorldLink", share: 55 },
-                { name: "Vianet", share: 45 },
-              ],
-            },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 27,
+        categories: {
+          "Mobile Services": {
+            share: 55,
+            brands: [
+              { name: "Ncell", share: 52 },
+              { name: "NTC", share: 48 },
+            ],
+          },
+          "Internet Services": {
+            share: 45,
+            brands: [
+              { name: "WorldLink", share: 55 },
+              { name: "Vianet", share: 45 },
+            ],
           },
         },
-        Banking: {
-          color: "#3498DB",
-          share: 25,
-          categories: {
-            "Personal Banking": {
-              share: 65,
-              brands: [
-                { name: "NIC Asia", share: 52 },
-                { name: "Global IME", share: 48 },
-              ],
-            },
-            "Credit Cards": {
-              share: 35,
-              brands: [
-                { name: "Nabil Bank", share: 58 },
-                { name: "Standard Chartered", share: 42 },
-              ],
-            },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 65,
+            brands: [
+              { name: "NIC Asia", share: 52 },
+              { name: "Global IME", share: 48 },
+            ],
+          },
+          "Credit Cards": {
+            share: 35,
+            brands: [
+              { name: "Nabil Bank", share: 58 },
+              { name: "Standard Chartered", share: 42 },
+            ],
           },
         },
-        FMCG: {
-          color: "#F1C40F",
-          share: 20,
-          categories: {
-            "Personal Care": {
-              share: 100,
-              brands: [
-                { name: "Unilever", share: 55 },
-                { name: "P&G", share: 45 },
-              ],
-            },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 55 },
+              { name: "P&G", share: 45 },
+            ],
           },
         },
       },
     },
-  };
+  },
+  "Himalaya TV": {
+    color: "#E74C3C",
+    share: 15,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 35,
+        categories: {
+          "Instant Noodles": {
+            share: 50,
+            brands: [
+              { name: "Wai Wai", share: 40 },
+              { name: "2PM", share: 40 },
+              { name: "Rara", share: 20 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 50,
+            brands: [
+              { name: "Coca Cola", share: 40 },
+              { name: "Pepsi", share: 40 },
+              { name: "Fanta", share: 20 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 20,
+        categories: {
+          "Mobile Services": {
+            share: 70,
+            brands: [
+              { name: "Ncell", share: 50 },
+              { name: "NTC", share: 50 },
+            ],
+          },
+          "Internet Services": {
+            share: 30,
+            brands: [
+              { name: "WorldLink", share: 65 },
+              { name: "Vianet", share: 35 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 70,
+            brands: [
+              { name: "NIC Asia", share: 50 },
+              { name: "Global IME", share: 50 },
+            ],
+          },
+          "Credit Cards": {
+            share: 30,
+            brands: [
+              { name: "Nabil Bank", share: 55 },
+              { name: "Standard Chartered", share: 45 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 50 },
+              { name: "P&G", share: 50 },
+            ],
+          },
+        },
+      },
+    },
+  },
+  "News 24": {
+    color: "#3498DB",
+    share: 12,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 25,
+        categories: {
+          "Instant Noodles": {
+            share: 40,
+            brands: [
+              { name: "Wai Wai", share: 45 },
+              { name: "2PM", share: 35 },
+              { name: "Rara", share: 20 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 60,
+            brands: [
+              { name: "Coca Cola", share: 45 },
+              { name: "Pepsi", share: 35 },
+              { name: "Fanta", share: 20 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 30,
+        categories: {
+          "Mobile Services": {
+            share: 65,
+            brands: [
+              { name: "Ncell", share: 55 },
+              { name: "NTC", share: 45 },
+            ],
+          },
+          "Internet Services": {
+            share: 35,
+            brands: [
+              { name: "WorldLink", share: 60 },
+              { name: "Vianet", share: 40 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 60,
+            brands: [
+              { name: "NIC Asia", share: 55 },
+              { name: "Global IME", share: 45 },
+            ],
+          },
+          "Credit Cards": {
+            share: 40,
+            brands: [
+              { name: "Nabil Bank", share: 60 },
+              { name: "Standard Chartered", share: 40 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 55 },
+              { name: "P&G", share: 45 },
+            ],
+          },
+        },
+      },
+    },
+  },
+  "Avenues TV": {
+    color: "#9B59B6",
+    share: 10,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 30,
+        categories: {
+          "Instant Noodles": {
+            share: 45,
+            brands: [
+              { name: "Wai Wai", share: 40 },
+              { name: "2PM", share: 35 },
+              { name: "Rara", share: 25 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 55,
+            brands: [
+              { name: "Coca Cola", share: 40 },
+              { name: "Pepsi", share: 40 },
+              { name: "Fanta", share: 20 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 25,
+        categories: {
+          "Mobile Services": {
+            share: 60,
+            brands: [
+              { name: "Ncell", share: 50 },
+              { name: "NTC", share: 50 },
+            ],
+          },
+          "Internet Services": {
+            share: 40,
+            brands: [
+              { name: "WorldLink", share: 55 },
+              { name: "Vianet", share: 45 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 65,
+            brands: [
+              { name: "NIC Asia", share: 50 },
+              { name: "Global IME", share: 50 },
+            ],
+          },
+          "Credit Cards": {
+            share: 35,
+            brands: [
+              { name: "Nabil Bank", share: 55 },
+              { name: "Standard Chartered", share: 45 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 60 },
+              { name: "P&G", share: 40 },
+            ],
+          },
+        },
+      },
+    },
+  },
+  "Image TV": {
+    color: "#1ABC9C",
+    share: 10,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 35,
+        categories: {
+          "Instant Noodles": {
+            share: 50,
+            brands: [
+              { name: "Wai Wai", share: 45 },
+              { name: "2PM", share: 30 },
+              { name: "Rara", share: 25 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 50,
+            brands: [
+              { name: "Coca Cola", share: 45 },
+              { name: "Pepsi", share: 35 },
+              { name: "Fanta", share: 20 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 20,
+        categories: {
+          "Mobile Services": {
+            share: 70,
+            brands: [
+              { name: "Ncell", share: 55 },
+              { name: "NTC", share: 45 },
+            ],
+          },
+          "Internet Services": {
+            share: 30,
+            brands: [
+              { name: "WorldLink", share: 60 },
+              { name: "Vianet", share: 40 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 60,
+            brands: [
+              { name: "NIC Asia", share: 55 },
+              { name: "Global IME", share: 45 },
+            ],
+          },
+          "Credit Cards": {
+            share: 40,
+            brands: [
+              { name: "Nabil Bank", share: 60 },
+              { name: "Standard Chartered", share: 40 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 55 },
+              { name: "P&G", share: 45 },
+            ],
+          },
+        },
+      },
+    },
+  },
+  Sagarmatha: {
+    color: "#34495E",
+    share: 8,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 30,
+        categories: {
+          "Instant Noodles": {
+            share: 45,
+            brands: [
+              { name: "Wai Wai", share: 40 },
+              { name: "2PM", share: 35 },
+              { name: "Rara", share: 25 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 55,
+            brands: [
+              { name: "Coca Cola", share: 45 },
+              { name: "Pepsi", share: 35 },
+              { name: "Fanta", share: 20 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 25,
+        categories: {
+          "Mobile Services": {
+            share: 65,
+            brands: [
+              { name: "Ncell", share: 50 },
+              { name: "NTC", share: 50 },
+            ],
+          },
+          "Internet Services": {
+            share: 35,
+            brands: [
+              { name: "WorldLink", share: 55 },
+              { name: "Vianet", share: 45 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 70,
+            brands: [
+              { name: "NIC Asia", share: 50 },
+              { name: "Global IME", share: 50 },
+            ],
+          },
+          "Credit Cards": {
+            share: 30,
+            brands: [
+              { name: "Nabil Bank", share: 55 },
+              { name: "Standard Chartered", share: 45 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 55 },
+              { name: "P&G", share: 45 },
+            ],
+          },
+        },
+      },
+    },
+  },
+  "AP1 TV": {
+    color: "#D35400",
+    share: 7,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 30,
+        categories: {
+          "Instant Noodles": {
+            share: 40,
+            brands: [
+              { name: "Wai Wai", share: 45 },
+              { name: "2PM", share: 35 },
+              { name: "Rara", share: 20 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 60,
+            brands: [
+              { name: "Coca Cola", share: 40 },
+              { name: "Pepsi", share: 40 },
+              { name: "Fanta", share: 20 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 25,
+        categories: {
+          "Mobile Services": {
+            share: 60,
+            brands: [
+              { name: "Ncell", share: 55 },
+              { name: "NTC", share: 45 },
+            ],
+          },
+          "Internet Services": {
+            share: 40,
+            brands: [
+              { name: "WorldLink", share: 60 },
+              { name: "Vianet", share: 40 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 65,
+            brands: [
+              { name: "NIC Asia", share: 55 },
+              { name: "Global IME", share: 45 },
+            ],
+          },
+          "Credit Cards": {
+            share: 35,
+            brands: [
+              { name: "Nabil Bank", share: 60 },
+              { name: "Standard Chartered", share: 40 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 60 },
+              { name: "P&G", share: 40 },
+            ],
+          },
+        },
+      },
+    },
+  },
+};
 
   const getCurrentLevel = () => {
     if (selectedCategory) return "brands";
