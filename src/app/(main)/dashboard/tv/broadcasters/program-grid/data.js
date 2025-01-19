@@ -2,32 +2,27 @@ export const channels = [
   {
     id: "NTV TV",
     name: "NTV TV",
-    logo: "/images/ntv.png",
-  },
-  {
-    id: "Kantipur TV",
-    name: "Kantipur TV",
-    logo: "/images/kantipur.jpeg",
+    logo: "/assets/nepaltv.jpg",
   },
   {
     id: "Avenues TV",
     name: "Avenues TV",
-    logo: "/images/avenues.webp",
+    logo: "/assets/avenuetv.jpg",
   },
   {
     id: "Image Channel TV",
     name: "Image Channel TV",
-    logo: "/images/ntv.png",
+    logo: "/assets/imagechannel.jpeg",
   },
   {
     id: "Himalayan TV",
     name: "Himalayan TV",
-    logo: "/images/kantipur.jpeg",
+    logo: "/assets/himalayatv.jpg",
   },
   {
     id: "Sagarmatha",
     name: "Sagarmatha TV",
-    logo: "/images/avenues.webp",
+    logo: "/assets/sagarmatha.png",
   },
 ];
 

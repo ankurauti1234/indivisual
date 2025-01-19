@@ -10,7 +10,7 @@ import {
   ResponsiveContainer,
   LabelList,
 } from "recharts";
-import { LineChart as LineChartIcon } from "lucide-react";
+import { LineChart as LineChartIcon, Clock } from "lucide-react";
 import ChartCard from "@/components/card/charts-card";
 
 // Channel data
@@ -55,6 +55,17 @@ const generateGrpData = () => {
   ];
 };
 
+const BreakInfoCard = ({ breakNum, time, description }) => (
+  <div className="w-full flex flex-col items-center p-2 rounded-lg bg-secondary/25">
+    <div className="flex items-center gap-2 mb-1">
+      <Clock className="w-4 h-4 text-gray-600" />
+      <span className="font-semibold text-sm">{breakNum}</span>
+    </div>
+    <div className="text-xs text-gray-600">{time}</div>
+    <div className="text-xs text-gray-500 text-center mt-1">{description}</div>
+  </div>
+);
+
 const GrpLineChart = () => {
   const [grpData, setGrpData] = useState(generateGrpData());
   const [selectedChannel, setSelectedChannel] = useState("NTV");
@@ -91,7 +102,6 @@ const GrpLineChart = () => {
               tickMargin={8}
               tickCount={8}
             />
-            {/* <YAxis /> */}
             <Tooltip />
             <Legend />
             {channels.map((channel) => (
@@ -117,9 +127,33 @@ const GrpLineChart = () => {
         </ResponsiveContainer>
       }
       footer={
-        <p className="text-sm text-gray-500">
-          Data generated dynamically. Updated based on your selection.
-        </p>
+        <div className="mt-4 w-full">
+          <p className="text-sm font-medium mb-3 text-gray-700">
+            Break Schedule Information
+          </p>
+          <div className="flex w-full gap-4 items-center justify-between">
+            <BreakInfoCard
+              breakNum="B1"
+              time="6:00 - 9:00"
+              description="Morning Prime Time"
+            />
+            <BreakInfoCard
+              breakNum="B2"
+              time="12:00 - 15:00"
+              description="Afternoon Block"
+            />
+            <BreakInfoCard
+              breakNum="B3"
+              time="17:00 - 19:00"
+              description="Evening Prime Time"
+            />
+            <BreakInfoCard
+              breakNum="B4"
+              time="20:00 - 23:00"
+              description="Night Prime Time"
+            />
+          </div>
+        </div>
       }
     />
   );

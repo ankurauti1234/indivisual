@@ -26,7 +26,7 @@ const MIN_HOUR_WIDTH = 750;
 const MAX_HOUR_WIDTH = 7500;
 const TIMELINE_HEIGHT = 60;
 const CHANNEL_HEIGHT = 120;
-const HOURS_IN_DAY = 12; // Changed from 24 to 12 (9am to 9pm)
+const HOURS_IN_DAY = 14; // Changed from 24 to 12 (9am to 9pm)
 
 
 export function NewTVSchedule() { 
@@ -61,12 +61,48 @@ export function NewTVSchedule() {
 
 
 
-  const renderTimelineMarks = () => {
-    const marks = [];
-    for (let i = 0; i <= HOURS_IN_DAY * 12; i++) {
-      const left = (i / 12) * hourWidth;
-      const height =
-        i % 12 === 0 ? 20 : i % 6 === 0 ? 15 : i % 3 === 0 ? 10 : 5;
+const renderTimelineMarks = () => {
+  const marks = [];
+  // 12 hours * 60 minutes per hour = 720 total minutes
+  for (let i = 0; i <= HOURS_IN_DAY * 60; i++) {
+    const left = (i / 60) * hourWidth;
+    let height;
+
+    // Format time for labels
+    const formatTimeLabel = (minutes) => {
+      const hour = Math.floor(minutes / 60) + 9; // Adjusted to start from 9am
+      const minute = minutes % 60;
+      const formattedHour = hour === 12 ? 12 : hour > 12 ? hour - 12 : hour;
+      const period = hour >= 12 ? "PM" : "AM";
+      return `${formattedHour.toString().padStart(2, "0")}:${minute
+        .toString()
+        .padStart(2, "0")} ${period}`;
+    };
+
+    // Hour marks (every 60 minutes)
+    if (i % 60 === 0) {
+      height = 20;
+      marks.push(
+        <div
+          key={i}
+          className="absolute top-0 w-0.5 bg-gray-300 dark:bg-gray-700"
+          style={{
+            left: `${left}px`,
+            height: `${height}px`,
+          }}
+        />,
+        <span
+          key={`label-${i}`}
+          className="absolute top-6 text-xs font-medium text-gray-500"
+          style={{ left: `${left + 4}px` }}
+        >
+          {formatTimeLabel(i)}
+        </span>
+      );
+    }
+    // 15-minute marks
+    else if (i % 15 === 0) {
+      height = 15;
       marks.push(
         <div
           key={i}
@@ -75,25 +111,62 @@ export function NewTVSchedule() {
             left: `${left}px`,
             height: `${height}px`,
           }}
+        />,
+        <span
+          key={`label-${i}`}
+          className="absolute top-4 text-[10px] text-muted-foreground "
+          style={{
+            left: `${left + 2}px`,
+            // transform: "rotate(45deg)",
+            transformOrigin: "left top",
+          }}
+        >
+          {formatTimeLabel(i)}
+        </span>
+      );
+    }
+    // 5-minute marks
+    else if (i % 5 === 0) {
+      height = 10;
+      marks.push(
+        <div
+          key={i}
+          className="absolute top-0 w-px bg-gray-200 dark:bg-gray-800"
+          style={{
+            left: `${left}px`,
+            height: `${height}px`,
+          }}
+        />,
+        <span
+          key={`label-${i}`}
+          className="absolute top-3 text-[9px] text-muted-foreground  "
+          style={{
+            left: `${left + 2}px`,
+            // transform: "rotate(-45deg)",
+            transformOrigin: "left top",
+          }}
+        >
+          {formatTimeLabel(i)}
+        </span>
+      );
+    }
+    // Minute marks
+    else {
+      height = 5;
+      marks.push(
+        <div
+          key={i}
+          className="absolute top-0 w-px bg-gray-100 dark:bg-gray-900"
+          style={{
+            left: `${left}px`,
+            height: `${height}px`,
+          }}
         />
       );
-      if (i % 12 === 0) {
-        const hour = i / 12 + 9; // Adjusted to start from 9am
-        marks.push(
-          <span
-            key={`label-${i}`}
-            className="absolute top-6 text-xs font-medium text-gray-500"
-            style={{ left: `${left + 4}px` }}
-          >
-            {`${hour === 12 ? "12" : hour > 12 ? hour - 12 : hour}${
-              hour >= 12 ? "PM" : "AM"
-            }`}
-          </span>
-        );
-      }
     }
-    return marks;
-  };
+  }
+  return marks;
+};
 
   const calculateProgramPosition = (program) => {
     const startTime = timeStringToDate(program.startTime);

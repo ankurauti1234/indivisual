@@ -30,7 +30,7 @@ const MIN_HOUR_WIDTH = 75;
 const MAX_HOUR_WIDTH = 500;
 const TIMELINE_HEIGHT = 60;
 const CHANNEL_HEIGHT = 120;
-const HOURS_IN_DAY = 12;
+const HOURS_IN_DAY = 14;
 const VIEWERSHIP_HEIGHT = 60; // Height for viewership graph
 const MINUTE_WIDTH = 2; // 2px per minute
 

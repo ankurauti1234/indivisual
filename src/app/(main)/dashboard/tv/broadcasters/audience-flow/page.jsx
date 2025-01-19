@@ -92,14 +92,14 @@ const Page = () => {
           <div className="space-y-6">
             
             <TVChannelSankeyChart />
-                    <TVViewingJourney />
+                    {/* <TVViewingJourney /> */}
             <ChannelFlowAnalysis />
           </div>
         </section>
 
-        <GanttChart />
+        {/* <GanttChart /> */}
         
-        <IndustryChart/>
+        {/* <IndustryChart/> */}
 
         <section>
           <h2 className="text-xl font-semibold mb-4">Viewing Time Analysis</h2>
