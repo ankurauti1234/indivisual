@@ -131,7 +131,7 @@ export function AppSidebar({ ...props }) {
               className="hover:bg-black/0 hover:scale-105 transition-all duration-300 flex items-center justify-center"
             >
               <a href="/dashboard">
-                <img src="/assets/indi.png" alt="logo" className="h-6" />
+                <img src="/assets/indi.png" alt="logo" className="h-14" />
               </a>
             </SidebarMenuButton>
           </SidebarMenuItem>

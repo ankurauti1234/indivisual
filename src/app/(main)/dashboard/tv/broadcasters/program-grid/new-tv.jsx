@@ -28,8 +28,7 @@ const TIMELINE_HEIGHT = 60;
 const CHANNEL_HEIGHT = 120;
 const HOURS_IN_DAY = 12; // Changed from 24 to 12 (9am to 9pm)
 
-
-export function NewTVSchedule() { 
+export function NewTVSchedule() {
   const [selectedProgram, setSelectedProgram] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedDate, setSelectedDate] = useState(new Date());
@@ -45,7 +44,6 @@ export function NewTVSchedule() {
     return { start, end };
   });
 
-
   const [currentTime, setCurrentTime] = useState(now);
 
   useEffect(() => {
@@ -56,117 +54,112 @@ export function NewTVSchedule() {
     return () => clearInterval(interval);
   }, []);
 
+  const renderTimelineMarks = () => {
+    const marks = [];
+    // 12 hours * 60 minutes per hour = 720 total minutes
+    for (let i = 0; i <= HOURS_IN_DAY * 60; i++) {
+      const left = (i / 60) * hourWidth;
+      let height;
 
+      // Format time for labels
+      const formatTimeLabel = (minutes) => {
+        const hour = Math.floor(minutes / 60) + 9; // Adjusted to start from 9am
+        const minute = minutes % 60;
+        const formattedHour = hour === 12 ? 12 : hour > 12 ? hour - 12 : hour;
+        const period = hour >= 12 ? "PM" : "AM";
+        return `${formattedHour.toString().padStart(2, "0")}:${minute
+          .toString()
+          .padStart(2, "0")} ${period}`;
+      };
 
-
-
-
-const renderTimelineMarks = () => {
-  const marks = [];
-  // 12 hours * 60 minutes per hour = 720 total minutes
-  for (let i = 0; i <= HOURS_IN_DAY * 60; i++) {
-    const left = (i / 60) * hourWidth;
-    let height;
-
-    // Format time for labels
-    const formatTimeLabel = (minutes) => {
-      const hour = Math.floor(minutes / 60) + 9; // Adjusted to start from 9am
-      const minute = minutes % 60;
-      const formattedHour = hour === 12 ? 12 : hour > 12 ? hour - 12 : hour;
-      const period = hour >= 12 ? "PM" : "AM";
-      return `${formattedHour.toString().padStart(2, "0")}:${minute
-        .toString()
-        .padStart(2, "0")} ${period}`;
-    };
-
-    // Hour marks (every 60 minutes)
-    if (i % 60 === 0) {
-      height = 20;
-      marks.push(
-        <div
-          key={i}
-          className="absolute top-0 w-0.5 bg-gray-300 dark:bg-gray-700"
-          style={{
-            left: `${left}px`,
-            height: `${height}px`,
-          }}
-        />,
-        <span
-          key={`label-${i}`}
-          className="absolute top-6 text-xs font-medium text-gray-500"
-          style={{ left: `${left + 4}px` }}
-        >
-          {formatTimeLabel(i)}
-        </span>
-      );
+      // Hour marks (every 60 minutes)
+      if (i % 60 === 0) {
+        height = 20;
+        marks.push(
+          <div
+            key={i}
+            className="absolute top-0 w-0.5 bg-gray-300 dark:bg-gray-700"
+            style={{
+              left: `${left}px`,
+              height: `${height}px`,
+            }}
+          />,
+          <span
+            key={`label-${i}`}
+            className="absolute top-6 text-xs font-medium text-gray-500"
+            style={{ left: `${left + 4}px` }}
+          >
+            {formatTimeLabel(i)}
+          </span>
+        );
+      }
+      // 15-minute marks
+      else if (i % 15 === 0) {
+        height = 15;
+        marks.push(
+          <div
+            key={i}
+            className="absolute top-0 w-px bg-gray-200 dark:bg-gray-800"
+            style={{
+              left: `${left}px`,
+              height: `${height}px`,
+            }}
+          />,
+          <span
+            key={`label-${i}`}
+            className="absolute top-4 text-[10px] text-muted-foreground "
+            style={{
+              left: `${left + 2}px`,
+              // transform: "rotate(45deg)",
+              transformOrigin: "left top",
+            }}
+          >
+            {formatTimeLabel(i)}
+          </span>
+        );
+      }
+      // 5-minute marks
+      else if (i % 5 === 0) {
+        height = 10;
+        marks.push(
+          <div
+            key={i}
+            className="absolute top-0 w-px bg-gray-200 dark:bg-gray-800"
+            style={{
+              left: `${left}px`,
+              height: `${height}px`,
+            }}
+          />,
+          <span
+            key={`label-${i}`}
+            className="absolute top-3 text-[9px] text-muted-foreground  "
+            style={{
+              left: `${left + 2}px`,
+              // transform: "rotate(-45deg)",
+              transformOrigin: "left top",
+            }}
+          >
+            {formatTimeLabel(i)}
+          </span>
+        );
+      }
+      // Minute marks
+      else {
+        height = 5;
+        marks.push(
+          <div
+            key={i}
+            className="absolute top-0 w-px bg-gray-100 dark:bg-gray-900"
+            style={{
+              left: `${left}px`,
+              height: `${height}px`,
+            }}
+          />
+        );
+      }
     }
-    // 15-minute marks
-    else if (i % 15 === 0) {
-      height = 15;
-      marks.push(
-        <div
-          key={i}
-          className="absolute top-0 w-px bg-gray-200 dark:bg-gray-800"
-          style={{
-            left: `${left}px`,
-            height: `${height}px`,
-          }}
-        />,
-        <span
-          key={`label-${i}`}
-          className="absolute top-4 text-[10px] text-muted-foreground "
-          style={{
-            left: `${left + 2}px`,
-            // transform: "rotate(45deg)",
-            transformOrigin: "left top",
-          }}
-        >
-          {formatTimeLabel(i)}
-        </span>
-      );
-    }
-    // 5-minute marks
-    else if (i % 5 === 0) {
-      height = 10;
-      marks.push(
-        <div
-          key={i}
-          className="absolute top-0 w-px bg-gray-200 dark:bg-gray-800"
-          style={{
-            left: `${left}px`,
-            height: `${height}px`,
-          }}
-        />,
-        <span
-          key={`label-${i}`}
-          className="absolute top-3 text-[9px] text-muted-foreground  "
-          style={{
-            left: `${left + 2}px`,
-            // transform: "rotate(-45deg)",
-            transformOrigin: "left top",
-          }}
-        >
-          {formatTimeLabel(i)}
-        </span>
-      );
-    }
-    // Minute marks
-    else {
-      height = 5;
-      marks.push(
-        <div
-          key={i}
-          className="absolute top-0 w-px bg-gray-100 dark:bg-gray-900"
-          style={{
-            left: `${left}px`,
-            height: `${height}px`,
-          }}
-        />
-      );
-    }
-  }
-  return marks;
-};
+    return marks;
+  };
 
   const calculateProgramPosition = (program) => {
     const startTime = timeStringToDate(program.startTime);
@@ -195,7 +188,6 @@ const renderTimelineMarks = () => {
 
     return { left, width };
   };
-
 
   const filteredPrograms = allPrograms.filter((program) =>
     program.title.toLowerCase().includes(searchQuery.toLowerCase())
@@ -277,7 +269,6 @@ const renderTimelineMarks = () => {
     return () => clearInterval(interval);
   }, []);
 
-
   const changeDate = (days) => {
     const newDate = new Date(selectedDate);
     newDate.setDate(selectedDate.getDate() + days);
@@ -296,10 +287,6 @@ const renderTimelineMarks = () => {
     date.setHours(hours, minutes, 0, 0);
     return date;
   };
-
-  
-
-
 
   return (
     <div className="min-h-[50vh] w-full bg-card text-foreground border overflow-hidden">
@@ -529,10 +516,8 @@ const renderTimelineMarks = () => {
           </div>
         </div>
       </div>
-
     </div>
   );
 }
-
 
 export default NewTVSchedule;
