@@ -30,7 +30,7 @@ const ReportCard = ({ image, title, lastUpdated, page, subpage, slug, descriptio
               />
             </div>
             <div className="p-3 space-y-2">
-              <h3 className="text-xl font-bold text-muted-foreground text-shadow">
+              <h3 className="text-xl font-bold text-primary">
                 {title}
               </h3>
               {/* <p className="text-[0.875rem] text-muted-foreground truncate">
