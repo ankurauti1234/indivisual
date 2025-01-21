@@ -11,63 +11,63 @@ import ChartCard from "@/components/card/charts-card";
 import { PieChartIcon } from "lucide-react";
 
 const channelColors = {
-  "Avenues TV": "#D32F2F", // Dark Red
-  "AP1 TV": "#FF9800", // Dark Orange
-  "Himalaya TV": "#1976D2", // Dark Blue
-  "Image TV": "#0288D1", // Deep Sky Blue
-  "Kantipur TV": "#388E3C", // Dark Green
-  "Nepal TV": "#7B1FA2", // Dark Purple
-  "NTV News TV": "#F57C00", // Dark Amber
-  "News 24 TV": "#0288D1", // Deep Blue
-  "Prime TV": "#D81B60", // Dark Pink
+  "CH 01": "#D32F2F", // Dark Red
+  "CH 02": "#FF9800", // Dark Orange
+  "CH 03": "#1976D2", // Dark Blue
+  "CH 04": "#0288D1", // Deep Sky Blue
+  "CH 05": "#388E3C", // Dark Green
+  "CH 06": "#7B1FA2", // Dark Purple
+  "CH 07": "#F57C00", // Dark Amber
+  "CH 08": "#0288D1", // Deep Blue
+  "CH 09": "#D81B60", // Dark Pink
 };
 
 
 const channelData = [
   {
-    channel_name: "Avenues TV",
+    channel_name: "CH 01",
     share_percentage: 10,
-    fill: channelColors["Avenues TV"],
+    fill: channelColors["CH 01"],
   },
   {
-    channel_name: "AP1 TV",
+    channel_name: "CH 02",
     share_percentage: 12,
-    fill: channelColors["AP1 TV"],
+    fill: channelColors["CH 02"],
   },
   {
-    channel_name: "Himalaya TV",
+    channel_name: "CH 03",
     share_percentage: 14,
-    fill: channelColors["Himalaya TV"],
+    fill: channelColors["CH 03"],
   },
   {
-    channel_name: "Image TV",
+    channel_name: "CH 04",
     share_percentage: 8,
-    fill: channelColors["Image TV"],
+    fill: channelColors["CH 04"],
   },
   {
-    channel_name: "Kantipur TV",
+    channel_name: "CH 05",
     share_percentage: 20,
-    fill: channelColors["Kantipur TV"],
+    fill: channelColors["CH 05"],
   },
   {
-    channel_name: "Nepal TV",
+    channel_name: "CH 06",
     share_percentage: 18,
-    fill: channelColors["Nepal TV"],
+    fill: channelColors["CH 06"],
   },
   {
-    channel_name: "NTV News TV",
+    channel_name: "CH 07",
     share_percentage: 10,
-    fill: channelColors["NTV News TV"],
+    fill: channelColors["CH 07"],
   },
   {
-    channel_name: "News 24 TV",
+    channel_name: "CH 08",
     share_percentage: 5,
-    fill: channelColors["News 24 TV"],
+    fill: channelColors["CH 08"],
   },
   {
-    channel_name: "Prime TV",
+    channel_name: "CH 09",
     share_percentage: 3,
-    fill: channelColors["Prime TV"],
+    fill: channelColors["CH 09"],
   },
 ];
 

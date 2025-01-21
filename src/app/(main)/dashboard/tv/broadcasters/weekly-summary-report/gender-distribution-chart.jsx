@@ -19,15 +19,15 @@ import {
 } from "@/components/ui/chart";
 
 const data = [
-  { channel_name: "Avenues TV", Male: 66.67, Female: 33.33 },
-  { channel_name: "AP1 TV", Male: 60, Female: 40 },
-  { channel_name: "Himalaya TV", Male: 45, Female: 55 },
-  { channel_name: "Image TV", Male: 76.47, Female: 23.53 },
-  { channel_name: "Kantipur TV", Male: 65, Female: 35 },
-  { channel_name: "Nepal TV", Male: 50.59, Female: 49.41 },
-  { channel_name: "NTV News TV", Male: 31.25, Female: 68.75 },
-  { channel_name: "News 24 TV", Male: 82.43, Female: 17.57 },
-  { channel_name: "Prime TV", Male: 85.71, Female: 14.23 },
+  { channel_name: "CH 01", Male: 66.67, Female: 33.33 },
+  { channel_name: "CH 02", Male: 60, Female: 40 },
+  { channel_name: "CH 03", Male: 45, Female: 55 },
+  { channel_name: "Ch 04", Male: 76.47, Female: 23.53 },
+  { channel_name: "CH 05", Male: 65, Female: 35 },
+  { channel_name: "CH 06", Male: 50.59, Female: 49.41 },
+  { channel_name: "CH 07", Male: 31.25, Female: 68.75 },
+  { channel_name: "CH 08", Male: 82.43, Female: 17.57 },
+  { channel_name: "CH 09", Male: 85.71, Female: 14.23 },
 ];
 
 const chartConfig = {
