@@ -27,7 +27,7 @@ import { BarChart2 } from "lucide-react";
 
 const generateRandomPercentages = () => {
   // Generate random percentages that sum to 100
-  let total = 100;
+  let total = Math.floor(Math.random() * 100);
   const percentages = [];
   const sectors = 6; // Number of sectors (FMCG, banking, etc.)
 
@@ -51,7 +51,6 @@ const generateRandomPercentages = () => {
     telecom: percentages[2],
     automobile: percentages[3],
     education: percentages[4],
-    healthcare: percentages[5],
   };
 };
 
@@ -171,8 +170,8 @@ export default function NepalTVSpendChart() {
               tickLine={false}
               tickMargin={10}
               axisLine={false}
-              domain={[0, 100]}
-              ticks={[0, 20, 40, 60, 80, 100]}
+              // domain={[0, 100]}
+              // ticks={[0, 20, 40, 60, 80, 100]}
             />
             <ChartTooltip content={<ChartTooltipContent />} />
             <ChartLegend content={<ChartLegendContent />} />
@@ -181,49 +180,32 @@ export default function NepalTVSpendChart() {
               stackId="a"
               fill="var(--color-fmcg)"
               radius={[0, 0, 0, 0]}
-            >
-              
-            </Bar>
+            ></Bar>
             <Bar
               dataKey="banking"
               stackId="a"
               fill="var(--color-banking)"
               radius={[0, 0, 0, 0]}
-            >
-              
-            </Bar>
+            ></Bar>
             <Bar
               dataKey="telecom"
               stackId="a"
               fill="var(--color-telecom)"
               radius={[0, 0, 0, 0]}
-            >
-              
-            </Bar>
+            ></Bar>
             <Bar
               dataKey="automobile"
               stackId="a"
               fill="var(--color-automobile)"
               radius={[0, 0, 0, 0]}
-            >
-              
-            </Bar>
+            ></Bar>
             <Bar
               dataKey="education"
               stackId="a"
               fill="var(--color-education)"
-              radius={[0, 0, 0, 0]}
-            >
-              
-            </Bar>
-            <Bar
-              dataKey="healthcare"
-              stackId="a"
-              fill="var(--color-healthcare)"
               radius={[16, 16, 0, 0]}
-            >
-              
-            </Bar>
+            ></Bar>
+            
           </BarChart>
         </ChartContainer>
       }
