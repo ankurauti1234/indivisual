@@ -18,59 +18,59 @@ body {
 
 @layer base {
   :root {
-    --background: 252 35% 100%;
-    --foreground: 252 74% 2%;
-    --muted: 72 28% 86%;
-    --muted-foreground: 72 15% 25%;
-    --popover: 252 35% 100%;
-    --popover-foreground: 252 74% 2%;
-    --card: 252 35% 100%;
-    --card-foreground: 252 74% 2%;
-    --border: 252 5% 95%;
-    --input: 252 5% 95%;
-    --primary: 253 91% 58%;
-    --primary-foreground: 252 100% 16%;
-    --secondary: 106.75 100% 80%;
-    --secondary-foreground: 72 100% 16%;
-    --accent: 106.75 100% 80%;
-    --accent-foreground: 72 100% 16%;
-    --destructive: 14 93% 24%;
-    --destructive-foreground: 14 93% 84%;
-    --ring: 253 91% 58%;
-    --chart-1: 220 90% 60%; /* Soft pastel blue */
-    --chart-2: 253 91% 58%; /* Pastel green */
-    --chart-3: 300 90% 70%; /* Light pastel pink */
-    --chart-4: 45 100% 60%; /* Pastel yellow */
-    --chart-5: 82 70% 65%; /* Soft lavender */
+    --background: 240 30% 98%; /* Soft off-white */
+    --foreground: 240 10% 10%; /* Deep off-black */
+    --muted: 240 20% 90%; /* Very light gray */
+    --muted-foreground: 240 10% 40%; /* Muted dark gray */
+    --popover: 240 30% 98%; /* Matches background for consistency */
+    --popover-foreground: 240 10% 10%; /* Matches foreground */
+    --card: 240 30% 97%; /* Slightly darker off-white */
+    --card-foreground: 240 10% 15%; /* Softer dark gray */
+    --border: 240 10% 80%; /* Soft light gray */
+    --input: 240 10% 85%; /* Very pale gray */
+    --primary: 253 91% 58%; /* Kept as is */
+    --primary-foreground: 252 100% 16%; /* Kept as is */
+    --secondary: 106.75 100% 80%; /* Kept as is */
+    --secondary-foreground: 72 100% 16%; /* Kept as is */
+    --accent: 106.75 100% 80%; /* Kept as is */
+    --accent-foreground: 72 100% 16%; /* Kept as is */
+    --destructive: 0 80% 45%; /* Vibrant deep red */
+    --destructive-foreground: 0 0% 100%; /* Pure white for contrast */
+    --ring: 240 70% 50%; /* Calm, desaturated blue */
+    --chart-1: 220 40% 65%; /* Subtle soft blue */
+    --chart-2: 140 50% 55%; /* Muted green */
+    --chart-3: 300 50% 70%; /* Muted pink */
+    --chart-4: 45 100% 60%; /* Kept pastel yellow */
+    --chart-5: 275 45% 65%; /* Dusty lavender */
 
     --radius: 0.5rem;
   }
 
   .dark {
-    --background: 252 41% 3%;
-    --foreground: 252 26% 97%;
-    --muted: 72 28% 14%;
-    --muted-foreground: 72 15% 75%;
-    --popover: 252 41% 3%;
-    --popover-foreground: 252 26% 97%;
-    --card: 252 41% 3%;
-    --card-foreground: 252 26% 97%;
-    --border: 252 5% 15%;
-    --input: 252 5% 15%;
-    --primary: 253 91% 58%;
-    --primary-foreground: 252 100% 16%;
-    --secondary: 106.75 100% 80%;
-    --secondary-foreground: 72 100% 16%;
-    --accent: 106.75 100% 80%;
-    --accent-foreground: 72 100% 16%;
-    --destructive: 14 93% 45%;
-    --destructive-foreground: 0 0% 100%;
-    --ring: 253 91% 58%;
-    --chart-1: 220 90% 60%; /* Soft pastel blue */
-    --chart-2: 253 91% 58%; /* Pastel green */
-    --chart-3: 300 90% 70%; /* Light pastel pink */
-    --chart-4: 45 100% 60%; /* Pastel yellow */
-    --chart-5: 82 70% 65%; /* Soft lavender */
+    --background: 240 10% 10%; /* Deep charcoal gray */
+    --foreground: 240 50% 95%; /* Soft off-white */
+    --muted: 240 20% 20%; /* Dark muted gray */
+    --muted-foreground: 240 50% 70%; /* Soft pale gray */
+    --popover: 240 10% 15%; /* Slightly lighter than background */
+    --popover-foreground: 240 50% 95%; /* Matches foreground */
+    --card: 240 10% 13%; /* Soft black */
+    --card-foreground: 240 50% 90%; /* Subtle soft white */
+    --border: 240 20% 25%; /* Dark muted border */
+    --input: 240 20% 25%; /* Matches border for consistency */
+    --primary: 253 91% 58%; /* Kept as is */
+    --primary-foreground: 252 100% 16%; /* Kept as is */
+    --secondary: 106.75 100% 80%; /* Kept as is */
+    --secondary-foreground: 72 100% 16%; /* Kept as is */
+    --accent: 106.75 100% 80%; /* Kept as is */
+    --accent-foreground: 72 100% 16%; /* Kept as is */
+    --destructive: 0 80% 50%; /* Bold, bright red */
+    --destructive-foreground: 0 0% 100%; /* Pure white for contrast */
+    --ring: 240 50% 50%; /* Soft muted blue */
+    --chart-1: 220 40% 60%; /* Muted soft blue */
+    --chart-2: 140 40% 50%; /* Dark muted green */
+    --chart-3: 300 40% 65%; /* Subdued pink */
+    --chart-4: 45 90% 50%; /* Slightly deeper pastel yellow */
+    --chart-5: 275 35% 60%; /* Dark lavender */
   }
 }
 
