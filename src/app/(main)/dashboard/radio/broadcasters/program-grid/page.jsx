@@ -1,11 +1,8 @@
 "use client";
-
 import { useState, useRef } from "react";
 import { motion } from "framer-motion";
 import { processedEpgData } from "./epg-data";
-import { Button } from "@/components/ui/button";
 import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area";
-import { Slider } from "@/components/ui/slider";
 import {
   Dialog,
   DialogContent,
@@ -13,16 +10,10 @@ import {
   DialogTitle,
   DialogDescription,
 } from "@/components/ui/dialog";
-import {
-  Tooltip,
-  TooltipContent,
-  TooltipProvider,
-  TooltipTrigger,
-} from "@/components/ui/tooltip";
+import CustomRangeSlider from "./custom-range-slider";
 
 const MINUTES_IN_DAY = 24 * 60;
-const PIXEL_PER_MINUTE = 4;
-const TOTAL_WIDTH = MINUTES_IN_DAY * PIXEL_PER_MINUTE;
+const FIXED_WIDTH = 9600; // Fixed width for the program section
 
 const timeToMinutes = (time) => {
   const [hours, minutes, seconds] = time.split(":").map(Number);
@@ -41,47 +32,136 @@ const getUniqueChannels = (data) => {
   return [...new Set(data.map((item) => item.channel))];
 };
 
+const TimelineRuler = ({ timeRange }) => {
+  const startHour = Math.floor(timeRange[0] / 60);
+  const endHour = Math.ceil(timeRange[1] / 60);
+  const hours = Array.from(
+    { length: endHour - startHour },
+    (_, i) => startHour + i
+  );
+  const minutesInRange = timeRange[1] - timeRange[0];
+  const pixelsPerMinute = FIXED_WIDTH / minutesInRange;
+
+  return (
+    <div className="h-12 relative border-b border-zinc-200 dark:border-zinc-800 bg-zinc-100/50 dark:bg-zinc-800/50 backdrop-blur-xl">
+      {hours.map((hour) => {
+        const left = (hour * 60 - timeRange[0]) * pixelsPerMinute;
+        return (
+          <div key={hour} className="absolute" style={{ left: `${left}px` }}>
+            <div className="absolute h-12 w-px bg-zinc-300 dark:bg-zinc-600" />
+            <div className="absolute -left-8 top-1 w-16 text-center">
+              <span className="text-xs font-medium text-zinc-600 dark:text-zinc-400">
+                {hour.toString().padStart(2, "0")}:00
+              </span>
+            </div>
+
+            {/* 30-minute marker */}
+            {hour < endHour && (
+              <div
+                className="absolute"
+                style={{ left: `${30 * pixelsPerMinute}px` }}
+              >
+                <div className="absolute h-8 w-px bg-zinc-200 dark:bg-zinc-700" />
+                <div className="absolute -left-8 top-1 w-16 text-center">
+                  <span className="text-xs text-zinc-500 dark:text-zinc-500">
+                    {hour.toString().padStart(2, "0")}:30
+                  </span>
+                </div>
+              </div>
+            )}
+
+            {/* 15-minute markers */}
+            {[15, 45].map((minutes) => (
+              <div
+                key={minutes}
+                className="absolute"
+                style={{ left: `${minutes * pixelsPerMinute}px` }}
+              >
+                <div className="absolute h-6 w-px bg-zinc-200 dark:bg-zinc-700" />
+              </div>
+            ))}
+
+            {/* 5-minute markers */}
+            {Array.from({ length: 11 }, (_, i) => i * 5).map((minutes) => {
+              if (minutes % 15 !== 0) {
+                return (
+                  <div
+                    key={minutes}
+                    className="absolute"
+                    style={{ left: `${minutes * pixelsPerMinute}px` }}
+                  >
+                    <div className="absolute h-4 w-px bg-zinc-100 dark:bg-zinc-700/50" />
+                  </div>
+                );
+              }
+              return null;
+            })}
+          </div>
+        );
+      })}
+    </div>
+  );
+};
+
 const EPG = () => {
-  const [scrollPosition, setScrollPosition] = useState(0);
   const [timeRange, setTimeRange] = useState([0, MINUTES_IN_DAY]);
   const [selectedProgram, setSelectedProgram] = useState(null);
-  const scrollRef = useRef(null);
   const channels = getUniqueChannels(processedEpgData);
+  const minutesInRange = timeRange[1] - timeRange[0];
+  const pixelsPerMinute = FIXED_WIDTH / minutesInRange;
 
   const renderProgramBlock = (program, timeRange) => {
     const startMinutes = timeToMinutes(program.start);
     const endMinutes = timeToMinutes(program.end);
-
     const visibleStart = Math.max(startMinutes, timeRange[0]);
     const visibleEnd = Math.min(endMinutes, timeRange[1]);
+    const width = (visibleEnd - visibleStart) * pixelsPerMinute;
+    const left = (visibleStart - timeRange[0]) * pixelsPerMinute;
 
-    const width = (visibleEnd - visibleStart) * PIXEL_PER_MINUTE;
-    const left = visibleStart * PIXEL_PER_MINUTE;
+    const isProgramType = program.type === "program";
 
     return (
       <motion.div
         key={program.id}
-        className={`absolute h-32 rounded-3xl border-2 shadow-inner overflow-hidden transition-all duration-300 cursor-pointer
-        ${
-          program.type === "program"
-            ? "bg-popover text-primary-foreground p-2 hover:bg-primary/45"
-            : "bg-red-400 text-destructive-foreground p-0 hover:bg-destructive"
-        }`}
+        className={`absolute h-28 overflow-hidden transition-all duration-300 cursor-pointer
+          ${
+            isProgramType
+              ? "bg-sky-50 dark:bg-zinc-800/90 backdrop-blur-lg rounded-2xl border border-zinc-200/50 dark:border-zinc-700/50 hover:bg-sky-100 hover:shadow-[rgba(17,_17,_26,_0.1)_0px_0px_16px] hover:outline outline-1 outline-ring/25 hover:rounded-none transition-all duration-300"
+              : "bg-red-500/90 dark:bg-red-600/90 backdrop-blur-lg rounded-2xl"
+          }`}
         style={{
           left: `${left}px`,
           width: `${width}px`,
         }}
         whileHover={{
           zIndex: 20,
-          // scale: 1.02,
         }}
-        transition={{ type: "spring", stiffness: 300 }}
+        whileTap={{
+          scale: 0.98,
+          transition: { type: "spring", stiffness: 800, damping: 10 },
+        }}
         onClick={() => setSelectedProgram(program)}
       >
-        <div className="text-lg font-medium line-clamp-2 text-foreground">
-          {program.program}
-          <div className="bg-secondary/25 text-foreground shadow-lg w-fit text-sm rounded-lg p-1">
-            <span>{program.start} </span>-<span> {program.end}</span>
+        <div className="p-3 h-full flex flex-col justify-between">
+          <div className="space-y-1">
+            <h3
+              className={`font-medium text-sm line-clamp-2 ${
+                isProgramType
+                  ? "text-zinc-900 dark:text-zinc-100"
+                  : "text-white"
+              }`}
+            >
+              {program.program}
+            </h3>
+            <div
+              className={`text-xs px-2 py-1 rounded-full w-fit ${
+                isProgramType
+                  ? "bg-zinc-100 dark:bg-zinc-700 text-zinc-600 dark:text-zinc-300"
+                  : "bg-red-400 dark:bg-red-500 text-white"
+              }`}
+            >
+              {program.start} - {program.end}
+            </div>
           </div>
         </div>
       </motion.div>
@@ -89,49 +169,48 @@ const EPG = () => {
   };
 
   return (
-    <div className="h-[80vh] flex flex-col rounded-lg border-2">
-      {/* Existing header and slider code remains the same */}
-      <header className="flex flex-col justify-between items-center backdrop-blur-md rounded-lg gap-4">
-        <h1 className="text-2xl font-semibold text-foreground text-start">
+    <div className="h-[85vh] flex flex-col rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-zinc-50/50 dark:bg-zinc-900/50 backdrop-blur-xl">
+      <header className="p-6 space-y-6">
+        <h1 className="text-2xl font-semibold text-zinc-900 dark:text-zinc-100">
           TV Guide
         </h1>
-        <p className="text-lg font-medium">
-          Time Range: {formatTime(timeRange[0])} - {formatTime(timeRange[1])}
-        </p>
-        <div className="w-full px-12 bg-primary/15 py-4">
-          <Slider
-            className=""
-            defaultValue={[0, MINUTES_IN_DAY]}
-            max={MINUTES_IN_DAY}
-            step={5}
-            onValueChange={(value) => setTimeRange(value)}
-          />
-          <div className="flex justify-between text-xs text-muted-foreground mt-2">
-            <span>{formatTime(timeRange[0])}</span>
-            <span>{formatTime(timeRange[1])}</span>
-          </div>
-        </div>
+        <CustomRangeSlider
+          min={0}
+          max={MINUTES_IN_DAY}
+          step={5}
+          value={timeRange}
+          onChange={setTimeRange}
+        />
       </header>
 
-      {/* Program Details Dialog */}
       <Dialog
         open={!!selectedProgram}
         onOpenChange={() => setSelectedProgram(null)}
       >
-        <DialogContent>
+        <DialogContent className="sm:max-w-[425px] bg-white/80 dark:bg-zinc-900/80 backdrop-blur-xl">
           <DialogHeader>
-            <DialogTitle>{selectedProgram?.program}</DialogTitle>
-            <DialogDescription>
-              <div className="space-y-2">
-                <p>
-                  <strong>Channel:</strong> {selectedProgram?.channel}
+            <DialogTitle className="text-xl font-semibold text-zinc-900 dark:text-zinc-100">
+              {selectedProgram?.program}
+            </DialogTitle>
+            <DialogDescription className="space-y-4 text-zinc-600 dark:text-zinc-300">
+              <div className="space-y-2 mt-4">
+                <p className="flex justify-between">
+                  <span>Channel</span>
+                  <span className="font-medium">
+                    {selectedProgram?.channel}
+                  </span>
                 </p>
-                <p>
-                  <strong>Time:</strong> {selectedProgram?.start} -{" "}
-                  {selectedProgram?.end}
+                <p className="flex justify-between">
+                  <span>Time</span>
+                  <span className="font-medium">
+                    {selectedProgram?.start} - {selectedProgram?.end}
+                  </span>
                 </p>
-                <p>
-                  <strong>Type:</strong> {selectedProgram?.type}
+                <p className="flex justify-between">
+                  <span>Type</span>
+                  <span className="font-medium capitalize">
+                    {selectedProgram?.type}
+                  </span>
                 </p>
               </div>
             </DialogDescription>
@@ -139,48 +218,30 @@ const EPG = () => {
         </DialogContent>
       </Dialog>
 
-      {/* Existing ScrollArea and channel rendering code remains the same */}
       <div className="flex flex-1 overflow-hidden">
-        <div className="w-48 flex-shrink-0 border-r border-border/20">
-          <div className="h-8 flex items-center text-center justify-center bg-gray-400/25 border">
-            {" "}
-          </div>
+        <div className="w-48 flex-shrink-0 border-r border-zinc-200 dark:border-zinc-800">
+          <div className="h-12 flex items-center justify-center bg-zinc-100/50 dark:bg-zinc-800/50 border-b border-zinc-200 dark:border-zinc-800"></div>
           {channels.map((channel, index) => (
             <div
               key={index}
-              className="h-32 mb-1 bg-card border-2 shadow-inner rounded-lg flex items-center px-4 border-b border-border/20 hover:bg-secondary/10 transition-colors"
+              className="h-28 mb-px bg-white/50 dark:bg-zinc-800/50 backdrop-blur-sm flex items-center px-4 border-b border-zinc-200 dark:border-zinc-800 transition-colors"
             >
-              <span className="text-sm font-medium">{channel}</span>
+              <span className="text-sm font-medium text-zinc-900 dark:text-zinc-100">
+                {channel}
+              </span>
             </div>
           ))}
         </div>
+
         <ScrollArea className="flex-1">
           <div
             className="relative"
             style={{
-              width: `${TOTAL_WIDTH}px`,
-              height: `${channels.length * 64}px`,
+              width: `${FIXED_WIDTH}px`,
+              height: `${channels.length * 112}px`,
             }}
           >
-            {/* Rest of the existing code for rendering time and channel programs */}
-            <div className="absolute top-0 left-0 right-0 h-8 backdrop-blur-md z-10 flex border border-x-0 bg-gray-400/25">
-              {Array.from({ length: 24 }).map((_, i) => (
-                <div
-                  key={i}
-                  className="flex-1 border-r flex items-center justify-center"
-                  style={{
-                    opacity:
-                      i * 60 >= timeRange[0] && i * 60 <= timeRange[1]
-                        ? 1
-                        : 0.3,
-                  }}
-                >
-                  <span className="text-xs font-medium text-muted-foreground">
-                    {formatTime(i * 60)}
-                  </span>
-                </div>
-              ))}
-            </div>
+            <TimelineRuler timeRange={timeRange} />
             {channels.map((channel, channelIndex) => {
               const channelPrograms = processedEpgData.filter(
                 (p) => p.channel === channel
@@ -188,10 +249,10 @@ const EPG = () => {
               return (
                 <div
                   key={channel}
-                  className="absolute left-0 right-0 bg-card shadow-inner hover:bg-primary/15"
+                  className="absolute left-0 right-0 transition-colors"
                   style={{
-                    top: `${channelIndex * (128 + 4) + 32}px`,
-                    height: "128px",
+                    top: `${channelIndex * 112 + 48}px`,
+                    height: "112px",
                   }}
                 >
                   {channelPrograms
@@ -208,7 +269,10 @@ const EPG = () => {
               );
             })}
           </div>
-          <ScrollBar orientation="horizontal" />
+          <ScrollBar
+            orientation="horizontal"
+            className="bg-zinc-50 dark:bg-zinc-900 cursor-pointer"
+          />
         </ScrollArea>
       </div>
     </div>

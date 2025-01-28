@@ -4,6 +4,13 @@ import ChannelTreemap from './treemap'
 import DistributionChart from './Heatmap'
 import RadioAdBarChart from './AdBarChart'
 import AdStackedChart from './AdStackedChart'
+import AdContentTransition from './ad-content-transition'
+import TopContentAdPlacements from './content-ad-placement'
+import AdPlacementFrequency from './ad-placement-frequency'
+import AdDistributionChart from './ad-ditribution-chart'
+import AdDistributionComparison from './ad-distribution-comparison'
+import ContentAdScheduler from './conted-ad-scheduler'
+import SongEngagementDashboard from './songs-engagement'
 
 const page = () => {
   return (
@@ -18,6 +25,19 @@ const page = () => {
 
       <RadioAdBarChart />
 
+      <AdContentTransition />
+      
+      <TopContentAdPlacements/>
+
+      <AdPlacementFrequency />
+
+      <AdDistributionChart/>
+
+      <AdDistributionComparison />
+
+      <ContentAdScheduler/>
+
+      <SongEngagementDashboard />
 
     </div>
   );
