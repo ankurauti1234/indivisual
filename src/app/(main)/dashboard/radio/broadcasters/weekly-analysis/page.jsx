@@ -8,12 +8,14 @@ import AdPlacementFrequencyChart from './ad-placement-frequency'
 import DetailedAdAnalysis from './derailedAdAnalysis'
 import PlatformComparison from './platform-comparison'
 import AppleStyleTreemap from './treemap'
+import RadioSectorAnalysis from './comperative-bar'
 
 const page = () => {
   return (
     <div className='space-y-6'>
       <StatCards />
       <RadioAdHeatmap />
+      <RadioSectorAnalysis/>
       <AppleStyleTreemap/>
       <div className='flex gap-4'>
         <TopProgramsChart />

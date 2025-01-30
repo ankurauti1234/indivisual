@@ -23,7 +23,7 @@ import {
 } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Button } from "@/components/ui/button";
-import { Calendar, Download, Clock, PieChart, List } from "lucide-react";
+import { Calendar, Download, Clock, PieChart, List, BarChart } from "lucide-react";
 
 // Generate sample data for ad schedule
 const generateAdSchedule = (station) => {
@@ -56,6 +56,54 @@ const generateAdSchedule = (station) => {
     adType: adTypes[Math.floor(Math.random() * adTypes.length)],
     duration: Math.floor(Math.random() * 30) + 15,
     advertiser: `Advertiser ${Math.floor(Math.random() * 10) + 1}`,
+  }));
+};
+
+const generateAdMetrics = () => {
+  const products = [
+    "TechPro Laptop",
+    "EduLearn Pro",
+    "FoodieDelight App",
+    "HealthPlus Insurance",
+    "CareerBoost Course",
+    "SmartHome Hub",
+    "FreshFood Delivery",
+    "CloudStore Pro",
+    "FitLife Gym",
+    "TravelEase App",
+  ];
+
+  const clients = [
+    "TechCorp Inc",
+    "EduTech Solutions",
+    "FoodTech Innovations",
+    "HealthCare Global",
+    "Career Solutions Ltd",
+    "Smart Systems Inc",
+    "Fresh Foods Co",
+    "Cloud Technologies",
+    "FitLife Corp",
+    "Travel Tech Inc",
+  ];
+
+  const categories = ["IT", "Education", "Food", "Healthcare", "Technology"];
+  const sources = [
+    "Maharashtra",
+    "Karnataka",
+    "Delhi",
+    "Tamil Nadu",
+    "Gujarat",
+  ];
+  const stations = ["Mumbai", "Bangalore", "Delhi", "Chennai", "Ahmedabad"];
+
+  return Array.from({ length: 20 }, (_, i) => ({
+    id: i + 1,
+    product: products[Math.floor(Math.random() * products.length)],
+    client: clients[Math.floor(Math.random() * clients.length)],
+    category: categories[Math.floor(Math.random() * categories.length)],
+    source: sources[Math.floor(Math.random() * sources.length)],
+    station: stations[Math.floor(Math.random() * stations.length)],
+    volume: Math.floor(Math.random() * 100) + 20,
   }));
 };
 
@@ -109,6 +157,7 @@ const DetailedAdAnalysis = () => {
   const [adTypeData, setAdTypeData] = useState(
     generateAdTypeDistribution(station)
   );
+  const [adMetrics, setAdMetrics] = useState(generateAdMetrics());
 
   const handleStationChange = (value) => {
     setStation(value);
@@ -151,9 +200,13 @@ const DetailedAdAnalysis = () => {
             <PieChart className="w-4 h-4 mr-2" />
             Ad Types
           </TabsTrigger>
-          <TabsTrigger value="duration">
+          {/* <TabsTrigger value="duration">
             <List className="w-4 h-4 mr-2" />
             Duration Analysis
+          </TabsTrigger> */}
+          <TabsTrigger value="metrics">
+            <BarChart className="w-4 h-4 mr-2" />
+            Ad Metrics
           </TabsTrigger>
         </TabsList>
 
@@ -308,6 +361,49 @@ const DetailedAdAnalysis = () => {
                       </TableCell>
                       <TableCell>{Math.floor(Math.random() * 8) + 3}</TableCell>
                       <TableCell>{Math.floor(Math.random() * 3) + 2}</TableCell>
+                    </TableRow>
+                  ))}
+                </TableBody>
+              </Table>
+            </CardContent>
+          </Card>
+        </TabsContent>
+
+        <TabsContent value="metrics">
+          <Card>
+            <CardHeader className="flex flex-row items-center justify-between">
+              <div>
+                <CardTitle>Detailed Ad Metrics</CardTitle>
+                <CardDescription>
+                  Comprehensive view of ad performance across products and
+                  regions
+                </CardDescription>
+              </div>
+              <Button onClick={() => handleExport("metrics")}>
+                <Download className="w-4 h-4 mr-2" /> Export
+              </Button>
+            </CardHeader>
+            <CardContent>
+              <Table>
+                <TableHeader>
+                  <TableRow>
+                    <TableHead>Product</TableHead>
+                    <TableHead>Client</TableHead>
+                    <TableHead>Category</TableHead>
+                    <TableHead>Source</TableHead>
+                    <TableHead>Station</TableHead>
+                    <TableHead>Volume</TableHead>
+                  </TableRow>
+                </TableHeader>
+                <TableBody>
+                  {adMetrics.map((metric) => (
+                    <TableRow key={metric.id}>
+                      <TableCell>{metric.product}</TableCell>
+                      <TableCell>{metric.client}</TableCell>
+                      <TableCell>{metric.category}</TableCell>
+                      <TableCell>{metric.source}</TableCell>
+                      <TableCell>{metric.station}</TableCell>
+                      <TableCell>{metric.volume}</TableCell>
                     </TableRow>
                   ))}
                 </TableBody>

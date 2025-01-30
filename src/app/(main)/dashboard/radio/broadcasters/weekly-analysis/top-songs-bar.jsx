@@ -79,8 +79,8 @@ const TopSongsChart = () => {
       title="Top Songs by Ad Placements"
       description="View ad placement statistics across different radio Songs and stations"
       action={
-        <div className="grid grid-cols-2 gap-4">
-          <div>
+        <div className="flex  justify-end">
+          {/* <div>
             <p className="text-sm font-medium mb-2">Select Station</p>
             <Select value={station} onValueChange={handleStationChange}>
               <SelectTrigger>
@@ -92,7 +92,7 @@ const TopSongsChart = () => {
                 <SelectItem value="red fm">Red FM</SelectItem>
               </SelectContent>
             </Select>
-          </div>
+          </div> */}
 
           <div>
             <p className="text-sm font-medium mb-2">Select Time Period</p>
