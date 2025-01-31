@@ -11,7 +11,8 @@ const CustomRangeSlider = ({ min, max, step, value, onChange }) => {
 
   const formatTime = (minutes) => {
     const hours = Math.floor(minutes / 60);
-    return `${hours.toString().padStart(2, "0")}:00`;
+    const mins = minutes % 60;
+    return `${hours.toString().padStart(2, "0")}:${mins.toString().padStart(2, "0")}`;
   };
 
   const calculatePosition = (value) => {
@@ -36,19 +37,17 @@ const CustomRangeSlider = ({ min, max, step, value, onChange }) => {
   }, [value]);
 
   return (
-    <div className="w-full px-4 py-6">
-      <div className="relative h-16">
+    <div className="w-full px-4 py-8">
+      <div className="relative h-20">
         {/* Track Background */}
-        <div className="absolute h-2 w-full bg-card rounded-full top-0 border" />
+        <div className="absolute h-2 w-full bg-zinc-100 dark:bg-zinc-800 rounded-full top-0 border border-zinc-200 dark:border-zinc-700" />
 
         {/* Selected Range */}
         <div
-          className="absolute h-2 bg-primary/45 rounded-full top-0"
+          className="absolute h-2 bg-primary/45 dark:bg-primary/65 rounded-full top-0 shadow-sm"
           style={{
             left: `${calculatePosition(leftValue)}%`,
-            width: `${
-              calculatePosition(rightValue) - calculatePosition(leftValue)
-            }%`,
+            width: `${calculatePosition(rightValue) - calculatePosition(leftValue)}%`,
           }}
         />
 
@@ -57,15 +56,31 @@ const CustomRangeSlider = ({ min, max, step, value, onChange }) => {
           {ticks.map((tick) => (
             <div
               key={tick}
-              className="absolute transform "
+              className="absolute transform"
               style={{ left: `${calculatePosition(tick)}%` }}
             >
-              <div className="h-3 w-0.5 bg-gray-300 mb-1" />
-              <span className="text-xs text-gray-500 -ml-3">
+              <div className="h-3 w-0.5 bg-zinc-200 dark:bg-zinc-700 mb-1" />
+              <span className="text-xs text-zinc-500 dark:text-zinc-400 -ml-3">
                 {formatTime(tick)}
               </span>
             </div>
           ))}
+        </div>
+
+        {/* Current Values Display */}
+        <div className="absolute w-full flex justify-between left-0 -top-12">
+          <div className="relative group">
+            <div className="text-sm font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 px-3 py-1.5 rounded-full shadow-sm flex items-center space-x-1 transition-all duration-200 hover:border-zinc-300 dark:hover:border-zinc-600">
+              <span className="text-zinc-900 dark:text-zinc-100">{formatTime(leftValue)}</span>
+              <span className="text-xs text-zinc-400 dark:text-zinc-500">start</span>
+            </div>
+          </div>
+          <div className="relative group">
+            <div className="text-sm font-medium bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 px-3 py-1.5 rounded-full shadow-sm flex items-center space-x-1 transition-all duration-200 hover:border-zinc-300 dark:hover:border-zinc-600">
+              <span className="text-zinc-900 dark:text-zinc-100">{formatTime(rightValue)}</span>
+              <span className="text-xs text-zinc-400 dark:text-zinc-500">end</span>
+            </div>
+          </div>
         </div>
 
         {/* Left Thumb Input */}
@@ -78,9 +93,10 @@ const CustomRangeSlider = ({ min, max, step, value, onChange }) => {
           onChange={handleLeftChange}
           className="absolute w-full top-0 h-2 appearance-none bg-transparent pointer-events-none"
           style={{
-            "--thumb-size": "24px",
+            "--thumb-size": "20px",
             "--thumb-color": "white",
-            "--thumb-border": "2px solid #B19EF7",
+            "--thumb-border": "2px solid rgb(var(--primary))",
+            "--thumb-shadow": "0 2px 4px rgba(0,0,0,0.1)",
           }}
         />
 
@@ -94,21 +110,12 @@ const CustomRangeSlider = ({ min, max, step, value, onChange }) => {
           onChange={handleRightChange}
           className="absolute w-full top-0 h-2 appearance-none bg-transparent pointer-events-none"
           style={{
-            "--thumb-size": "24px",
+            "--thumb-size": "20px",
             "--thumb-color": "white",
-            "--thumb-border": "2px solid #B19EF7",
+            "--thumb-border": "2px solid rgb(var(--primary))",
+            "--thumb-shadow": "0 2px 4px rgba(0,0,0,0.1)",
           }}
         />
-
-        {/* Current Values Display */}
-        <div className="absolute w-full flex justify-between left-0 -top-10 ">
-          <div className="text-sm font-medium bg-blue-100 border dark:bg-gray-800 px-2 py-1 rounded-full">
-            {formatTime(leftValue)}
-          </div>
-          <div className="text-sm font-medium bg-blue-100 border dark:bg-gray-800  px-2 py-1 rounded-full">
-            {formatTime(rightValue)}
-          </div>
-        </div>
       </div>
 
       <style jsx>{`
@@ -123,8 +130,14 @@ const CustomRangeSlider = ({ min, max, step, value, onChange }) => {
           border-radius: 50%;
           background: var(--thumb-color);
           border: var(--thumb-border);
+          box-shadow: var(--thumb-shadow);
           pointer-events: auto;
           cursor: pointer;
+          transition: all 0.2s ease;
+        }
+
+        input[type="range"]::-webkit-slider-thumb:hover {
+          transform: scale(1.1);
         }
 
         input[type="range"]::-moz-range-thumb {
@@ -133,8 +146,14 @@ const CustomRangeSlider = ({ min, max, step, value, onChange }) => {
           border-radius: 50%;
           background: var(--thumb-color);
           border: var(--thumb-border);
+          box-shadow: var(--thumb-shadow);
           pointer-events: auto;
           cursor: pointer;
+          transition: all 0.2s ease;
+        }
+
+        input[type="range"]::-moz-range-thumb:hover {
+          transform: scale(1.1);
         }
       `}</style>
     </div>

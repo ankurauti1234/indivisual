@@ -93,3 +93,43 @@ body {
 .text-shadow{
   text-shadow: 2px 2px #87FF6588;
 }
+
+@layer utilities{
+  .project-card-custom-corner {
+  --radius: 0.75rem; 
+  position: relative;
+}
+
+.project-card-custom-corner::before,
+.project-card-custom-corner::after {
+  content: "";
+  position: absolute;
+  width: var(--radius);
+  height: var(--radius);
+  background-image: radial-gradient(
+    circle at 100% 100%, 
+    transparent var(--radius), 
+    hsl(var(--background)) calc(var(--radius) + 1px)
+  );
+}
+
+.project-card-custom-corner::before {
+  top: -22rem;
+  right: 0;
+  rotate: -270deg;
+}
+
+.project-card-custom-corner::after {
+  top: -24rem;
+  right: 4.95rem;
+  rotate: 90deg;
+}
+
+.project-card-custom-corner-label {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  padding: 0.5rem;
+}
+}
