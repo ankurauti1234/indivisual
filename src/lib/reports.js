@@ -261,6 +261,17 @@ export const radio_broad_reports = [
     subpage: "broadcasters",
     slug: "daily-analysis",
   },
+  {
+    id: 3,
+    image: "/images/daily-analysis.png",
+    title: "Weekly Analysis",
+    description:
+      "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+    lastUpdated: "May 2, 2024",
+    page: "radio",
+    subpage: "broadcasters",
+    slug: "weekly-analysis",
+  },
 ];
 
 export const radio_ads_reports = [
