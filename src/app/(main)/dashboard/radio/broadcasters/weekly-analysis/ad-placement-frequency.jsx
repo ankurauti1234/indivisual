@@ -19,65 +19,233 @@ import {
 import ChartCard from "@/components/card/charts-card";
 import { LayoutPanelLeft } from "lucide-react";
 
-// Generate sample data for ad placement frequency
-const generatePlacementData = (station, timePeriod) => {
-  const programs = [
-    "Morning Show",
-    "Evening Drive",
-    "Night Cafe",
-    "Weekend Special",
-    "Lunch Hours",
-    "Music Marathon",
-  ];
-
-  const baseMultiplier = {
-    daily: 1,
-    weekly: 7,
-    monthly: 30,
-  };
-
-  // Adjust base ad counts based on station popularity
-  const stationMultiplier = {
-    "radio city": 1.2,
-    "radio mirchi": 1.1,
-    "red fm": 1.0,
-  };
-
-  return programs.map((program) => ({
-    name: program,
-    before: Math.floor(
-      (Math.random() * 5 + 3) *
-        baseMultiplier[timePeriod] *
-        stationMultiplier[station]
-    ),
-    during: Math.floor(
-      (Math.random() * 8 + 5) *
-        baseMultiplier[timePeriod] *
-        stationMultiplier[station]
-    ),
-    after: Math.floor(
-      (Math.random() * 4 + 2) *
-        baseMultiplier[timePeriod] *
-        stationMultiplier[station]
-    ),
-  }));
+const DATA = {
+  "MYFM - Ahmednagar": {
+    "daily": [
+      {
+        "name": "Swasthya ki Aradhana",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      },
+      {
+        "name": "Salaam Ahmednagar",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      },
+      {
+        "name": "Hum Tum",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      },
+      {
+        "name": "Happy Evening",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      },
+      {
+        "name": "Rock the Party",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      }
+    ],
+    "weekly": [
+      {
+        "name": "Swasthya ki Aradhana",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      },
+      {
+        "name": "Salaam Ahmednagar",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      },
+      {
+        "name": "Hum Tum",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      },
+      {
+        "name": "Happy Evening",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      },
+      {
+        "name": "Rock the Party",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      }
+    ],
+    "monthly": [
+      {
+        "name": "Swasthya ki Aradhana",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      },
+      {
+        "name": "Salaam Ahmednagar",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      },
+      {
+        "name": "Hum Tum",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      },
+      {
+        "name": "Happy Evening",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      },
+      {
+        "name": "Rock the Party",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      }
+    ]
+  },
+  "MangoFM - Kochi": {
+    "daily": [
+      {
+        "name": "Superfast",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      },
+      {
+        "name": "Timepass",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      },
+      {
+        "name": "Josh Junction",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      },
+      {
+        "name": "Citylights",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      },
+      {
+        "name": "Jab We Met",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      },
+      {
+        "name": "Back to Back",
+        "before": 4,
+        "during": 8,
+        "after": 3
+      }
+    ],
+    "weekly": [
+      {
+        "name": "Superfast",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      },
+      {
+        "name": "Timepass",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      },
+      {
+        "name": "Josh Junction",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      },
+      {
+        "name": "Citylights",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      },
+      {
+        "name": "Jab We Met",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      },
+      {
+        "name": "Back to Back",
+        "before": 28,
+        "during": 56,
+        "after": 21
+      }
+    ],
+    "monthly": [
+      {
+        "name": "Superfast",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      },
+      {
+        "name": "Timepass",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      },
+      {
+        "name": "Josh Junction",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      },
+      {
+        "name": "Citylights",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      },
+      {
+        "name": "Jab We Met",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      },
+      {
+        "name": "Back to Back",
+        "before": 120,
+        "during": 240,
+        "after": 90
+      }
+    ]
+  }
 };
 
 const AdPlacementFrequencyChart = () => {
-  const [station, setStation] = useState("radio city");
+  const [station, setStation] = useState("MYFM - Ahmednagar");
   const [timePeriod, setTimePeriod] = useState("daily");
-  const [placementData, setPlacementData] = useState(
-    generatePlacementData(station, timePeriod)
-  );
 
   const handleStationChange = (value) => {
     setStation(value);
-    setPlacementData(generatePlacementData(value, timePeriod));
   };
 
   const handleTimePeriodChange = (value) => {
     setTimePeriod(value);
-    setPlacementData(generatePlacementData(station, value));
   };
 
   return (
@@ -94,9 +262,8 @@ const AdPlacementFrequencyChart = () => {
                 <SelectValue placeholder="Select station" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="radio city">Radio City</SelectItem>
-                <SelectItem value="radio mirchi">Radio Mirchi</SelectItem>
-                <SelectItem value="red fm">Red FM</SelectItem>
+                <SelectItem value="MYFM - Ahmednagar">MYFM - Ahmednagar</SelectItem>
+                <SelectItem value="MangoFM - Kochi">MangoFM - Kochi</SelectItem>
               </SelectContent>
             </Select>
           </div>
@@ -119,7 +286,8 @@ const AdPlacementFrequencyChart = () => {
       chart={
         <ResponsiveContainer width="100%" height={400}>
           <BarChart
-            data={placementData}
+             barSize={120}
+            data={DATA[station][timePeriod]}
             margin={{ top: 5, right: 30, left: 15, bottom: 5 }}
           >
             <CartesianGrid strokeDasharray="3 3" vertical={false} />
@@ -127,8 +295,6 @@ const AdPlacementFrequencyChart = () => {
               dataKey="name"
               tickLine={false}
               axisLine={false}
-            //   angle={-45}
-            //   textAnchor="end"
               height={80}
             />
             <YAxis
@@ -175,8 +341,8 @@ const AdPlacementFrequencyChart = () => {
       }
       footer={
         <p className="text-sm text-gray-500">
-          Displays distribution of ads across different program segments. Data
-          updates based on selected station and time period.
+          Displays distribution of ads across different program segments for {station}.
+          Data shown for {timePeriod} frequency.
         </p>
       }
     />

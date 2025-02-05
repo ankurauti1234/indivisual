@@ -74,12 +74,12 @@ const StatCards = () => {
   };
 
   return (
-    <div className="p-6 space-y-6">
-      <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
+    <div className="">
+      <div className="grid grid-cols-1 lg:grid-cols-4 ">
         {/* Left side: 2x2 grid */}
-        <div className="grid grid-cols-2 gap-6 lg:col-span-2">
+        <div className="grid grid-cols-2 lg:col-span-2">
           {summaryCards.slice(0, 4).map((card, index) => (
-            <Card key={index} className="bg-white rounded-3xl shadow-sm">
+            <Card key={index} className="bg-white rounded-none shadow-sm">
               <CardContent className="p-6">
                 <div className="flex justify-between items-start">
                   <div>
@@ -97,9 +97,9 @@ const StatCards = () => {
         </div>
 
         {/* Right side: Popular Songs and Popular Program */}
-        <div className="grid grid-cols-2 gap-6 lg:col-span-2">
+        <div className="grid grid-cols-2 lg:col-span-2">
           {summaryCards.slice(4).map((card, index) => (
-            <Card key={index} className="bg-white rounded-3xl shadow-sm">
+            <Card key={index} className="bg-white rounded-none shadow-sm">
               <CardContent className="p-6">
                 <div className="flex justify-between items-start">
                   <div>
