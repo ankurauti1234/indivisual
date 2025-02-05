@@ -44,7 +44,8 @@ const DetailedAdAnalysis = () => {
           <h1 className="text-3xl font-semibold text-gray-900">Ad Analysis Dashboard</h1>
           <p className="text-gray-500 mt-2">Real-time advertising insights and metrics</p>
         </div>
-        <Select value={station} onValueChange={(value) => setStation(value)}>
+ <div className="flex gap-4">
+ <Select value={station} onValueChange={(value) => setStation(value)}>
           <SelectTrigger className="w-[240px] bg-white">
             <SelectValue placeholder="Select station" />
           </SelectTrigger>
@@ -54,6 +55,18 @@ const DetailedAdAnalysis = () => {
             <SelectItem value="red fm">Red FM Pune</SelectItem>
           </SelectContent>
         </Select>
+
+        <Select >
+          <SelectTrigger className="w-[240px] bg-white">
+            <SelectValue placeholder="Last Month" />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value="Last Month">Last Month </SelectItem>
+            <SelectItem value="Last Week">Last week</SelectItem>
+            {/* <SelectItem value="red fm">Red FM Pune</SelectItem> */}
+          </SelectContent>
+        </Select>
+ </div>
       </div>
 
       <Tabs defaultValue="schedule" className="w-full">
@@ -222,11 +235,11 @@ const DetailedAdAnalysis = () => {
                   <TableHeader>
                     <TableRow className="bg-gray-50">
                       <TableHead className="font-medium">Product</TableHead>
-                      <TableHead className="font-medium">Client</TableHead>
                       <TableHead className="font-medium">Category</TableHead>
+                      <TableHead className="font-medium">Sector</TableHead>
                       <TableHead className="font-medium">Region</TableHead>
                       <TableHead className="font-medium text-right">Volume</TableHead>
-                      <TableHead className="font-medium text-right">Engagement</TableHead>
+                      {/* <TableHead className="font-medium text-right">Engagement</TableHead> */}
                     </TableRow>
                   </TableHeader>
                   <TableBody>
@@ -237,7 +250,7 @@ const DetailedAdAnalysis = () => {
                         <TableCell>{metric.category}</TableCell>
                         <TableCell>{metric.source}</TableCell>
                         <TableCell className="text-right">{metric.volume}</TableCell>
-                        <TableCell className="text-right">{metric.engagement}%</TableCell>
+                        {/* <TableCell className="text-right">{metric.engagement}%</TableCell> */}
                       </TableRow>
                     ))}
                   </TableBody>
