@@ -22048,14 +22048,16220 @@ export const epgData = [
     "end": "21:18:21",
     "type": "ad",
     "audio": "/sounds/radio.mp3"
+  },
+
+
+  // RED FM DATA
+
+
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0001",
+    "date": "2025-02-05",
+    "start": "09:30:00",
+    "end": "09:30:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0002",
+    "date": "2025-02-05",
+    "start": "09:30:01",
+    "end": "09:30:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0003",
+    "date": "2025-02-05",
+    "start": "09:30:31",
+    "end": "09:30:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0004",
+    "date": "2025-02-05",
+    "start": "09:30:36",
+    "end": "09:30:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0005",
+    "date": "2025-02-05",
+    "start": "09:30:41",
+    "end": "09:30:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0006",
+    "date": "2025-02-05",
+    "start": "09:30:46",
+    "end": "09:34:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0007",
+    "date": "2025-02-05",
+    "start": "09:34:56",
+    "end": "09:35:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0008",
+    "date": "2025-02-05",
+    "start": "09:35:01",
+    "end": "09:39:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0009",
+    "date": "2025-02-05",
+    "start": "09:39:01",
+    "end": "09:39:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0010",
+    "date": "2025-02-05",
+    "start": "09:39:06",
+    "end": "09:39:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0011",
+    "date": "2025-02-05",
+    "start": "09:39:11",
+    "end": "09:39:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0012",
+    "date": "2025-02-05",
+    "start": "09:39:16",
+    "end": "09:39:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0013",
+    "date": "2025-02-05",
+    "start": "09:39:21",
+    "end": "09:39:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0014",
+    "date": "2025-02-05",
+    "start": "09:39:26",
+    "end": "09:39:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0015",
+    "date": "2025-02-05",
+    "start": "09:39:36",
+    "end": "09:39:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0016",
+    "date": "2025-02-05",
+    "start": "09:39:41",
+    "end": "09:40:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0017",
+    "date": "2025-02-05",
+    "start": "09:40:11",
+    "end": "09:40:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0018",
+    "date": "2025-02-05",
+    "start": "09:40:26",
+    "end": "09:40:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0019",
+    "date": "2025-02-05",
+    "start": "09:40:36",
+    "end": "09:40:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0020",
+    "date": "2025-02-05",
+    "start": "09:40:41",
+    "end": "09:40:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0021",
+    "date": "2025-02-05",
+    "start": "09:40:46",
+    "end": "09:40:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0022",
+    "date": "2025-02-05",
+    "start": "09:40:51",
+    "end": "09:41:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0023",
+    "date": "2025-02-05",
+    "start": "09:41:41",
+    "end": "09:41:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0024",
+    "date": "2025-02-05",
+    "start": "09:41:46",
+    "end": "09:41:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0025",
+    "date": "2025-02-05",
+    "start": "09:41:51",
+    "end": "09:42:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0026",
+    "date": "2025-02-05",
+    "start": "09:42:21",
+    "end": "09:42:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0027",
+    "date": "2025-02-05",
+    "start": "09:42:26",
+    "end": "09:42:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0028",
+    "date": "2025-02-05",
+    "start": "09:42:31",
+    "end": "09:43:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0029",
+    "date": "2025-02-05",
+    "start": "09:43:06",
+    "end": "09:43:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0030",
+    "date": "2025-02-05",
+    "start": "09:43:11",
+    "end": "09:43:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0031",
+    "date": "2025-02-05",
+    "start": "09:43:16",
+    "end": "09:43:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0032",
+    "date": "2025-02-05",
+    "start": "09:43:21",
+    "end": "09:43:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0033",
+    "date": "2025-02-05",
+    "start": "09:43:26",
+    "end": "09:43:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0034",
+    "date": "2025-02-05",
+    "start": "09:43:31",
+    "end": "09:43:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0035",
+    "date": "2025-02-05",
+    "start": "09:43:36",
+    "end": "09:43:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0036",
+    "date": "2025-02-05",
+    "start": "09:43:41",
+    "end": "09:44:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0037",
+    "date": "2025-02-05",
+    "start": "09:44:31",
+    "end": "09:44:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0038",
+    "date": "2025-02-05",
+    "start": "09:44:36",
+    "end": "09:44:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0039",
+    "date": "2025-02-05",
+    "start": "09:44:51",
+    "end": "09:45:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0040",
+    "date": "2025-02-05",
+    "start": "09:45:01",
+    "end": "09:45:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0041",
+    "date": "2025-02-05",
+    "start": "09:45:06",
+    "end": "09:46:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0042",
+    "date": "2025-02-05",
+    "start": "09:46:01",
+    "end": "09:46:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0043",
+    "date": "2025-02-05",
+    "start": "09:46:56",
+    "end": "09:47:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0044",
+    "date": "2025-02-05",
+    "start": "09:47:06",
+    "end": "09:47:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0045",
+    "date": "2025-02-05",
+    "start": "09:47:11",
+    "end": "09:47:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0046",
+    "date": "2025-02-05",
+    "start": "09:47:16",
+    "end": "09:47:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0047",
+    "date": "2025-02-05",
+    "start": "09:47:21",
+    "end": "09:47:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0048",
+    "date": "2025-02-05",
+    "start": "09:47:26",
+    "end": "09:47:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0049",
+    "date": "2025-02-05",
+    "start": "09:47:41",
+    "end": "09:47:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0050",
+    "date": "2025-02-05",
+    "start": "09:47:46",
+    "end": "09:47:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0051",
+    "date": "2025-02-05",
+    "start": "09:47:51",
+    "end": "09:47:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0052",
+    "date": "2025-02-05",
+    "start": "09:47:56",
+    "end": "09:48:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0053",
+    "date": "2025-02-05",
+    "start": "09:48:36",
+    "end": "09:48:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0054",
+    "date": "2025-02-05",
+    "start": "09:48:51",
+    "end": "09:49:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0055",
+    "date": "2025-02-05",
+    "start": "09:49:16",
+    "end": "09:52:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0056",
+    "date": "2025-02-05",
+    "start": "09:52:36",
+    "end": "09:53:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0057",
+    "date": "2025-02-05",
+    "start": "09:53:41",
+    "end": "09:53:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0058",
+    "date": "2025-02-05",
+    "start": "09:53:46",
+    "end": "09:53:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0059",
+    "date": "2025-02-05",
+    "start": "09:53:51",
+    "end": "09:53:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0060",
+    "date": "2025-02-05",
+    "start": "09:53:56",
+    "end": "09:54:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0061",
+    "date": "2025-02-05",
+    "start": "09:54:01",
+    "end": "09:54:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0062",
+    "date": "2025-02-05",
+    "start": "09:54:11",
+    "end": "09:54:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0063",
+    "date": "2025-02-05",
+    "start": "09:54:16",
+    "end": "09:54:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0064",
+    "date": "2025-02-05",
+    "start": "09:54:21",
+    "end": "09:54:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0065",
+    "date": "2025-02-05",
+    "start": "09:54:26",
+    "end": "09:54:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0066",
+    "date": "2025-02-05",
+    "start": "09:54:31",
+    "end": "09:54:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0067",
+    "date": "2025-02-05",
+    "start": "09:54:36",
+    "end": "09:54:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0068",
+    "date": "2025-02-05",
+    "start": "09:54:41",
+    "end": "09:54:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0069",
+    "date": "2025-02-05",
+    "start": "09:54:46",
+    "end": "09:54:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0070",
+    "date": "2025-02-05",
+    "start": "09:54:51",
+    "end": "09:54:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0071",
+    "date": "2025-02-05",
+    "start": "09:54:56",
+    "end": "09:55:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0072",
+    "date": "2025-02-05",
+    "start": "09:55:01",
+    "end": "09:55:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0073",
+    "date": "2025-02-05",
+    "start": "09:55:06",
+    "end": "09:55:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0074",
+    "date": "2025-02-05",
+    "start": "09:55:36",
+    "end": "09:55:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0075",
+    "date": "2025-02-05",
+    "start": "09:55:41",
+    "end": "09:55:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0076",
+    "date": "2025-02-05",
+    "start": "09:55:46",
+    "end": "09:56:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0077",
+    "date": "2025-02-05",
+    "start": "09:56:06",
+    "end": "09:56:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0078",
+    "date": "2025-02-05",
+    "start": "09:56:11",
+    "end": "09:56:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0079",
+    "date": "2025-02-05",
+    "start": "09:56:16",
+    "end": "09:56:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0080",
+    "date": "2025-02-05",
+    "start": "09:56:21",
+    "end": "09:56:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0081",
+    "date": "2025-02-05",
+    "start": "09:56:26",
+    "end": "09:56:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0082",
+    "date": "2025-02-05",
+    "start": "09:56:31",
+    "end": "09:56:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0083",
+    "date": "2025-02-05",
+    "start": "09:56:36",
+    "end": "09:56:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0084",
+    "date": "2025-02-05",
+    "start": "09:56:41",
+    "end": "09:56:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0085",
+    "date": "2025-02-05",
+    "start": "09:56:46",
+    "end": "09:56:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0086",
+    "date": "2025-02-05",
+    "start": "09:56:51",
+    "end": "09:56:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0087",
+    "date": "2025-02-05",
+    "start": "09:56:56",
+    "end": "09:57:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0088",
+    "date": "2025-02-05",
+    "start": "09:57:01",
+    "end": "09:57:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0089",
+    "date": "2025-02-05",
+    "start": "09:57:11",
+    "end": "09:57:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0090",
+    "date": "2025-02-05",
+    "start": "09:57:16",
+    "end": "09:57:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0091",
+    "date": "2025-02-05",
+    "start": "09:57:21",
+    "end": "10:06:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0092",
+    "date": "2025-02-05",
+    "start": "10:06:06",
+    "end": "10:06:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0093",
+    "date": "2025-02-05",
+    "start": "10:06:16",
+    "end": "10:06:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0094",
+    "date": "2025-02-05",
+    "start": "10:06:21",
+    "end": "10:06:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0095",
+    "date": "2025-02-05",
+    "start": "10:06:26",
+    "end": "10:06:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0096",
+    "date": "2025-02-05",
+    "start": "10:06:31",
+    "end": "10:06:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0097",
+    "date": "2025-02-05",
+    "start": "10:06:41",
+    "end": "10:06:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0098",
+    "date": "2025-02-05",
+    "start": "10:06:46",
+    "end": "10:07:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0099",
+    "date": "2025-02-05",
+    "start": "10:07:01",
+    "end": "10:07:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0100",
+    "date": "2025-02-05",
+    "start": "10:07:16",
+    "end": "10:07:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0101",
+    "date": "2025-02-05",
+    "start": "10:07:36",
+    "end": "10:07:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0102",
+    "date": "2025-02-05",
+    "start": "10:07:41",
+    "end": "10:07:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0103",
+    "date": "2025-02-05",
+    "start": "10:07:46",
+    "end": "10:08:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0104",
+    "date": "2025-02-05",
+    "start": "10:08:06",
+    "end": "10:08:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0105",
+    "date": "2025-02-05",
+    "start": "10:08:51",
+    "end": "10:08:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0106",
+    "date": "2025-02-05",
+    "start": "10:08:56",
+    "end": "10:11:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0107",
+    "date": "2025-02-05",
+    "start": "10:11:11",
+    "end": "10:11:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0108",
+    "date": "2025-02-05",
+    "start": "10:11:16",
+    "end": "10:13:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0109",
+    "date": "2025-02-05",
+    "start": "10:13:51",
+    "end": "10:13:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0110",
+    "date": "2025-02-05",
+    "start": "10:13:56",
+    "end": "10:14:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0111",
+    "date": "2025-02-05",
+    "start": "10:14:01",
+    "end": "10:14:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0112",
+    "date": "2025-02-05",
+    "start": "10:14:06",
+    "end": "10:14:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0113",
+    "date": "2025-02-05",
+    "start": "10:14:11",
+    "end": "10:14:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0114",
+    "date": "2025-02-05",
+    "start": "10:14:16",
+    "end": "10:14:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0115",
+    "date": "2025-02-05",
+    "start": "10:14:21",
+    "end": "10:14:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0116",
+    "date": "2025-02-05",
+    "start": "10:14:26",
+    "end": "10:14:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0117",
+    "date": "2025-02-05",
+    "start": "10:14:31",
+    "end": "10:14:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0118",
+    "date": "2025-02-05",
+    "start": "10:14:36",
+    "end": "10:14:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0119",
+    "date": "2025-02-05",
+    "start": "10:14:56",
+    "end": "10:15:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0120",
+    "date": "2025-02-05",
+    "start": "10:15:01",
+    "end": "10:15:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0121",
+    "date": "2025-02-05",
+    "start": "10:15:06",
+    "end": "10:15:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0122",
+    "date": "2025-02-05",
+    "start": "10:15:11",
+    "end": "10:15:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0123",
+    "date": "2025-02-05",
+    "start": "10:15:16",
+    "end": "10:15:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0124",
+    "date": "2025-02-05",
+    "start": "10:15:21",
+    "end": "10:15:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0125",
+    "date": "2025-02-05",
+    "start": "10:15:26",
+    "end": "10:15:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0126",
+    "date": "2025-02-05",
+    "start": "10:15:31",
+    "end": "10:15:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0127",
+    "date": "2025-02-05",
+    "start": "10:15:36",
+    "end": "10:15:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0128",
+    "date": "2025-02-05",
+    "start": "10:15:46",
+    "end": "10:15:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0129",
+    "date": "2025-02-05",
+    "start": "10:15:51",
+    "end": "10:15:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0130",
+    "date": "2025-02-05",
+    "start": "10:15:56",
+    "end": "10:16:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0131",
+    "date": "2025-02-05",
+    "start": "10:16:06",
+    "end": "10:16:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0132",
+    "date": "2025-02-05",
+    "start": "10:16:11",
+    "end": "10:16:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0133",
+    "date": "2025-02-05",
+    "start": "10:16:16",
+    "end": "10:16:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0134",
+    "date": "2025-02-05",
+    "start": "10:16:21",
+    "end": "10:17:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0135",
+    "date": "2025-02-05",
+    "start": "10:17:41",
+    "end": "10:17:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0136",
+    "date": "2025-02-05",
+    "start": "10:17:46",
+    "end": "10:17:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0137",
+    "date": "2025-02-05",
+    "start": "10:17:51",
+    "end": "10:17:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0138",
+    "date": "2025-02-05",
+    "start": "10:17:56",
+    "end": "10:18:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0139",
+    "date": "2025-02-05",
+    "start": "10:18:01",
+    "end": "10:18:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0140",
+    "date": "2025-02-05",
+    "start": "10:18:06",
+    "end": "10:18:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0141",
+    "date": "2025-02-05",
+    "start": "10:18:11",
+    "end": "10:19:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0142",
+    "date": "2025-02-05",
+    "start": "10:19:31",
+    "end": "10:19:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0143",
+    "date": "2025-02-05",
+    "start": "10:19:36",
+    "end": "10:19:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0144",
+    "date": "2025-02-05",
+    "start": "10:19:46",
+    "end": "10:20:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0145",
+    "date": "2025-02-05",
+    "start": "10:20:01",
+    "end": "10:20:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0146",
+    "date": "2025-02-05",
+    "start": "10:20:06",
+    "end": "10:20:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0147",
+    "date": "2025-02-05",
+    "start": "10:20:11",
+    "end": "10:20:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0148",
+    "date": "2025-02-05",
+    "start": "10:20:46",
+    "end": "10:20:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0149",
+    "date": "2025-02-05",
+    "start": "10:20:56",
+    "end": "10:21:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0150",
+    "date": "2025-02-05",
+    "start": "10:21:11",
+    "end": "10:21:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0151",
+    "date": "2025-02-05",
+    "start": "10:21:31",
+    "end": "10:21:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0152",
+    "date": "2025-02-05",
+    "start": "10:21:41",
+    "end": "10:22:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0153",
+    "date": "2025-02-05",
+    "start": "10:22:01",
+    "end": "10:27:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0154",
+    "date": "2025-02-05",
+    "start": "10:27:51",
+    "end": "10:27:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0155",
+    "date": "2025-02-05",
+    "start": "10:27:56",
+    "end": "10:28:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0156",
+    "date": "2025-02-05",
+    "start": "10:28:01",
+    "end": "10:28:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0157",
+    "date": "2025-02-05",
+    "start": "10:28:06",
+    "end": "10:29:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0158",
+    "date": "2025-02-05",
+    "start": "10:29:41",
+    "end": "10:29:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0159",
+    "date": "2025-02-05",
+    "start": "10:29:46",
+    "end": "10:29:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0160",
+    "date": "2025-02-05",
+    "start": "10:29:51",
+    "end": "10:29:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0161",
+    "date": "2025-02-05",
+    "start": "10:29:56",
+    "end": "10:30:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0162",
+    "date": "2025-02-05",
+    "start": "10:30:01",
+    "end": "10:30:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0163",
+    "date": "2025-02-05",
+    "start": "10:30:06",
+    "end": "10:30:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0164",
+    "date": "2025-02-05",
+    "start": "10:30:11",
+    "end": "10:30:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0165",
+    "date": "2025-02-05",
+    "start": "10:30:16",
+    "end": "10:30:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0166",
+    "date": "2025-02-05",
+    "start": "10:30:21",
+    "end": "10:30:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0167",
+    "date": "2025-02-05",
+    "start": "10:30:26",
+    "end": "10:30:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0168",
+    "date": "2025-02-05",
+    "start": "10:30:31",
+    "end": "10:30:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0169",
+    "date": "2025-02-05",
+    "start": "10:30:36",
+    "end": "10:31:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0170",
+    "date": "2025-02-05",
+    "start": "10:31:11",
+    "end": "10:31:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0171",
+    "date": "2025-02-05",
+    "start": "10:31:16",
+    "end": "10:31:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0172",
+    "date": "2025-02-05",
+    "start": "10:31:21",
+    "end": "10:31:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0173",
+    "date": "2025-02-05",
+    "start": "10:31:26",
+    "end": "10:31:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0174",
+    "date": "2025-02-05",
+    "start": "10:31:56",
+    "end": "10:32:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0175",
+    "date": "2025-02-05",
+    "start": "10:32:01",
+    "end": "10:32:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0176",
+    "date": "2025-02-05",
+    "start": "10:32:06",
+    "end": "10:32:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0177",
+    "date": "2025-02-05",
+    "start": "10:32:16",
+    "end": "10:32:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0178",
+    "date": "2025-02-05",
+    "start": "10:32:26",
+    "end": "10:34:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0179",
+    "date": "2025-02-05",
+    "start": "10:34:01",
+    "end": "10:34:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0180",
+    "date": "2025-02-05",
+    "start": "10:34:06",
+    "end": "10:34:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0181",
+    "date": "2025-02-05",
+    "start": "10:34:11",
+    "end": "10:34:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0182",
+    "date": "2025-02-05",
+    "start": "10:34:16",
+    "end": "10:34:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0183",
+    "date": "2025-02-05",
+    "start": "10:34:21",
+    "end": "10:34:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0184",
+    "date": "2025-02-05",
+    "start": "10:34:26",
+    "end": "10:34:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0185",
+    "date": "2025-02-05",
+    "start": "10:34:31",
+    "end": "10:34:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0186",
+    "date": "2025-02-05",
+    "start": "10:34:36",
+    "end": "10:34:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0187",
+    "date": "2025-02-05",
+    "start": "10:34:41",
+    "end": "10:34:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0188",
+    "date": "2025-02-05",
+    "start": "10:34:51",
+    "end": "10:35:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0189",
+    "date": "2025-02-05",
+    "start": "10:35:16",
+    "end": "10:35:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0190",
+    "date": "2025-02-05",
+    "start": "10:35:21",
+    "end": "10:35:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0191",
+    "date": "2025-02-05",
+    "start": "10:35:31",
+    "end": "10:35:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0192",
+    "date": "2025-02-05",
+    "start": "10:35:51",
+    "end": "10:35:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0193",
+    "date": "2025-02-05",
+    "start": "10:35:56",
+    "end": "10:36:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0194",
+    "date": "2025-02-05",
+    "start": "10:36:01",
+    "end": "10:36:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0195",
+    "date": "2025-02-05",
+    "start": "10:36:06",
+    "end": "10:36:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0196",
+    "date": "2025-02-05",
+    "start": "10:36:11",
+    "end": "10:36:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0197",
+    "date": "2025-02-05",
+    "start": "10:36:16",
+    "end": "10:36:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0198",
+    "date": "2025-02-05",
+    "start": "10:36:21",
+    "end": "10:37:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0199",
+    "date": "2025-02-05",
+    "start": "10:37:01",
+    "end": "10:37:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0200",
+    "date": "2025-02-05",
+    "start": "10:37:06",
+    "end": "10:39:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0201",
+    "date": "2025-02-05",
+    "start": "10:39:46",
+    "end": "10:40:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0202",
+    "date": "2025-02-05",
+    "start": "10:40:26",
+    "end": "10:40:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0203",
+    "date": "2025-02-05",
+    "start": "10:40:31",
+    "end": "10:40:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0204",
+    "date": "2025-02-05",
+    "start": "10:40:36",
+    "end": "10:40:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0205",
+    "date": "2025-02-05",
+    "start": "10:40:41",
+    "end": "10:41:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0206",
+    "date": "2025-02-05",
+    "start": "10:41:06",
+    "end": "10:41:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0207",
+    "date": "2025-02-05",
+    "start": "10:41:11",
+    "end": "10:41:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0208",
+    "date": "2025-02-05",
+    "start": "10:41:16",
+    "end": "10:41:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0209",
+    "date": "2025-02-05",
+    "start": "10:41:21",
+    "end": "10:41:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0210",
+    "date": "2025-02-05",
+    "start": "10:41:26",
+    "end": "10:41:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0211",
+    "date": "2025-02-05",
+    "start": "10:41:36",
+    "end": "10:41:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0212",
+    "date": "2025-02-05",
+    "start": "10:41:41",
+    "end": "10:41:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0213",
+    "date": "2025-02-05",
+    "start": "10:41:46",
+    "end": "10:41:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0214",
+    "date": "2025-02-05",
+    "start": "10:41:51",
+    "end": "10:41:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0215",
+    "date": "2025-02-05",
+    "start": "10:41:56",
+    "end": "10:42:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0216",
+    "date": "2025-02-05",
+    "start": "10:42:01",
+    "end": "10:42:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0217",
+    "date": "2025-02-05",
+    "start": "10:42:06",
+    "end": "10:42:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0218",
+    "date": "2025-02-05",
+    "start": "10:42:11",
+    "end": "10:42:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0219",
+    "date": "2025-02-05",
+    "start": "10:42:21",
+    "end": "10:42:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0220",
+    "date": "2025-02-05",
+    "start": "10:42:26",
+    "end": "10:42:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0221",
+    "date": "2025-02-05",
+    "start": "10:42:31",
+    "end": "10:42:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0222",
+    "date": "2025-02-05",
+    "start": "10:42:36",
+    "end": "10:42:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0223",
+    "date": "2025-02-05",
+    "start": "10:42:41",
+    "end": "10:43:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0224",
+    "date": "2025-02-05",
+    "start": "10:43:41",
+    "end": "10:43:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0225",
+    "date": "2025-02-05",
+    "start": "10:43:46",
+    "end": "10:43:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0226",
+    "date": "2025-02-05",
+    "start": "10:43:51",
+    "end": "10:43:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0227",
+    "date": "2025-02-05",
+    "start": "10:43:56",
+    "end": "10:44:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0228",
+    "date": "2025-02-05",
+    "start": "10:44:01",
+    "end": "10:44:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0229",
+    "date": "2025-02-05",
+    "start": "10:44:06",
+    "end": "10:44:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0230",
+    "date": "2025-02-05",
+    "start": "10:44:11",
+    "end": "10:44:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0231",
+    "date": "2025-02-05",
+    "start": "10:44:16",
+    "end": "10:45:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0232",
+    "date": "2025-02-05",
+    "start": "10:45:06",
+    "end": "10:45:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0233",
+    "date": "2025-02-05",
+    "start": "10:45:11",
+    "end": "10:45:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0234",
+    "date": "2025-02-05",
+    "start": "10:45:16",
+    "end": "10:45:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0235",
+    "date": "2025-02-05",
+    "start": "10:45:21",
+    "end": "10:45:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0236",
+    "date": "2025-02-05",
+    "start": "10:45:31",
+    "end": "10:45:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0237",
+    "date": "2025-02-05",
+    "start": "10:45:36",
+    "end": "10:45:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0238",
+    "date": "2025-02-05",
+    "start": "10:45:46",
+    "end": "10:51:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0239",
+    "date": "2025-02-05",
+    "start": "10:51:06",
+    "end": "10:51:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0240",
+    "date": "2025-02-05",
+    "start": "10:51:11",
+    "end": "10:51:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0241",
+    "date": "2025-02-05",
+    "start": "10:51:16",
+    "end": "10:51:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0242",
+    "date": "2025-02-05",
+    "start": "10:51:21",
+    "end": "10:51:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0243",
+    "date": "2025-02-05",
+    "start": "10:51:26",
+    "end": "10:51:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0244",
+    "date": "2025-02-05",
+    "start": "10:51:31",
+    "end": "10:51:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0245",
+    "date": "2025-02-05",
+    "start": "10:51:36",
+    "end": "10:52:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0246",
+    "date": "2025-02-05",
+    "start": "10:52:06",
+    "end": "10:53:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0247",
+    "date": "2025-02-05",
+    "start": "10:53:11",
+    "end": "10:53:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0248",
+    "date": "2025-02-05",
+    "start": "10:53:16",
+    "end": "10:53:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0249",
+    "date": "2025-02-05",
+    "start": "10:53:21",
+    "end": "10:53:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0250",
+    "date": "2025-02-05",
+    "start": "10:53:26",
+    "end": "10:55:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0251",
+    "date": "2025-02-05",
+    "start": "10:55:11",
+    "end": "10:56:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0252",
+    "date": "2025-02-05",
+    "start": "10:56:36",
+    "end": "10:56:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0253",
+    "date": "2025-02-05",
+    "start": "10:56:41",
+    "end": "10:56:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0254",
+    "date": "2025-02-05",
+    "start": "10:56:51",
+    "end": "10:56:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0255",
+    "date": "2025-02-05",
+    "start": "10:56:56",
+    "end": "10:57:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0256",
+    "date": "2025-02-05",
+    "start": "10:57:01",
+    "end": "10:57:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0257",
+    "date": "2025-02-05",
+    "start": "10:57:11",
+    "end": "10:57:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0258",
+    "date": "2025-02-05",
+    "start": "10:57:26",
+    "end": "10:57:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0259",
+    "date": "2025-02-05",
+    "start": "10:57:41",
+    "end": "10:57:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0260",
+    "date": "2025-02-05",
+    "start": "10:57:51",
+    "end": "10:57:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0261",
+    "date": "2025-02-05",
+    "start": "10:57:56",
+    "end": "10:58:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Banking,Housing Finance,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0262",
+    "date": "2025-02-05",
+    "start": "10:58:11",
+    "end": "10:59:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0263",
+    "date": "2025-02-05",
+    "start": "10:59:06",
+    "end": "10:59:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0264",
+    "date": "2025-02-05",
+    "start": "10:59:11",
+    "end": "10:59:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Prathamesh Resort,Travel,,Travel and Tourism",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0265",
+    "date": "2025-02-05",
+    "start": "10:59:16",
+    "end": "10:59:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0266",
+    "date": "2025-02-05",
+    "start": "10:59:41",
+    "end": "11:01:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0267",
+    "date": "2025-02-05",
+    "start": "11:01:51",
+    "end": "11:02:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0268",
+    "date": "2025-02-05",
+    "start": "11:02:31",
+    "end": "11:02:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0269",
+    "date": "2025-02-05",
+    "start": "11:02:36",
+    "end": "11:02:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0270",
+    "date": "2025-02-05",
+    "start": "11:02:41",
+    "end": "11:02:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0271",
+    "date": "2025-02-05",
+    "start": "11:02:51",
+    "end": "11:03:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0272",
+    "date": "2025-02-05",
+    "start": "11:03:16",
+    "end": "11:03:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0273",
+    "date": "2025-02-05",
+    "start": "11:03:36",
+    "end": "11:03:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0274",
+    "date": "2025-02-05",
+    "start": "11:03:51",
+    "end": "11:04:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0275",
+    "date": "2025-02-05",
+    "start": "11:04:16",
+    "end": "11:04:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0276",
+    "date": "2025-02-05",
+    "start": "11:04:21",
+    "end": "11:04:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0277",
+    "date": "2025-02-05",
+    "start": "11:04:51",
+    "end": "11:04:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0278",
+    "date": "2025-02-05",
+    "start": "11:04:56",
+    "end": "11:05:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0279",
+    "date": "2025-02-05",
+    "start": "11:05:01",
+    "end": "11:05:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0280",
+    "date": "2025-02-05",
+    "start": "11:05:06",
+    "end": "11:05:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0281",
+    "date": "2025-02-05",
+    "start": "11:05:11",
+    "end": "11:05:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0282",
+    "date": "2025-02-05",
+    "start": "11:05:16",
+    "end": "11:05:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0283",
+    "date": "2025-02-05",
+    "start": "11:05:21",
+    "end": "11:05:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0284",
+    "date": "2025-02-05",
+    "start": "11:05:26",
+    "end": "11:05:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0285",
+    "date": "2025-02-05",
+    "start": "11:05:31",
+    "end": "11:05:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0286",
+    "date": "2025-02-05",
+    "start": "11:05:36",
+    "end": "11:05:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0287",
+    "date": "2025-02-05",
+    "start": "11:05:46",
+    "end": "11:05:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0288",
+    "date": "2025-02-05",
+    "start": "11:05:51",
+    "end": "11:06:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0289",
+    "date": "2025-02-05",
+    "start": "11:06:06",
+    "end": "11:06:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0290",
+    "date": "2025-02-05",
+    "start": "11:06:11",
+    "end": "11:06:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0291",
+    "date": "2025-02-05",
+    "start": "11:06:16",
+    "end": "11:06:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0292",
+    "date": "2025-02-05",
+    "start": "11:06:21",
+    "end": "11:06:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0293",
+    "date": "2025-02-05",
+    "start": "11:06:31",
+    "end": "11:06:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0294",
+    "date": "2025-02-05",
+    "start": "11:06:36",
+    "end": "11:06:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0295",
+    "date": "2025-02-05",
+    "start": "11:06:41",
+    "end": "11:07:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0296",
+    "date": "2025-02-05",
+    "start": "11:07:01",
+    "end": "11:07:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0297",
+    "date": "2025-02-05",
+    "start": "11:07:11",
+    "end": "11:07:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0298",
+    "date": "2025-02-05",
+    "start": "11:07:26",
+    "end": "11:07:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0299",
+    "date": "2025-02-05",
+    "start": "11:07:31",
+    "end": "11:10:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0300",
+    "date": "2025-02-05",
+    "start": "11:10:56",
+    "end": "11:11:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0301",
+    "date": "2025-02-05",
+    "start": "11:11:01",
+    "end": "11:11:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0302",
+    "date": "2025-02-05",
+    "start": "11:11:06",
+    "end": "11:11:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0303",
+    "date": "2025-02-05",
+    "start": "11:11:11",
+    "end": "11:12:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0304",
+    "date": "2025-02-05",
+    "start": "11:12:06",
+    "end": "11:12:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0305",
+    "date": "2025-02-05",
+    "start": "11:12:11",
+    "end": "11:12:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0306",
+    "date": "2025-02-05",
+    "start": "11:12:16",
+    "end": "11:12:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0307",
+    "date": "2025-02-05",
+    "start": "11:12:21",
+    "end": "11:12:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0308",
+    "date": "2025-02-05",
+    "start": "11:12:26",
+    "end": "11:13:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0309",
+    "date": "2025-02-05",
+    "start": "11:13:26",
+    "end": "11:13:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0310",
+    "date": "2025-02-05",
+    "start": "11:13:31",
+    "end": "11:13:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0311",
+    "date": "2025-02-05",
+    "start": "11:13:36",
+    "end": "11:13:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0312",
+    "date": "2025-02-05",
+    "start": "11:13:41",
+    "end": "11:16:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0313",
+    "date": "2025-02-05",
+    "start": "11:16:21",
+    "end": "11:16:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0314",
+    "date": "2025-02-05",
+    "start": "11:16:26",
+    "end": "11:17:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0315",
+    "date": "2025-02-05",
+    "start": "11:17:06",
+    "end": "11:17:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Alfaazo,Mitraz,Alfaazo,2023,Bang Records,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0316",
+    "date": "2025-02-05",
+    "start": "11:17:26",
+    "end": "11:21:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tainu Khabar Nahi,Arijit Singh & Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0317",
+    "date": "2025-02-05",
+    "start": "11:21:36",
+    "end": "11:22:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tainu Khabar Nahi,Arijit Singh & Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0318",
+    "date": "2025-02-05",
+    "start": "11:22:21",
+    "end": "11:22:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0319",
+    "date": "2025-02-05",
+    "start": "11:22:41",
+    "end": "11:26:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0320",
+    "date": "2025-02-05",
+    "start": "11:26:26",
+    "end": "11:26:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0321",
+    "date": "2025-02-05",
+    "start": "11:26:31",
+    "end": "11:26:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0322",
+    "date": "2025-02-05",
+    "start": "11:26:36",
+    "end": "11:26:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0323",
+    "date": "2025-02-05",
+    "start": "11:26:41",
+    "end": "11:26:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0324",
+    "date": "2025-02-05",
+    "start": "11:26:46",
+    "end": "11:27:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0325",
+    "date": "2025-02-05",
+    "start": "11:27:26",
+    "end": "11:27:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0326",
+    "date": "2025-02-05",
+    "start": "11:27:31",
+    "end": "11:27:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0327",
+    "date": "2025-02-05",
+    "start": "11:27:36",
+    "end": "11:27:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0328",
+    "date": "2025-02-05",
+    "start": "11:27:41",
+    "end": "11:28:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0329",
+    "date": "2025-02-05",
+    "start": "11:28:11",
+    "end": "11:28:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0330",
+    "date": "2025-02-05",
+    "start": "11:28:16",
+    "end": "11:28:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0331",
+    "date": "2025-02-05",
+    "start": "11:28:21",
+    "end": "11:28:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0332",
+    "date": "2025-02-05",
+    "start": "11:28:26",
+    "end": "11:28:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0333",
+    "date": "2025-02-05",
+    "start": "11:28:31",
+    "end": "11:28:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0334",
+    "date": "2025-02-05",
+    "start": "11:28:36",
+    "end": "11:28:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0335",
+    "date": "2025-02-05",
+    "start": "11:28:41",
+    "end": "11:28:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0336",
+    "date": "2025-02-05",
+    "start": "11:28:46",
+    "end": "11:28:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0337",
+    "date": "2025-02-05",
+    "start": "11:28:51",
+    "end": "11:28:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0338",
+    "date": "2025-02-05",
+    "start": "11:28:56",
+    "end": "11:29:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0339",
+    "date": "2025-02-05",
+    "start": "11:29:01",
+    "end": "11:29:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0340",
+    "date": "2025-02-05",
+    "start": "11:29:06",
+    "end": "11:29:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0341",
+    "date": "2025-02-05",
+    "start": "11:29:11",
+    "end": "11:29:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0342",
+    "date": "2025-02-05",
+    "start": "11:29:16",
+    "end": "11:29:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0343",
+    "date": "2025-02-05",
+    "start": "11:29:36",
+    "end": "11:36:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0344",
+    "date": "2025-02-05",
+    "start": "11:36:16",
+    "end": "11:36:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0345",
+    "date": "2025-02-05",
+    "start": "11:36:21",
+    "end": "11:39:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0346",
+    "date": "2025-02-05",
+    "start": "11:39:26",
+    "end": "11:39:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0347",
+    "date": "2025-02-05",
+    "start": "11:39:31",
+    "end": "11:39:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0348",
+    "date": "2025-02-05",
+    "start": "11:39:36",
+    "end": "11:39:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0349",
+    "date": "2025-02-05",
+    "start": "11:39:41",
+    "end": "11:39:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0350",
+    "date": "2025-02-05",
+    "start": "11:39:46",
+    "end": "11:39:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0351",
+    "date": "2025-02-05",
+    "start": "11:39:51",
+    "end": "11:39:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0352",
+    "date": "2025-02-05",
+    "start": "11:39:56",
+    "end": "11:40:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0353",
+    "date": "2025-02-05",
+    "start": "11:40:01",
+    "end": "11:40:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0354",
+    "date": "2025-02-05",
+    "start": "11:40:06",
+    "end": "11:40:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0355",
+    "date": "2025-02-05",
+    "start": "11:40:11",
+    "end": "11:40:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0356",
+    "date": "2025-02-05",
+    "start": "11:40:16",
+    "end": "11:40:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0357",
+    "date": "2025-02-05",
+    "start": "11:40:21",
+    "end": "11:40:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0358",
+    "date": "2025-02-05",
+    "start": "11:40:26",
+    "end": "11:40:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0359",
+    "date": "2025-02-05",
+    "start": "11:40:31",
+    "end": "11:40:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0360",
+    "date": "2025-02-05",
+    "start": "11:40:36",
+    "end": "11:40:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0361",
+    "date": "2025-02-05",
+    "start": "11:40:41",
+    "end": "11:40:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0362",
+    "date": "2025-02-05",
+    "start": "11:40:46",
+    "end": "11:40:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0363",
+    "date": "2025-02-05",
+    "start": "11:40:51",
+    "end": "11:40:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0364",
+    "date": "2025-02-05",
+    "start": "11:40:56",
+    "end": "11:41:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0365",
+    "date": "2025-02-05",
+    "start": "11:41:01",
+    "end": "11:41:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0366",
+    "date": "2025-02-05",
+    "start": "11:41:06",
+    "end": "11:41:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0367",
+    "date": "2025-02-05",
+    "start": "11:41:11",
+    "end": "11:41:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0368",
+    "date": "2025-02-05",
+    "start": "11:41:16",
+    "end": "11:42:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0369",
+    "date": "2025-02-05",
+    "start": "11:42:16",
+    "end": "11:42:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0370",
+    "date": "2025-02-05",
+    "start": "11:42:21",
+    "end": "11:46:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0371",
+    "date": "2025-02-05",
+    "start": "11:46:46",
+    "end": "11:46:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0372",
+    "date": "2025-02-05",
+    "start": "11:46:51",
+    "end": "11:46:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0373",
+    "date": "2025-02-05",
+    "start": "11:46:56",
+    "end": "11:47:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0374",
+    "date": "2025-02-05",
+    "start": "11:47:01",
+    "end": "11:47:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0375",
+    "date": "2025-02-05",
+    "start": "11:47:06",
+    "end": "11:47:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0376",
+    "date": "2025-02-05",
+    "start": "11:47:16",
+    "end": "11:47:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0377",
+    "date": "2025-02-05",
+    "start": "11:47:26",
+    "end": "11:47:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0378",
+    "date": "2025-02-05",
+    "start": "11:47:31",
+    "end": "11:48:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0379",
+    "date": "2025-02-05",
+    "start": "11:48:36",
+    "end": "11:48:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0380",
+    "date": "2025-02-05",
+    "start": "11:48:46",
+    "end": "11:48:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0381",
+    "date": "2025-02-05",
+    "start": "11:48:56",
+    "end": "11:49:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0382",
+    "date": "2025-02-05",
+    "start": "11:49:01",
+    "end": "11:52:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0383",
+    "date": "2025-02-05",
+    "start": "11:52:51",
+    "end": "11:52:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0384",
+    "date": "2025-02-05",
+    "start": "11:52:56",
+    "end": "11:53:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0385",
+    "date": "2025-02-05",
+    "start": "11:53:01",
+    "end": "11:53:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0386",
+    "date": "2025-02-05",
+    "start": "11:53:06",
+    "end": "11:53:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0387",
+    "date": "2025-02-05",
+    "start": "11:53:11",
+    "end": "11:53:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0388",
+    "date": "2025-02-05",
+    "start": "11:53:16",
+    "end": "11:53:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0389",
+    "date": "2025-02-05",
+    "start": "11:53:21",
+    "end": "11:53:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0390",
+    "date": "2025-02-05",
+    "start": "11:53:26",
+    "end": "11:53:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0391",
+    "date": "2025-02-05",
+    "start": "11:53:31",
+    "end": "11:53:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0392",
+    "date": "2025-02-05",
+    "start": "11:53:36",
+    "end": "11:53:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0393",
+    "date": "2025-02-05",
+    "start": "11:53:41",
+    "end": "11:53:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0394",
+    "date": "2025-02-05",
+    "start": "11:53:46",
+    "end": "11:53:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0395",
+    "date": "2025-02-05",
+    "start": "11:53:56",
+    "end": "11:54:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0396",
+    "date": "2025-02-05",
+    "start": "11:54:01",
+    "end": "11:54:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0397",
+    "date": "2025-02-05",
+    "start": "11:54:06",
+    "end": "11:54:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0398",
+    "date": "2025-02-05",
+    "start": "11:54:11",
+    "end": "11:54:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0399",
+    "date": "2025-02-05",
+    "start": "11:54:16",
+    "end": "11:54:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0400",
+    "date": "2025-02-05",
+    "start": "11:54:46",
+    "end": "11:54:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0401",
+    "date": "2025-02-05",
+    "start": "11:54:51",
+    "end": "11:54:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0402",
+    "date": "2025-02-05",
+    "start": "11:54:56",
+    "end": "11:55:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0403",
+    "date": "2025-02-05",
+    "start": "11:55:01",
+    "end": "11:55:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0404",
+    "date": "2025-02-05",
+    "start": "11:55:06",
+    "end": "11:55:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0405",
+    "date": "2025-02-05",
+    "start": "11:55:11",
+    "end": "11:55:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0406",
+    "date": "2025-02-05",
+    "start": "11:55:21",
+    "end": "11:55:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0407",
+    "date": "2025-02-05",
+    "start": "11:55:26",
+    "end": "11:55:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0408",
+    "date": "2025-02-05",
+    "start": "11:55:31",
+    "end": "11:56:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0409",
+    "date": "2025-02-05",
+    "start": "11:56:01",
+    "end": "12:01:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0410",
+    "date": "2025-02-05",
+    "start": "12:01:56",
+    "end": "12:02:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0411",
+    "date": "2025-02-05",
+    "start": "12:02:01",
+    "end": "12:02:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0412",
+    "date": "2025-02-05",
+    "start": "12:02:11",
+    "end": "12:02:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0413",
+    "date": "2025-02-05",
+    "start": "12:02:16",
+    "end": "12:03:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0414",
+    "date": "2025-02-05",
+    "start": "12:03:31",
+    "end": "12:03:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0415",
+    "date": "2025-02-05",
+    "start": "12:03:41",
+    "end": "12:04:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0416",
+    "date": "2025-02-05",
+    "start": "12:04:31",
+    "end": "12:04:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0417",
+    "date": "2025-02-05",
+    "start": "12:04:51",
+    "end": "12:05:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0418",
+    "date": "2025-02-05",
+    "start": "12:05:06",
+    "end": "12:05:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0419",
+    "date": "2025-02-05",
+    "start": "12:05:46",
+    "end": "12:05:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0420",
+    "date": "2025-02-05",
+    "start": "12:05:51",
+    "end": "12:06:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0421",
+    "date": "2025-02-05",
+    "start": "12:06:06",
+    "end": "12:06:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0422",
+    "date": "2025-02-05",
+    "start": "12:06:31",
+    "end": "12:06:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0423",
+    "date": "2025-02-05",
+    "start": "12:06:46",
+    "end": "12:06:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0424",
+    "date": "2025-02-05",
+    "start": "12:06:51",
+    "end": "12:06:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0425",
+    "date": "2025-02-05",
+    "start": "12:06:56",
+    "end": "12:07:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0426",
+    "date": "2025-02-05",
+    "start": "12:07:16",
+    "end": "12:07:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0427",
+    "date": "2025-02-05",
+    "start": "12:07:21",
+    "end": "12:07:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0428",
+    "date": "2025-02-05",
+    "start": "12:07:26",
+    "end": "12:07:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0429",
+    "date": "2025-02-05",
+    "start": "12:07:31",
+    "end": "12:07:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0430",
+    "date": "2025-02-05",
+    "start": "12:07:36",
+    "end": "12:09:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0431",
+    "date": "2025-02-05",
+    "start": "12:09:16",
+    "end": "12:11:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0432",
+    "date": "2025-02-05",
+    "start": "12:11:01",
+    "end": "12:11:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0433",
+    "date": "2025-02-05",
+    "start": "12:11:06",
+    "end": "12:12:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0434",
+    "date": "2025-02-05",
+    "start": "12:12:51",
+    "end": "12:12:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0435",
+    "date": "2025-02-05",
+    "start": "12:12:56",
+    "end": "12:13:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0436",
+    "date": "2025-02-05",
+    "start": "12:13:01",
+    "end": "12:13:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0437",
+    "date": "2025-02-05",
+    "start": "12:13:06",
+    "end": "12:13:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0438",
+    "date": "2025-02-05",
+    "start": "12:13:11",
+    "end": "12:13:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0439",
+    "date": "2025-02-05",
+    "start": "12:13:16",
+    "end": "12:13:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0440",
+    "date": "2025-02-05",
+    "start": "12:13:21",
+    "end": "12:13:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0441",
+    "date": "2025-02-05",
+    "start": "12:13:26",
+    "end": "12:13:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0442",
+    "date": "2025-02-05",
+    "start": "12:13:31",
+    "end": "12:13:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0443",
+    "date": "2025-02-05",
+    "start": "12:13:36",
+    "end": "12:13:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0444",
+    "date": "2025-02-05",
+    "start": "12:13:41",
+    "end": "12:13:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0445",
+    "date": "2025-02-05",
+    "start": "12:13:46",
+    "end": "12:13:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0446",
+    "date": "2025-02-05",
+    "start": "12:13:51",
+    "end": "12:13:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0447",
+    "date": "2025-02-05",
+    "start": "12:13:56",
+    "end": "12:14:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0448",
+    "date": "2025-02-05",
+    "start": "12:14:01",
+    "end": "12:14:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0449",
+    "date": "2025-02-05",
+    "start": "12:14:06",
+    "end": "12:14:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0450",
+    "date": "2025-02-05",
+    "start": "12:14:11",
+    "end": "12:14:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0451",
+    "date": "2025-02-05",
+    "start": "12:14:21",
+    "end": "12:14:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0452",
+    "date": "2025-02-05",
+    "start": "12:14:26",
+    "end": "12:14:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0453",
+    "date": "2025-02-05",
+    "start": "12:14:31",
+    "end": "12:14:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0454",
+    "date": "2025-02-05",
+    "start": "12:14:36",
+    "end": "12:14:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0455",
+    "date": "2025-02-05",
+    "start": "12:14:41",
+    "end": "12:14:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0456",
+    "date": "2025-02-05",
+    "start": "12:14:46",
+    "end": "12:14:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chale Aana,Armaan Malik,De De Pyaar De,2019,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0457",
+    "date": "2025-02-05",
+    "start": "12:14:51",
+    "end": "12:15:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0458",
+    "date": "2025-02-05",
+    "start": "12:15:51",
+    "end": "12:16:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0459",
+    "date": "2025-02-05",
+    "start": "12:16:06",
+    "end": "12:16:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0460",
+    "date": "2025-02-05",
+    "start": "12:16:31",
+    "end": "12:16:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0461",
+    "date": "2025-02-05",
+    "start": "12:16:46",
+    "end": "12:17:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0462",
+    "date": "2025-02-05",
+    "start": "12:17:16",
+    "end": "12:19:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0463",
+    "date": "2025-02-05",
+    "start": "12:19:16",
+    "end": "12:19:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0464",
+    "date": "2025-02-05",
+    "start": "12:19:21",
+    "end": "12:19:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0465",
+    "date": "2025-02-05",
+    "start": "12:19:26",
+    "end": "12:19:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0466",
+    "date": "2025-02-05",
+    "start": "12:19:31",
+    "end": "12:19:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0467",
+    "date": "2025-02-05",
+    "start": "12:19:36",
+    "end": "12:19:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0468",
+    "date": "2025-02-05",
+    "start": "12:19:41",
+    "end": "12:19:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0469",
+    "date": "2025-02-05",
+    "start": "12:19:46",
+    "end": "12:19:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0470",
+    "date": "2025-02-05",
+    "start": "12:19:56",
+    "end": "12:20:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0471",
+    "date": "2025-02-05",
+    "start": "12:20:01",
+    "end": "12:20:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0472",
+    "date": "2025-02-05",
+    "start": "12:20:06",
+    "end": "12:20:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0473",
+    "date": "2025-02-05",
+    "start": "12:20:11",
+    "end": "12:20:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0474",
+    "date": "2025-02-05",
+    "start": "12:20:26",
+    "end": "12:21:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0475",
+    "date": "2025-02-05",
+    "start": "12:21:16",
+    "end": "12:21:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0476",
+    "date": "2025-02-05",
+    "start": "12:21:21",
+    "end": "12:21:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0477",
+    "date": "2025-02-05",
+    "start": "12:21:36",
+    "end": "12:22:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0478",
+    "date": "2025-02-05",
+    "start": "12:22:01",
+    "end": "12:22:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0479",
+    "date": "2025-02-05",
+    "start": "12:22:36",
+    "end": "12:22:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0480",
+    "date": "2025-02-05",
+    "start": "12:22:41",
+    "end": "12:25:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0481",
+    "date": "2025-02-05",
+    "start": "12:25:16",
+    "end": "12:25:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0482",
+    "date": "2025-02-05",
+    "start": "12:25:21",
+    "end": "12:25:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0483",
+    "date": "2025-02-05",
+    "start": "12:25:26",
+    "end": "12:25:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0484",
+    "date": "2025-02-05",
+    "start": "12:25:31",
+    "end": "12:25:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0485",
+    "date": "2025-02-05",
+    "start": "12:25:36",
+    "end": "12:25:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0486",
+    "date": "2025-02-05",
+    "start": "12:25:41",
+    "end": "12:25:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0487",
+    "date": "2025-02-05",
+    "start": "12:25:46",
+    "end": "12:25:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0488",
+    "date": "2025-02-05",
+    "start": "12:25:51",
+    "end": "12:25:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0489",
+    "date": "2025-02-05",
+    "start": "12:25:56",
+    "end": "12:26:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0490",
+    "date": "2025-02-05",
+    "start": "12:26:01",
+    "end": "12:26:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0491",
+    "date": "2025-02-05",
+    "start": "12:26:06",
+    "end": "12:26:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0492",
+    "date": "2025-02-05",
+    "start": "12:26:11",
+    "end": "12:26:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Chale Aana,Armaan Malik,De De Pyaar De,2019,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0493",
+    "date": "2025-02-05",
+    "start": "12:26:16",
+    "end": "12:30:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Banking,Housing Finance,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0494",
+    "date": "2025-02-05",
+    "start": "12:30:06",
+    "end": "12:31:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0495",
+    "date": "2025-02-05",
+    "start": "12:31:51",
+    "end": "12:38:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0496",
+    "date": "2025-02-05",
+    "start": "12:38:01",
+    "end": "12:38:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0497",
+    "date": "2025-02-05",
+    "start": "12:38:06",
+    "end": "12:38:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0498",
+    "date": "2025-02-05",
+    "start": "12:38:11",
+    "end": "12:38:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0499",
+    "date": "2025-02-05",
+    "start": "12:38:16",
+    "end": "12:38:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0500",
+    "date": "2025-02-05",
+    "start": "12:38:21",
+    "end": "12:38:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0501",
+    "date": "2025-02-05",
+    "start": "12:38:26",
+    "end": "12:38:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0502",
+    "date": "2025-02-05",
+    "start": "12:38:31",
+    "end": "12:38:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0503",
+    "date": "2025-02-05",
+    "start": "12:38:41",
+    "end": "12:38:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0504",
+    "date": "2025-02-05",
+    "start": "12:38:56",
+    "end": "12:39:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0505",
+    "date": "2025-02-05",
+    "start": "12:39:06",
+    "end": "12:39:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0506",
+    "date": "2025-02-05",
+    "start": "12:39:11",
+    "end": "12:39:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0507",
+    "date": "2025-02-05",
+    "start": "12:39:16",
+    "end": "12:39:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Petsafa,FMCG,,Medical Equipments & Supplies",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0508",
+    "date": "2025-02-05",
+    "start": "12:39:21",
+    "end": "12:40:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0509",
+    "date": "2025-02-05",
+    "start": "12:40:06",
+    "end": "12:41:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0510",
+    "date": "2025-02-05",
+    "start": "12:41:01",
+    "end": "12:41:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0511",
+    "date": "2025-02-05",
+    "start": "12:41:16",
+    "end": "12:41:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0512",
+    "date": "2025-02-05",
+    "start": "12:41:21",
+    "end": "12:41:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0513",
+    "date": "2025-02-05",
+    "start": "12:41:26",
+    "end": "12:41:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0514",
+    "date": "2025-02-05",
+    "start": "12:41:31",
+    "end": "12:41:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0515",
+    "date": "2025-02-05",
+    "start": "12:41:36",
+    "end": "12:41:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0516",
+    "date": "2025-02-05",
+    "start": "12:41:46",
+    "end": "12:42:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0517",
+    "date": "2025-02-05",
+    "start": "12:42:36",
+    "end": "12:42:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0518",
+    "date": "2025-02-05",
+    "start": "12:42:41",
+    "end": "12:42:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0519",
+    "date": "2025-02-05",
+    "start": "12:42:46",
+    "end": "12:42:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0520",
+    "date": "2025-02-05",
+    "start": "12:42:51",
+    "end": "12:43:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Teri Khair Mangdi,Bilal Saeed,Baar Baar Dekho,2016,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0521",
+    "date": "2025-02-05",
+    "start": "12:43:01",
+    "end": "12:43:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0522",
+    "date": "2025-02-05",
+    "start": "12:43:11",
+    "end": "12:43:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0523",
+    "date": "2025-02-05",
+    "start": "12:43:51",
+    "end": "12:44:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0524",
+    "date": "2025-02-05",
+    "start": "12:44:01",
+    "end": "12:44:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0525",
+    "date": "2025-02-05",
+    "start": "12:44:06",
+    "end": "12:55:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0526",
+    "date": "2025-02-05",
+    "start": "12:55:11",
+    "end": "12:55:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0527",
+    "date": "2025-02-05",
+    "start": "12:55:16",
+    "end": "12:55:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0528",
+    "date": "2025-02-05",
+    "start": "12:55:21",
+    "end": "12:55:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0529",
+    "date": "2025-02-05",
+    "start": "12:55:26",
+    "end": "12:55:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0530",
+    "date": "2025-02-05",
+    "start": "12:55:31",
+    "end": "12:55:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0531",
+    "date": "2025-02-05",
+    "start": "12:55:36",
+    "end": "12:55:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0532",
+    "date": "2025-02-05",
+    "start": "12:55:41",
+    "end": "12:55:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0533",
+    "date": "2025-02-05",
+    "start": "12:55:46",
+    "end": "12:55:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0534",
+    "date": "2025-02-05",
+    "start": "12:55:51",
+    "end": "12:55:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0535",
+    "date": "2025-02-05",
+    "start": "12:55:56",
+    "end": "12:56:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0536",
+    "date": "2025-02-05",
+    "start": "12:56:01",
+    "end": "12:56:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0537",
+    "date": "2025-02-05",
+    "start": "12:56:06",
+    "end": "12:56:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0538",
+    "date": "2025-02-05",
+    "start": "12:56:11",
+    "end": "12:56:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0539",
+    "date": "2025-02-05",
+    "start": "12:56:16",
+    "end": "12:56:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0540",
+    "date": "2025-02-05",
+    "start": "12:56:26",
+    "end": "12:56:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dhak Dhuk,Amit Trivedi,English Vinglish,2012,T-Series & Eros Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0541",
+    "date": "2025-02-05",
+    "start": "12:56:31",
+    "end": "13:04:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0542",
+    "date": "2025-02-05",
+    "start": "13:04:01",
+    "end": "13:05:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0543",
+    "date": "2025-02-05",
+    "start": "13:05:46",
+    "end": "13:05:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0544",
+    "date": "2025-02-05",
+    "start": "13:05:51",
+    "end": "13:05:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0545",
+    "date": "2025-02-05",
+    "start": "13:05:56",
+    "end": "13:06:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0546",
+    "date": "2025-02-05",
+    "start": "13:06:01",
+    "end": "13:06:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0547",
+    "date": "2025-02-05",
+    "start": "13:06:06",
+    "end": "13:06:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0548",
+    "date": "2025-02-05",
+    "start": "13:06:11",
+    "end": "13:06:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0549",
+    "date": "2025-02-05",
+    "start": "13:06:21",
+    "end": "13:06:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0550",
+    "date": "2025-02-05",
+    "start": "13:06:41",
+    "end": "13:06:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0551",
+    "date": "2025-02-05",
+    "start": "13:06:51",
+    "end": "13:07:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0552",
+    "date": "2025-02-05",
+    "start": "13:07:16",
+    "end": "13:07:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0553",
+    "date": "2025-02-05",
+    "start": "13:07:21",
+    "end": "13:07:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0554",
+    "date": "2025-02-05",
+    "start": "13:07:46",
+    "end": "13:08:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0555",
+    "date": "2025-02-05",
+    "start": "13:08:31",
+    "end": "13:08:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0556",
+    "date": "2025-02-05",
+    "start": "13:08:36",
+    "end": "13:10:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0557",
+    "date": "2025-02-05",
+    "start": "13:10:16",
+    "end": "13:10:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0558",
+    "date": "2025-02-05",
+    "start": "13:10:21",
+    "end": "13:11:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0559",
+    "date": "2025-02-05",
+    "start": "13:11:56",
+    "end": "13:12:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0560",
+    "date": "2025-02-05",
+    "start": "13:12:01",
+    "end": "13:12:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0561",
+    "date": "2025-02-05",
+    "start": "13:12:06",
+    "end": "13:12:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0562",
+    "date": "2025-02-05",
+    "start": "13:12:11",
+    "end": "13:12:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0563",
+    "date": "2025-02-05",
+    "start": "13:12:16",
+    "end": "13:12:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0564",
+    "date": "2025-02-05",
+    "start": "13:12:21",
+    "end": "13:12:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0565",
+    "date": "2025-02-05",
+    "start": "13:12:26",
+    "end": "13:12:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0566",
+    "date": "2025-02-05",
+    "start": "13:12:31",
+    "end": "13:12:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0567",
+    "date": "2025-02-05",
+    "start": "13:12:36",
+    "end": "13:12:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0568",
+    "date": "2025-02-05",
+    "start": "13:12:41",
+    "end": "13:12:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0569",
+    "date": "2025-02-05",
+    "start": "13:12:46",
+    "end": "13:12:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0570",
+    "date": "2025-02-05",
+    "start": "13:12:51",
+    "end": "13:12:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0571",
+    "date": "2025-02-05",
+    "start": "13:12:56",
+    "end": "13:13:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0572",
+    "date": "2025-02-05",
+    "start": "13:13:01",
+    "end": "13:13:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0573",
+    "date": "2025-02-05",
+    "start": "13:13:06",
+    "end": "13:13:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0574",
+    "date": "2025-02-05",
+    "start": "13:13:11",
+    "end": "13:13:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0575",
+    "date": "2025-02-05",
+    "start": "13:13:16",
+    "end": "13:13:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0576",
+    "date": "2025-02-05",
+    "start": "13:13:26",
+    "end": "13:14:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0577",
+    "date": "2025-02-05",
+    "start": "13:14:16",
+    "end": "13:14:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0578",
+    "date": "2025-02-05",
+    "start": "13:14:56",
+    "end": "13:15:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0579",
+    "date": "2025-02-05",
+    "start": "13:15:11",
+    "end": "13:15:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0580",
+    "date": "2025-02-05",
+    "start": "13:15:16",
+    "end": "13:15:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0581",
+    "date": "2025-02-05",
+    "start": "13:15:21",
+    "end": "13:15:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0582",
+    "date": "2025-02-05",
+    "start": "13:15:26",
+    "end": "13:15:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0583",
+    "date": "2025-02-05",
+    "start": "13:15:31",
+    "end": "13:16:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0584",
+    "date": "2025-02-05",
+    "start": "13:16:16",
+    "end": "13:16:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0585",
+    "date": "2025-02-05",
+    "start": "13:16:36",
+    "end": "13:17:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0586",
+    "date": "2025-02-05",
+    "start": "13:17:31",
+    "end": "13:17:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0587",
+    "date": "2025-02-05",
+    "start": "13:17:36",
+    "end": "13:17:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0588",
+    "date": "2025-02-05",
+    "start": "13:17:41",
+    "end": "13:17:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0589",
+    "date": "2025-02-05",
+    "start": "13:17:46",
+    "end": "13:17:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0590",
+    "date": "2025-02-05",
+    "start": "13:17:51",
+    "end": "13:17:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0591",
+    "date": "2025-02-05",
+    "start": "13:17:56",
+    "end": "13:18:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0592",
+    "date": "2025-02-05",
+    "start": "13:18:01",
+    "end": "13:18:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0593",
+    "date": "2025-02-05",
+    "start": "13:18:06",
+    "end": "13:18:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0594",
+    "date": "2025-02-05",
+    "start": "13:18:41",
+    "end": "13:18:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0595",
+    "date": "2025-02-05",
+    "start": "13:18:46",
+    "end": "13:18:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0596",
+    "date": "2025-02-05",
+    "start": "13:18:51",
+    "end": "13:18:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0597",
+    "date": "2025-02-05",
+    "start": "13:18:56",
+    "end": "13:19:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0598",
+    "date": "2025-02-05",
+    "start": "13:19:01",
+    "end": "13:19:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0599",
+    "date": "2025-02-05",
+    "start": "13:19:11",
+    "end": "13:19:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0600",
+    "date": "2025-02-05",
+    "start": "13:19:41",
+    "end": "13:19:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0601",
+    "date": "2025-02-05",
+    "start": "13:19:46",
+    "end": "13:20:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0602",
+    "date": "2025-02-05",
+    "start": "13:20:01",
+    "end": "13:20:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0603",
+    "date": "2025-02-05",
+    "start": "13:20:06",
+    "end": "13:23:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0604",
+    "date": "2025-02-05",
+    "start": "13:23:56",
+    "end": "13:24:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0605",
+    "date": "2025-02-05",
+    "start": "13:24:01",
+    "end": "13:24:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0606",
+    "date": "2025-02-05",
+    "start": "13:24:06",
+    "end": "13:24:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0607",
+    "date": "2025-02-05",
+    "start": "13:24:11",
+    "end": "13:24:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0608",
+    "date": "2025-02-05",
+    "start": "13:24:16",
+    "end": "13:24:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0609",
+    "date": "2025-02-05",
+    "start": "13:24:21",
+    "end": "13:24:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0610",
+    "date": "2025-02-05",
+    "start": "13:24:26",
+    "end": "13:24:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0611",
+    "date": "2025-02-05",
+    "start": "13:24:31",
+    "end": "13:24:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0612",
+    "date": "2025-02-05",
+    "start": "13:24:36",
+    "end": "13:24:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0613",
+    "date": "2025-02-05",
+    "start": "13:24:41",
+    "end": "13:29:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0614",
+    "date": "2025-02-05",
+    "start": "13:29:26",
+    "end": "13:29:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0615",
+    "date": "2025-02-05",
+    "start": "13:29:36",
+    "end": "13:29:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0616",
+    "date": "2025-02-05",
+    "start": "13:29:41",
+    "end": "13:29:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0617",
+    "date": "2025-02-05",
+    "start": "13:29:46",
+    "end": "13:29:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0618",
+    "date": "2025-02-05",
+    "start": "13:29:56",
+    "end": "13:30:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0619",
+    "date": "2025-02-05",
+    "start": "13:30:01",
+    "end": "13:30:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0620",
+    "date": "2025-02-05",
+    "start": "13:30:11",
+    "end": "13:30:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0621",
+    "date": "2025-02-05",
+    "start": "13:30:21",
+    "end": "13:30:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0622",
+    "date": "2025-02-05",
+    "start": "13:30:51",
+    "end": "13:31:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0623",
+    "date": "2025-02-05",
+    "start": "13:31:01",
+    "end": "13:31:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0624",
+    "date": "2025-02-05",
+    "start": "13:31:06",
+    "end": "13:31:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0625",
+    "date": "2025-02-05",
+    "start": "13:31:16",
+    "end": "13:31:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0626",
+    "date": "2025-02-05",
+    "start": "13:31:21",
+    "end": "13:31:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0627",
+    "date": "2025-02-05",
+    "start": "13:31:31",
+    "end": "13:31:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0628",
+    "date": "2025-02-05",
+    "start": "13:31:36",
+    "end": "13:32:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0629",
+    "date": "2025-02-05",
+    "start": "13:32:06",
+    "end": "13:39:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0630",
+    "date": "2025-02-05",
+    "start": "13:39:01",
+    "end": "13:39:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0631",
+    "date": "2025-02-05",
+    "start": "13:39:06",
+    "end": "13:39:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0632",
+    "date": "2025-02-05",
+    "start": "13:39:11",
+    "end": "13:39:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0633",
+    "date": "2025-02-05",
+    "start": "13:39:16",
+    "end": "13:39:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0634",
+    "date": "2025-02-05",
+    "start": "13:39:21",
+    "end": "13:39:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0635",
+    "date": "2025-02-05",
+    "start": "13:39:31",
+    "end": "13:39:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0636",
+    "date": "2025-02-05",
+    "start": "13:39:36",
+    "end": "13:39:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0637",
+    "date": "2025-02-05",
+    "start": "13:39:41",
+    "end": "13:39:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0638",
+    "date": "2025-02-05",
+    "start": "13:39:46",
+    "end": "13:39:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0639",
+    "date": "2025-02-05",
+    "start": "13:39:51",
+    "end": "13:39:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0640",
+    "date": "2025-02-05",
+    "start": "13:39:56",
+    "end": "13:40:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0641",
+    "date": "2025-02-05",
+    "start": "13:40:01",
+    "end": "13:40:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0642",
+    "date": "2025-02-05",
+    "start": "13:40:06",
+    "end": "13:40:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0643",
+    "date": "2025-02-05",
+    "start": "13:40:11",
+    "end": "13:40:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0644",
+    "date": "2025-02-05",
+    "start": "13:40:36",
+    "end": "13:40:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0645",
+    "date": "2025-02-05",
+    "start": "13:40:41",
+    "end": "13:40:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0646",
+    "date": "2025-02-05",
+    "start": "13:40:46",
+    "end": "13:40:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0647",
+    "date": "2025-02-05",
+    "start": "13:40:51",
+    "end": "13:40:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0648",
+    "date": "2025-02-05",
+    "start": "13:40:56",
+    "end": "13:41:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0649",
+    "date": "2025-02-05",
+    "start": "13:41:01",
+    "end": "13:41:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0650",
+    "date": "2025-02-05",
+    "start": "13:41:06",
+    "end": "13:41:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0651",
+    "date": "2025-02-05",
+    "start": "13:41:11",
+    "end": "13:41:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0652",
+    "date": "2025-02-05",
+    "start": "13:41:21",
+    "end": "13:55:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0653",
+    "date": "2025-02-05",
+    "start": "13:55:26",
+    "end": "13:55:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0654",
+    "date": "2025-02-05",
+    "start": "13:55:31",
+    "end": "13:55:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0655",
+    "date": "2025-02-05",
+    "start": "13:55:36",
+    "end": "13:55:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0656",
+    "date": "2025-02-05",
+    "start": "13:55:41",
+    "end": "13:55:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0657",
+    "date": "2025-02-05",
+    "start": "13:55:46",
+    "end": "13:55:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0658",
+    "date": "2025-02-05",
+    "start": "13:55:51",
+    "end": "13:55:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0659",
+    "date": "2025-02-05",
+    "start": "13:55:56",
+    "end": "13:56:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0660",
+    "date": "2025-02-05",
+    "start": "13:56:01",
+    "end": "13:56:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0661",
+    "date": "2025-02-05",
+    "start": "13:56:06",
+    "end": "13:56:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0662",
+    "date": "2025-02-05",
+    "start": "13:56:11",
+    "end": "13:56:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0663",
+    "date": "2025-02-05",
+    "start": "13:56:16",
+    "end": "13:56:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0664",
+    "date": "2025-02-05",
+    "start": "13:56:21",
+    "end": "13:56:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0665",
+    "date": "2025-02-05",
+    "start": "13:56:26",
+    "end": "13:56:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0666",
+    "date": "2025-02-05",
+    "start": "13:56:31",
+    "end": "13:56:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0667",
+    "date": "2025-02-05",
+    "start": "13:56:36",
+    "end": "13:56:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0668",
+    "date": "2025-02-05",
+    "start": "13:56:41",
+    "end": "13:57:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jeene Laga Hoon,Atif Aslam & Shreya Ghoshal,Ramaiya Vastavaiya,2013,TIPS,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0669",
+    "date": "2025-02-05",
+    "start": "13:57:06",
+    "end": "14:02:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0670",
+    "date": "2025-02-05",
+    "start": "14:02:21",
+    "end": "14:09:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0671",
+    "date": "2025-02-05",
+    "start": "14:09:21",
+    "end": "14:09:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0672",
+    "date": "2025-02-05",
+    "start": "14:09:26",
+    "end": "14:11:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0673",
+    "date": "2025-02-05",
+    "start": "14:11:11",
+    "end": "14:11:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0674",
+    "date": "2025-02-05",
+    "start": "14:11:16",
+    "end": "14:11:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0675",
+    "date": "2025-02-05",
+    "start": "14:11:21",
+    "end": "14:11:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0676",
+    "date": "2025-02-05",
+    "start": "14:11:26",
+    "end": "14:11:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0677",
+    "date": "2025-02-05",
+    "start": "14:11:31",
+    "end": "14:11:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0678",
+    "date": "2025-02-05",
+    "start": "14:11:36",
+    "end": "14:11:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0679",
+    "date": "2025-02-05",
+    "start": "14:11:41",
+    "end": "14:11:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0680",
+    "date": "2025-02-05",
+    "start": "14:11:46",
+    "end": "14:11:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0681",
+    "date": "2025-02-05",
+    "start": "14:11:51",
+    "end": "14:11:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0682",
+    "date": "2025-02-05",
+    "start": "14:11:56",
+    "end": "14:12:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0683",
+    "date": "2025-02-05",
+    "start": "14:12:01",
+    "end": "14:12:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0684",
+    "date": "2025-02-05",
+    "start": "14:12:06",
+    "end": "14:12:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0685",
+    "date": "2025-02-05",
+    "start": "14:12:11",
+    "end": "14:12:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0686",
+    "date": "2025-02-05",
+    "start": "14:12:16",
+    "end": "14:12:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0687",
+    "date": "2025-02-05",
+    "start": "14:12:21",
+    "end": "14:12:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0688",
+    "date": "2025-02-05",
+    "start": "14:12:26",
+    "end": "14:12:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0689",
+    "date": "2025-02-05",
+    "start": "14:12:31",
+    "end": "14:12:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0690",
+    "date": "2025-02-05",
+    "start": "14:12:36",
+    "end": "14:12:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0691",
+    "date": "2025-02-05",
+    "start": "14:12:41",
+    "end": "14:12:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0692",
+    "date": "2025-02-05",
+    "start": "14:12:46",
+    "end": "14:13:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0693",
+    "date": "2025-02-05",
+    "start": "14:13:51",
+    "end": "14:15:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0694",
+    "date": "2025-02-05",
+    "start": "14:15:01",
+    "end": "14:15:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0695",
+    "date": "2025-02-05",
+    "start": "14:15:21",
+    "end": "14:15:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0696",
+    "date": "2025-02-05",
+    "start": "14:15:36",
+    "end": "14:15:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0697",
+    "date": "2025-02-05",
+    "start": "14:15:46",
+    "end": "14:16:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0698",
+    "date": "2025-02-05",
+    "start": "14:16:01",
+    "end": "14:16:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0699",
+    "date": "2025-02-05",
+    "start": "14:16:06",
+    "end": "14:29:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0700",
+    "date": "2025-02-05",
+    "start": "14:29:11",
+    "end": "14:29:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0701",
+    "date": "2025-02-05",
+    "start": "14:29:16",
+    "end": "14:29:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0702",
+    "date": "2025-02-05",
+    "start": "14:29:21",
+    "end": "14:29:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0703",
+    "date": "2025-02-05",
+    "start": "14:29:36",
+    "end": "14:29:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0704",
+    "date": "2025-02-05",
+    "start": "14:29:41",
+    "end": "14:29:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0705",
+    "date": "2025-02-05",
+    "start": "14:29:46",
+    "end": "14:29:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0706",
+    "date": "2025-02-05",
+    "start": "14:29:51",
+    "end": "14:29:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0707",
+    "date": "2025-02-05",
+    "start": "14:29:56",
+    "end": "14:30:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0708",
+    "date": "2025-02-05",
+    "start": "14:30:36",
+    "end": "14:30:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0709",
+    "date": "2025-02-05",
+    "start": "14:30:41",
+    "end": "14:30:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0710",
+    "date": "2025-02-05",
+    "start": "14:30:46",
+    "end": "14:30:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bawdhan ,Real Estate,Ultimate Housing,Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0711",
+    "date": "2025-02-05",
+    "start": "14:30:51",
+    "end": "14:32:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0712",
+    "date": "2025-02-05",
+    "start": "14:32:11",
+    "end": "14:41:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0713",
+    "date": "2025-02-05",
+    "start": "14:41:51",
+    "end": "14:41:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0714",
+    "date": "2025-02-05",
+    "start": "14:41:56",
+    "end": "14:42:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0715",
+    "date": "2025-02-05",
+    "start": "14:42:01",
+    "end": "14:42:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0716",
+    "date": "2025-02-05",
+    "start": "14:42:06",
+    "end": "14:42:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0717",
+    "date": "2025-02-05",
+    "start": "14:42:11",
+    "end": "14:42:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0718",
+    "date": "2025-02-05",
+    "start": "14:42:16",
+    "end": "14:42:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0719",
+    "date": "2025-02-05",
+    "start": "14:42:26",
+    "end": "14:42:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0720",
+    "date": "2025-02-05",
+    "start": "14:42:31",
+    "end": "14:42:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0721",
+    "date": "2025-02-05",
+    "start": "14:42:36",
+    "end": "14:42:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0722",
+    "date": "2025-02-05",
+    "start": "14:42:41",
+    "end": "14:42:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0723",
+    "date": "2025-02-05",
+    "start": "14:42:46",
+    "end": "14:42:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0724",
+    "date": "2025-02-05",
+    "start": "14:42:51",
+    "end": "14:42:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0725",
+    "date": "2025-02-05",
+    "start": "14:42:56",
+    "end": "14:43:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0726",
+    "date": "2025-02-05",
+    "start": "14:43:01",
+    "end": "14:43:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0727",
+    "date": "2025-02-05",
+    "start": "14:43:06",
+    "end": "14:43:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0728",
+    "date": "2025-02-05",
+    "start": "14:43:16",
+    "end": "14:43:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0729",
+    "date": "2025-02-05",
+    "start": "14:43:26",
+    "end": "14:43:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0730",
+    "date": "2025-02-05",
+    "start": "14:43:31",
+    "end": "14:43:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maan Meri Jaan,King,Champagne Talk,2022,WMG,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0731",
+    "date": "2025-02-05",
+    "start": "14:43:36",
+    "end": "14:45:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maan Meri Jaan,King,Champagne Talk,2022,WMG,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0732",
+    "date": "2025-02-05",
+    "start": "14:45:41",
+    "end": "14:46:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kinare,Amit Trivedi & Mohan Kanan,Queen,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0733",
+    "date": "2025-02-05",
+    "start": "14:46:46",
+    "end": "14:48:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Banking,Housing Finance,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0734",
+    "date": "2025-02-05",
+    "start": "14:48:06",
+    "end": "14:49:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0735",
+    "date": "2025-02-05",
+    "start": "14:49:01",
+    "end": "14:53:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0736",
+    "date": "2025-02-05",
+    "start": "14:53:36",
+    "end": "14:53:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0737",
+    "date": "2025-02-05",
+    "start": "14:53:41",
+    "end": "14:53:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0738",
+    "date": "2025-02-05",
+    "start": "14:53:46",
+    "end": "14:53:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0739",
+    "date": "2025-02-05",
+    "start": "14:53:51",
+    "end": "14:53:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0740",
+    "date": "2025-02-05",
+    "start": "14:53:56",
+    "end": "14:54:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0741",
+    "date": "2025-02-05",
+    "start": "14:54:21",
+    "end": "14:54:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0742",
+    "date": "2025-02-05",
+    "start": "14:54:26",
+    "end": "14:54:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0743",
+    "date": "2025-02-05",
+    "start": "14:54:31",
+    "end": "14:54:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0744",
+    "date": "2025-02-05",
+    "start": "14:54:36",
+    "end": "14:54:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0745",
+    "date": "2025-02-05",
+    "start": "14:54:41",
+    "end": "14:54:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bawdhan ,Real Estate,Ultimate Housing,Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0746",
+    "date": "2025-02-05",
+    "start": "14:54:46",
+    "end": "14:55:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kinare,Amit Trivedi & Mohan Kanan,Queen,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0747",
+    "date": "2025-02-05",
+    "start": "14:55:36",
+    "end": "15:03:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Nazm Nazm,Arko,Bareilly Ki Barfi,2017,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0748",
+    "date": "2025-02-05",
+    "start": "15:03:31",
+    "end": "15:03:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Banking,Housing Finance,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0749",
+    "date": "2025-02-05",
+    "start": "15:03:36",
+    "end": "15:04:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0750",
+    "date": "2025-02-05",
+    "start": "15:04:06",
+    "end": "15:10:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0751",
+    "date": "2025-02-05",
+    "start": "15:10:31",
+    "end": "15:10:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0752",
+    "date": "2025-02-05",
+    "start": "15:10:36",
+    "end": "15:12:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0753",
+    "date": "2025-02-05",
+    "start": "15:12:26",
+    "end": "15:12:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0754",
+    "date": "2025-02-05",
+    "start": "15:12:31",
+    "end": "15:12:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0755",
+    "date": "2025-02-05",
+    "start": "15:12:36",
+    "end": "15:12:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0756",
+    "date": "2025-02-05",
+    "start": "15:12:41",
+    "end": "15:12:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0757",
+    "date": "2025-02-05",
+    "start": "15:12:46",
+    "end": "15:12:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0758",
+    "date": "2025-02-05",
+    "start": "15:12:51",
+    "end": "15:12:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0759",
+    "date": "2025-02-05",
+    "start": "15:12:56",
+    "end": "15:13:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0760",
+    "date": "2025-02-05",
+    "start": "15:13:01",
+    "end": "15:13:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0761",
+    "date": "2025-02-05",
+    "start": "15:13:16",
+    "end": "15:13:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0762",
+    "date": "2025-02-05",
+    "start": "15:13:36",
+    "end": "15:13:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0763",
+    "date": "2025-02-05",
+    "start": "15:13:41",
+    "end": "15:13:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0764",
+    "date": "2025-02-05",
+    "start": "15:13:46",
+    "end": "15:13:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0765",
+    "date": "2025-02-05",
+    "start": "15:13:51",
+    "end": "15:13:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0766",
+    "date": "2025-02-05",
+    "start": "15:13:56",
+    "end": "15:14:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Guitar Sikhda,Jassie Gill,Guitar Sikhda,2018,Speed Records,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0767",
+    "date": "2025-02-05",
+    "start": "15:14:01",
+    "end": "15:16:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kuch Khaas,Neha Bhasin & Mohit Chauhan,Fashion,2008,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0768",
+    "date": "2025-02-05",
+    "start": "15:16:01",
+    "end": "15:19:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0769",
+    "date": "2025-02-05",
+    "start": "15:19:56",
+    "end": "15:27:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0770",
+    "date": "2025-02-05",
+    "start": "15:27:41",
+    "end": "15:27:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0771",
+    "date": "2025-02-05",
+    "start": "15:27:46",
+    "end": "15:27:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0772",
+    "date": "2025-02-05",
+    "start": "15:27:51",
+    "end": "15:27:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0773",
+    "date": "2025-02-05",
+    "start": "15:27:56",
+    "end": "15:28:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0774",
+    "date": "2025-02-05",
+    "start": "15:28:01",
+    "end": "15:28:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0775",
+    "date": "2025-02-05",
+    "start": "15:28:06",
+    "end": "15:28:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0776",
+    "date": "2025-02-05",
+    "start": "15:28:11",
+    "end": "15:28:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0777",
+    "date": "2025-02-05",
+    "start": "15:28:16",
+    "end": "15:28:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0778",
+    "date": "2025-02-05",
+    "start": "15:28:21",
+    "end": "15:28:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0779",
+    "date": "2025-02-05",
+    "start": "15:28:26",
+    "end": "15:28:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0780",
+    "date": "2025-02-05",
+    "start": "15:28:41",
+    "end": "15:28:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0781",
+    "date": "2025-02-05",
+    "start": "15:28:46",
+    "end": "15:28:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0782",
+    "date": "2025-02-05",
+    "start": "15:28:51",
+    "end": "15:28:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0783",
+    "date": "2025-02-05",
+    "start": "15:28:56",
+    "end": "15:29:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0784",
+    "date": "2025-02-05",
+    "start": "15:29:01",
+    "end": "15:29:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0785",
+    "date": "2025-02-05",
+    "start": "15:29:06",
+    "end": "15:29:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0786",
+    "date": "2025-02-05",
+    "start": "15:29:11",
+    "end": "15:32:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0787",
+    "date": "2025-02-05",
+    "start": "15:32:46",
+    "end": "15:32:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0788",
+    "date": "2025-02-05",
+    "start": "15:32:51",
+    "end": "15:33:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0789",
+    "date": "2025-02-05",
+    "start": "15:33:01",
+    "end": "15:33:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0790",
+    "date": "2025-02-05",
+    "start": "15:33:06",
+    "end": "15:33:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0791",
+    "date": "2025-02-05",
+    "start": "15:33:16",
+    "end": "15:33:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0792",
+    "date": "2025-02-05",
+    "start": "15:33:36",
+    "end": "15:33:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0793",
+    "date": "2025-02-05",
+    "start": "15:33:46",
+    "end": "15:33:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0794",
+    "date": "2025-02-05",
+    "start": "15:33:51",
+    "end": "15:33:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0795",
+    "date": "2025-02-05",
+    "start": "15:33:56",
+    "end": "15:34:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0796",
+    "date": "2025-02-05",
+    "start": "15:34:01",
+    "end": "15:34:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0797",
+    "date": "2025-02-05",
+    "start": "15:34:21",
+    "end": "15:38:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0798",
+    "date": "2025-02-05",
+    "start": "15:38:41",
+    "end": "15:38:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0799",
+    "date": "2025-02-05",
+    "start": "15:38:46",
+    "end": "15:38:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0800",
+    "date": "2025-02-05",
+    "start": "15:38:51",
+    "end": "15:38:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0801",
+    "date": "2025-02-05",
+    "start": "15:38:56",
+    "end": "15:39:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0802",
+    "date": "2025-02-05",
+    "start": "15:39:01",
+    "end": "15:39:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0803",
+    "date": "2025-02-05",
+    "start": "15:39:06",
+    "end": "15:39:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0804",
+    "date": "2025-02-05",
+    "start": "15:39:11",
+    "end": "15:39:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0805",
+    "date": "2025-02-05",
+    "start": "15:39:16",
+    "end": "15:39:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0806",
+    "date": "2025-02-05",
+    "start": "15:39:21",
+    "end": "15:39:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0807",
+    "date": "2025-02-05",
+    "start": "15:39:26",
+    "end": "15:39:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0808",
+    "date": "2025-02-05",
+    "start": "15:39:31",
+    "end": "15:39:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0809",
+    "date": "2025-02-05",
+    "start": "15:39:36",
+    "end": "15:39:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0810",
+    "date": "2025-02-05",
+    "start": "15:39:41",
+    "end": "15:39:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0811",
+    "date": "2025-02-05",
+    "start": "15:39:46",
+    "end": "15:39:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0812",
+    "date": "2025-02-05",
+    "start": "15:39:51",
+    "end": "15:39:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0813",
+    "date": "2025-02-05",
+    "start": "15:39:56",
+    "end": "15:40:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0814",
+    "date": "2025-02-05",
+    "start": "15:40:06",
+    "end": "15:40:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bawdhan ,Real Estate,Ultimate Housing,Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0815",
+    "date": "2025-02-05",
+    "start": "15:40:21",
+    "end": "15:41:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dhak Dhuk,Amit Trivedi,English Vinglish,2012,T-Series & Eros Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0816",
+    "date": "2025-02-05",
+    "start": "15:41:01",
+    "end": "15:46:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " RTO,Government,,Public Serivce Ads",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0817",
+    "date": "2025-02-05",
+    "start": "15:46:26",
+    "end": "15:47:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0818",
+    "date": "2025-02-05",
+    "start": "15:47:26",
+    "end": "15:51:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0819",
+    "date": "2025-02-05",
+    "start": "15:51:16",
+    "end": "15:51:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0820",
+    "date": "2025-02-05",
+    "start": "15:51:21",
+    "end": "15:51:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0821",
+    "date": "2025-02-05",
+    "start": "15:51:26",
+    "end": "15:51:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0822",
+    "date": "2025-02-05",
+    "start": "15:51:31",
+    "end": "15:51:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0823",
+    "date": "2025-02-05",
+    "start": "15:51:36",
+    "end": "15:51:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0824",
+    "date": "2025-02-05",
+    "start": "15:51:41",
+    "end": "15:51:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0825",
+    "date": "2025-02-05",
+    "start": "15:51:46",
+    "end": "15:51:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0826",
+    "date": "2025-02-05",
+    "start": "15:51:51",
+    "end": "15:52:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0827",
+    "date": "2025-02-05",
+    "start": "15:52:01",
+    "end": "15:52:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0828",
+    "date": "2025-02-05",
+    "start": "15:52:06",
+    "end": "15:52:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0829",
+    "date": "2025-02-05",
+    "start": "15:52:11",
+    "end": "15:52:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0830",
+    "date": "2025-02-05",
+    "start": "15:52:16",
+    "end": "15:52:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0831",
+    "date": "2025-02-05",
+    "start": "15:52:21",
+    "end": "15:52:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0832",
+    "date": "2025-02-05",
+    "start": "15:52:26",
+    "end": "15:52:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0833",
+    "date": "2025-02-05",
+    "start": "15:52:31",
+    "end": "15:52:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0834",
+    "date": "2025-02-05",
+    "start": "15:52:36",
+    "end": "15:52:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0835",
+    "date": "2025-02-05",
+    "start": "15:52:41",
+    "end": "15:52:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bawdhan ,Real Estate,Ultimate Housing,Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0836",
+    "date": "2025-02-05",
+    "start": "15:52:46",
+    "end": "15:53:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kinare,Amit Trivedi & Mohan Kanan,Queen,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0837",
+    "date": "2025-02-05",
+    "start": "15:53:56",
+    "end": "15:54:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0838",
+    "date": "2025-02-05",
+    "start": "15:54:01",
+    "end": "16:13:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0839",
+    "date": "2025-02-05",
+    "start": "16:13:16",
+    "end": "16:13:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0840",
+    "date": "2025-02-05",
+    "start": "16:13:21",
+    "end": "16:15:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0841",
+    "date": "2025-02-05",
+    "start": "16:15:06",
+    "end": "16:15:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0842",
+    "date": "2025-02-05",
+    "start": "16:15:11",
+    "end": "16:15:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0843",
+    "date": "2025-02-05",
+    "start": "16:15:16",
+    "end": "16:15:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0844",
+    "date": "2025-02-05",
+    "start": "16:15:36",
+    "end": "16:15:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0845",
+    "date": "2025-02-05",
+    "start": "16:15:41",
+    "end": "16:15:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0846",
+    "date": "2025-02-05",
+    "start": "16:15:46",
+    "end": "16:15:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0847",
+    "date": "2025-02-05",
+    "start": "16:15:51",
+    "end": "16:15:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0848",
+    "date": "2025-02-05",
+    "start": "16:15:56",
+    "end": "16:16:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0849",
+    "date": "2025-02-05",
+    "start": "16:16:01",
+    "end": "16:16:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0850",
+    "date": "2025-02-05",
+    "start": "16:16:26",
+    "end": "16:16:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0851",
+    "date": "2025-02-05",
+    "start": "16:16:31",
+    "end": "16:16:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0852",
+    "date": "2025-02-05",
+    "start": "16:16:36",
+    "end": "16:16:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0853",
+    "date": "2025-02-05",
+    "start": "16:16:41",
+    "end": "16:16:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0854",
+    "date": "2025-02-05",
+    "start": "16:16:46",
+    "end": "16:16:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0855",
+    "date": "2025-02-05",
+    "start": "16:16:51",
+    "end": "16:29:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0856",
+    "date": "2025-02-05",
+    "start": "16:29:26",
+    "end": "16:29:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0857",
+    "date": "2025-02-05",
+    "start": "16:29:31",
+    "end": "16:29:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0858",
+    "date": "2025-02-05",
+    "start": "16:29:36",
+    "end": "16:29:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0859",
+    "date": "2025-02-05",
+    "start": "16:29:41",
+    "end": "16:29:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0860",
+    "date": "2025-02-05",
+    "start": "16:29:46",
+    "end": "16:29:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0861",
+    "date": "2025-02-05",
+    "start": "16:29:51",
+    "end": "16:29:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0862",
+    "date": "2025-02-05",
+    "start": "16:29:56",
+    "end": "16:30:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0863",
+    "date": "2025-02-05",
+    "start": "16:30:01",
+    "end": "16:30:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0864",
+    "date": "2025-02-05",
+    "start": "16:30:06",
+    "end": "16:30:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0865",
+    "date": "2025-02-05",
+    "start": "16:30:16",
+    "end": "16:30:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0866",
+    "date": "2025-02-05",
+    "start": "16:30:21",
+    "end": "16:30:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0867",
+    "date": "2025-02-05",
+    "start": "16:30:26",
+    "end": "16:30:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0868",
+    "date": "2025-02-05",
+    "start": "16:30:31",
+    "end": "16:30:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bawdhan ,Real Estate,Ultimate Housing,Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0869",
+    "date": "2025-02-05",
+    "start": "16:30:36",
+    "end": "16:32:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dhak Dhuk,Amit Trivedi,English Vinglish,2012,T-Series & Eros Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0870",
+    "date": "2025-02-05",
+    "start": "16:32:11",
+    "end": "16:36:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kinare,Amit Trivedi & Mohan Kanan,Queen,2014,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0871",
+    "date": "2025-02-05",
+    "start": "16:36:16",
+    "end": "16:39:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0872",
+    "date": "2025-02-05",
+    "start": "16:39:36",
+    "end": "16:40:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kya Meri Yaad Aati Hai,Irshad Kamil and Tanishk Bagchi and Vishal Mishra,Sky Force,2025,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0873",
+    "date": "2025-02-05",
+    "start": "16:40:21",
+    "end": "16:40:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0874",
+    "date": "2025-02-05",
+    "start": "16:40:36",
+    "end": "16:44:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0875",
+    "date": "2025-02-05",
+    "start": "16:44:21",
+    "end": "16:44:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0876",
+    "date": "2025-02-05",
+    "start": "16:44:26",
+    "end": "16:44:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0877",
+    "date": "2025-02-05",
+    "start": "16:44:31",
+    "end": "16:44:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0878",
+    "date": "2025-02-05",
+    "start": "16:44:36",
+    "end": "16:44:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0879",
+    "date": "2025-02-05",
+    "start": "16:44:41",
+    "end": "16:45:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0880",
+    "date": "2025-02-05",
+    "start": "16:45:06",
+    "end": "16:45:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0881",
+    "date": "2025-02-05",
+    "start": "16:45:16",
+    "end": "16:45:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0882",
+    "date": "2025-02-05",
+    "start": "16:45:21",
+    "end": "16:45:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0883",
+    "date": "2025-02-05",
+    "start": "16:45:26",
+    "end": "16:45:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bawdhan ,Real Estate,Ultimate Housing,Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0884",
+    "date": "2025-02-05",
+    "start": "16:45:36",
+    "end": "16:46:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0885",
+    "date": "2025-02-05",
+    "start": "16:46:06",
+    "end": "16:53:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0886",
+    "date": "2025-02-05",
+    "start": "16:53:06",
+    "end": "16:53:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0887",
+    "date": "2025-02-05",
+    "start": "16:53:11",
+    "end": "16:53:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0888",
+    "date": "2025-02-05",
+    "start": "16:53:16",
+    "end": "16:53:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0889",
+    "date": "2025-02-05",
+    "start": "16:53:21",
+    "end": "16:53:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0890",
+    "date": "2025-02-05",
+    "start": "16:53:36",
+    "end": "16:53:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0891",
+    "date": "2025-02-05",
+    "start": "16:53:41",
+    "end": "16:53:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0892",
+    "date": "2025-02-05",
+    "start": "16:53:46",
+    "end": "16:53:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0893",
+    "date": "2025-02-05",
+    "start": "16:53:51",
+    "end": "16:53:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Duur ,Strings,Duur (Raag.Fm),2000,Bayshore,Indie Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0894",
+    "date": "2025-02-05",
+    "start": "16:53:56",
+    "end": "17:01:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0895",
+    "date": "2025-02-05",
+    "start": "17:01:06",
+    "end": "17:06:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0896",
+    "date": "2025-02-05",
+    "start": "17:06:46",
+    "end": "17:08:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0897",
+    "date": "2025-02-05",
+    "start": "17:08:51",
+    "end": "17:08:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0898",
+    "date": "2025-02-05",
+    "start": "17:08:56",
+    "end": "17:12:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0899",
+    "date": "2025-02-05",
+    "start": "17:12:01",
+    "end": "17:12:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0900",
+    "date": "2025-02-05",
+    "start": "17:12:06",
+    "end": "17:12:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0901",
+    "date": "2025-02-05",
+    "start": "17:12:11",
+    "end": "17:12:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0902",
+    "date": "2025-02-05",
+    "start": "17:12:16",
+    "end": "17:12:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0903",
+    "date": "2025-02-05",
+    "start": "17:12:21",
+    "end": "17:12:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0904",
+    "date": "2025-02-05",
+    "start": "17:12:26",
+    "end": "17:12:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0905",
+    "date": "2025-02-05",
+    "start": "17:12:31",
+    "end": "17:12:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0906",
+    "date": "2025-02-05",
+    "start": "17:12:36",
+    "end": "17:12:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0907",
+    "date": "2025-02-05",
+    "start": "17:12:41",
+    "end": "17:12:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0908",
+    "date": "2025-02-05",
+    "start": "17:12:46",
+    "end": "17:12:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0909",
+    "date": "2025-02-05",
+    "start": "17:12:56",
+    "end": "17:13:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0910",
+    "date": "2025-02-05",
+    "start": "17:13:11",
+    "end": "17:13:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0911",
+    "date": "2025-02-05",
+    "start": "17:13:21",
+    "end": "17:13:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0912",
+    "date": "2025-02-05",
+    "start": "17:13:26",
+    "end": "17:13:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0913",
+    "date": "2025-02-05",
+    "start": "17:13:31",
+    "end": "17:13:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tainu Khabar Nahi,Arijit Singh & Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0914",
+    "date": "2025-02-05",
+    "start": "17:13:36",
+    "end": "17:16:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tainu Khabar Nahi,Arijit Singh & Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0915",
+    "date": "2025-02-05",
+    "start": "17:16:31",
+    "end": "17:16:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0916",
+    "date": "2025-02-05",
+    "start": "17:16:51",
+    "end": "17:18:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0917",
+    "date": "2025-02-05",
+    "start": "17:18:26",
+    "end": "17:18:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0918",
+    "date": "2025-02-05",
+    "start": "17:18:31",
+    "end": "17:18:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0919",
+    "date": "2025-02-05",
+    "start": "17:18:51",
+    "end": "17:18:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0920",
+    "date": "2025-02-05",
+    "start": "17:18:56",
+    "end": "17:19:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0921",
+    "date": "2025-02-05",
+    "start": "17:19:06",
+    "end": "17:19:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Stay,King,Stay,2025,WMG,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0922",
+    "date": "2025-02-05",
+    "start": "17:19:11",
+    "end": "17:19:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0923",
+    "date": "2025-02-05",
+    "start": "17:19:36",
+    "end": "17:23:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0924",
+    "date": "2025-02-05",
+    "start": "17:23:41",
+    "end": "17:23:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0925",
+    "date": "2025-02-05",
+    "start": "17:23:46",
+    "end": "17:23:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0926",
+    "date": "2025-02-05",
+    "start": "17:23:51",
+    "end": "17:23:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0927",
+    "date": "2025-02-05",
+    "start": "17:23:56",
+    "end": "17:24:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0928",
+    "date": "2025-02-05",
+    "start": "17:24:01",
+    "end": "17:24:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0929",
+    "date": "2025-02-05",
+    "start": "17:24:26",
+    "end": "17:24:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0930",
+    "date": "2025-02-05",
+    "start": "17:24:31",
+    "end": "17:24:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0931",
+    "date": "2025-02-05",
+    "start": "17:24:36",
+    "end": "17:24:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0932",
+    "date": "2025-02-05",
+    "start": "17:24:41",
+    "end": "17:24:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0933",
+    "date": "2025-02-05",
+    "start": "17:24:46",
+    "end": "17:24:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0934",
+    "date": "2025-02-05",
+    "start": "17:24:51",
+    "end": "17:25:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0935",
+    "date": "2025-02-05",
+    "start": "17:25:01",
+    "end": "17:25:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0936",
+    "date": "2025-02-05",
+    "start": "17:25:06",
+    "end": "17:25:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0937",
+    "date": "2025-02-05",
+    "start": "17:25:11",
+    "end": "17:25:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0938",
+    "date": "2025-02-05",
+    "start": "17:25:16",
+    "end": "17:25:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0939",
+    "date": "2025-02-05",
+    "start": "17:25:21",
+    "end": "17:25:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0940",
+    "date": "2025-02-05",
+    "start": "17:25:41",
+    "end": "17:25:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0941",
+    "date": "2025-02-05",
+    "start": "17:25:46",
+    "end": "17:25:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0942",
+    "date": "2025-02-05",
+    "start": "17:25:51",
+    "end": "17:25:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0943",
+    "date": "2025-02-05",
+    "start": "17:25:56",
+    "end": "17:26:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0944",
+    "date": "2025-02-05",
+    "start": "17:26:01",
+    "end": "17:26:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0945",
+    "date": "2025-02-05",
+    "start": "17:26:06",
+    "end": "17:26:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0946",
+    "date": "2025-02-05",
+    "start": "17:26:11",
+    "end": "17:26:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0947",
+    "date": "2025-02-05",
+    "start": "17:26:16",
+    "end": "17:26:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0948",
+    "date": "2025-02-05",
+    "start": "17:26:21",
+    "end": "17:26:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0949",
+    "date": "2025-02-05",
+    "start": "17:26:26",
+    "end": "17:26:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0950",
+    "date": "2025-02-05",
+    "start": "17:26:31",
+    "end": "17:26:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0951",
+    "date": "2025-02-05",
+    "start": "17:26:36",
+    "end": "17:27:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0952",
+    "date": "2025-02-05",
+    "start": "17:27:51",
+    "end": "17:28:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0953",
+    "date": "2025-02-05",
+    "start": "17:28:26",
+    "end": "17:28:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0954",
+    "date": "2025-02-05",
+    "start": "17:28:36",
+    "end": "17:28:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0955",
+    "date": "2025-02-05",
+    "start": "17:28:51",
+    "end": "17:28:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0956",
+    "date": "2025-02-05",
+    "start": "17:28:56",
+    "end": "17:29:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0957",
+    "date": "2025-02-05",
+    "start": "17:29:01",
+    "end": "17:29:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0958",
+    "date": "2025-02-05",
+    "start": "17:29:06",
+    "end": "17:29:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0959",
+    "date": "2025-02-05",
+    "start": "17:29:16",
+    "end": "17:29:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0960",
+    "date": "2025-02-05",
+    "start": "17:29:21",
+    "end": "17:29:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0961",
+    "date": "2025-02-05",
+    "start": "17:29:26",
+    "end": "17:29:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0962",
+    "date": "2025-02-05",
+    "start": "17:29:31",
+    "end": "17:29:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0963",
+    "date": "2025-02-05",
+    "start": "17:29:36",
+    "end": "17:29:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0964",
+    "date": "2025-02-05",
+    "start": "17:29:41",
+    "end": "17:31:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0965",
+    "date": "2025-02-05",
+    "start": "17:31:21",
+    "end": "17:31:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0966",
+    "date": "2025-02-05",
+    "start": "17:31:26",
+    "end": "17:31:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0967",
+    "date": "2025-02-05",
+    "start": "17:31:36",
+    "end": "17:31:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0968",
+    "date": "2025-02-05",
+    "start": "17:31:41",
+    "end": "17:31:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0969",
+    "date": "2025-02-05",
+    "start": "17:31:46",
+    "end": "17:31:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0970",
+    "date": "2025-02-05",
+    "start": "17:31:51",
+    "end": "17:31:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0971",
+    "date": "2025-02-05",
+    "start": "17:31:56",
+    "end": "17:32:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0972",
+    "date": "2025-02-05",
+    "start": "17:32:01",
+    "end": "17:32:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0973",
+    "date": "2025-02-05",
+    "start": "17:32:06",
+    "end": "17:32:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0974",
+    "date": "2025-02-05",
+    "start": "17:32:36",
+    "end": "17:33:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0975",
+    "date": "2025-02-05",
+    "start": "17:33:31",
+    "end": "17:33:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-0976",
+    "date": "2025-02-05",
+    "start": "17:33:36",
+    "end": "17:33:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0977",
+    "date": "2025-02-05",
+    "start": "17:33:46",
+    "end": "17:35:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0978",
+    "date": "2025-02-05",
+    "start": "17:35:36",
+    "end": "17:35:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0979",
+    "date": "2025-02-05",
+    "start": "17:35:41",
+    "end": "17:35:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0980",
+    "date": "2025-02-05",
+    "start": "17:35:46",
+    "end": "17:35:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0981",
+    "date": "2025-02-05",
+    "start": "17:35:51",
+    "end": "17:35:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0982",
+    "date": "2025-02-05",
+    "start": "17:35:56",
+    "end": "17:36:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0983",
+    "date": "2025-02-05",
+    "start": "17:36:21",
+    "end": "17:36:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0984",
+    "date": "2025-02-05",
+    "start": "17:36:26",
+    "end": "17:36:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0985",
+    "date": "2025-02-05",
+    "start": "17:36:31",
+    "end": "17:36:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0986",
+    "date": "2025-02-05",
+    "start": "17:36:36",
+    "end": "17:36:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0987",
+    "date": "2025-02-05",
+    "start": "17:36:41",
+    "end": "17:36:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0988",
+    "date": "2025-02-05",
+    "start": "17:36:46",
+    "end": "17:36:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0989",
+    "date": "2025-02-05",
+    "start": "17:36:51",
+    "end": "17:36:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0990",
+    "date": "2025-02-05",
+    "start": "17:36:56",
+    "end": "17:37:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0991",
+    "date": "2025-02-05",
+    "start": "17:37:01",
+    "end": "17:37:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0992",
+    "date": "2025-02-05",
+    "start": "17:37:06",
+    "end": "17:37:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0993",
+    "date": "2025-02-05",
+    "start": "17:37:11",
+    "end": "17:37:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0994",
+    "date": "2025-02-05",
+    "start": "17:37:16",
+    "end": "17:37:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0995",
+    "date": "2025-02-05",
+    "start": "17:37:51",
+    "end": "17:38:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0996",
+    "date": "2025-02-05",
+    "start": "17:38:21",
+    "end": "17:38:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0997",
+    "date": "2025-02-05",
+    "start": "17:38:26",
+    "end": "17:38:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0998",
+    "date": "2025-02-05",
+    "start": "17:38:31",
+    "end": "17:38:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-0999",
+    "date": "2025-02-05",
+    "start": "17:38:36",
+    "end": "17:46:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1000",
+    "date": "2025-02-05",
+    "start": "17:46:46",
+    "end": "17:48:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1001",
+    "date": "2025-02-05",
+    "start": "17:48:06",
+    "end": "17:48:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1002",
+    "date": "2025-02-05",
+    "start": "17:48:36",
+    "end": "17:48:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1003",
+    "date": "2025-02-05",
+    "start": "17:48:41",
+    "end": "17:48:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1004",
+    "date": "2025-02-05",
+    "start": "17:48:46",
+    "end": "17:48:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1005",
+    "date": "2025-02-05",
+    "start": "17:48:51",
+    "end": "17:48:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1006",
+    "date": "2025-02-05",
+    "start": "17:48:56",
+    "end": "17:49:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1007",
+    "date": "2025-02-05",
+    "start": "17:49:01",
+    "end": "17:50:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1008",
+    "date": "2025-02-05",
+    "start": "17:50:41",
+    "end": "17:50:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1009",
+    "date": "2025-02-05",
+    "start": "17:50:46",
+    "end": "17:50:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1010",
+    "date": "2025-02-05",
+    "start": "17:50:51",
+    "end": "17:50:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1011",
+    "date": "2025-02-05",
+    "start": "17:50:56",
+    "end": "17:51:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1012",
+    "date": "2025-02-05",
+    "start": "17:51:01",
+    "end": "17:51:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1013",
+    "date": "2025-02-05",
+    "start": "17:51:06",
+    "end": "17:51:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1014",
+    "date": "2025-02-05",
+    "start": "17:51:11",
+    "end": "17:51:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1015",
+    "date": "2025-02-05",
+    "start": "17:51:16",
+    "end": "18:04:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1016",
+    "date": "2025-02-05",
+    "start": "18:04:36",
+    "end": "18:04:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1017",
+    "date": "2025-02-05",
+    "start": "18:04:41",
+    "end": "18:04:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1018",
+    "date": "2025-02-05",
+    "start": "18:04:46",
+    "end": "18:04:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1019",
+    "date": "2025-02-05",
+    "start": "18:04:51",
+    "end": "18:04:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1020",
+    "date": "2025-02-05",
+    "start": "18:04:56",
+    "end": "18:05:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1021",
+    "date": "2025-02-05",
+    "start": "18:05:01",
+    "end": "18:05:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1022",
+    "date": "2025-02-05",
+    "start": "18:05:06",
+    "end": "18:05:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1023",
+    "date": "2025-02-05",
+    "start": "18:05:11",
+    "end": "18:05:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1024",
+    "date": "2025-02-05",
+    "start": "18:05:16",
+    "end": "18:05:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1025",
+    "date": "2025-02-05",
+    "start": "18:05:26",
+    "end": "18:05:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1026",
+    "date": "2025-02-05",
+    "start": "18:05:51",
+    "end": "18:05:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1027",
+    "date": "2025-02-05",
+    "start": "18:05:56",
+    "end": "18:06:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1028",
+    "date": "2025-02-05",
+    "start": "18:06:01",
+    "end": "18:06:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1029",
+    "date": "2025-02-05",
+    "start": "18:06:06",
+    "end": "18:06:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1030",
+    "date": "2025-02-05",
+    "start": "18:06:26",
+    "end": "18:06:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1031",
+    "date": "2025-02-05",
+    "start": "18:06:31",
+    "end": "18:06:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1032",
+    "date": "2025-02-05",
+    "start": "18:06:41",
+    "end": "18:06:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1033",
+    "date": "2025-02-05",
+    "start": "18:06:51",
+    "end": "18:06:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1034",
+    "date": "2025-02-05",
+    "start": "18:06:56",
+    "end": "18:07:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1035",
+    "date": "2025-02-05",
+    "start": "18:07:41",
+    "end": "18:07:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1036",
+    "date": "2025-02-05",
+    "start": "18:07:46",
+    "end": "18:09:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1037",
+    "date": "2025-02-05",
+    "start": "18:09:46",
+    "end": "18:09:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1038",
+    "date": "2025-02-05",
+    "start": "18:09:51",
+    "end": "18:11:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1039",
+    "date": "2025-02-05",
+    "start": "18:11:06",
+    "end": "18:12:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1040",
+    "date": "2025-02-05",
+    "start": "18:12:41",
+    "end": "18:12:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1041",
+    "date": "2025-02-05",
+    "start": "18:12:46",
+    "end": "18:12:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1042",
+    "date": "2025-02-05",
+    "start": "18:12:51",
+    "end": "18:12:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1043",
+    "date": "2025-02-05",
+    "start": "18:12:56",
+    "end": "18:13:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1044",
+    "date": "2025-02-05",
+    "start": "18:13:31",
+    "end": "18:13:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1045",
+    "date": "2025-02-05",
+    "start": "18:13:36",
+    "end": "18:13:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1046",
+    "date": "2025-02-05",
+    "start": "18:13:41",
+    "end": "18:14:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1047",
+    "date": "2025-02-05",
+    "start": "18:14:36",
+    "end": "18:14:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1048",
+    "date": "2025-02-05",
+    "start": "18:14:41",
+    "end": "18:14:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1049",
+    "date": "2025-02-05",
+    "start": "18:14:46",
+    "end": "18:14:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1050",
+    "date": "2025-02-05",
+    "start": "18:14:51",
+    "end": "18:14:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1051",
+    "date": "2025-02-05",
+    "start": "18:14:56",
+    "end": "18:15:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1052",
+    "date": "2025-02-05",
+    "start": "18:15:16",
+    "end": "18:15:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1053",
+    "date": "2025-02-05",
+    "start": "18:15:21",
+    "end": "18:15:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1054",
+    "date": "2025-02-05",
+    "start": "18:15:26",
+    "end": "18:15:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1055",
+    "date": "2025-02-05",
+    "start": "18:15:31",
+    "end": "18:15:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1056",
+    "date": "2025-02-05",
+    "start": "18:15:36",
+    "end": "18:16:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1057",
+    "date": "2025-02-05",
+    "start": "18:16:31",
+    "end": "18:20:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1058",
+    "date": "2025-02-05",
+    "start": "18:20:56",
+    "end": "18:21:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1059",
+    "date": "2025-02-05",
+    "start": "18:21:01",
+    "end": "18:21:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1060",
+    "date": "2025-02-05",
+    "start": "18:21:06",
+    "end": "18:21:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1061",
+    "date": "2025-02-05",
+    "start": "18:21:11",
+    "end": "18:21:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1062",
+    "date": "2025-02-05",
+    "start": "18:21:36",
+    "end": "18:22:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1063",
+    "date": "2025-02-05",
+    "start": "18:22:36",
+    "end": "18:22:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1064",
+    "date": "2025-02-05",
+    "start": "18:22:56",
+    "end": "18:23:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1065",
+    "date": "2025-02-05",
+    "start": "18:23:06",
+    "end": "18:23:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1066",
+    "date": "2025-02-05",
+    "start": "18:23:21",
+    "end": "18:25:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1067",
+    "date": "2025-02-05",
+    "start": "18:25:51",
+    "end": "18:25:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1068",
+    "date": "2025-02-05",
+    "start": "18:25:56",
+    "end": "18:26:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1069",
+    "date": "2025-02-05",
+    "start": "18:26:01",
+    "end": "18:26:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1070",
+    "date": "2025-02-05",
+    "start": "18:26:06",
+    "end": "18:26:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1071",
+    "date": "2025-02-05",
+    "start": "18:26:11",
+    "end": "18:26:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1072",
+    "date": "2025-02-05",
+    "start": "18:26:16",
+    "end": "18:26:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1073",
+    "date": "2025-02-05",
+    "start": "18:26:21",
+    "end": "18:26:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1074",
+    "date": "2025-02-05",
+    "start": "18:26:26",
+    "end": "18:26:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1075",
+    "date": "2025-02-05",
+    "start": "18:26:31",
+    "end": "18:26:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1076",
+    "date": "2025-02-05",
+    "start": "18:26:36",
+    "end": "18:26:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1077",
+    "date": "2025-02-05",
+    "start": "18:26:41",
+    "end": "18:26:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1078",
+    "date": "2025-02-05",
+    "start": "18:26:46",
+    "end": "18:26:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1079",
+    "date": "2025-02-05",
+    "start": "18:26:51",
+    "end": "18:26:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1080",
+    "date": "2025-02-05",
+    "start": "18:26:56",
+    "end": "18:27:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1081",
+    "date": "2025-02-05",
+    "start": "18:27:01",
+    "end": "18:27:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1082",
+    "date": "2025-02-05",
+    "start": "18:27:06",
+    "end": "18:27:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1083",
+    "date": "2025-02-05",
+    "start": "18:27:11",
+    "end": "18:27:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1084",
+    "date": "2025-02-05",
+    "start": "18:27:16",
+    "end": "18:27:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1085",
+    "date": "2025-02-05",
+    "start": "18:27:21",
+    "end": "18:27:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1086",
+    "date": "2025-02-05",
+    "start": "18:27:26",
+    "end": "18:27:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1087",
+    "date": "2025-02-05",
+    "start": "18:27:31",
+    "end": "18:27:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1088",
+    "date": "2025-02-05",
+    "start": "18:27:36",
+    "end": "18:27:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1089",
+    "date": "2025-02-05",
+    "start": "18:27:41",
+    "end": "18:27:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1090",
+    "date": "2025-02-05",
+    "start": "18:27:46",
+    "end": "18:27:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1091",
+    "date": "2025-02-05",
+    "start": "18:27:51",
+    "end": "18:27:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1092",
+    "date": "2025-02-05",
+    "start": "18:27:56",
+    "end": "18:28:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1093",
+    "date": "2025-02-05",
+    "start": "18:28:01",
+    "end": "18:28:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1094",
+    "date": "2025-02-05",
+    "start": "18:28:06",
+    "end": "18:28:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1095",
+    "date": "2025-02-05",
+    "start": "18:28:11",
+    "end": "18:29:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1096",
+    "date": "2025-02-05",
+    "start": "18:29:46",
+    "end": "18:29:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1097",
+    "date": "2025-02-05",
+    "start": "18:29:51",
+    "end": "18:29:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1098",
+    "date": "2025-02-05",
+    "start": "18:29:56",
+    "end": "18:30:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1099",
+    "date": "2025-02-05",
+    "start": "18:30:06",
+    "end": "18:30:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1100",
+    "date": "2025-02-05",
+    "start": "18:30:11",
+    "end": "18:31:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1101",
+    "date": "2025-02-05",
+    "start": "18:31:21",
+    "end": "18:31:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1102",
+    "date": "2025-02-05",
+    "start": "18:31:26",
+    "end": "18:31:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1103",
+    "date": "2025-02-05",
+    "start": "18:31:31",
+    "end": "18:31:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1104",
+    "date": "2025-02-05",
+    "start": "18:31:36",
+    "end": "18:31:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1105",
+    "date": "2025-02-05",
+    "start": "18:31:41",
+    "end": "18:32:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1106",
+    "date": "2025-02-05",
+    "start": "18:32:01",
+    "end": "18:32:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Pehla Pyaar,Armaan Malik,Kabir Singh,2019,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1107",
+    "date": "2025-02-05",
+    "start": "18:32:06",
+    "end": "18:32:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1108",
+    "date": "2025-02-05",
+    "start": "18:32:21",
+    "end": "18:32:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1109",
+    "date": "2025-02-05",
+    "start": "18:32:41",
+    "end": "18:32:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1110",
+    "date": "2025-02-05",
+    "start": "18:32:51",
+    "end": "18:33:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1111",
+    "date": "2025-02-05",
+    "start": "18:33:06",
+    "end": "18:33:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1112",
+    "date": "2025-02-05",
+    "start": "18:33:16",
+    "end": "18:33:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1113",
+    "date": "2025-02-05",
+    "start": "18:33:21",
+    "end": "18:33:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1114",
+    "date": "2025-02-05",
+    "start": "18:33:26",
+    "end": "18:33:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1115",
+    "date": "2025-02-05",
+    "start": "18:33:51",
+    "end": "18:34:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1116",
+    "date": "2025-02-05",
+    "start": "18:34:31",
+    "end": "18:34:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1117",
+    "date": "2025-02-05",
+    "start": "18:34:56",
+    "end": "18:35:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1118",
+    "date": "2025-02-05",
+    "start": "18:35:01",
+    "end": "18:35:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1119",
+    "date": "2025-02-05",
+    "start": "18:35:06",
+    "end": "18:35:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1120",
+    "date": "2025-02-05",
+    "start": "18:35:11",
+    "end": "18:35:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1121",
+    "date": "2025-02-05",
+    "start": "18:35:16",
+    "end": "18:35:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1122",
+    "date": "2025-02-05",
+    "start": "18:35:21",
+    "end": "18:35:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1123",
+    "date": "2025-02-05",
+    "start": "18:35:26",
+    "end": "18:36:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1124",
+    "date": "2025-02-05",
+    "start": "18:36:01",
+    "end": "18:36:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1125",
+    "date": "2025-02-05",
+    "start": "18:36:06",
+    "end": "18:36:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1126",
+    "date": "2025-02-05",
+    "start": "18:36:11",
+    "end": "18:36:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1127",
+    "date": "2025-02-05",
+    "start": "18:36:16",
+    "end": "18:36:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1128",
+    "date": "2025-02-05",
+    "start": "18:36:31",
+    "end": "18:37:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1129",
+    "date": "2025-02-05",
+    "start": "18:37:01",
+    "end": "18:37:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1130",
+    "date": "2025-02-05",
+    "start": "18:37:21",
+    "end": "18:37:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1131",
+    "date": "2025-02-05",
+    "start": "18:37:26",
+    "end": "18:39:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1132",
+    "date": "2025-02-05",
+    "start": "18:39:11",
+    "end": "18:39:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1133",
+    "date": "2025-02-05",
+    "start": "18:39:16",
+    "end": "18:39:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1134",
+    "date": "2025-02-05",
+    "start": "18:39:21",
+    "end": "18:39:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1135",
+    "date": "2025-02-05",
+    "start": "18:39:26",
+    "end": "18:40:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1136",
+    "date": "2025-02-05",
+    "start": "18:40:26",
+    "end": "18:40:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1137",
+    "date": "2025-02-05",
+    "start": "18:40:31",
+    "end": "18:40:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1138",
+    "date": "2025-02-05",
+    "start": "18:40:36",
+    "end": "18:40:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1139",
+    "date": "2025-02-05",
+    "start": "18:40:46",
+    "end": "18:40:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1140",
+    "date": "2025-02-05",
+    "start": "18:40:51",
+    "end": "18:40:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1141",
+    "date": "2025-02-05",
+    "start": "18:40:56",
+    "end": "18:41:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1142",
+    "date": "2025-02-05",
+    "start": "18:41:01",
+    "end": "18:41:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1143",
+    "date": "2025-02-05",
+    "start": "18:41:06",
+    "end": "18:41:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1144",
+    "date": "2025-02-05",
+    "start": "18:41:11",
+    "end": "18:41:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1145",
+    "date": "2025-02-05",
+    "start": "18:41:16",
+    "end": "18:41:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1146",
+    "date": "2025-02-05",
+    "start": "18:41:21",
+    "end": "18:41:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1147",
+    "date": "2025-02-05",
+    "start": "18:41:26",
+    "end": "18:42:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1148",
+    "date": "2025-02-05",
+    "start": "18:42:01",
+    "end": "18:42:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1149",
+    "date": "2025-02-05",
+    "start": "18:42:06",
+    "end": "18:42:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1150",
+    "date": "2025-02-05",
+    "start": "18:42:11",
+    "end": "18:42:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1151",
+    "date": "2025-02-05",
+    "start": "18:42:16",
+    "end": "18:42:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1152",
+    "date": "2025-02-05",
+    "start": "18:42:26",
+    "end": "18:42:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1153",
+    "date": "2025-02-05",
+    "start": "18:42:41",
+    "end": "18:42:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1154",
+    "date": "2025-02-05",
+    "start": "18:42:51",
+    "end": "18:42:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1155",
+    "date": "2025-02-05",
+    "start": "18:42:56",
+    "end": "18:43:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1156",
+    "date": "2025-02-05",
+    "start": "18:43:01",
+    "end": "18:43:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1157",
+    "date": "2025-02-05",
+    "start": "18:43:06",
+    "end": "18:43:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1158",
+    "date": "2025-02-05",
+    "start": "18:43:36",
+    "end": "18:43:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1159",
+    "date": "2025-02-05",
+    "start": "18:43:46",
+    "end": "18:43:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1160",
+    "date": "2025-02-05",
+    "start": "18:43:51",
+    "end": "18:43:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1161",
+    "date": "2025-02-05",
+    "start": "18:43:56",
+    "end": "18:44:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1162",
+    "date": "2025-02-05",
+    "start": "18:44:01",
+    "end": "18:44:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1163",
+    "date": "2025-02-05",
+    "start": "18:44:06",
+    "end": "18:44:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tainu Khabar Nahi,Arijit Singh & Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1164",
+    "date": "2025-02-05",
+    "start": "18:44:11",
+    "end": "18:45:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tainu Khabar Nahi,Arijit Singh & Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1165",
+    "date": "2025-02-05",
+    "start": "18:45:56",
+    "end": "18:46:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1166",
+    "date": "2025-02-05",
+    "start": "18:46:01",
+    "end": "18:49:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1167",
+    "date": "2025-02-05",
+    "start": "18:49:06",
+    "end": "18:49:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1168",
+    "date": "2025-02-05",
+    "start": "18:49:11",
+    "end": "18:49:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1169",
+    "date": "2025-02-05",
+    "start": "18:49:16",
+    "end": "18:49:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1170",
+    "date": "2025-02-05",
+    "start": "18:49:21",
+    "end": "18:49:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1171",
+    "date": "2025-02-05",
+    "start": "18:49:26",
+    "end": "18:49:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1172",
+    "date": "2025-02-05",
+    "start": "18:49:31",
+    "end": "18:49:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1173",
+    "date": "2025-02-05",
+    "start": "18:49:36",
+    "end": "18:49:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1174",
+    "date": "2025-02-05",
+    "start": "18:49:41",
+    "end": "18:49:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1175",
+    "date": "2025-02-05",
+    "start": "18:49:46",
+    "end": "18:49:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1176",
+    "date": "2025-02-05",
+    "start": "18:49:51",
+    "end": "18:49:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1177",
+    "date": "2025-02-05",
+    "start": "18:49:56",
+    "end": "18:50:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1178",
+    "date": "2025-02-05",
+    "start": "18:50:01",
+    "end": "18:50:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1179",
+    "date": "2025-02-05",
+    "start": "18:50:31",
+    "end": "18:50:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1180",
+    "date": "2025-02-05",
+    "start": "18:50:36",
+    "end": "18:50:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1181",
+    "date": "2025-02-05",
+    "start": "18:50:41",
+    "end": "18:50:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1182",
+    "date": "2025-02-05",
+    "start": "18:50:46",
+    "end": "18:50:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1183",
+    "date": "2025-02-05",
+    "start": "18:50:51",
+    "end": "18:50:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1184",
+    "date": "2025-02-05",
+    "start": "18:50:56",
+    "end": "18:51:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1185",
+    "date": "2025-02-05",
+    "start": "18:51:06",
+    "end": "18:51:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1186",
+    "date": "2025-02-05",
+    "start": "18:51:11",
+    "end": "18:51:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1187",
+    "date": "2025-02-05",
+    "start": "18:51:16",
+    "end": "18:51:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1188",
+    "date": "2025-02-05",
+    "start": "18:51:21",
+    "end": "18:51:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1189",
+    "date": "2025-02-05",
+    "start": "18:51:26",
+    "end": "18:51:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maruti Suzuki,Automobile,True Value Showroom ,Automobile - Dealers",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1190",
+    "date": "2025-02-05",
+    "start": "18:51:31",
+    "end": "18:51:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maruti Suzuki,Automobile,True Value Showroom ,Automobile - Dealers",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1191",
+    "date": "2025-02-05",
+    "start": "18:51:41",
+    "end": "18:51:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maruti Suzuki,Automobile,True Value Showroom ,Automobile - Dealers",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1192",
+    "date": "2025-02-05",
+    "start": "18:51:46",
+    "end": "18:51:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maruti Suzuki,Automobile,True Value Showroom ,Automobile - Dealers",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1193",
+    "date": "2025-02-05",
+    "start": "18:51:51",
+    "end": "18:51:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maruti Suzuki,Automobile,True Value Showroom ,Automobile - Dealers",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1194",
+    "date": "2025-02-05",
+    "start": "18:51:56",
+    "end": "18:52:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1195",
+    "date": "2025-02-05",
+    "start": "18:52:01",
+    "end": "18:52:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1196",
+    "date": "2025-02-05",
+    "start": "18:52:46",
+    "end": "18:52:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1197",
+    "date": "2025-02-05",
+    "start": "18:52:51",
+    "end": "18:52:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1198",
+    "date": "2025-02-05",
+    "start": "18:52:56",
+    "end": "18:53:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1199",
+    "date": "2025-02-05",
+    "start": "18:53:01",
+    "end": "18:53:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1200",
+    "date": "2025-02-05",
+    "start": "18:53:06",
+    "end": "18:53:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1201",
+    "date": "2025-02-05",
+    "start": "18:53:11",
+    "end": "18:53:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1202",
+    "date": "2025-02-05",
+    "start": "18:53:21",
+    "end": "18:53:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1203",
+    "date": "2025-02-05",
+    "start": "18:53:26",
+    "end": "18:53:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1204",
+    "date": "2025-02-05",
+    "start": "18:53:31",
+    "end": "19:05:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1205",
+    "date": "2025-02-05",
+    "start": "19:05:16",
+    "end": "19:05:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1206",
+    "date": "2025-02-05",
+    "start": "19:05:21",
+    "end": "19:05:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1207",
+    "date": "2025-02-05",
+    "start": "19:05:26",
+    "end": "19:05:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1208",
+    "date": "2025-02-05",
+    "start": "19:05:31",
+    "end": "19:05:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1209",
+    "date": "2025-02-05",
+    "start": "19:05:36",
+    "end": "19:05:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1210",
+    "date": "2025-02-05",
+    "start": "19:05:41",
+    "end": "19:05:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1211",
+    "date": "2025-02-05",
+    "start": "19:05:46",
+    "end": "19:05:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1212",
+    "date": "2025-02-05",
+    "start": "19:05:56",
+    "end": "19:06:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1213",
+    "date": "2025-02-05",
+    "start": "19:06:01",
+    "end": "19:06:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1214",
+    "date": "2025-02-05",
+    "start": "19:06:11",
+    "end": "19:06:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1215",
+    "date": "2025-02-05",
+    "start": "19:06:31",
+    "end": "19:07:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1216",
+    "date": "2025-02-05",
+    "start": "19:07:11",
+    "end": "19:07:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1217",
+    "date": "2025-02-05",
+    "start": "19:07:16",
+    "end": "19:07:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1218",
+    "date": "2025-02-05",
+    "start": "19:07:26",
+    "end": "19:07:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1219",
+    "date": "2025-02-05",
+    "start": "19:07:31",
+    "end": "19:07:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1220",
+    "date": "2025-02-05",
+    "start": "19:07:41",
+    "end": "19:07:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1221",
+    "date": "2025-02-05",
+    "start": "19:07:56",
+    "end": "19:08:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1222",
+    "date": "2025-02-05",
+    "start": "19:08:36",
+    "end": "19:08:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1223",
+    "date": "2025-02-05",
+    "start": "19:08:41",
+    "end": "19:09:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1224",
+    "date": "2025-02-05",
+    "start": "19:09:56",
+    "end": "19:10:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1225",
+    "date": "2025-02-05",
+    "start": "19:10:01",
+    "end": "19:11:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1226",
+    "date": "2025-02-05",
+    "start": "19:11:16",
+    "end": "19:12:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1227",
+    "date": "2025-02-05",
+    "start": "19:12:36",
+    "end": "19:13:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1228",
+    "date": "2025-02-05",
+    "start": "19:13:46",
+    "end": "19:13:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1229",
+    "date": "2025-02-05",
+    "start": "19:13:51",
+    "end": "19:13:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1230",
+    "date": "2025-02-05",
+    "start": "19:13:56",
+    "end": "19:14:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1231",
+    "date": "2025-02-05",
+    "start": "19:14:06",
+    "end": "19:14:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1232",
+    "date": "2025-02-05",
+    "start": "19:14:21",
+    "end": "19:16:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1233",
+    "date": "2025-02-05",
+    "start": "19:16:16",
+    "end": "19:16:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1234",
+    "date": "2025-02-05",
+    "start": "19:16:21",
+    "end": "19:16:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1235",
+    "date": "2025-02-05",
+    "start": "19:16:26",
+    "end": "19:16:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1236",
+    "date": "2025-02-05",
+    "start": "19:16:31",
+    "end": "19:16:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1237",
+    "date": "2025-02-05",
+    "start": "19:16:36",
+    "end": "19:16:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1238",
+    "date": "2025-02-05",
+    "start": "19:16:41",
+    "end": "19:16:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1239",
+    "date": "2025-02-05",
+    "start": "19:16:46",
+    "end": "19:16:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1240",
+    "date": "2025-02-05",
+    "start": "19:16:51",
+    "end": "19:16:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1241",
+    "date": "2025-02-05",
+    "start": "19:16:56",
+    "end": "19:17:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1242",
+    "date": "2025-02-05",
+    "start": "19:17:01",
+    "end": "19:20:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1243",
+    "date": "2025-02-05",
+    "start": "19:20:26",
+    "end": "19:20:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1244",
+    "date": "2025-02-05",
+    "start": "19:20:36",
+    "end": "19:20:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1245",
+    "date": "2025-02-05",
+    "start": "19:20:46",
+    "end": "19:20:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1246",
+    "date": "2025-02-05",
+    "start": "19:20:51",
+    "end": "19:21:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1247",
+    "date": "2025-02-05",
+    "start": "19:21:01",
+    "end": "19:21:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1248",
+    "date": "2025-02-05",
+    "start": "19:21:06",
+    "end": "19:21:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1249",
+    "date": "2025-02-05",
+    "start": "19:21:41",
+    "end": "19:21:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1250",
+    "date": "2025-02-05",
+    "start": "19:21:51",
+    "end": "19:22:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1251",
+    "date": "2025-02-05",
+    "start": "19:22:01",
+    "end": "19:27:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1252",
+    "date": "2025-02-05",
+    "start": "19:27:31",
+    "end": "19:27:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1253",
+    "date": "2025-02-05",
+    "start": "19:27:36",
+    "end": "19:27:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Ghee,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1254",
+    "date": "2025-02-05",
+    "start": "19:27:41",
+    "end": "19:27:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1255",
+    "date": "2025-02-05",
+    "start": "19:27:46",
+    "end": "19:27:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1256",
+    "date": "2025-02-05",
+    "start": "19:27:51",
+    "end": "19:27:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1257",
+    "date": "2025-02-05",
+    "start": "19:27:56",
+    "end": "19:28:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1258",
+    "date": "2025-02-05",
+    "start": "19:28:01",
+    "end": "19:28:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1259",
+    "date": "2025-02-05",
+    "start": "19:28:06",
+    "end": "19:28:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1260",
+    "date": "2025-02-05",
+    "start": "19:28:26",
+    "end": "19:28:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1261",
+    "date": "2025-02-05",
+    "start": "19:28:31",
+    "end": "19:28:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1262",
+    "date": "2025-02-05",
+    "start": "19:28:36",
+    "end": "19:28:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1263",
+    "date": "2025-02-05",
+    "start": "19:28:41",
+    "end": "19:28:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1264",
+    "date": "2025-02-05",
+    "start": "19:28:46",
+    "end": "19:28:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1265",
+    "date": "2025-02-05",
+    "start": "19:28:51",
+    "end": "19:28:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1266",
+    "date": "2025-02-05",
+    "start": "19:28:56",
+    "end": "19:29:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1267",
+    "date": "2025-02-05",
+    "start": "19:29:01",
+    "end": "19:29:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1268",
+    "date": "2025-02-05",
+    "start": "19:29:06",
+    "end": "19:29:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1269",
+    "date": "2025-02-05",
+    "start": "19:29:11",
+    "end": "19:29:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1270",
+    "date": "2025-02-05",
+    "start": "19:29:16",
+    "end": "19:29:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1271",
+    "date": "2025-02-05",
+    "start": "19:29:21",
+    "end": "19:29:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1272",
+    "date": "2025-02-05",
+    "start": "19:29:26",
+    "end": "19:29:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maruti Suzuki,Automobile,True Value Showroom ,Automobile - Dealers",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1273",
+    "date": "2025-02-05",
+    "start": "19:29:31",
+    "end": "19:29:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maruti Suzuki,Automobile,True Value Showroom ,Automobile - Dealers",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1274",
+    "date": "2025-02-05",
+    "start": "19:29:36",
+    "end": "19:29:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maruti Suzuki,Automobile,True Value Showroom ,Automobile - Dealers",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1275",
+    "date": "2025-02-05",
+    "start": "19:29:41",
+    "end": "19:29:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maruti Suzuki,Automobile,True Value Showroom ,Automobile - Dealers",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1276",
+    "date": "2025-02-05",
+    "start": "19:29:46",
+    "end": "19:29:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maruti Suzuki,Automobile,True Value Showroom ,Automobile - Dealers",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1277",
+    "date": "2025-02-05",
+    "start": "19:29:51",
+    "end": "19:29:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1278",
+    "date": "2025-02-05",
+    "start": "19:29:56",
+    "end": "19:30:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1279",
+    "date": "2025-02-05",
+    "start": "19:30:16",
+    "end": "19:30:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1280",
+    "date": "2025-02-05",
+    "start": "19:30:21",
+    "end": "19:30:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1281",
+    "date": "2025-02-05",
+    "start": "19:30:26",
+    "end": "19:30:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1282",
+    "date": "2025-02-05",
+    "start": "19:30:31",
+    "end": "19:30:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1283",
+    "date": "2025-02-05",
+    "start": "19:30:36",
+    "end": "19:30:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1284",
+    "date": "2025-02-05",
+    "start": "19:30:41",
+    "end": "19:30:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1285",
+    "date": "2025-02-05",
+    "start": "19:30:46",
+    "end": "19:30:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1286",
+    "date": "2025-02-05",
+    "start": "19:30:56",
+    "end": "19:31:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1287",
+    "date": "2025-02-05",
+    "start": "19:31:01",
+    "end": "19:31:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Payal,Yo Yo Honey Singh & Paradox,Glory,2024,T-Series,Hip-Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1288",
+    "date": "2025-02-05",
+    "start": "19:31:06",
+    "end": "19:37:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1289",
+    "date": "2025-02-05",
+    "start": "19:37:26",
+    "end": "19:39:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1290",
+    "date": "2025-02-05",
+    "start": "19:39:16",
+    "end": "19:39:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1291",
+    "date": "2025-02-05",
+    "start": "19:39:21",
+    "end": "19:43:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1292",
+    "date": "2025-02-05",
+    "start": "19:43:16",
+    "end": "19:43:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1293",
+    "date": "2025-02-05",
+    "start": "19:43:21",
+    "end": "19:43:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1294",
+    "date": "2025-02-05",
+    "start": "19:43:26",
+    "end": "19:43:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1295",
+    "date": "2025-02-05",
+    "start": "19:43:31",
+    "end": "19:43:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1296",
+    "date": "2025-02-05",
+    "start": "19:43:36",
+    "end": "19:43:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1297",
+    "date": "2025-02-05",
+    "start": "19:43:41",
+    "end": "19:43:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1298",
+    "date": "2025-02-05",
+    "start": "19:43:46",
+    "end": "19:44:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1299",
+    "date": "2025-02-05",
+    "start": "19:44:11",
+    "end": "19:44:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1300",
+    "date": "2025-02-05",
+    "start": "19:44:16",
+    "end": "19:44:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1301",
+    "date": "2025-02-05",
+    "start": "19:44:21",
+    "end": "19:44:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1302",
+    "date": "2025-02-05",
+    "start": "19:44:26",
+    "end": "19:45:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1303",
+    "date": "2025-02-05",
+    "start": "19:45:01",
+    "end": "19:45:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Manipal Cigna,Insurance,,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1304",
+    "date": "2025-02-05",
+    "start": "19:45:06",
+    "end": "19:45:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1305",
+    "date": "2025-02-05",
+    "start": "19:45:11",
+    "end": "19:45:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1306",
+    "date": "2025-02-05",
+    "start": "19:45:16",
+    "end": "19:45:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1307",
+    "date": "2025-02-05",
+    "start": "19:45:21",
+    "end": "19:45:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1308",
+    "date": "2025-02-05",
+    "start": "19:45:26",
+    "end": "19:46:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1309",
+    "date": "2025-02-05",
+    "start": "19:46:01",
+    "end": "19:46:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1310",
+    "date": "2025-02-05",
+    "start": "19:46:06",
+    "end": "19:46:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1311",
+    "date": "2025-02-05",
+    "start": "19:46:11",
+    "end": "19:46:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1312",
+    "date": "2025-02-05",
+    "start": "19:46:16",
+    "end": "19:46:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1313",
+    "date": "2025-02-05",
+    "start": "19:46:21",
+    "end": "19:46:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1314",
+    "date": "2025-02-05",
+    "start": "19:46:51",
+    "end": "19:46:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1315",
+    "date": "2025-02-05",
+    "start": "19:46:56",
+    "end": "19:47:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1316",
+    "date": "2025-02-05",
+    "start": "19:47:01",
+    "end": "19:47:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1317",
+    "date": "2025-02-05",
+    "start": "19:47:06",
+    "end": "19:47:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1318",
+    "date": "2025-02-05",
+    "start": "19:47:11",
+    "end": "19:55:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1319",
+    "date": "2025-02-05",
+    "start": "19:55:01",
+    "end": "19:55:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1320",
+    "date": "2025-02-05",
+    "start": "19:55:06",
+    "end": "19:55:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1321",
+    "date": "2025-02-05",
+    "start": "19:55:11",
+    "end": "19:55:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1322",
+    "date": "2025-02-05",
+    "start": "19:55:16",
+    "end": "19:55:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1323",
+    "date": "2025-02-05",
+    "start": "19:55:21",
+    "end": "19:55:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1324",
+    "date": "2025-02-05",
+    "start": "19:55:46",
+    "end": "19:55:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1325",
+    "date": "2025-02-05",
+    "start": "19:55:51",
+    "end": "19:55:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1326",
+    "date": "2025-02-05",
+    "start": "19:55:56",
+    "end": "19:56:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1327",
+    "date": "2025-02-05",
+    "start": "19:56:01",
+    "end": "19:56:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1328",
+    "date": "2025-02-05",
+    "start": "19:56:06",
+    "end": "19:56:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1329",
+    "date": "2025-02-05",
+    "start": "19:56:11",
+    "end": "19:56:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1330",
+    "date": "2025-02-05",
+    "start": "19:56:16",
+    "end": "19:56:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1331",
+    "date": "2025-02-05",
+    "start": "19:56:21",
+    "end": "19:56:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1332",
+    "date": "2025-02-05",
+    "start": "19:56:26",
+    "end": "19:56:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1333",
+    "date": "2025-02-05",
+    "start": "19:56:31",
+    "end": "19:56:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1334",
+    "date": "2025-02-05",
+    "start": "19:56:36",
+    "end": "19:56:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1335",
+    "date": "2025-02-05",
+    "start": "19:56:41",
+    "end": "19:56:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1336",
+    "date": "2025-02-05",
+    "start": "19:56:46",
+    "end": "19:56:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1337",
+    "date": "2025-02-05",
+    "start": "19:56:51",
+    "end": "19:56:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1338",
+    "date": "2025-02-05",
+    "start": "19:56:56",
+    "end": "19:57:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1339",
+    "date": "2025-02-05",
+    "start": "19:57:01",
+    "end": "19:57:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1340",
+    "date": "2025-02-05",
+    "start": "19:57:06",
+    "end": "19:57:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1341",
+    "date": "2025-02-05",
+    "start": "19:57:11",
+    "end": "19:57:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1342",
+    "date": "2025-02-05",
+    "start": "19:57:16",
+    "end": "19:57:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1343",
+    "date": "2025-02-05",
+    "start": "19:57:21",
+    "end": "19:57:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1344",
+    "date": "2025-02-05",
+    "start": "19:57:26",
+    "end": "19:58:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1345",
+    "date": "2025-02-05",
+    "start": "19:58:21",
+    "end": "19:58:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1346",
+    "date": "2025-02-05",
+    "start": "19:58:26",
+    "end": "19:58:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1347",
+    "date": "2025-02-05",
+    "start": "19:58:31",
+    "end": "19:59:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1348",
+    "date": "2025-02-05",
+    "start": "19:59:01",
+    "end": "19:59:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1349",
+    "date": "2025-02-05",
+    "start": "19:59:06",
+    "end": "19:59:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Union Bank,Banking,Home Loan,Finance - Loans",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1350",
+    "date": "2025-02-05",
+    "start": "19:59:11",
+    "end": "19:59:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1351",
+    "date": "2025-02-05",
+    "start": "19:59:16",
+    "end": "20:05:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1352",
+    "date": "2025-02-05",
+    "start": "20:05:41",
+    "end": "20:05:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1353",
+    "date": "2025-02-05",
+    "start": "20:05:46",
+    "end": "20:05:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1354",
+    "date": "2025-02-05",
+    "start": "20:05:51",
+    "end": "20:05:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1355",
+    "date": "2025-02-05",
+    "start": "20:05:56",
+    "end": "20:06:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1356",
+    "date": "2025-02-05",
+    "start": "20:06:01",
+    "end": "20:06:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1357",
+    "date": "2025-02-05",
+    "start": "20:06:06",
+    "end": "20:06:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1358",
+    "date": "2025-02-05",
+    "start": "20:06:11",
+    "end": "20:06:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1359",
+    "date": "2025-02-05",
+    "start": "20:06:41",
+    "end": "20:07:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1360",
+    "date": "2025-02-05",
+    "start": "20:07:01",
+    "end": "20:07:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1361",
+    "date": "2025-02-05",
+    "start": "20:07:06",
+    "end": "20:07:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1362",
+    "date": "2025-02-05",
+    "start": "20:07:11",
+    "end": "20:07:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1363",
+    "date": "2025-02-05",
+    "start": "20:07:46",
+    "end": "20:08:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1364",
+    "date": "2025-02-05",
+    "start": "20:08:16",
+    "end": "20:08:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1365",
+    "date": "2025-02-05",
+    "start": "20:08:21",
+    "end": "20:09:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1366",
+    "date": "2025-02-05",
+    "start": "20:09:26",
+    "end": "20:09:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1367",
+    "date": "2025-02-05",
+    "start": "20:09:51",
+    "end": "20:10:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1368",
+    "date": "2025-02-05",
+    "start": "20:10:11",
+    "end": "20:10:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Red FM,Entertainment,Riders Music Festival,Festival",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1369",
+    "date": "2025-02-05",
+    "start": "20:10:16",
+    "end": "20:11:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1370",
+    "date": "2025-02-05",
+    "start": "20:11:31",
+    "end": "20:12:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1371",
+    "date": "2025-02-05",
+    "start": "20:12:26",
+    "end": "20:12:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1372",
+    "date": "2025-02-05",
+    "start": "20:12:31",
+    "end": "20:12:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1373",
+    "date": "2025-02-05",
+    "start": "20:12:36",
+    "end": "20:12:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1374",
+    "date": "2025-02-05",
+    "start": "20:12:41",
+    "end": "20:12:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1375",
+    "date": "2025-02-05",
+    "start": "20:12:46",
+    "end": "20:12:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1376",
+    "date": "2025-02-05",
+    "start": "20:12:56",
+    "end": "20:13:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1377",
+    "date": "2025-02-05",
+    "start": "20:13:01",
+    "end": "20:13:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1378",
+    "date": "2025-02-05",
+    "start": "20:13:06",
+    "end": "20:13:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1379",
+    "date": "2025-02-05",
+    "start": "20:13:11",
+    "end": "20:13:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1380",
+    "date": "2025-02-05",
+    "start": "20:13:21",
+    "end": "20:13:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dream Works Housing,Real Estate,Dream Delmont Bavdahn,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1381",
+    "date": "2025-02-05",
+    "start": "20:13:26",
+    "end": "20:13:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1382",
+    "date": "2025-02-05",
+    "start": "20:13:31",
+    "end": "20:13:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1383",
+    "date": "2025-02-05",
+    "start": "20:13:51",
+    "end": "20:13:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1384",
+    "date": "2025-02-05",
+    "start": "20:13:56",
+    "end": "20:14:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1385",
+    "date": "2025-02-05",
+    "start": "20:14:01",
+    "end": "20:14:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1386",
+    "date": "2025-02-05",
+    "start": "20:14:06",
+    "end": "20:14:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1387",
+    "date": "2025-02-05",
+    "start": "20:14:11",
+    "end": "20:14:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1388",
+    "date": "2025-02-05",
+    "start": "20:14:16",
+    "end": "20:14:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1389",
+    "date": "2025-02-05",
+    "start": "20:14:21",
+    "end": "20:14:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1390",
+    "date": "2025-02-05",
+    "start": "20:14:26",
+    "end": "20:15:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1391",
+    "date": "2025-02-05",
+    "start": "20:15:26",
+    "end": "20:15:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1392",
+    "date": "2025-02-05",
+    "start": "20:15:31",
+    "end": "20:15:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1393",
+    "date": "2025-02-05",
+    "start": "20:15:36",
+    "end": "20:15:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1394",
+    "date": "2025-02-05",
+    "start": "20:15:41",
+    "end": "20:15:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1395",
+    "date": "2025-02-05",
+    "start": "20:15:46",
+    "end": "20:15:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1396",
+    "date": "2025-02-05",
+    "start": "20:15:51",
+    "end": "20:15:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1397",
+    "date": "2025-02-05",
+    "start": "20:15:56",
+    "end": "20:16:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1398",
+    "date": "2025-02-05",
+    "start": "20:16:56",
+    "end": "20:17:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1399",
+    "date": "2025-02-05",
+    "start": "20:17:01",
+    "end": "20:17:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1400",
+    "date": "2025-02-05",
+    "start": "20:17:06",
+    "end": "20:17:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1401",
+    "date": "2025-02-05",
+    "start": "20:17:11",
+    "end": "20:17:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1402",
+    "date": "2025-02-05",
+    "start": "20:17:16",
+    "end": "20:24:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1403",
+    "date": "2025-02-05",
+    "start": "20:24:21",
+    "end": "20:24:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1404",
+    "date": "2025-02-05",
+    "start": "20:24:26",
+    "end": "20:24:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Shell,Public Works,,Petroleum Products",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1405",
+    "date": "2025-02-05",
+    "start": "20:24:31",
+    "end": "20:24:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1406",
+    "date": "2025-02-05",
+    "start": "20:24:36",
+    "end": "20:24:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1407",
+    "date": "2025-02-05",
+    "start": "20:24:41",
+    "end": "20:24:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1408",
+    "date": "2025-02-05",
+    "start": "20:24:46",
+    "end": "20:24:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1409",
+    "date": "2025-02-05",
+    "start": "20:24:51",
+    "end": "20:24:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1410",
+    "date": "2025-02-05",
+    "start": "20:24:56",
+    "end": "20:25:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1411",
+    "date": "2025-02-05",
+    "start": "20:25:01",
+    "end": "20:25:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1412",
+    "date": "2025-02-05",
+    "start": "20:25:11",
+    "end": "20:25:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1413",
+    "date": "2025-02-05",
+    "start": "20:25:16",
+    "end": "20:25:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1414",
+    "date": "2025-02-05",
+    "start": "20:25:21",
+    "end": "20:25:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1415",
+    "date": "2025-02-05",
+    "start": "20:25:26",
+    "end": "20:25:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1416",
+    "date": "2025-02-05",
+    "start": "20:25:31",
+    "end": "20:25:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1417",
+    "date": "2025-02-05",
+    "start": "20:25:36",
+    "end": "20:26:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1418",
+    "date": "2025-02-05",
+    "start": "20:26:01",
+    "end": "20:26:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1419",
+    "date": "2025-02-05",
+    "start": "20:26:06",
+    "end": "20:26:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1420",
+    "date": "2025-02-05",
+    "start": "20:26:31",
+    "end": "20:26:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1421",
+    "date": "2025-02-05",
+    "start": "20:26:36",
+    "end": "20:26:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1422",
+    "date": "2025-02-05",
+    "start": "20:26:41",
+    "end": "20:26:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1423",
+    "date": "2025-02-05",
+    "start": "20:26:46",
+    "end": "20:26:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1424",
+    "date": "2025-02-05",
+    "start": "20:26:51",
+    "end": "20:26:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1425",
+    "date": "2025-02-05",
+    "start": "20:26:56",
+    "end": "20:27:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1426",
+    "date": "2025-02-05",
+    "start": "20:27:01",
+    "end": "20:27:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1427",
+    "date": "2025-02-05",
+    "start": "20:27:06",
+    "end": "20:27:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1428",
+    "date": "2025-02-05",
+    "start": "20:27:11",
+    "end": "20:27:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1429",
+    "date": "2025-02-05",
+    "start": "20:27:16",
+    "end": "20:27:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1430",
+    "date": "2025-02-05",
+    "start": "20:27:41",
+    "end": "20:27:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1431",
+    "date": "2025-02-05",
+    "start": "20:27:46",
+    "end": "20:27:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1432",
+    "date": "2025-02-05",
+    "start": "20:27:51",
+    "end": "20:27:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1433",
+    "date": "2025-02-05",
+    "start": "20:27:56",
+    "end": "20:29:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1434",
+    "date": "2025-02-05",
+    "start": "20:29:31",
+    "end": "20:29:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1435",
+    "date": "2025-02-05",
+    "start": "20:29:36",
+    "end": "20:29:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1436",
+    "date": "2025-02-05",
+    "start": "20:29:41",
+    "end": "20:29:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1437",
+    "date": "2025-02-05",
+    "start": "20:29:46",
+    "end": "20:29:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1438",
+    "date": "2025-02-05",
+    "start": "20:29:51",
+    "end": "20:29:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1439",
+    "date": "2025-02-05",
+    "start": "20:29:56",
+    "end": "20:30:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1440",
+    "date": "2025-02-05",
+    "start": "20:30:01",
+    "end": "20:30:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1441",
+    "date": "2025-02-05",
+    "start": "20:30:06",
+    "end": "20:30:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1442",
+    "date": "2025-02-05",
+    "start": "20:30:11",
+    "end": "20:30:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1443",
+    "date": "2025-02-05",
+    "start": "20:30:16",
+    "end": "20:30:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1444",
+    "date": "2025-02-05",
+    "start": "20:30:26",
+    "end": "20:30:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1445",
+    "date": "2025-02-05",
+    "start": "20:30:31",
+    "end": "20:30:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1446",
+    "date": "2025-02-05",
+    "start": "20:30:36",
+    "end": "20:30:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1447",
+    "date": "2025-02-05",
+    "start": "20:30:46",
+    "end": "20:30:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1448",
+    "date": "2025-02-05",
+    "start": "20:30:51",
+    "end": "20:30:56",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1449",
+    "date": "2025-02-05",
+    "start": "20:30:56",
+    "end": "20:31:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1450",
+    "date": "2025-02-05",
+    "start": "20:31:01",
+    "end": "20:31:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1451",
+    "date": "2025-02-05",
+    "start": "20:31:11",
+    "end": "20:31:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1452",
+    "date": "2025-02-05",
+    "start": "20:31:16",
+    "end": "20:31:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1453",
+    "date": "2025-02-05",
+    "start": "20:31:36",
+    "end": "20:31:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1454",
+    "date": "2025-02-05",
+    "start": "20:31:46",
+    "end": "20:32:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1455",
+    "date": "2025-02-05",
+    "start": "20:32:06",
+    "end": "20:32:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1456",
+    "date": "2025-02-05",
+    "start": "20:32:11",
+    "end": "20:34:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1457",
+    "date": "2025-02-05",
+    "start": "20:34:46",
+    "end": "20:34:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1458",
+    "date": "2025-02-05",
+    "start": "20:34:51",
+    "end": "20:34:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1459",
+    "date": "2025-02-05",
+    "start": "20:34:56",
+    "end": "20:35:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1460",
+    "date": "2025-02-05",
+    "start": "20:35:01",
+    "end": "20:35:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1461",
+    "date": "2025-02-05",
+    "start": "20:35:06",
+    "end": "20:35:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1462",
+    "date": "2025-02-05",
+    "start": "20:35:11",
+    "end": "20:35:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1463",
+    "date": "2025-02-05",
+    "start": "20:35:16",
+    "end": "20:35:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1464",
+    "date": "2025-02-05",
+    "start": "20:35:21",
+    "end": "20:35:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1465",
+    "date": "2025-02-05",
+    "start": "20:35:26",
+    "end": "20:35:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1466",
+    "date": "2025-02-05",
+    "start": "20:35:31",
+    "end": "20:35:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Amla Juice,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1467",
+    "date": "2025-02-05",
+    "start": "20:35:36",
+    "end": "20:35:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1468",
+    "date": "2025-02-05",
+    "start": "20:35:41",
+    "end": "20:35:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1469",
+    "date": "2025-02-05",
+    "start": "20:35:46",
+    "end": "20:35:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1470",
+    "date": "2025-02-05",
+    "start": "20:35:51",
+    "end": "20:35:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1471",
+    "date": "2025-02-05",
+    "start": "20:35:56",
+    "end": "20:36:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1472",
+    "date": "2025-02-05",
+    "start": "20:36:01",
+    "end": "20:36:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1473",
+    "date": "2025-02-05",
+    "start": "20:36:06",
+    "end": "20:36:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1474",
+    "date": "2025-02-05",
+    "start": "20:36:11",
+    "end": "20:36:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1475",
+    "date": "2025-02-05",
+    "start": "20:36:16",
+    "end": "20:36:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1476",
+    "date": "2025-02-05",
+    "start": "20:36:21",
+    "end": "20:36:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1477",
+    "date": "2025-02-05",
+    "start": "20:36:46",
+    "end": "20:36:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1478",
+    "date": "2025-02-05",
+    "start": "20:36:51",
+    "end": "20:36:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1479",
+    "date": "2025-02-05",
+    "start": "20:36:56",
+    "end": "20:37:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1480",
+    "date": "2025-02-05",
+    "start": "20:37:26",
+    "end": "20:37:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1481",
+    "date": "2025-02-05",
+    "start": "20:37:31",
+    "end": "20:37:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1482",
+    "date": "2025-02-05",
+    "start": "20:37:36",
+    "end": "20:37:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1483",
+    "date": "2025-02-05",
+    "start": "20:37:41",
+    "end": "20:37:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1484",
+    "date": "2025-02-05",
+    "start": "20:37:46",
+    "end": "20:37:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1485",
+    "date": "2025-02-05",
+    "start": "20:37:51",
+    "end": "20:37:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " LIC,Inusrance,Life insurace,Finance - Insurance",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1486",
+    "date": "2025-02-05",
+    "start": "20:37:56",
+    "end": "20:38:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1487",
+    "date": "2025-02-05",
+    "start": "20:38:01",
+    "end": "20:38:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1488",
+    "date": "2025-02-05",
+    "start": "20:38:11",
+    "end": "20:38:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1489",
+    "date": "2025-02-05",
+    "start": "20:38:16",
+    "end": "20:38:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1490",
+    "date": "2025-02-05",
+    "start": "20:38:21",
+    "end": "20:38:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1491",
+    "date": "2025-02-05",
+    "start": "20:38:26",
+    "end": "20:38:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bandhan Bank,Banking, ,Finance - Bank",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1492",
+    "date": "2025-02-05",
+    "start": "20:38:31",
+    "end": "20:38:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1493",
+    "date": "2025-02-05",
+    "start": "20:38:36",
+    "end": "20:38:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1494",
+    "date": "2025-02-05",
+    "start": "20:38:41",
+    "end": "20:38:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1495",
+    "date": "2025-02-05",
+    "start": "20:38:46",
+    "end": "20:38:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1496",
+    "date": "2025-02-05",
+    "start": "20:38:51",
+    "end": "20:38:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1497",
+    "date": "2025-02-05",
+    "start": "20:38:56",
+    "end": "20:39:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1498",
+    "date": "2025-02-05",
+    "start": "20:39:01",
+    "end": "20:39:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Darling,Vishal Bhardwaj & Usha Uthup & Rekha Bhardwaj,7 Khoon Maaf,2011,Sony Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1499",
+    "date": "2025-02-05",
+    "start": "20:39:06",
+    "end": "20:43:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1500",
+    "date": "2025-02-05",
+    "start": "20:43:41",
+    "end": "20:44:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1501",
+    "date": "2025-02-05",
+    "start": "20:44:16",
+    "end": "20:44:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1502",
+    "date": "2025-02-05",
+    "start": "20:44:21",
+    "end": "20:44:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1503",
+    "date": "2025-02-05",
+    "start": "20:44:26",
+    "end": "20:44:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1504",
+    "date": "2025-02-05",
+    "start": "20:44:31",
+    "end": "20:44:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1505",
+    "date": "2025-02-05",
+    "start": "20:44:36",
+    "end": "20:44:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1506",
+    "date": "2025-02-05",
+    "start": "20:44:41",
+    "end": "20:44:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1507",
+    "date": "2025-02-05",
+    "start": "20:44:46",
+    "end": "20:46:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1508",
+    "date": "2025-02-05",
+    "start": "20:46:16",
+    "end": "20:46:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1509",
+    "date": "2025-02-05",
+    "start": "20:46:26",
+    "end": "20:46:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1510",
+    "date": "2025-02-05",
+    "start": "20:46:36",
+    "end": "20:51:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1511",
+    "date": "2025-02-05",
+    "start": "20:51:11",
+    "end": "20:51:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1512",
+    "date": "2025-02-05",
+    "start": "20:51:16",
+    "end": "20:51:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1513",
+    "date": "2025-02-05",
+    "start": "20:51:21",
+    "end": "20:51:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1514",
+    "date": "2025-02-05",
+    "start": "20:51:26",
+    "end": "20:51:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1515",
+    "date": "2025-02-05",
+    "start": "20:51:31",
+    "end": "20:51:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1516",
+    "date": "2025-02-05",
+    "start": "20:51:36",
+    "end": "20:52:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1517",
+    "date": "2025-02-05",
+    "start": "20:52:01",
+    "end": "20:52:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1518",
+    "date": "2025-02-05",
+    "start": "20:52:06",
+    "end": "20:52:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1519",
+    "date": "2025-02-05",
+    "start": "20:52:11",
+    "end": "20:52:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1520",
+    "date": "2025-02-05",
+    "start": "20:52:16",
+    "end": "20:53:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1521",
+    "date": "2025-02-05",
+    "start": "20:53:16",
+    "end": "20:53:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Patanjali,FMCG,Chyavanprash,Food",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1522",
+    "date": "2025-02-05",
+    "start": "20:53:21",
+    "end": "20:53:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1523",
+    "date": "2025-02-05",
+    "start": "20:53:26",
+    "end": "20:54:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1524",
+    "date": "2025-02-05",
+    "start": "20:54:06",
+    "end": "20:54:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1525",
+    "date": "2025-02-05",
+    "start": "20:54:11",
+    "end": "20:54:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1526",
+    "date": "2025-02-05",
+    "start": "20:54:16",
+    "end": "20:54:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " FemCare Fertility,Healthcare,,Services - Medical",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1527",
+    "date": "2025-02-05",
+    "start": "20:54:21",
+    "end": "20:54:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1528",
+    "date": "2025-02-05",
+    "start": "20:54:26",
+    "end": "20:54:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1529",
+    "date": "2025-02-05",
+    "start": "20:54:51",
+    "end": "20:54:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1530",
+    "date": "2025-02-05",
+    "start": "20:54:56",
+    "end": "20:55:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1531",
+    "date": "2025-02-05",
+    "start": "20:55:01",
+    "end": "20:55:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1532",
+    "date": "2025-02-05",
+    "start": "20:55:11",
+    "end": "20:55:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1533",
+    "date": "2025-02-05",
+    "start": "20:55:16",
+    "end": "20:55:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1534",
+    "date": "2025-02-05",
+    "start": "20:55:21",
+    "end": "21:04:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1535",
+    "date": "2025-02-05",
+    "start": "21:04:26",
+    "end": "21:04:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1536",
+    "date": "2025-02-05",
+    "start": "21:04:31",
+    "end": "21:04:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1537",
+    "date": "2025-02-05",
+    "start": "21:04:36",
+    "end": "21:04:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1538",
+    "date": "2025-02-05",
+    "start": "21:04:41",
+    "end": "21:04:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1539",
+    "date": "2025-02-05",
+    "start": "21:04:46",
+    "end": "21:04:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1540",
+    "date": "2025-02-05",
+    "start": "21:04:51",
+    "end": "21:05:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1541",
+    "date": "2025-02-05",
+    "start": "21:05:01",
+    "end": "21:05:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1542",
+    "date": "2025-02-05",
+    "start": "21:05:06",
+    "end": "21:05:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1543",
+    "date": "2025-02-05",
+    "start": "21:05:11",
+    "end": "21:05:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1544",
+    "date": "2025-02-05",
+    "start": "21:05:16",
+    "end": "21:05:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1545",
+    "date": "2025-02-05",
+    "start": "21:05:21",
+    "end": "21:05:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1546",
+    "date": "2025-02-05",
+    "start": "21:05:36",
+    "end": "21:06:01",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1547",
+    "date": "2025-02-05",
+    "start": "21:06:01",
+    "end": "21:06:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1548",
+    "date": "2025-02-05",
+    "start": "21:06:16",
+    "end": "21:06:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1549",
+    "date": "2025-02-05",
+    "start": "21:06:26",
+    "end": "21:06:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1550",
+    "date": "2025-02-05",
+    "start": "21:06:31",
+    "end": "21:06:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1551",
+    "date": "2025-02-05",
+    "start": "21:06:36",
+    "end": "21:06:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1552",
+    "date": "2025-02-05",
+    "start": "21:06:46",
+    "end": "21:07:16",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1553",
+    "date": "2025-02-05",
+    "start": "21:07:16",
+    "end": "21:07:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1554",
+    "date": "2025-02-05",
+    "start": "21:07:46",
+    "end": "21:07:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1555",
+    "date": "2025-02-05",
+    "start": "21:07:51",
+    "end": "21:07:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1556",
+    "date": "2025-02-05",
+    "start": "21:07:56",
+    "end": "21:10:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1557",
+    "date": "2025-02-05",
+    "start": "21:10:51",
+    "end": "21:10:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Bharati Hospital,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1558",
+    "date": "2025-02-05",
+    "start": "21:10:56",
+    "end": "21:11:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1559",
+    "date": "2025-02-05",
+    "start": "21:11:01",
+    "end": "21:11:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1560",
+    "date": "2025-02-05",
+    "start": "21:11:06",
+    "end": "21:11:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Maharashtra Natural Gas Ltd,Public Works,,Services - Gas",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1561",
+    "date": "2025-02-05",
+    "start": "21:11:11",
+    "end": "21:11:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1562",
+    "date": "2025-02-05",
+    "start": "21:11:16",
+    "end": "21:11:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1563",
+    "date": "2025-02-05",
+    "start": "21:11:51",
+    "end": "21:11:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1564",
+    "date": "2025-02-05",
+    "start": "21:11:56",
+    "end": "21:12:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Hotel Shauryawada,Food and Beverage,,Hotels and Restaurants",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1565",
+    "date": "2025-02-05",
+    "start": "21:12:01",
+    "end": "21:12:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1566",
+    "date": "2025-02-05",
+    "start": "21:12:06",
+    "end": "21:12:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1567",
+    "date": "2025-02-05",
+    "start": "21:12:31",
+    "end": "21:12:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1568",
+    "date": "2025-02-05",
+    "start": "21:12:36",
+    "end": "21:12:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " MOC Cancer Centre,Healthcare,Cancer Day Awareness,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1569",
+    "date": "2025-02-05",
+    "start": "21:12:41",
+    "end": "21:12:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1570",
+    "date": "2025-02-05",
+    "start": "21:12:46",
+    "end": "21:12:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1571",
+    "date": "2025-02-05",
+    "start": "21:12:51",
+    "end": "21:12:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1572",
+    "date": "2025-02-05",
+    "start": "21:12:56",
+    "end": "21:13:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1573",
+    "date": "2025-02-05",
+    "start": "21:13:01",
+    "end": "21:13:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1574",
+    "date": "2025-02-05",
+    "start": "21:13:06",
+    "end": "21:13:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1575",
+    "date": "2025-02-05",
+    "start": "21:13:11",
+    "end": "21:13:16",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " VSG,Real Estate,Legacy One,Property - Commercial",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1576",
+    "date": "2025-02-05",
+    "start": "21:13:16",
+    "end": "21:13:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dhak Dhuk,Amit Trivedi,English Vinglish,2012,T-Series & Eros Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1577",
+    "date": "2025-02-05",
+    "start": "21:13:21",
+    "end": "21:17:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Dhak Dhuk,Amit Trivedi,English Vinglish,2012,T-Series & Eros Music,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1578",
+    "date": "2025-02-05",
+    "start": "21:17:06",
+    "end": "21:17:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1579",
+    "date": "2025-02-05",
+    "start": "21:17:31",
+    "end": "21:18:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1580",
+    "date": "2025-02-05",
+    "start": "21:18:11",
+    "end": "21:18:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1581",
+    "date": "2025-02-05",
+    "start": "21:18:21",
+    "end": "21:18:26",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1582",
+    "date": "2025-02-05",
+    "start": "21:18:26",
+    "end": "21:18:31",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1583",
+    "date": "2025-02-05",
+    "start": "21:18:31",
+    "end": "21:18:41",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1584",
+    "date": "2025-02-05",
+    "start": "21:18:41",
+    "end": "21:18:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1585",
+    "date": "2025-02-05",
+    "start": "21:18:46",
+    "end": "21:19:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Sahiba,Priya Saraiya and Aditya Sharma and Jasleen Royal and Stebin Ben and Vijay Deverakonda and Radhikka Madan,Sahiba,2024,Warner Music Group,Bollywood",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1586",
+    "date": "2025-02-05",
+    "start": "21:19:06",
+    "end": "21:19:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1587",
+    "date": "2025-02-05",
+    "start": "21:19:21",
+    "end": "21:19:36",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1588",
+    "date": "2025-02-05",
+    "start": "21:19:36",
+    "end": "21:19:46",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1589",
+    "date": "2025-02-05",
+    "start": "21:19:46",
+    "end": "21:19:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1590",
+    "date": "2025-02-05",
+    "start": "21:19:51",
+    "end": "21:20:06",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1591",
+    "date": "2025-02-05",
+    "start": "21:20:06",
+    "end": "21:20:11",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1592",
+    "date": "2025-02-05",
+    "start": "21:20:11",
+    "end": "21:20:21",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
+    "channel": "Red FM",
+    "id": "REDFM-SONG-1593",
+    "date": "2025-02-05",
+    "start": "21:20:21",
+    "end": "21:20:51",
+    "type": "song",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1594",
+    "date": "2025-02-05",
+    "start": "21:20:51",
+    "end": "21:22:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1595",
+    "date": "2025-02-05",
+    "start": "21:22:51",
+    "end": "21:22:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1596",
+    "date": "2025-02-05",
+    "start": "21:22:56",
+    "end": "21:23:01",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1597",
+    "date": "2025-02-05",
+    "start": "21:23:01",
+    "end": "21:23:06",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1598",
+    "date": "2025-02-05",
+    "start": "21:23:06",
+    "end": "21:23:11",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1599",
+    "date": "2025-02-05",
+    "start": "21:23:11",
+    "end": "21:23:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1600",
+    "date": "2025-02-05",
+    "start": "21:23:21",
+    "end": "21:23:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1601",
+    "date": "2025-02-05",
+    "start": "21:23:26",
+    "end": "21:23:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1602",
+    "date": "2025-02-05",
+    "start": "21:23:31",
+    "end": "21:23:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1603",
+    "date": "2025-02-05",
+    "start": "21:23:36",
+    "end": "21:23:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Deshpande Eye and Laser Centre,Healthcare,,Services - Health",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1604",
+    "date": "2025-02-05",
+    "start": "21:23:41",
+    "end": "21:23:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1605",
+    "date": "2025-02-05",
+    "start": "21:23:46",
+    "end": "21:24:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1606",
+    "date": "2025-02-05",
+    "start": "21:24:41",
+    "end": "21:24:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1607",
+    "date": "2025-02-05",
+    "start": "21:24:46",
+    "end": "21:24:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Godrej,Real Estate,Park Springs,Property - Hosuing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1608",
+    "date": "2025-02-05",
+    "start": "21:24:51",
+    "end": "21:24:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1609",
+    "date": "2025-02-05",
+    "start": "21:24:56",
+    "end": "21:25:21",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1610",
+    "date": "2025-02-05",
+    "start": "21:25:21",
+    "end": "21:25:26",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1611",
+    "date": "2025-02-05",
+    "start": "21:25:26",
+    "end": "21:25:31",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1612",
+    "date": "2025-02-05",
+    "start": "21:25:31",
+    "end": "21:25:36",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1613",
+    "date": "2025-02-05",
+    "start": "21:25:36",
+    "end": "21:25:41",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1614",
+    "date": "2025-02-05",
+    "start": "21:25:41",
+    "end": "21:25:46",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Badhekar Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1615",
+    "date": "2025-02-05",
+    "start": "21:25:46",
+    "end": "21:25:51",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
+  },
+  {
+    "program": " Kohinoor Group,Real Estate,,Property - Housing",
+    "channel": "Red FM",
+    "id": "REDFM-AD-1616",
+    "date": "2025-02-05",
+    "start": "21:25:51",
+    "end": "21:29:56",
+    "type": "ad",
+    "audio": "/sounds/radio.mp3"
   }
+
 ];
-
-
 
 export const timeToSeconds = (time) => {
   const [hh, mm, ss] = time.split(":").map(Number);
   return hh * 3600 + mm * 60 + ss;
+};
+
+export const timeToMinutes = (time) => {
+  const [hours, minutes, seconds] = time.split(":").map(Number);
+  return hours * 60 + minutes + seconds / 60;
+};
+
+export const secondsToTime = (seconds) => {
+  const hh = String(Math.floor(seconds / 3600)).padStart(2, '0');
+  const mm = String(Math.floor((seconds % 3600) / 60)).padStart(2, '0');
+  const ss = String(seconds % 60).padStart(2, '0');
+  return `${hh}:${mm}:${ss}`;
+};
+
+export const findAndFillGaps = (merged) => {
+  const gapsToFill = [];
+  let uniqueIdCounter = 1;
+
+  for (let i = 0; i < merged.length - 1; i++) {
+    const currentProgram = merged[i];
+    const nextProgram = merged[i + 1];
+
+    // Check for meaningful gaps
+    const currentEndSeconds = timeToSeconds(currentProgram.end);
+    const nextStartSeconds = timeToSeconds(nextProgram.start);
+    const gapDuration = nextStartSeconds - currentEndSeconds;
+
+    // Detect gaps longer than 30 seconds (adjust as needed)
+    if (gapDuration > 3) { 
+      gapsToFill.push({
+        id: `not-detected-${uniqueIdCounter++}`,
+        channel: currentProgram.channel,
+        date: currentProgram.date,
+        start: currentProgram.end,
+        end: nextProgram.start,
+        program: "Not Detected",
+        type: "not detected"
+      });
+    }
+  }
+
+  return gapsToFill;
 };
 
 export const mergeAdjacentPrograms = (data) => {
@@ -22065,30 +38271,77 @@ export const mergeAdjacentPrograms = (data) => {
       merged.push({ ...data[i] });
       continue;
     }
-
     const lastProgram = merged[merged.length - 1];
+    
+    // Existing merging logic for similar programs
     if (
       lastProgram.channel === data[i].channel &&
       lastProgram.program === data[i].program &&
       lastProgram.date === data[i].date &&
       lastProgram.type === data[i].type &&
-      timeToSeconds(lastProgram.end) === timeToSeconds(data[i].start)
+      timeToMinutes(lastProgram.end) === timeToMinutes(data[i].start)
     ) {
-      // Merge programs
       lastProgram.end = data[i].end;
       lastProgram.id = `${lastProgram.id},${data[i].id}`;
     } else {
       merged.push({ ...data[i] });
     }
   }
-  return merged;
+
+  // Ad and program merging logic
+  for (let i = 0; i < merged.length - 1; i++) {
+    const currentProgram = merged[i];
+    const nextProgram = merged[i + 1];
+    
+    // Long ad removal
+    if (nextProgram.type === "ad") {
+      const adStartTime = timeToSeconds(nextProgram.start);
+      const adEndTime = timeToSeconds(nextProgram.end);
+      
+      if (adEndTime - adStartTime > 100) {
+        const adjustedStartTime = timeToSeconds(merged[i + 2]?.end || merged[i].end) - 5;
+        if (i + 2 < merged.length) {
+          merged[i + 2].start = secondsToTime(adjustedStartTime);
+        }
+        merged.splice(i + 1, 1);
+      }
+    }
+    
+    // Song-Ad-Song merging
+    if (
+      merged[i].type === "song" &&
+      merged[i + 1]?.type === "ad" &&
+      merged[i + 2]?.type === "song" &&
+      merged[i].program === merged[i + 2].program
+    ) {
+      const adStartTime = timeToSeconds(merged[i + 1].start);
+      const adEndTime = timeToSeconds(merged[i + 1].end);
+      
+      if (adEndTime - adStartTime > 100) {
+        const adjustedStartTime = timeToSeconds(merged[i + 2].end) - 5;
+        merged[i + 2].start = secondsToTime(adjustedStartTime);
+        continue;
+      }
+      
+      merged[i].end = merged[i + 2].end;
+      merged.splice(i + 1, 2);
+      
+      if (i + 1 < merged.length) {
+        const adjustedStartTime = timeToSeconds(merged[i + 1].end) - 15;
+        merged[i + 1].start = secondsToTime(adjustedStartTime);
+      }
+    }
+  }
+
+  // Find and add gaps
+  const gapsToFill = findAndFillGaps(merged);
+  
+  // Combine merged data with gaps and sort
+  return [...merged, ...gapsToFill].sort((a, b) => {
+    const dateComparison = new Date(a.date) - new Date(b.date);
+    if (dateComparison !== 0) return dateComparison;
+    return timeToSeconds(a.start) - timeToSeconds(b.start);
+  });
 };
 
-
-export const timeToMinutes = (time) => {
-  const [hours, minutes, seconds] = time.split(":").map(Number)
-  return hours * 60 + minutes + seconds / 60
-}
-
-export const processedEpgData = mergeAdjacentPrograms(epgData)
-
+export const processedEpgData = mergeAdjacentPrograms(epgData);
