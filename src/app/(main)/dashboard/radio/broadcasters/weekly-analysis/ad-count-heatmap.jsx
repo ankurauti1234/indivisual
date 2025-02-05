@@ -170,7 +170,7 @@ const data = {
   const getColor = (value) => {
     if (!value) return "rgb(244, 245, 247)";
     const normalizedValue = (value - min) / (max - min);
-    return `rgba(0, 100, 255, ${0.2 + normalizedValue * 0.5})`; // Apple Blue with variable opacity
+    return `rgba(242, 100, 50, ${0.2 + normalizedValue * 0.5})`; // Apple Blue with variable opacity
   };
 
   const hours = Array.from(
@@ -209,7 +209,7 @@ const data = {
 
       <CardContent>
         <div className="w-full overflow-x-auto">
-          <div className="min-w-[800px]">
+          <div className="min-w-7xl">
             <div
               className="grid gap-px bg-gray-100"
               style={{
@@ -239,7 +239,7 @@ const data = {
             {matrix.map((row, idx) => (
               <div
                 key={idx}
-                className="grid gap-px bg-gray-100"
+                className="grid"
                 style={{
                   gridTemplateColumns: "auto repeat(24, minmax(40px, 1fr))",
                 }}
@@ -247,7 +247,7 @@ const data = {
                 onMouseLeave={() => setHoveredRow(null)}
               >
                 <div
-                  className={`py-4 font-medium w-32 p-3 bg-gray-50/80 text-sm transition-colors ${
+                  className={`py-4 font-medium w-32 h-16 p-3 bg-gray-50/80 text-sm transition-colors ${
                     hoveredRow === idx ? "text-primary" : ""
                   }`}
                 >
@@ -262,13 +262,11 @@ const data = {
                     }}
                   >
                     <div
-                      className={`w-full h-full p-2 text-center transition-all duration-200 ${
-                        hoveredRow === idx ? "scale-105" : ""
-                      }`}
+                      className={`w-full h-full p-2 text-center transition-all duration-200`}
                     >
                       <span className="text-xs font-medium">{row[hour]}</span>
                     </div>
-                    <div className="absolute -top-8 left-1/2 -translate-x-1/2 bg-gray-800 text-white text-xs py-1 px-2 rounded-md opacity-0 group-hover:opacity-100 transition-opacity">
+                    <div className="absolute -top-8 left-1/2  w-20 h-fit z-50 -translate-x-1/2 bg-gray-800 text-white text-xs py-1 px-2 rounded-md opacity-0 group-hover:opacity-100 transition-opacity">
                       {`${row.station}: ${row[hour]} ads`}
                     </div>
                   </div>
@@ -281,7 +279,7 @@ const data = {
             <div className="flex items-center gap-3 bg-gray-50/50 rounded-xl p-3">
               <div className="flex items-center gap-2">
                 <div className="text-sm text-gray-600">Frequency:</div>
-                <div className="h-4 w-32 rounded-md bg-gradient-to-r from-[rgba(0,122,255,0.2)] to-[rgba(0,122,255,1)]" />
+                <div className="h-4 w-96 rounded-md bg-gradient-to-r from-[#F2643022] to-[#F26430]" />
                 <div className="text-sm text-gray-600">Higher</div>
               </div>
             </div>

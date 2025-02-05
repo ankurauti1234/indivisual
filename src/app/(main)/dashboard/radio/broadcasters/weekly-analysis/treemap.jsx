@@ -1,246 +1,609 @@
 import React, { useState } from "react";
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { Treemap, ResponsiveContainer, Tooltip } from "recharts";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
-import { Radio, Info } from "lucide-react";
+import { ArrowLeft, Tv } from "lucide-react";
+import ChartCard from "@/components/card/charts-card";
+import { Button } from "@/components/ui/button";
 
-const AppleStyleTreemap = () => {
-  const [selectedStation, setSelectedStation] = useState("1");
+const TVChannelTreemap = () => {
+  const [selectedChannel, setSelectedChannel] = useState(null);
+  const [selectedSector, setSelectedSector] = useState(null);
+  const [selectedCategory, setSelectedCategory] = useState(null);
   const [hoveredItem, setHoveredItem] = useState(null);
 
-  const vibrantColors = [
-    "#FF3B30", // Red
-    "#5856D6", // Purple
-    "#FF9500", // Orange
-    "#34C759", // Green
-    "#007AFF", // Blue
-    "#AF52DE", // Magenta
-    "#5AC8FA", // Light Blue
-    "#FFCC00", // Yellow
-    "#FF2D55", // Pink
-    "#4CD964", // Lime
-  ];
+const mockData = {
+  "Radio City": {
+    color: "#FF6B6B",
+    share: 20,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 30,
+        categories: {
+          "Instant Noodles": {
+            share: 40,
+            brands: [
+              { name: "Wai Wai", share: 45 },
+              { name: "2PM", share: 35 },
+              { name: "Rara", share: 20 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 60,
+            brands: [
+              { name: "Coca Cola", share: 50 },
+              { name: "Pepsi", share: 35 },
+              { name: "Fanta", share: 15 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 25,
+        categories: {
+          "Mobile Services": {
+            share: 60,
+            brands: [
+              { name: "Ncell", share: 55 },
+              { name: "NTC", share: 45 },
+            ],
+          },
+          "Internet Services": {
+            share: 40,
+            brands: [
+              { name: "WorldLink", share: 60 },
+              { name: "Vianet", share: 40 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 15,
+        categories: {
+          "Personal Banking": {
+            share: 60,
+            brands: [
+              { name: "NIC Asia", share: 55 },
+              { name: "Global IME", share: 45 },
+            ],
+          },
+          "Credit Cards": {
+            share: 40,
+            brands: [
+              { name: "Nabil Bank", share: 60 },
+              { name: "Standard Chartered", share: 40 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 30,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 60 },
+              { name: "P&G", share: 40 },
+            ],
+          },
+        },
+      },
+    },
+  },
+  "Radio Mirchi": {
+    color: "#2ECC71",
+    share: 18,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 28,
+        categories: {
+          "Instant Noodles": {
+            share: 45,
+            brands: [
+              { name: "Wai Wai", share: 50 },
+              { name: "2PM", share: 30 },
+              { name: "Rara", share: 20 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 55,
+            brands: [
+              { name: "Coca Cola", share: 45 },
+              { name: "Pepsi", share: 40 },
+              { name: "Fanta", share: 15 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 27,
+        categories: {
+          "Mobile Services": {
+            share: 55,
+            brands: [
+              { name: "Ncell", share: 52 },
+              { name: "NTC", share: 48 },
+            ],
+          },
+          "Internet Services": {
+            share: 45,
+            brands: [
+              { name: "WorldLink", share: 55 },
+              { name: "Vianet", share: 45 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 65,
+            brands: [
+              { name: "NIC Asia", share: 52 },
+              { name: "Global IME", share: 48 },
+            ],
+          },
+          "Credit Cards": {
+            share: 35,
+            brands: [
+              { name: "Nabil Bank", share: 58 },
+              { name: "Standard Chartered", share: 42 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 55 },
+              { name: "P&G", share: 45 },
+            ],
+          },
+        },
+      },
+    },
+  },
+  "Big FM": {
+    color: "#E74C3C",
+    share: 15,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 35,
+        categories: {
+          "Instant Noodles": {
+            share: 50,
+            brands: [
+              { name: "Wai Wai", share: 40 },
+              { name: "2PM", share: 40 },
+              { name: "Rara", share: 20 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 50,
+            brands: [
+              { name: "Coca Cola", share: 40 },
+              { name: "Pepsi", share: 40 },
+              { name: "Fanta", share: 20 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 20,
+        categories: {
+          "Mobile Services": {
+            share: 70,
+            brands: [
+              { name: "Ncell", share: 50 },
+              { name: "NTC", share: 50 },
+            ],
+          },
+          "Internet Services": {
+            share: 30,
+            brands: [
+              { name: "WorldLink", share: 65 },
+              { name: "Vianet", share: 35 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 70,
+            brands: [
+              { name: "NIC Asia", share: 50 },
+              { name: "Global IME", share: 50 },
+            ],
+          },
+          "Credit Cards": {
+            share: 30,
+            brands: [
+              { name: "Nabil Bank", share: 55 },
+              { name: "Standard Chartered", share: 45 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 50 },
+              { name: "P&G", share: 50 },
+            ],
+          },
+        },
+      },
+    },
+  },
+  "Red FM": {
+    color: "#3498DB",
+    share: 12,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 25,
+        categories: {
+          "Instant Noodles": {
+            share: 40,
+            brands: [
+              { name: "Wai Wai", share: 45 },
+              { name: "2PM", share: 35 },
+              { name: "Rara", share: 20 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 60,
+            brands: [
+              { name: "Coca Cola", share: 45 },
+              { name: "Pepsi", share: 35 },
+              { name: "Fanta", share: 20 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 30,
+        categories: {
+          "Mobile Services": {
+            share: 65,
+            brands: [
+              { name: "Ncell", share: 55 },
+              { name: "NTC", share: 45 },
+            ],
+          },
+          "Internet Services": {
+            share: 35,
+            brands: [
+              { name: "WorldLink", share: 60 },
+              { name: "Vianet", share: 40 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 60,
+            brands: [
+              { name: "NIC Asia", share: 55 },
+              { name: "Global IME", share: 45 },
+            ],
+          },
+          "Credit Cards": {
+            share: 40,
+            brands: [
+              { name: "Nabil Bank", share: 60 },
+              { name: "Standard Chartered", share: 40 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 55 },
+              { name: "P&G", share: 45 },
+            ],
+          },
+        },
+      },
+    },
+  },
+  "Radio One": {
+    color: "#1ABC9C",
+    share: 10,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 35,
+        categories: {
+          "Instant Noodles": {
+            share: 50,
+            brands: [
+              { name: "Wai Wai", share: 45 },
+              { name: "2PM", share: 30 },
+              { name: "Rara", share: 25 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 50,
+            brands: [
+              { name: "Coca Cola", share: 45 },
+              { name: "Pepsi", share: 35 },
+              { name: "Fanta", share: 20 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 20,
+        categories: {
+          "Mobile Services": {
+            share: 70,
+            brands: [
+              { name: "Ncell", share: 55 },
+              { name: "NTC", share: 45 },
+            ],
+          },
+          "Internet Services": {
+            share: 30,
+            brands: [
+              { name: "WorldLink", share: 60 },
+              { name: "Vianet", share: 40 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 60,
+            brands: [
+              { name: "NIC Asia", share: 55 },
+              { name: "Global IME", share: 45 },
+            ],
+          },
+          "Credit Cards": {
+            share: 40,
+            brands: [
+              { name: "Nabil Bank", share: 60 },
+              { name: "Standard Chartered", share: 40 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 55 },
+              { name: "P&G", share: 45 },
+            ],
+          },
+        },
+      },
+    },
+  },
+  "Mango FM": {
+    color: "#34495E",
+    share: 8,
+    sectors: {
+      "Food & Beverages": {
+        color: "#4ECDC4",
+        share: 30,
+        categories: {
+          "Instant Noodles": {
+            share: 45,
+            brands: [
+              { name: "Wai Wai", share: 40 },
+              { name: "2PM", share: 35 },
+              { name: "Rara", share: 25 },
+            ],
+          },
+          "Soft Drinks": {
+            share: 55,
+            brands: [
+              { name: "Coca Cola", share: 45 },
+              { name: "Pepsi", share: 35 },
+              { name: "Fanta", share: 20 },
+            ],
+          },
+        },
+      },
+      Telecommunications: {
+        color: "#9B59B6",
+        share: 25,
+        categories: {
+          "Mobile Services": {
+            share: 65,
+            brands: [
+              { name: "Ncell", share: 50 },
+              { name: "NTC", share: 50 },
+            ],
+          },
+          "Internet Services": {
+            share: 35,
+            brands: [
+              { name: "WorldLink", share: 55 },
+              { name: "Vianet", share: 45 },
+            ],
+          },
+        },
+      },
+      Banking: {
+        color: "#3498DB",
+        share: 25,
+        categories: {
+          "Personal Banking": {
+            share: 70,
+            brands: [
+              { name: "NIC Asia", share: 50 },
+              { name: "Global IME", share: 50 },
+            ],
+          },
+          "Credit Cards": {
+            share: 30,
+            brands: [
+              { name: "Nabil Bank", share: 55 },
+              { name: "Standard Chartered", share: 45 },
+            ],
+          },
+        },
+      },
+      FMCG: {
+        color: "#F1C40F",
+        share: 20,
+        categories: {
+          "Personal Care": {
+            share: 100,
+            brands: [
+              { name: "Unilever", share: 55 },
+              { name: "P&G", share: 45 },
+            ],
+          },
+        },
+      },
+    },
+  },
+};
 
-  const stations = [
-    { id: "1", name: "Radio City FM" },
-    { id: "2", name: "Radio Mirchi" },
-    { id: "3", name: "Red FM" },
-    { id: "4", name: "Big FM" },
-    { id: "5", name: "Rainbow FM" },
-  ];
-
-  // Enhanced station data with new colors
-  const stationData = {
-    1: {
-      name: "Radio City FM",
-      children: [
-        {
-          name: "Automotive",
-          size: 35,
-          fill: vibrantColors[0],
-          brands: ["Maruti Suzuki", "Hyundai", "Tata Motors", "Mahindra"],
-        },
-        {
-          name: "FMCG",
-          size: 28,
-          fill: vibrantColors[1],
-          brands: ["Hindustan Unilever", "Nestle", "ITC", "Dabur"],
-        },
-        {
-          name: "Telecom",
-          size: 22,
-          fill: vibrantColors[2],
-          brands: ["Airtel", "Jio", "Vodafone Idea", "BSNL"],
-        },
-        {
-          name: "E-commerce",
-          size: 18,
-          fill: vibrantColors[3],
-          brands: ["Amazon", "Flipkart", "Myntra", "Snapdeal"],
-        },
-        {
-          name: "Banking",
-          size: 25,
-          fill: vibrantColors[4],
-          brands: ["HDFC Bank", "ICICI Bank", "SBI", "Axis Bank"],
-        },
-      ],
-    },
-    2: {
-      name: "Capital Radio",
-      children: [
-        {
-          name: "Entertainment",
-          size: 30,
-          fill: vibrantColors[0],
-          brands: ["Netflix", "Amazon Prime", "Disney+", "Sony"],
-        },
-        {
-          name: "Fashion",
-          size: 25,
-          fill: vibrantColors[1],
-          brands: ["H&M", "Zara", "Uniqlo", "Nike"],
-        },
-        {
-          name: "Food & Beverage",
-          size: 20,
-          fill: vibrantColors[2],
-          brands: ["Coca-Cola", "PepsiCo", "McDonald's", "KFC"],
-        },
-        {
-          name: "Technology",
-          size: 15,
-          fill: vibrantColors[3],
-          brands: ["Apple", "Samsung", "OnePlus", "Dell"],
-        },
-        {
-          name: "Insurance",
-          size: 10,
-          fill: vibrantColors[4],
-          brands: ["LIC", "HDFC Life", "Max Life", "SBI Life"],
-        },
-      ],
-    },
-    3: {
-      name: "Wave FM",
-      children: [
-        {
-          name: "Sports",
-          size: 28,
-          fill: vibrantColors[0],
-          brands: ["Nike", "Adidas", "Puma", "Under Armour"],
-        },
-        {
-          name: "Beauty",
-          size: 22,
-          fill: vibrantColors[1],
-          brands: ["L'Oreal", "Maybelline", "MAC", "Lakme"],
-        },
-        {
-          name: "Healthcare",
-          size: 18,
-          fill: vibrantColors[2],
-          brands: ["Apollo", "Fortis", "Max Healthcare", "Cipla"],
-        },
-        {
-          name: "Education",
-          size: 20,
-          fill: vibrantColors[3],
-          brands: ["Byju's", "Unacademy", "Coursera", "Udemy"],
-        },
-        {
-          name: "Real Estate",
-          size: 12,
-          fill: vibrantColors[4],
-          brands: ["DLF", "Godrej Properties", "Prestige", "Lodha"],
-        },
-      ],
-    },
-    4: {
-      name: "Melody 90.4",
-      children: [
-        {
-          name: "Travel",
-          size: 25,
-          fill: vibrantColors[0],
-          brands: ["MakeMyTrip", "Yatra", "Airbnb", "IRCTC"],
-        },
-        {
-          name: "Jewelry",
-          size: 20,
-          fill: vibrantColors[1],
-          brands: ["Tanishq", "Kalyan", "CaratLane", "Malabar Gold"],
-        },
-        {
-          name: "Home Decor",
-          size: 15,
-          fill: vibrantColors[2],
-          brands: ["IKEA", "Home Centre", "Urban Ladder", "Pepperfry"],
-        },
-        {
-          name: "Electronics",
-          size: 22,
-          fill: vibrantColors[3],
-          brands: ["Croma", "Reliance Digital", "Vijay Sales", "Amazon"],
-        },
-        {
-          name: "Fitness",
-          size: 18,
-          fill: vibrantColors[4],
-          brands: ["Cult.fit", "Decathlon", "Gold's Gym", "Fitbit"],
-        },
-      ],
-    },
-    5: {
-      name: "Rhythm Radio",
-      children: [
-        {
-          name: "Gaming",
-          size: 24,
-          fill: vibrantColors[0],
-          brands: ["PlayStation", "Xbox", "Nintendo", "EA Sports"],
-        },
-        {
-          name: "Streaming",
-          size: 28,
-          fill: vibrantColors[1],
-          brands: ["Spotify", "Gaana", "JioSaavn", "Amazon Music"],
-        },
-        {
-          name: "Food Delivery",
-          size: 20,
-          fill: vibrantColors[2],
-          brands: ["Zomato", "Swiggy", "Domino's", "Pizza Hut"],
-        },
-        {
-          name: "Airlines",
-          size: 16,
-          fill: vibrantColors[3],
-          brands: ["IndiGo", "Air India", "SpiceJet", "Vistara"],
-        },
-        {
-          name: "Digital Payments",
-          size: 12,
-          fill: vibrantColors[4],
-          brands: ["Paytm", "PhonePe", "Google Pay", "Amazon Pay"],
-        },
-      ],
-    },
+  const getCurrentLevel = () => {
+    if (selectedCategory) return "brands";
+    if (selectedSector) return "categories";
+    if (selectedChannel) return "sectors";
+    return "channels";
   };
 
-  const CustomizedContent = (props) => {
-    const { x, y, width, height, name, size, fill } = props;
+  const getTitle = () => {
+    if (selectedCategory) {
+      return `${selectedCategory} Brands Share`;
+    }
+    if (selectedSector) {
+      return `${selectedSector} Categories Share`;
+    }
+    if (selectedChannel) {
+      return `${selectedChannel} Sectors Share`;
+    }
+    return "Radio ADs Share";
+  };
+
+  const getData = () => {
+    if (selectedCategory) {
+      return mockData[selectedChannel].sectors[selectedSector].categories[
+        selectedCategory
+      ].brands.map((brand) => ({
+        name: brand.name,
+        size: brand.share,
+        color: mockData[selectedChannel].sectors[selectedSector].color,
+      }));
+    }
+    if (selectedSector) {
+      return Object.entries(
+        mockData[selectedChannel].sectors[selectedSector].categories
+      ).map(([name, data]) => ({
+        name,
+        size: data.share,
+        color: mockData[selectedChannel].sectors[selectedSector].color,
+      }));
+    }
+    if (selectedChannel) {
+      return Object.entries(mockData[selectedChannel].sectors).map(
+        ([name, data]) => ({
+          name,
+          size: data.share,
+          color: data.color,
+        })
+      );
+    }
+    return Object.entries(mockData).map(([name, data]) => ({
+      name,
+      size: data.share,
+      color: data.color,
+    }));
+  };
+
+  const handleClick = (name) => {
+    const level = getCurrentLevel();
+    if (level === "channels") {
+      setSelectedChannel(name);
+    } else if (level === "sectors") {
+      setSelectedSector(name);
+    } else if (level === "categories") {
+      setSelectedCategory(name);
+    }
+  };
+
+  const handleBack = () => {
+    if (selectedCategory) {
+      setSelectedCategory(null);
+    } else if (selectedSector) {
+      setSelectedSector(null);
+    } else if (selectedChannel) {
+      setSelectedChannel(null);
+    }
+  };
+
+  const CustomizedContent = ({ x, y, width, height, name, color }) => {
     const isHovered = hoveredItem === name;
+    const display = width > 50 && height > 50;
+    const level = getCurrentLevel();
 
     return (
       <g
         onMouseEnter={() => setHoveredItem(name)}
         onMouseLeave={() => setHoveredItem(null)}
+        onClick={() => level !== "brands" && handleClick(name)}
+        style={{ cursor: level !== "brands" ? "pointer" : "default" }}
       >
         <rect
           x={x}
           y={y}
           width={width}
           height={height}
-          fill={fill}
+          fill={color}
           opacity={isHovered ? 0.8 : 1}
           style={{
             transition: "all 0.3s ease",
-            cursor: "pointer",
             filter: isHovered ? "brightness(1.1)" : "none",
           }}
           rx={8}
           ry={8}
           stroke="white"
-          strokeWidth={3}
+          strokeWidth={2}
         />
-        {width > 50 && height > 50 && (
+        {display && (
           <text
             x={x + width / 2}
             y={y + height / 2}
@@ -265,7 +628,7 @@ const AppleStyleTreemap = () => {
                 fontWeight: "400",
               }}
             >
-              {`${size} Ads`}
+              {((width * height) / 5000).toFixed(1)}%
             </tspan>
           </text>
         )}
@@ -275,31 +638,18 @@ const AppleStyleTreemap = () => {
 
   const CustomTooltip = ({ active, payload }) => {
     if (active && payload && payload.length) {
-      const industry = payload[0].payload;
+      const data = payload[0].payload;
       return (
         <div className="backdrop-blur-xl bg-white/90 p-4 rounded-2xl shadow-lg border border-gray-200">
           <div className="flex items-center gap-2 mb-2">
             <div
               className="w-3 h-3 rounded-full"
-              style={{ backgroundColor: industry.fill }}
+              style={{ backgroundColor: data.color }}
             />
-            <h3 className="font-semibold text-lg">{industry.name}</h3>
+            <h3 className="font-semibold text-lg">{data.name}</h3>
           </div>
-          <p className="text-sm text-gray-600 mb-3">
-            Number of Ads: {industry.size}
-          </p>
           <div className="space-y-2">
-            <p className="font-medium text-sm">Top Brands:</p>
-            <div className="grid grid-cols-2 gap-2">
-              {industry.brands.map((brand, index) => (
-                <div
-                  key={index}
-                  className="bg-gray-50/80 px-3 py-2 rounded-xl text-sm"
-                >
-                  {brand}
-                </div>
-              ))}
-            </div>
+            <p className="text-sm text-gray-600">Market Share: {data.size}%</p>
           </div>
         </div>
       );
@@ -307,72 +657,104 @@ const AppleStyleTreemap = () => {
     return null;
   };
 
-  const currentStation = stationData[selectedStation];
-
   return (
-    <Card className="w-full bg-gradient-to-br from-gray-50 to-gray-100">
-      <CardHeader className="pb-4">
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
-          <CardTitle className="flex items-center gap-3">
-            <Radio className="w-7 h-7 text-primary animate-pulse" />
-            <div>
-              <h2 className="text-2xl font-semibold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-                Radio Analytics
-              </h2>
-              <p className="text-sm text-gray-500 font-normal mt-1">
-                Advertisement Distribution
-              </p>
-            </div>
-          </CardTitle>
-          <div className="w-full md:w-72">
-            <Select value={selectedStation} onValueChange={setSelectedStation}>
-              <SelectTrigger className="w-full h-11 rounded-xl">
-                <SelectValue placeholder="Select a station" />
-              </SelectTrigger>
-              <SelectContent>
-                {stations.map((station) => (
-                  <SelectItem key={station.id} value={station.id}>
-                    {station.name}
-                  </SelectItem>
-                ))}
-              </SelectContent>
-            </Select>
-          </div>
+    <ChartCard
+      icon={<Tv className="w-6 h-6" />}
+      title={getTitle()}
+      description="View market share distribution across channels, sectors, categories, and brands"
+      action={
+        <div className="flex w-full justify-end">
+          {(selectedChannel || selectedSector || selectedCategory) && (
+            <Button onClick={handleBack} className="flex items-center gap-2">
+              <ArrowLeft className="w-4 h-4" />
+              Back to{" "}
+              {selectedCategory
+                ? "Categories"
+                : selectedSector
+                ? "Sectors"
+                : "Channels"}
+            </Button>
+          )}
         </div>
-      </CardHeader>
-      <CardContent>
-        <div className="space-y-6">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <h3 className="text-lg font-medium">{currentStation.name}</h3>
-              <Info className="w-4 h-4 text-gray-400" />
-            </div>
-            <div className="px-4 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium">
-              {currentStation.children.length} Industries
-            </div>
-          </div>
-          <div className="h-[500px] rounded-2xl overflow-hidden border border-gray-200 shadow-sm bg-white">
-            <ResponsiveContainer width="100%" height="100%">
-              <Treemap
-                data={currentStation.children}
-                dataKey="size"
-                aspectRatio={16 / 9}
-                stroke="#fff"
-                content={<CustomizedContent />}
-                animationDuration={450}
-                animationEasing="ease-out"
+      }
+      chart={
+        <ResponsiveContainer width="100%" height={600}>
+          <Treemap
+            data={getData()}
+            dataKey="size"
+            aspectRatio={16 / 9}
+            stroke="#fff"
+            content={<CustomizedContent />}
+            animationEasing="ease-out"
+          >
+            <Tooltip
+              content={<CustomTooltip />}
+              cursor={{ stroke: "white", strokeWidth: 2 }}
+            />
+          </Treemap>
+        </ResponsiveContainer>
+      }
+      footer={
+        <div className="mt-4 flex items-center gap-2 text-sm text-gray-500">
+          <span
+            className={`hover:text-primary cursor-pointer ${
+              !selectedChannel ? "text-primary font-medium" : ""
+            }`}
+            onClick={() => {
+              setSelectedChannel(null);
+              setSelectedSector(null);
+              setSelectedCategory(null);
+            }}
+          >
+            Channels
+          </span>
+          {selectedChannel && (
+            <>
+              <span>→</span>
+              <span
+                className={`hover:text-primary cursor-pointer ${
+                  selectedChannel && !selectedSector
+                    ? "text-primary font-medium"
+                    : ""
+                }`}
+                onClick={() => {
+                  setSelectedSector(null);
+                  setSelectedCategory(null);
+                }}
               >
-                <Tooltip
-                  content={<CustomTooltip />}
-                  cursor={{ stroke: "white", strokeWidth: 2 }}
-                />
-              </Treemap>
-            </ResponsiveContainer>
-          </div>
+                {selectedChannel}
+              </span>
+            </>
+          )}
+          {selectedSector && (
+            <>
+              <span>→</span>
+              <span
+                className={`hover:text-primary cursor-pointer ${
+                  selectedSector && !selectedCategory
+                    ? "text-primary font-medium"
+                    : ""
+                }`}
+                onClick={() => {
+                  setSelectedCategory(null);
+                }}
+              >
+                {selectedSector}
+              </span>
+            </>
+          )}
+          {selectedCategory && (
+            <>
+              <span>→</span>
+              <span className="text-primary font-medium">
+                {selectedCategory}
+              </span>
+            </>
+          )}
         </div>
-      </CardContent>
-    </Card>
+      }
+    />
   );
 };
 
-export default AppleStyleTreemap;
+export default TVChannelTreemap;
