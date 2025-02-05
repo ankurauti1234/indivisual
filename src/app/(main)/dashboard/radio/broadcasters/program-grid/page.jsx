@@ -5,7 +5,7 @@ import RJDashboard from './rj-dashboard'
 
 const page = () => {
   return (
-    <div>
+    <div className='space-y-6'>
         <RJDashboard/>
         <EPG/>
     </div>

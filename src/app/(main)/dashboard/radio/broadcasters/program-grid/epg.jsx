@@ -233,7 +233,7 @@ const EPG = () => {
                   : "text-red-800 dark:text-red-200"
               }`}
             >
-              {program.program}
+              <span className="font-bold capitalize">{program.type}:</span>{program.program}
             </h3>
           )}
             {isVeryNarrow && (

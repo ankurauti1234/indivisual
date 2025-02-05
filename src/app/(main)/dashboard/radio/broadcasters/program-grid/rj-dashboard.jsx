@@ -19,17 +19,17 @@ import { Users, Radio, Search, Trophy } from "lucide-react";
 
 const RJDashboard = () => {
   const rjData = [
-    { name: "RJ Anmol 🇮🇳", followers: 523582, username: "rjanmol27" },
-    { name: "RJ Praveen", followers: 2510230, username: "rjpraveen" },
-    { name: "Rj Kisna", followers: 1862141, username: "rjkisnaa" },
-    { name: "RJ Princy Parikh", followers: 1652500, username: "princymirchilove" },
-    { name: "Salil", followers: 367753, username: "salilacharya" },
-    { name: "Archana L Pania", followers: 234396, username: "archanaapania" },
-    { name: "RJ Harsh", followers: 119036, username: "loveseharsh" },
-    { name: "RJ Raaj", followers: 54758, username: "ursrjraaj" },
-    { name: "RJ Niyati", followers: 42336, username: "rj_niyati" },
-    { name: "Ginnie Mahajan", followers: 24856, username: "rjginnie" }
-  ].sort((a, b) => b.followers - a.followers);
+    { name: "RJ Anmol 🇮🇳", followers: { ig: 523582, fb: 200000, twitter: 150000 }, username: "rjanmol27" },
+    { name: "RJ Praveen", followers: { ig: 2510230, fb: 1800000, twitter: 1200000 }, username: "rjpraveen" },
+    { name: "Rj Kisna", followers: { ig: 1862141, fb: 1400000, twitter: 900000 }, username: "rjkisnaa" },
+    { name: "RJ Princy Parikh", followers: { ig: 1652500, fb: 1100000, twitter: 800000 }, username: "princymirchilove" },
+    { name: "Salil", followers: { ig: 367753, fb: 300000, twitter: 200000 }, username: "salilacharya" },
+    { name: "Archana L Pania", followers: { ig: 234396, fb: 190000, twitter: 120000 }, username: "archanaapania" },
+    { name: "RJ Harsh", followers: { ig: 119036, fb: 90000, twitter: 70000 }, username: "loveseharsh" },
+    { name: "RJ Raaj", followers: { ig: 54758, fb: 40000, twitter: 30000 }, username: "ursrjraaj" },
+    { name: "RJ Niyati", followers: { ig: 42336, fb: 35000, twitter: 25000 }, username: "rj_niyati" },
+    { name: "Ginnie Mahajan", followers: { ig: 24856, fb: 20000, twitter: 15000 }, username: "rjginnie" }
+  ].sort((a, b) => b.followers.ig - a.followers.ig);
 
   const [searchTerm, setSearchTerm] = useState("");
 
@@ -44,13 +44,6 @@ const RJDashboard = () => {
     return num.toString();
   };
 
-  const getRankStyles = (index) => {
-    if (index === 0) return "bg-yellow-100 text-yellow-700";
-    if (index === 1) return "bg-gray-100 text-gray-700";
-    if (index === 2) return "bg-orange-100 text-orange-700";
-    return "bg-gray-50 text-gray-600";
-  };
-
   return (
     <div className="m">
       <Card className=" mx-auto bg-white/80 backdrop-blur-sm shadow-xl">
@@ -60,7 +53,7 @@ const RJDashboard = () => {
               <Radio className="w-8 h-8 text-purple-500" />
               <div>
                 <CardTitle className="text-2xl font-bold">Top Radio RJs of India</CardTitle>
-                <CardDescription>Instagram Influencers Ranking</CardDescription>
+                <CardDescription>Social Media Followers Ranking</CardDescription>
               </div>
             </div>
             <div className="flex items-center space-x-2 text-sm text-gray-500">
@@ -88,30 +81,20 @@ const RJDashboard = () => {
                   <TableHead className="w-12 font-semibold">Rank</TableHead>
                   <TableHead className="font-semibold">Name</TableHead>
                   <TableHead className="font-semibold">Username</TableHead>
-                  <TableHead className="text-right font-semibold">
-                    <div className="flex items-center justify-end space-x-2">
-                      <Users className="w-4 h-4" />
-                      <span>Followers</span>
-                    </div>
-                  </TableHead>
+                  <TableHead className="text-right font-semibold">Instagram</TableHead>
+                  <TableHead className="text-right font-semibold">Facebook</TableHead>
+                  <TableHead className="text-right font-semibold">Twitter</TableHead>
                 </TableRow>
               </TableHeader>
               <TableBody>
                 {filteredData.map((rj, index) => (
                   <TableRow key={rj.username} className="hover:bg-gray-50">
-                    <TableCell>
-                      <div className={`w-8 h-8 rounded-full flex items-center justify-center font-semibold ${getRankStyles(index)}`}>
-                        {index === 0 && <Trophy className="w-4 h-4" />}
-                        {index > 0 && (index + 1)}
-                      </div>
-                    </TableCell>
-                    <TableCell>
-                    {rj.name}
-                    </TableCell>
+                    <TableCell className="font-semibold">{index + 1}</TableCell>
+                    <TableCell>{rj.name}</TableCell>
                     <TableCell className="text-blue-600">@{rj.username}</TableCell>
-                    <TableCell className="text-right font-semibold">
-                      {formatFollowers(rj.followers)}
-                    </TableCell>
+                    <TableCell className="text-right font-semibold">{formatFollowers(rj.followers.ig)}</TableCell>
+                    <TableCell className="text-right font-semibold">{formatFollowers(rj.followers.fb)}</TableCell>
+                    <TableCell className="text-right font-semibold">{formatFollowers(rj.followers.twitter)}</TableCell>
                   </TableRow>
                 ))}
               </TableBody>
