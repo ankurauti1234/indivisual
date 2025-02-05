@@ -1,4 +1,4 @@
-export const epgData = [
+const epgData = [
   {
     "program": " Dance Ka Bhoot,Pritam & Arijit Singh & Amitabh Bhattacharya,Brahmastra,2022,Sony Music,Bollywood",
     "channel": "Radio City",
@@ -8421,44 +8421,4 @@ export const epgData = [
   }
 ];
 
-
-
-export const timeToSeconds = (time) => {
-  const [hh, mm, ss] = time.split(":").map(Number);
-  return hh * 3600 + mm * 60 + ss;
-};
-
-export const mergeAdjacentPrograms = (data) => {
-  const merged = [];
-  for (let i = 0; i < data.length; i++) {
-    if (merged.length === 0) {
-      merged.push({ ...data[i] });
-      continue;
-    }
-
-    const lastProgram = merged[merged.length - 1];
-    if (
-      lastProgram.channel === data[i].channel &&
-      lastProgram.program === data[i].program &&
-      lastProgram.date === data[i].date &&
-      lastProgram.type === data[i].type &&
-      timeToSeconds(lastProgram.end) === timeToSeconds(data[i].start)
-    ) {
-      // Merge programs
-      lastProgram.end = data[i].end;
-      lastProgram.id = `${lastProgram.id},${data[i].id}`;
-    } else {
-      merged.push({ ...data[i] });
-    }
-  }
-  return merged;
-};
-
-
-export const timeToMinutes = (time) => {
-  const [hours, minutes, seconds] = time.split(":").map(Number)
-  return hours * 60 + minutes + seconds / 60
-}
-
-export const processedEpgData = mergeAdjacentPrograms(epgData)
-
+export default epgData;

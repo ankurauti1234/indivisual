@@ -3,18 +3,11 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { processedEpgData, timeToMinutes } from "./epg-data";
 import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area";
-import {
-  Dialog,
-  DialogContent,
-  DialogHeader,
-  DialogTitle,
-  DialogDescription,
-  DialogFooter,
-} from "@/components/ui/dialog";
 import CustomRangeSlider from "./custom-range-slider";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import ProgramDialog from "./program-dialog";
+import DownloadDialog from "./download-dialog";
 
 const MINUTES_IN_DAY = 24 * 60;
 const FIXED_WIDTH = 9600;
@@ -111,7 +104,7 @@ const TimelineRuler = ({ timeRange }) => {
 const EPG = () => {
   const [timeRange, setTimeRange] = useState([0, MINUTES_IN_DAY]);
   const [selectedProgram, setSelectedProgram] = useState(null);
-  const [selectedDate, setSelectedDate] = useState("2025-02-03");
+  const [selectedDate, setSelectedDate] = useState(new Date().toISOString().split('T')[0]);
   const channels = getUniqueChannels(processedEpgData);
   const minutesInRange = timeRange[1] - timeRange[0];
   const pixelsPerMinute = FIXED_WIDTH / minutesInRange;
@@ -124,15 +117,15 @@ const EPG = () => {
     setSelectedDate((prevDate) => {
       const date = new Date(prevDate);
       date.setDate(date.getDate() - 1);
-      return date.toISOString().split("T")[0];
+      return date.toISOString().split('T')[0];
     });
   };
-
+  
   const handleNextDate = () => {
     setSelectedDate((prevDate) => {
       const date = new Date(prevDate);
       date.setDate(date.getDate() + 1);
-      return date.toISOString().split("T")[0];
+      return date.toISOString().split('T')[0];
     });
   };
 
@@ -174,7 +167,7 @@ const EPG = () => {
     const visibleEnd = Math.min(endMinutes, timeRange[1]);
     const width = (visibleEnd - visibleStart) * pixelsPerMinute;
     const left = (visibleStart - timeRange[0]) * pixelsPerMinute;
-    const isProgramType = program.type === "program";
+    const isProgramType = program.type === "song";
     const isVeryNarrow = width < 80;
     const isNarrow = width < 120;
     const duration = endMinutes - startMinutes;
@@ -282,6 +275,9 @@ const EPG = () => {
           <h1 className="text-2xl font-semibold bg-gradient-to-r from-zinc-900 to-zinc-600 dark:from-zinc-100 dark:to-zinc-400 bg-clip-text text-transparent">
             Radio Program Guide
           </h1>
+          <div className="flex items-center gap-4">
+
+          <DownloadDialog channels={channels} epgData={processedEpgData} />
           <div
             className="flex items-center justify-between gap-4 w-96 bg-white/50 dark:bg-zinc-800/50 rounded-xl p-2
             shadow-[inset_2px_2px_4px_rgba(0,0,0,0.05),inset_-2px_-2px_4px_rgba(255,255,255,0.5)]
@@ -298,13 +294,12 @@ const EPG = () => {
               <ChevronLeft className="h-6 w-6" />
             </Button>
             <span className="text-lg font-medium text-zinc-800 dark:text-zinc-200">
-              {new Date(selectedDate).toLocaleDateString("en-US", {
-                weekday: "long",
-                year: "numeric",
-                month: "long",
-                day: "numeric",
-              })}
-            </span>
+  {new Date(selectedDate).toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  })}
+</span>
             <Button
               onClick={handleNextDate}
               size="icon"
@@ -316,12 +311,13 @@ const EPG = () => {
               <ChevronRight className="h-6 w-6" />
             </Button>
           </div>
+          </div>
         </div>
 
         <CustomRangeSlider
           min={0}
           max={MINUTES_IN_DAY}
-          step={5}
+          step={1}
           value={timeRange}
           onChange={setTimeRange}
         />
