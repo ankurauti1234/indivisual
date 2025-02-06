@@ -9,17 +9,11 @@ import {
   DialogTrigger,
   DialogFooter,
 } from "@/components/ui/dialog";
-import {
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-} from "@/components/ui/popover";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
-import { cn } from "@/lib/utils";
 import { CalendarIcon, Download, Check } from "lucide-react";
 import { Checkbox } from "@/components/ui/checkbox";
-import { format } from "date-fns";
+import { format, startOfDay, endOfDay } from "date-fns";
 import { useToast } from "@/hooks/use-toast";
 
 const DownloadDialog = ({ channels, epgData }) => {
@@ -71,20 +65,22 @@ const DownloadDialog = ({ channels, epgData }) => {
     setIsDownloading(true);
 
     try {
+      // Convert selected date to UTC midnight to ensure consistent date comparison
+      const selectedDate = startOfDay(date);
+      const selectedDateStr = format(selectedDate, 'yyyy-MM-dd');
+
       const filteredData = epgData.filter((program) => {
+        // Parse the program date and convert to local date string for comparison
         const programDate = new Date(program.date);
-        const isSelectedDate =
-          programDate.toISOString().split("T")[0] ===
-          date.toISOString().split("T")[0];
-        const isSelectedChannel =
-          selectedChannels.includes(program.channel) ||
-          selectedChannels.includes("all");
+        const programDateStr = format(programDate, 'yyyy-MM-dd');
+        
+        const isSelectedChannel = selectedChannels.includes(program.channel) || selectedChannels.includes("all");
         const programStartTime = program.start.substring(0, 5);
         const programEndTime = program.end.substring(0, 5);
-        const isInTimeRange =
-          programStartTime >= startTime && programEndTime <= endTime;
+        const isInTimeRange = programStartTime >= startTime && programEndTime <= endTime;
 
-        return isSelectedDate && isSelectedChannel && isInTimeRange;
+        // Compare date strings to avoid timezone issues
+        return programDateStr === selectedDateStr && isSelectedChannel && isInTimeRange;
       });
 
       const csvContent = [
@@ -105,9 +101,7 @@ const DownloadDialog = ({ channels, epgData }) => {
       const url = window.URL.createObjectURL(blob);
       const a = document.createElement("a");
       a.href = url;
-      a.download = `${
-        fileName || `epg-data-${date.toISOString().split("T")[0]}`
-      }.csv`;
+      a.download = `${fileName || `epg-data-${format(date, 'yyyy-MM-dd')}`}.csv`;
       document.body.appendChild(a);
       a.click();
       document.body.removeChild(a);
@@ -158,13 +152,10 @@ const DownloadDialog = ({ channels, epgData }) => {
                   selected={date}
                   onSelect={handleDateSelect}
                   initialFocus
-                  className={"bg-card w-fit rounded-lg"}
+                  className="bg-card w-fit rounded-lg"
                 />
-
-                
               </div>
 
-              {/* Rest of the component remains the same */}
               <div className="flex-1 gap-6">
                 <div className="space-y-2 w-full">
                   <Label className="text-sm font-medium">Start Time</Label>
