@@ -250,52 +250,31 @@ export const radio_broad_reports = [
     subpage: "broadcasters",
     slug: "program-grid",
   },
+
+];
+
+export const radio_ads_reports = [
+  // {
+  //   id: 1,
+  //   image: "/images/daily-analysis.png",
+  //   title: "Daily Analysis",
+  //   description:
+  //     "Daily performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
+  //   lastUpdated: "May 2, 2024",
+  //   page: "radio",
+  //   subpage: "ads",
+  //   slug: "daily-analysis",
+  // },
   {
     id: 2,
-    image: "/images/daily-analysis.png",
-    title: "Daily Analysis",
-    description:
-      "Daily performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
-    lastUpdated: "May 2, 2024",
-    page: "radio",
-    subpage: "broadcasters",
-    slug: "daily-analysis",
-  },
-  {
-    id: 3,
     image: "/images/daily-analysis.png",
     title: "Weekly Analysis",
     description:
       "Weekly performance metrics for radio broadcasts, including listener numbers, peak times, and program ratings.",
     lastUpdated: "May 2, 2024",
     page: "radio",
-    subpage: "broadcasters",
+    subpage: "ads",
     slug: "weekly-analysis",
-  },
-];
-
-export const radio_ads_reports = [
-  {
-    id: 1,
-    image: "/images/ad-frequency-radio.png",
-    title: "Ad Frequency Analysis",
-    description:
-      "Analysis of radio advertising frequency patterns, including optimal repetition rates and listener response metrics.",
-    lastUpdated: "May 10, 2024",
-    page: "radio",
-    subpage: "ads",
-    slug: "ad-frequency-analysis",
-  },
-  {
-    id: 2,
-    image: "/images/prime-time-ads-radio.png",
-    title: "Prime-Time Ad Analysis",
-    description:
-      "Detailed review of advertising performance during peak radio listening hours, including reach and engagement statistics.",
-    lastUpdated: "May 15, 2024",
-    page: "radio",
-    subpage: "ads",
-    slug: "prime-time-ad-analysis",
   },
 ];
 

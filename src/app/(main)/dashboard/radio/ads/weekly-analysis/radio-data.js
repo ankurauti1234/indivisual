@@ -3,205 +3,90 @@ export const radioStationData = {
     // Ad Schedule Data
  
     "adScheduleData": {
-        "radio city": [
-          {
-            "id": 1,
-            "time": "07:30 AM",
-            "program": "Morning Drive Time",
-            "adType": "Premium Commercial",
-            "duration": 30,
-            "advertiser": "Amrith Noni"
-          },
-          {
-            "id": 2,
-            "time": "08:15 AM",
-            "program": "Breakfast Show",
-            "adType": "Sponsored Segment",
-            "duration": 45,
-            "advertiser": "Palmonas Jewellers"
-          },
-          {
-            "id": 3,
-            "time": "09:00 AM",
-            "program": "City Morning News",
-            "adType": "News Sponsor",
-            "duration": 20,
-            "advertiser": "Sensodyne Toothpaste"
-          },
-          {
-            "id": 4,
-            "time": "10:30 AM",
-            "program": "Mid-Morning Show",
-            "adType": "Jingle",
-            "duration": 15,
-            "advertiser": "LIC"
-          },
-          {
-            "id": 5,
-            "time": "12:00 PM",
-            "program": "Lunch Hour Hits",
-            "adType": "Premium Commercial",
-            "duration": 30,
-            "advertiser": "Gajkesari TNT Bars"
-          },
-          {
-            "id": 6,
-            "time": "02:00 PM",
-            "program": "Afternoon Delight",
-            "adType": "Sponsored Segment",
-            "duration": 40,
-            "advertiser": "Nutrela"
-          },
-          {
-            "id": 7,
-            "time": "04:00 PM",
-            "program": "Evening Drive Time",
-            "adType": "Premium Commercial",
-            "duration": 30,
-            "advertiser": "Bandhan Bank"
-          },
-          {
-            "id": 8,
-            "time": "06:00 PM",
-            "program": "City Evening News",
-            "adType": "News Sponsor",
-            "duration": 20,
-            "advertiser": "Maruti Suzuki"
-          }
-        ],
-        "radio mirchi": [
-          {
-            "id": 1,
-            "time": "07:00 AM",
-            "program": "Morning Masti",
-            "adType": "Premium Commercial",
-            "duration": 30,
-            "advertiser": "National Stock Exchange"
-          },
-          {
-            "id": 2,
-            "time": "08:30 AM",
-            "program": "Mirchi Morning",
-            "adType": "Sponsored Segment",
-            "duration": 45,
-            "advertiser": "Cotton King"
-          },
-          {
-            "id": 3,
-            "time": "09:30 AM",
-            "program": "Delhi News Hour",
-            "adType": "News Sponsor",
-            "duration": 20,
-            "advertiser": "Muzart Disco"
-          },
-          {
-            "id": 4,
-            "time": "11:00 AM",
-            "program": "Mid-Day Mirchi",
-            "adType": "Jingle",
-            "duration": 15,
-            "advertiser": "Union Bank"
-          },
-          {
-            "id": 5,
-            "time": "01:00 PM",
-            "program": "Lunch Box",
-            "adType": "Premium Commercial",
-            "duration": 30,
-            "advertiser": "Radio City Sunea Awards Marathi"
-          },
-          {
-            "id": 6,
-            "time": "03:00 PM",
-            "program": "Mirchi Afternoons",
-            "adType": "Sponsored Segment",
-            "duration": 40,
-            "advertiser": "Kia"
-          },
-          {
-            "id": 7,
-            "time": "05:00 PM",
-            "program": "Evening Drive",
-            "adType": "Premium Commercial",
-            "duration": 30,
-            "advertiser": "Chettinad Cement"
-          },
-          {
-            "id": 8,
-            "time": "07:00 PM",
-            "program": "Night News",
-            "adType": "News Sponsor",
-            "duration": 20,
-            "advertiser": "Pride World City"
-          }
-        ],
-        "red fm": [
-          {
-            "id": 1,
-            "time": "06:30 AM",
-            "program": "Morning No.1",
-            "adType": "Premium Commercial",
-            "duration": 30,
-            "advertiser": "Gajkesari Steel"
-          },
-          {
-            "id": 2,
-            "time": "08:00 AM",
-            "program": "Bangalore Breakfast",
-            "adType": "Sponsored Segment",
-            "duration": 45,
-            "advertiser": "Scout Lounge"
-          },
-          {
-            "id": 3,
-            "time": "09:15 AM",
-            "program": "Tech City News",
-            "adType": "News Sponsor",
-            "duration": 20,
-            "advertiser": "Marathi Cine Awards"
-          },
-          {
-            "id": 4,
-            "time": "10:45 AM",
-            "program": "Mid-Morning Magic",
-            "adType": "Jingle",
-            "duration": 15,
-            "advertiser": "Medilaser"
-          },
-          {
-            "id": 5,
-            "time": "12:30 PM",
-            "program": "Afternoon Express",
-            "adType": "Premium Commercial",
-            "duration": 30,
-            "advertiser": "Dream Works Housing"
-          },
-          {
-            "id": 6,
-            "time": "02:30 PM",
-            "program": "Red Afternoons",
-            "adType": "Sponsored Segment",
-            "duration": 40,
-            "advertiser": "Mahakumbh"
-          },
-          {
-            "id": 7,
-            "time": "04:30 PM",
-            "program": "Evening Rush",
-            "adType": "Premium Commercial",
-            "duration": 30,
-            "advertiser": "Shuddi Ayurveda"
-          },
-          {
-            "id": 8,
-            "time": "06:30 PM",
-            "program": "Tech News Hour",
-            "adType": "News Sponsor",
-            "duration": 20,
-            "advertiser": "Palmonas Jewellery"
-          }
-        ]
+      "radio_city": {
+        "Morning Drive Time": {
+          "time": "07:00 AM - 08:00 AM",
+          "ads": [
+            { "time": "07:05 AM", "advertiser": "Amrith Noni", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "07:10 AM", "advertiser": "Palmonas Jewellers", "adType": "Sponsored Segment", "duration": 45 },
+            { "time": "07:15 AM", "advertiser": "Sensodyne Toothpaste", "adType": "News Sponsor", "duration": 20 },
+            { "time": "07:20 AM", "advertiser": "LIC", "adType": "Jingle", "duration": 15 },
+            { "time": "07:25 AM", "advertiser": "Gajkesari TNT Bars", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "07:30 AM", "advertiser": "Nutrela", "adType": "Sponsored Segment", "duration": 40 },
+            { "time": "07:35 AM", "advertiser": "Bandhan Bank", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "07:40 AM", "advertiser": "Maruti Suzuki", "adType": "News Sponsor", "duration": 20 },
+            { "time": "07:45 AM", "advertiser": "Shell", "adType": "Jingle", "duration": 15 },
+            { "time": "07:50 AM", "advertiser": "Vision Express", "adType": "Sponsored Segment", "duration": 45 }
+          ]
+        },
+        "Lunch Hour Hits": {
+          "time": "12:00 PM - 01:00 PM",
+          "ads": [
+            { "time": "12:05 PM", "advertiser": "Patanjali", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "12:10 PM", "advertiser": "Woka", "adType": "Sponsored Segment", "duration": 40 },
+            { "time": "12:15 PM", "advertiser": "Yavat 24 Agri Tourism", "adType": "News Sponsor", "duration": 20 },
+            { "time": "12:20 PM", "advertiser": "Prathamesh Resort", "adType": "Jingle", "duration": 15 },
+            { "time": "12:25 PM", "advertiser": "YMCOU", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "12:30 PM", "advertiser": "Adama Fertilizers", "adType": "Sponsored Segment", "duration": 40 },
+            { "time": "12:35 PM", "advertiser": "Chandukaka Saraf Jewellers", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "12:40 PM", "advertiser": "Mauli Agro Resort", "adType": "News Sponsor", "duration": 20 },
+            { "time": "12:45 PM", "advertiser": "TGH Onco-Life Cancer Centre", "adType": "Jingle", "duration": 15 },
+            { "time": "12:50 PM", "advertiser": "Palmonas Jewellery", "adType": "Sponsored Segment", "duration": 45 }
+          ]
+        }
       },
+      "radio_mirchi": {
+        "Morning Masti": {
+          "time": "07:00 AM - 08:00 AM",
+          "ads": [
+            { "time": "07:05 AM", "advertiser": "National Stock Exchange", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "07:10 AM", "advertiser": "Cotton King", "adType": "Sponsored Segment", "duration": 45 },
+            { "time": "07:15 AM", "advertiser": "Muzart Disco", "adType": "News Sponsor", "duration": 20 },
+            { "time": "07:20 AM", "advertiser": "Union Bank", "adType": "Jingle", "duration": 15 },
+            { "time": "07:25 AM", "advertiser": "Radio City Sunea Awards Marathi", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "07:30 AM", "advertiser": "Kia", "adType": "Sponsored Segment", "duration": 40 },
+            { "time": "07:35 AM", "advertiser": "Chettinad Cement", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "07:40 AM", "advertiser": "Pride World City", "adType": "News Sponsor", "duration": 20 },
+            { "time": "07:45 AM", "advertiser": "Shell", "adType": "Jingle", "duration": 15 },
+            { "time": "07:50 AM", "advertiser": "Vision Express", "adType": "Sponsored Segment", "duration": 45 }
+          ]
+        },
+        "Lunch Box": {
+          "time": "01:00 PM - 02:00 PM",
+          "ads": [
+            { "time": "01:05 PM", "advertiser": "Patanjali", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "01:10 PM", "advertiser": "Woka", "adType": "Sponsored Segment", "duration": 40 },
+            { "time": "01:15 PM", "advertiser": "Yavat 24 Agri Tourism", "adType": "News Sponsor", "duration": 20 },
+            { "time": "01:20 PM", "advertiser": "Prathamesh Resort", "adType": "Jingle", "duration": 15 },
+            { "time": "01:25 PM", "advertiser": "YMCOU", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "01:30 PM", "advertiser": "Adama Fertilizers", "adType": "Sponsored Segment", "duration": 40 },
+            { "time": "01:35 PM", "advertiser": "Chandukaka Saraf Jewellers", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "01:40 PM", "advertiser": "Mauli Agro Resort", "adType": "News Sponsor", "duration": 20 },
+            { "time": "01:45 PM", "advertiser": "TGH Onco-Life Cancer Centre", "adType": "Jingle", "duration": 15 },
+            { "time": "01:50 PM", "advertiser": "Palmonas Jewellery", "adType": "Sponsored Segment", "duration": 45 }
+          ]
+        }
+      },
+      "red_fm": {
+        "Morning No.1": {
+          "time": "07:00 AM - 08:00 AM",
+          "ads": [
+            { "time": "07:05 AM", "advertiser": "Gajkesari Steel", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "07:10 AM", "advertiser": "Scout Lounge", "adType": "Sponsored Segment", "duration": 45 },
+            { "time": "07:15 AM", "advertiser": "Marathi Cine Awards", "adType": "News Sponsor", "duration": 20 },
+            { "time": "07:20 AM", "advertiser": "Medilaser", "adType": "Jingle", "duration": 15 },
+            { "time": "07:25 AM", "advertiser": "Dream Works Housing", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "07:30 AM", "advertiser": "Mahakumbh", "adType": "Sponsored Segment", "duration": 40 },
+            { "time": "07:35 AM", "advertiser": "Shuddi Ayurveda", "adType": "Premium Commercial", "duration": 30 },
+            { "time": "07:40 AM", "advertiser": "Palmonas Jewellery", "adType": "News Sponsor", "duration": 20 },
+            { "time": "07:45 AM", "advertiser": "Shell", "adType": "Jingle", "duration": 15 },
+            { "time": "07:50 AM", "advertiser": "Vision Express", "adType": "Sponsored Segment", "duration": 45 }
+          ]
+        }
+      }
+    }
+    
+    ,
   
     // Gap Analysis Data
     gapAnalysisData: {

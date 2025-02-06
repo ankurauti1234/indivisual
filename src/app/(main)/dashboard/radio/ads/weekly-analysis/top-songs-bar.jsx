@@ -76,8 +76,8 @@ const TopSongsChart = () => {
   return (
     <ChartCard
       icon={<Radio className="w-6 h-6" />}
-      title="Top Songs by Ad Placements"
-      description="View ad placement statistics across different radio Songs and stations"
+      title="Top Songs by Volume"
+      description="View top songs by number of times it has been played across different radio stations"
       action={
         <div className="flex  justify-end">
           {/* <div>

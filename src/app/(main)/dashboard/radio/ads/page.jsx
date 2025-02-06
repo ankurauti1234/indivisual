@@ -1,11 +1,27 @@
-import React from 'react'
+import ReportCard from "@/components/card/ReportCard";
+import Header from "@/components/navigation/header";
+import { radio_ads_reports } from "@/lib/reports";
 
-const page = () => {
+export default function Adspage() {
+  // Filter reports for the ads section
+  const adsReports = radio_ads_reports.filter(
+    (report) => report.page === "radio" && report.subpage === "ads"
+  );
+
   return (
-    <div>
-      ads
+    <div className="container mx-auto px-4 py-8">
+      <Header
+        title="Ads Reports"
+        description="Detailed analytics for radio ads, including performance, trends, and engagement insights."
+        badge="latest"
+      />
+      <div className="p-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {adsReports.map((report) => (
+            <ReportCard key={report.id} {...report} />
+          ))}
+        </div>
+      </div>
     </div>
-  )
+  );
 }
-
-export default page

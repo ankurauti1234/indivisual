@@ -32,6 +32,9 @@ import {radioStationData} from './radio-data'
 
 const DetailedAdAnalysis = () => {
   const [station, setStation] = useState("radio city");
+
+  const stationKey = station.replace(" ", "_");
+  const scheduleData = radioStationData.adScheduleData[stationKey] || {};
   
   const handleExport = (type) => {
     alert(`Exporting ${type} data as CSV...`);
@@ -58,11 +61,11 @@ const DetailedAdAnalysis = () => {
 
         <Select >
           <SelectTrigger className="w-[240px] bg-white">
-            <SelectValue placeholder="Last Month" />
+            <SelectValue placeholder="Yesterday" />
           </SelectTrigger>
           <SelectContent>
-            <SelectItem value="Last Month">Last Month </SelectItem>
-            <SelectItem value="Last Week">Last week</SelectItem>
+            <SelectItem value="Today">Today </SelectItem>
+            <SelectItem value="Yesterday">Yesterday</SelectItem>
             {/* <SelectItem value="red fm">Red FM Pune</SelectItem> */}
           </SelectContent>
         </Select>
@@ -90,45 +93,51 @@ const DetailedAdAnalysis = () => {
         </TabsList>
 
         <TabsContent value="schedule">
-          <Card className="bg-white shadow-sm">
-            <CardHeader className="flex flex-row items-center justify-between border-b">
-              <div>
-                <CardTitle className="text-xl font-medium">Daily Schedule</CardTitle>
-                <CardDescription className="text-gray-500">
-                  Comprehensive view of today's advertising lineup
-                </CardDescription>
-              </div>
-              <Button variant="outline" onClick={() => handleExport("schedule")}>
-                <Download className="w-4 h-4 mr-2" /> Export Data
-              </Button>
-            </CardHeader>
-            <CardContent className="p-6">
-              <div className="rounded-lg overflow-hidden border">
-                <Table>
-                  <TableHeader>
-                    <TableRow className="bg-gray-50">
-                      <TableHead className="font-medium">Time</TableHead>
-                      <TableHead className="font-medium">Program</TableHead>
-                      {/* <TableHead className="font-medium">Type</TableHead> */}
-                      <TableHead className="font-medium text-center ">Duration</TableHead>
-                      <TableHead className="font-medium text-right">Advertiser</TableHead>
-                    </TableRow>
-                  </TableHeader>
-                  <TableBody>
-                    {radioStationData.adScheduleData[station]?.map((ad) => (
-                      <TableRow key={ad.id} className="hover:bg-gray-50">
-                        <TableCell className="font-medium">{ad.time}</TableCell>
-                        <TableCell>{ad.program}</TableCell>
-                        {/* <TableCell>{ad.adType}</TableCell> */}
-                        <TableCell className="text-center">{ad.duration}s</TableCell>
-                        <TableCell className="text-right">{ad.advertiser}</TableCell>
-                      </TableRow>
-                    ))}
-                  </TableBody>
-                </Table>
-              </div>
-            </CardContent>
-          </Card>
+        <Card className="bg-white shadow-sm">
+      <CardHeader className="flex flex-row items-center justify-between border-b">
+        <div>
+          <CardTitle className="text-xl font-medium">Daily Schedule</CardTitle>
+          <CardDescription className="text-gray-500">
+            Comprehensive view of today's advertising lineup
+          </CardDescription>
+        </div>
+        <Button variant="outline" onClick={() => handleExport("schedule")}>
+          <Download className="w-4 h-4 mr-2" /> Export Data
+        </Button>
+      </CardHeader>
+      <CardContent className="p-6">
+        <div className="rounded-lg overflow-hidden border">
+          <Table>
+            <TableHeader>
+              <TableRow className="bg-gray-50">
+                <TableHead className="font-medium">Program</TableHead>
+                <TableHead className="font-medium">Time Slot</TableHead>
+                <TableHead className="font-medium">Ad Time</TableHead>
+                {/* <TableHead className="font-medium">Type</TableHead> */}
+                <TableHead className="font-medium text-center">Advertiser</TableHead>
+                <TableHead className="font-medium text-right">Duration</TableHead>
+              </TableRow>
+            </TableHeader>
+            <TableBody>
+              {Object.entries(scheduleData).map(([program, data]) =>
+                data.ads.map((ad, adIndex) => (
+                  <TableRow key={`${program}-${adIndex}`} className="hover:bg-gray-50">
+                    <TableCell className="font-medium">
+                      {adIndex === 0 ? program : ""}
+                    </TableCell>
+                    <TableCell>{adIndex === 0 ? data.time : ""}</TableCell>
+                    <TableCell>{ad.time}</TableCell>
+                    {/* <TableCell>{ad.adType}</TableCell> */}
+                    <TableCell className="text-center">{ad.advertiser}</TableCell>
+                    <TableCell className="text-right">{ad.duration}s</TableCell>
+                  </TableRow>
+                ))
+              )}
+            </TableBody>
+          </Table>
+        </div>
+      </CardContent>
+    </Card>
         </TabsContent>
 
         <TabsContent value="gaps">

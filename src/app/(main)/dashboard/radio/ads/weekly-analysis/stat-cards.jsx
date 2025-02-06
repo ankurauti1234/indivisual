@@ -15,7 +15,7 @@ import {
 const StatCards = () => {
   const summaryCards = [
     {
-      title: "Total AD Count",
+      title: "Highiest AD Count",
       value: "201",
       trend: "+8.2%",
       isPositive: true,
@@ -53,7 +53,7 @@ const StatCards = () => {
     },
     {
       title: "Popular Program",
-      items: ["Morning Show", "Drive Time", "Evening Melodies"],
+      items: ["Hum Tum", "Salam Ahmednagar", "Happy Evening"],
       trend: "-0.2%",
       isPositive: false,
       icon: <CreditCard className="text-gray-600" size={20} />,

@@ -80,7 +80,7 @@ const RJDashboard = () => {
                 <TableRow className="bg-gray-50">
                   <TableHead className="w-12 font-semibold">Rank</TableHead>
                   <TableHead className="font-semibold">Name</TableHead>
-                  <TableHead className="font-semibold">Username</TableHead>
+                  <TableHead className="font-semibold">Instagram Username</TableHead>
                   <TableHead className="text-right font-semibold">Instagram</TableHead>
                   <TableHead className="text-right font-semibold">Facebook</TableHead>
                   <TableHead className="text-right font-semibold">Twitter</TableHead>

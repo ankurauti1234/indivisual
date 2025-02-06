@@ -24,97 +24,97 @@ const DATA = {
     "daily": [
       {
         "name": "Swasthya ki Aradhana",
-        "before": 4,
-        "during": 8,
-        "after": 3
+        "before": 5,
+        "during": 10,
+        "after": 4
       },
       {
         "name": "Salaam Ahmednagar",
-        "before": 4,
-        "during": 8,
-        "after": 3
+        "before": 6,
+        "during": 12,
+        "after": 5
       },
       {
         "name": "Hum Tum",
         "before": 4,
-        "during": 8,
+        "during": 9,
         "after": 3
       },
       {
         "name": "Happy Evening",
-        "before": 4,
-        "during": 8,
-        "after": 3
+        "before": 7,
+        "during": 14,
+        "after": 6
       },
       {
         "name": "Rock the Party",
-        "before": 4,
-        "during": 8,
-        "after": 3
+        "before": 8,
+        "during": 16,
+        "after": 7
       }
     ],
     "weekly": [
       {
         "name": "Swasthya ki Aradhana",
-        "before": 28,
-        "during": 56,
-        "after": 21
+        "before": 35,
+        "during": 70,
+        "after": 28
       },
       {
         "name": "Salaam Ahmednagar",
-        "before": 28,
-        "during": 56,
-        "after": 21
+        "before": 42,
+        "during": 84,
+        "after": 35
       },
       {
         "name": "Hum Tum",
         "before": 28,
-        "during": 56,
+        "during": 63,
         "after": 21
       },
       {
         "name": "Happy Evening",
-        "before": 28,
-        "during": 56,
-        "after": 21
+        "before": 49,
+        "during": 98,
+        "after": 42
       },
       {
         "name": "Rock the Party",
-        "before": 28,
-        "during": 56,
-        "after": 21
+        "before": 56,
+        "during": 112,
+        "after": 49
       }
     ],
     "monthly": [
       {
         "name": "Swasthya ki Aradhana",
-        "before": 120,
-        "during": 240,
-        "after": 90
+        "before": 150,
+        "during": 300,
+        "after": 120
       },
       {
         "name": "Salaam Ahmednagar",
-        "before": 120,
-        "during": 240,
-        "after": 90
+        "before": 180,
+        "during": 360,
+        "after": 150
       },
       {
         "name": "Hum Tum",
         "before": 120,
-        "during": 240,
+        "during": 270,
         "after": 90
       },
       {
         "name": "Happy Evening",
-        "before": 120,
-        "during": 240,
-        "after": 90
+        "before": 210,
+        "during": 420,
+        "after": 180
       },
       {
         "name": "Rock the Party",
-        "before": 120,
-        "during": 240,
-        "after": 90
+        "before": 240,
+        "during": 480,
+        "after": 210
       }
     ]
   },
@@ -122,9 +122,9 @@ const DATA = {
     "daily": [
       {
         "name": "Superfast",
-        "before": 4,
-        "during": 8,
-        "after": 3
+        "before": 3,
+        "during": 6,
+        "after": 2
       },
       {
         "name": "Timepass",
@@ -134,35 +134,35 @@ const DATA = {
       },
       {
         "name": "Josh Junction",
-        "before": 4,
-        "during": 8,
-        "after": 3
+        "before": 5,
+        "during": 10,
+        "after": 4
       },
       {
         "name": "Citylights",
-        "before": 4,
-        "during": 8,
-        "after": 3
+        "before": 6,
+        "during": 12,
+        "after": 5
       },
       {
         "name": "Jab We Met",
-        "before": 4,
-        "during": 8,
-        "after": 3
+        "before": 7,
+        "during": 14,
+        "after": 6
       },
       {
         "name": "Back to Back",
-        "before": 4,
-        "during": 8,
-        "after": 3
+        "before": 8,
+        "during": 16,
+        "after": 7
       }
     ],
     "weekly": [
       {
         "name": "Superfast",
-        "before": 28,
-        "during": 56,
-        "after": 21
+        "before": 21,
+        "during": 42,
+        "after": 14
       },
       {
         "name": "Timepass",
@@ -172,35 +172,35 @@ const DATA = {
       },
       {
         "name": "Josh Junction",
-        "before": 28,
-        "during": 56,
-        "after": 21
+        "before": 35,
+        "during": 70,
+        "after": 28
       },
       {
         "name": "Citylights",
-        "before": 28,
-        "during": 56,
-        "after": 21
+        "before": 42,
+        "during": 84,
+        "after": 35
       },
       {
         "name": "Jab We Met",
-        "before": 28,
-        "during": 56,
-        "after": 21
+        "before": 49,
+        "during": 98,
+        "after": 42
       },
       {
         "name": "Back to Back",
-        "before": 28,
-        "during": 56,
-        "after": 21
+        "before": 56,
+        "during": 112,
+        "after": 49
       }
     ],
     "monthly": [
       {
         "name": "Superfast",
-        "before": 120,
-        "during": 240,
-        "after": 90
+        "before": 90,
+        "during": 180,
+        "after": 60
       },
       {
         "name": "Timepass",
@@ -210,27 +210,27 @@ const DATA = {
       },
       {
         "name": "Josh Junction",
-        "before": 120,
-        "during": 240,
-        "after": 90
+        "before": 150,
+        "during": 300,
+        "after": 120
       },
       {
         "name": "Citylights",
-        "before": 120,
-        "during": 240,
-        "after": 90
+        "before": 180,
+        "during": 360,
+        "after": 150
       },
       {
         "name": "Jab We Met",
-        "before": 120,
-        "during": 240,
-        "after": 90
+        "before": 210,
+        "during": 420,
+        "after": 180
       },
       {
         "name": "Back to Back",
-        "before": 120,
-        "during": 240,
-        "after": 90
+        "before": 240,
+        "during": 480,
+        "after": 210
       }
     ]
   }

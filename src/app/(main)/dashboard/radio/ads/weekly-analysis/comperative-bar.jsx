@@ -29,9 +29,9 @@ const RadioSectorAnalysis = () => {
   };
 
   const months = [
-    { value: "jan24", label: "January 2024" },
-    { value: "feb24", label: "February 2024" },
-    { value: "mar24", label: "March 2024" },
+    { value: "jan24", label: "January 2024", shortLabel: "Jan" },
+    { value: "feb24", label: "February 2024", shortLabel: "Feb" },
+    { value: "mar24", label: "March 2024", shortLabel: "Mar" },
   ];
 
   const regions = [
@@ -216,6 +216,25 @@ const RadioSectorAnalysis = () => {
     );
   }, [filteredData]);
 
+
+  const formatSelectedMonths = (selected) => {
+    if (selected.length === 0) return "Select months";
+    if (selected.length === 3) return "Quarter 1";
+    
+    return selected
+      .map(month => months.find(m => m.value === month)?.shortLabel)
+      .sort((a, b) => months.findIndex(m => m.shortLabel === a) - months.findIndex(m => m.shortLabel === b))
+      .join("-");
+  };
+
+  // const handleMonthSelection = (value) => {
+  //   if (selectedMonths.includes(value)) {
+  //     setSelectedMonths(selectedMonths.filter(month => month !== value));
+  //   } else {
+  //     setSelectedMonths([...selectedMonths, value]);
+  //   }
+  // };
+
   return (
     <Card className="w-full bg-gradient-to-br from-gray-50/50 to-gray-100/50 backdrop-blur-xl">
       <CardHeader className="pb-2">
@@ -236,31 +255,33 @@ const RadioSectorAnalysis = () => {
           <div className="flex items-center gap-4">
             <Filter className="h-6 w-6 text-primary/60" />
             <div className="flex gap-2">
-              <Select
-                value={selectedMonths[0]}
-                onValueChange={handleMonthSelection}
-              >
-                <SelectTrigger className="w-40">
-                  <SelectValue placeholder="Select months" />
-                </SelectTrigger>
-                <SelectContent>
-                  {months.map((month) => (
-                    <SelectItem 
-                      key={month.value} 
-                      value={month.value}
-                      className="flex items-center gap-2"
-                    >
-                      <input
-                        type="checkbox"
-                        checked={selectedMonths.includes(month.value)}
-                        onChange={() => {}}
-                        className="mr-2"
-                      />
-                      {month.label}
-                    </SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
+            <Select
+            value={selectedMonths[0]}
+            onValueChange={handleMonthSelection}
+          >
+            <SelectTrigger className="w-40">
+              <SelectValue>
+                {formatSelectedMonths(selectedMonths)}
+              </SelectValue>
+            </SelectTrigger>
+            <SelectContent>
+              {months.map((month) => (
+                <SelectItem 
+                  key={month.value} 
+                  value={month.value}
+                  className="flex items-center gap-2"
+                >
+                  <input
+                    type="checkbox"
+                    checked={selectedMonths.includes(month.value)}
+                    onChange={() => {}}
+                    className="mr-2"
+                  />
+                  {month.label}
+                </SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
               <Select value={selectedRegion} onValueChange={setSelectedRegion}>
                 <SelectTrigger className="w-36">
                   <SelectValue placeholder="Select region" />

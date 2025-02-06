@@ -2877,7 +2877,7 @@ export const epgData = [
     "start": "10:50:16",
     "end": "10:50:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tkMDZLhEv-aauIIDzhjvIMa7UospqpvO/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -4287,7 +4287,7 @@ export const epgData = [
     "start": "11:19:06",
     "end": "11:19:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Yw7tPyBRygVURpMJIAG5SUB265SYJdD9/preview"
   },
   {
     "program": " Duur ,Strings,Duur (Raag.Fm),2000,Bayshore,Indie Pop",
@@ -6577,7 +6577,7 @@ export const epgData = [
     "start": "12:36:46",
     "end": "12:38:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1WV45snajc7QOleWciHOqjvJ-18uIVCA1/preview"
   },
   {
     "program": " Hawa Mein Udta Jaaye,Bombay Vikings,Hawa Mein Udta Jaaye,2022,Universal Music,Club",
@@ -6587,7 +6587,7 @@ export const epgData = [
     "start": "12:38:06",
     "end": "12:38:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1WV45snajc7QOleWciHOqjvJ-18uIVCA1/preview"
   },
   {
     "program": " Hawa Mein Udta Jaaye,Bombay Vikings,Hawa Mein Udta Jaaye,2022,Universal Music,Club",
@@ -6597,7 +6597,7 @@ export const epgData = [
     "start": "12:38:11",
     "end": "12:39:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1WV45snajc7QOleWciHOqjvJ-18uIVCA1/preview"
   },
   {
     "program": " Hawa Mein Udta Jaaye,Bombay Vikings,Hawa Mein Udta Jaaye,2022,Universal Music,Club",
@@ -6607,7 +6607,7 @@ export const epgData = [
     "start": "12:39:01",
     "end": "12:40:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1WV45snajc7QOleWciHOqjvJ-18uIVCA1/preview"
   },
   {
     "program": " Hawa Mein Udta Jaaye,Bombay Vikings,Hawa Mein Udta Jaaye,2022,Universal Music,Club",
@@ -6617,7 +6617,7 @@ export const epgData = [
     "start": "12:40:06",
     "end": "12:40:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1WV45snajc7QOleWciHOqjvJ-18uIVCA1/preview"
   },
   {
     "program": " Hawa Mein Udta Jaaye,Bombay Vikings,Hawa Mein Udta Jaaye,2022,Universal Music,Club",
@@ -6627,7 +6627,7 @@ export const epgData = [
     "start": "12:40:11",
     "end": "12:40:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1WV45snajc7QOleWciHOqjvJ-18uIVCA1/preview"
   },
   {
     "program": " Hawa Mein Udta Jaaye,Bombay Vikings,Hawa Mein Udta Jaaye,2022,Universal Music,Club",
@@ -6637,7 +6637,7 @@ export const epgData = [
     "start": "12:40:16",
     "end": "12:40:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1WV45snajc7QOleWciHOqjvJ-18uIVCA1/preview"
   },
   {
     "program": " Loveyapa Ho Gaya,Khushi K & Junaid K & Nakash & Madhubanti & White Noise Collectives & Bosco,Loveyapa,2025,Zee Music Company,Bollywood",
@@ -6687,7 +6687,7 @@ export const epgData = [
     "start": "12:43:01",
     "end": "12:43:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1JSCGJUFa0ABmJgaJRZPg706dphd5q2eq/preview"
   },
   {
     "program": " Loveyapa Ho Gaya,Khushi K & Junaid K & Nakash & Madhubanti & White Noise Collectives & Bosco,Loveyapa,2025,Zee Music Company,Bollywood",
@@ -7077,7 +7077,7 @@ export const epgData = [
     "start": "13:00:51",
     "end": "13:11:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7087,7 +7087,7 @@ export const epgData = [
     "start": "13:11:46",
     "end": "13:11:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7097,7 +7097,7 @@ export const epgData = [
     "start": "13:11:51",
     "end": "13:11:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7107,7 +7107,7 @@ export const epgData = [
     "start": "13:11:56",
     "end": "13:12:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7117,7 +7117,7 @@ export const epgData = [
     "start": "13:12:01",
     "end": "13:12:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7127,7 +7127,7 @@ export const epgData = [
     "start": "13:12:06",
     "end": "13:12:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7137,7 +7137,7 @@ export const epgData = [
     "start": "13:12:11",
     "end": "13:12:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7147,7 +7147,7 @@ export const epgData = [
     "start": "13:12:16",
     "end": "13:12:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7157,7 +7157,7 @@ export const epgData = [
     "start": "13:12:21",
     "end": "13:12:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7167,7 +7167,7 @@ export const epgData = [
     "start": "13:12:26",
     "end": "13:12:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7177,7 +7177,7 @@ export const epgData = [
     "start": "13:12:31",
     "end": "13:12:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7187,7 +7187,7 @@ export const epgData = [
     "start": "13:12:36",
     "end": "13:12:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7197,7 +7197,7 @@ export const epgData = [
     "start": "13:12:41",
     "end": "13:12:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7207,7 +7207,7 @@ export const epgData = [
     "start": "13:12:56",
     "end": "13:13:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7217,7 +7217,7 @@ export const epgData = [
     "start": "13:13:01",
     "end": "13:13:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7227,7 +7227,7 @@ export const epgData = [
     "start": "13:13:06",
     "end": "13:13:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7237,7 +7237,7 @@ export const epgData = [
     "start": "13:13:21",
     "end": "13:13:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7247,7 +7247,7 @@ export const epgData = [
     "start": "13:13:26",
     "end": "13:13:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7257,7 +7257,7 @@ export const epgData = [
     "start": "13:13:31",
     "end": "13:13:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7267,7 +7267,7 @@ export const epgData = [
     "start": "13:13:36",
     "end": "13:13:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7277,7 +7277,7 @@ export const epgData = [
     "start": "13:13:41",
     "end": "13:13:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7287,7 +7287,7 @@ export const epgData = [
     "start": "13:13:46",
     "end": "13:14:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7297,7 +7297,7 @@ export const epgData = [
     "start": "13:14:01",
     "end": "13:14:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7307,7 +7307,7 @@ export const epgData = [
     "start": "13:14:16",
     "end": "13:14:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Nain Matakka,Diljit Dosanjh & Dhee,Baby John,2024,Zee Music,Bollywood",
@@ -7317,7 +7317,7 @@ export const epgData = [
     "start": "13:14:21",
     "end": "13:14:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Sb0fs8sKwpWTj9C5Eg0bA4s4_BNOrAaF/preview"
   },
   {
     "program": " Muzart Disco,Entertainment,,Miscellaneous",
@@ -10957,7 +10957,7 @@ export const epgData = [
     "start": "15:39:46",
     "end": "15:40:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1JIePog7-mE3mPI2PYPdvhR1JhwKgPJCa/preview"
   },
   {
     "program": " Ishq Hai,Anurag Saikia,Mismatched - Season 3,2024,Ishtar,Pop",
@@ -11267,7 +11267,7 @@ export const epgData = [
     "start": "15:49:26",
     "end": "15:50:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -11277,7 +11277,7 @@ export const epgData = [
     "start": "15:50:31",
     "end": "15:50:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -11287,7 +11287,7 @@ export const epgData = [
     "start": "15:50:51",
     "end": "15:53:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -11297,7 +11297,7 @@ export const epgData = [
     "start": "15:53:11",
     "end": "15:53:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -11307,7 +11307,7 @@ export const epgData = [
     "start": "15:53:16",
     "end": "15:53:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -11317,7 +11317,7 @@ export const epgData = [
     "start": "15:53:21",
     "end": "15:53:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Mere Mehboob Mere Sanam,Udit Narayan and Alka Yagnik,Duplicate,1998,Saregama,Bollywood",
@@ -11327,7 +11327,7 @@ export const epgData = [
     "start": "15:53:26",
     "end": "15:54:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob Mere Sanam,Udit Narayan and Alka Yagnik,Duplicate,1998,Saregama,Bollywood",
@@ -11337,7 +11337,7 @@ export const epgData = [
     "start": "15:54:26",
     "end": "15:54:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob Mere Sanam,Udit Narayan and Alka Yagnik,Duplicate,1998,Saregama,Bollywood",
@@ -11347,7 +11347,7 @@ export const epgData = [
     "start": "15:54:31",
     "end": "15:54:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob Mere Sanam,Udit Narayan and Alka Yagnik,Duplicate,1998,Saregama,Bollywood",
@@ -11357,7 +11357,7 @@ export const epgData = [
     "start": "15:54:36",
     "end": "15:54:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob Mere Sanam,Udit Narayan and Alka Yagnik,Duplicate,1998,Saregama,Bollywood",
@@ -11367,7 +11367,7 @@ export const epgData = [
     "start": "15:54:41",
     "end": "15:56:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Gajkesari Steel,Construction,TNT Bars,Building Material",
@@ -11567,7 +11567,7 @@ export const epgData = [
     "start": "16:02:36",
     "end": "16:03:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1OR3u_Jw-bft3le2vy4PvTvMAtF3TCRKT/preview"
   },
   {
     "program": " Jugnu ,Badshah,Jugnu,2021,Universal Music,Bollywood",
@@ -11577,7 +11577,7 @@ export const epgData = [
     "start": "16:03:21",
     "end": "16:03:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1OR3u_Jw-bft3le2vy4PvTvMAtF3TCRKT/preview"
   },
   {
     "program": " Jugnu ,Badshah,Jugnu,2021,Universal Music,Bollywood",
@@ -11587,7 +11587,7 @@ export const epgData = [
     "start": "16:03:31",
     "end": "16:04:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1OR3u_Jw-bft3le2vy4PvTvMAtF3TCRKT/preview"
   },
   {
     "program": " Gajkesari Steel,Construction,TNT Bars,Building Material",
@@ -12027,7 +12027,7 @@ export const epgData = [
     "start": "16:18:11",
     "end": "16:18:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12037,7 +12037,7 @@ export const epgData = [
     "start": "16:18:36",
     "end": "16:18:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12047,7 +12047,7 @@ export const epgData = [
     "start": "16:18:41",
     "end": "16:18:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12057,7 +12057,7 @@ export const epgData = [
     "start": "16:18:51",
     "end": "16:19:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12067,7 +12067,7 @@ export const epgData = [
     "start": "16:19:11",
     "end": "16:19:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12077,7 +12077,7 @@ export const epgData = [
     "start": "16:19:16",
     "end": "16:19:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12087,7 +12087,7 @@ export const epgData = [
     "start": "16:19:21",
     "end": "16:19:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12097,7 +12097,7 @@ export const epgData = [
     "start": "16:19:36",
     "end": "16:19:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12107,7 +12107,7 @@ export const epgData = [
     "start": "16:19:51",
     "end": "16:19:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12117,7 +12117,7 @@ export const epgData = [
     "start": "16:19:56",
     "end": "16:20:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12127,7 +12127,7 @@ export const epgData = [
     "start": "16:20:01",
     "end": "16:20:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12137,7 +12137,7 @@ export const epgData = [
     "start": "16:20:06",
     "end": "16:20:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12147,7 +12147,7 @@ export const epgData = [
     "start": "16:20:11",
     "end": "16:20:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12157,7 +12157,7 @@ export const epgData = [
     "start": "16:20:16",
     "end": "16:20:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12167,7 +12167,7 @@ export const epgData = [
     "start": "16:20:36",
     "end": "16:20:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12177,7 +12177,7 @@ export const epgData = [
     "start": "16:20:41",
     "end": "16:20:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Shona Shona,Tony Kakkar,Shona Shona,2020,Desi Music Factory,Hip Hop",
@@ -12187,7 +12187,7 @@ export const epgData = [
     "start": "16:20:46",
     "end": "16:20:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/11FOQTi7EW74xPu1FFCo3zXSZ_qJLfEdn/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12197,7 +12197,7 @@ export const epgData = [
     "start": "16:20:51",
     "end": "16:21:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12207,7 +12207,7 @@ export const epgData = [
     "start": "16:21:26",
     "end": "16:21:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12217,7 +12217,7 @@ export const epgData = [
     "start": "16:21:31",
     "end": "16:21:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12227,7 +12227,7 @@ export const epgData = [
     "start": "16:21:36",
     "end": "16:21:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12237,7 +12237,7 @@ export const epgData = [
     "start": "16:21:46",
     "end": "16:21:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12247,7 +12247,7 @@ export const epgData = [
     "start": "16:21:56",
     "end": "16:22:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12257,7 +12257,7 @@ export const epgData = [
     "start": "16:22:01",
     "end": "16:22:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12267,7 +12267,7 @@ export const epgData = [
     "start": "16:22:06",
     "end": "16:22:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12277,7 +12277,7 @@ export const epgData = [
     "start": "16:22:11",
     "end": "16:22:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12287,7 +12287,7 @@ export const epgData = [
     "start": "16:22:26",
     "end": "16:22:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12297,7 +12297,7 @@ export const epgData = [
     "start": "16:22:31",
     "end": "16:22:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Chaand Baaliyan,Aditya A,Chaand Baaliyan,2020,Aditya A,Pop",
@@ -12307,7 +12307,7 @@ export const epgData = [
     "start": "16:22:41",
     "end": "16:22:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ScHJBjKu7GE1pZ3aQ2cGTdPV7P7KC5eZ/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -12317,7 +12317,7 @@ export const epgData = [
     "start": "16:22:46",
     "end": "16:23:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -12327,7 +12327,7 @@ export const epgData = [
     "start": "16:23:16",
     "end": "16:24:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -12337,7 +12337,7 @@ export const epgData = [
     "start": "16:24:01",
     "end": "16:24:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -12347,7 +12347,7 @@ export const epgData = [
     "start": "16:24:16",
     "end": "16:24:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Chandukaka Saraf Jewellers,Jewellery,,Accessory - Jewellery",
@@ -12627,7 +12627,7 @@ export const epgData = [
     "start": "16:33:46",
     "end": "16:34:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12637,7 +12637,7 @@ export const epgData = [
     "start": "16:34:11",
     "end": "16:34:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12647,7 +12647,7 @@ export const epgData = [
     "start": "16:34:16",
     "end": "16:34:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12657,7 +12657,7 @@ export const epgData = [
     "start": "16:34:26",
     "end": "16:34:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12667,7 +12667,7 @@ export const epgData = [
     "start": "16:34:36",
     "end": "16:34:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " Union Bank,Banking,Home Loan,Finance - Loans",
@@ -12687,7 +12687,7 @@ export const epgData = [
     "start": "16:34:46",
     "end": "16:34:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12697,7 +12697,7 @@ export const epgData = [
     "start": "16:34:51",
     "end": "16:34:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12707,7 +12707,7 @@ export const epgData = [
     "start": "16:34:56",
     "end": "16:35:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12717,7 +12717,7 @@ export const epgData = [
     "start": "16:35:01",
     "end": "16:35:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12727,7 +12727,7 @@ export const epgData = [
     "start": "16:35:21",
     "end": "16:35:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12737,7 +12737,7 @@ export const epgData = [
     "start": "16:35:41",
     "end": "16:35:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12747,7 +12747,7 @@ export const epgData = [
     "start": "16:35:46",
     "end": "16:35:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " OOPS ,King,OOPS,2022,WMG,Bollywood",
@@ -12757,7 +12757,7 @@ export const epgData = [
     "start": "16:35:51",
     "end": "16:36:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jzChE_XWitpcssWh8EC5TFS4hTf11g8j/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12767,7 +12767,7 @@ export const epgData = [
     "start": "16:36:26",
     "end": "16:37:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12777,7 +12777,7 @@ export const epgData = [
     "start": "16:37:21",
     "end": "16:37:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12787,7 +12787,7 @@ export const epgData = [
     "start": "16:37:31",
     "end": "16:37:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12797,7 +12797,7 @@ export const epgData = [
     "start": "16:37:41",
     "end": "16:37:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12807,7 +12807,7 @@ export const epgData = [
     "start": "16:37:46",
     "end": "16:37:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12817,7 +12817,7 @@ export const epgData = [
     "start": "16:37:56",
     "end": "16:38:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12827,7 +12827,7 @@ export const epgData = [
     "start": "16:38:01",
     "end": "16:38:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12837,7 +12837,7 @@ export const epgData = [
     "start": "16:38:06",
     "end": "16:38:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12847,7 +12847,7 @@ export const epgData = [
     "start": "16:38:11",
     "end": "16:39:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12857,7 +12857,7 @@ export const epgData = [
     "start": "16:39:01",
     "end": "16:39:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12867,7 +12867,7 @@ export const epgData = [
     "start": "16:39:06",
     "end": "16:39:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12877,7 +12877,7 @@ export const epgData = [
     "start": "16:39:11",
     "end": "16:39:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Chamkeela Chehra,Badshah,Retropanda  Part 1,2022,Universal Music,Bollywood",
@@ -12887,7 +12887,7 @@ export const epgData = [
     "start": "16:39:21",
     "end": "16:39:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mGfa1qN0NYHyjXk1R1SN2GEazazEO1YB/preview"
   },
   {
     "program": " Palmonas Jewellers,Jewellery,,Accessories - Jewellery",
@@ -13317,7 +13317,7 @@ export const epgData = [
     "start": "16:56:11",
     "end": "16:56:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13327,7 +13327,7 @@ export const epgData = [
     "start": "16:56:16",
     "end": "17:04:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13337,7 +13337,7 @@ export const epgData = [
     "start": "17:04:26",
     "end": "17:04:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13347,7 +13347,7 @@ export const epgData = [
     "start": "17:04:31",
     "end": "17:04:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13357,7 +13357,7 @@ export const epgData = [
     "start": "17:04:36",
     "end": "17:04:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13367,7 +13367,7 @@ export const epgData = [
     "start": "17:04:41",
     "end": "17:04:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13377,7 +13377,7 @@ export const epgData = [
     "start": "17:04:46",
     "end": "17:04:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13387,7 +13387,7 @@ export const epgData = [
     "start": "17:04:51",
     "end": "17:04:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13397,7 +13397,7 @@ export const epgData = [
     "start": "17:04:56",
     "end": "17:05:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13407,7 +13407,7 @@ export const epgData = [
     "start": "17:05:01",
     "end": "17:05:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13417,7 +13417,7 @@ export const epgData = [
     "start": "17:05:06",
     "end": "17:05:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13427,7 +13427,7 @@ export const epgData = [
     "start": "17:05:16",
     "end": "17:05:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13437,7 +13437,7 @@ export const epgData = [
     "start": "17:05:21",
     "end": "17:05:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13447,7 +13447,7 @@ export const epgData = [
     "start": "17:05:26",
     "end": "17:05:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13457,7 +13457,7 @@ export const epgData = [
     "start": "17:05:31",
     "end": "17:05:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13467,7 +13467,7 @@ export const epgData = [
     "start": "17:05:41",
     "end": "17:05:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13477,7 +13477,7 @@ export const epgData = [
     "start": "17:05:46",
     "end": "17:05:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13487,7 +13487,7 @@ export const epgData = [
     "start": "17:05:51",
     "end": "17:05:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -13497,7 +13497,7 @@ export const epgData = [
     "start": "17:05:56",
     "end": "17:06:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Gajkesari Steel,Construction,TNT Bars,Building Material",
@@ -14707,7 +14707,7 @@ export const epgData = [
     "start": "17:34:21",
     "end": "17:35:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14717,7 +14717,7 @@ export const epgData = [
     "start": "17:35:11",
     "end": "17:35:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14727,7 +14727,7 @@ export const epgData = [
     "start": "17:35:16",
     "end": "17:35:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14737,7 +14737,7 @@ export const epgData = [
     "start": "17:35:21",
     "end": "17:35:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14747,7 +14747,7 @@ export const epgData = [
     "start": "17:35:26",
     "end": "17:35:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14757,7 +14757,7 @@ export const epgData = [
     "start": "17:35:31",
     "end": "17:35:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14767,7 +14767,7 @@ export const epgData = [
     "start": "17:35:36",
     "end": "17:35:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14777,7 +14777,7 @@ export const epgData = [
     "start": "17:35:41",
     "end": "17:35:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14787,7 +14787,7 @@ export const epgData = [
     "start": "17:35:46",
     "end": "17:35:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14797,7 +14797,7 @@ export const epgData = [
     "start": "17:35:51",
     "end": "17:35:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14807,7 +14807,7 @@ export const epgData = [
     "start": "17:35:56",
     "end": "17:36:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14817,7 +14817,7 @@ export const epgData = [
     "start": "17:36:01",
     "end": "17:36:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14827,7 +14827,7 @@ export const epgData = [
     "start": "17:36:06",
     "end": "17:36:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14837,7 +14837,7 @@ export const epgData = [
     "start": "17:36:11",
     "end": "17:36:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14847,7 +14847,7 @@ export const epgData = [
     "start": "17:36:16",
     "end": "17:36:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14857,7 +14857,7 @@ export const epgData = [
     "start": "17:36:31",
     "end": "17:36:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14867,7 +14867,7 @@ export const epgData = [
     "start": "17:36:36",
     "end": "17:36:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14877,7 +14877,7 @@ export const epgData = [
     "start": "17:36:41",
     "end": "17:36:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14887,7 +14887,7 @@ export const epgData = [
     "start": "17:36:46",
     "end": "17:36:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14897,7 +14897,7 @@ export const epgData = [
     "start": "17:36:51",
     "end": "17:36:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14907,7 +14907,7 @@ export const epgData = [
     "start": "17:36:56",
     "end": "17:37:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14917,7 +14917,7 @@ export const epgData = [
     "start": "17:37:01",
     "end": "17:37:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14927,7 +14927,7 @@ export const epgData = [
     "start": "17:37:16",
     "end": "17:37:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -14937,7 +14937,7 @@ export const epgData = [
     "start": "17:37:21",
     "end": "17:37:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Gajkesari Steel,Construction,TNT Bars,Building Material",
@@ -16777,7 +16777,7 @@ export const epgData = [
     "start": "18:36:21",
     "end": "18:38:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -16787,7 +16787,7 @@ export const epgData = [
     "start": "18:38:16",
     "end": "18:40:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -16797,7 +16797,7 @@ export const epgData = [
     "start": "18:40:06",
     "end": "18:40:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Gajkesari TNT Bars,Construction,,Building Materials",
@@ -17127,7 +17127,7 @@ export const epgData = [
     "start": "18:47:31",
     "end": "18:55:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1fRt5l-GJwWOECcsLdwopetCa4WH13ArG/preview"
   },
   {
     "program": " Marathi Cine Awards,Entertainment,,Miscellaneous",
@@ -17517,7 +17517,7 @@ export const epgData = [
     "start": "19:00:51",
     "end": "19:02:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -17527,7 +17527,7 @@ export const epgData = [
     "start": "19:02:36",
     "end": "19:02:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -17537,7 +17537,7 @@ export const epgData = [
     "start": "19:02:41",
     "end": "19:02:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -17547,7 +17547,7 @@ export const epgData = [
     "start": "19:02:46",
     "end": "19:02:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -17557,7 +17557,7 @@ export const epgData = [
     "start": "19:02:51",
     "end": "19:02:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -17567,7 +17567,7 @@ export const epgData = [
     "start": "19:02:56",
     "end": "19:03:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -17577,7 +17577,7 @@ export const epgData = [
     "start": "19:03:01",
     "end": "19:03:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -17587,7 +17587,7 @@ export const epgData = [
     "start": "19:03:06",
     "end": "19:03:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -17597,7 +17597,7 @@ export const epgData = [
     "start": "19:03:41",
     "end": "19:03:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Patanjali,FMCG,Chyavanprash,Food",
@@ -17617,7 +17617,7 @@ export const epgData = [
     "start": "19:04:11",
     "end": "19:04:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Dhak Dhuk,Amit Trivedi,English Vinglish,2012,T-Series & Eros Music,Bollywood",
@@ -17627,7 +17627,7 @@ export const epgData = [
     "start": "19:04:56",
     "end": "19:05:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1FOLjeNG5w4LsA7ITgIyvZPMCd153TO5K/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -18667,7 +18667,7 @@ export const epgData = [
     "start": "19:29:16",
     "end": "19:34:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1880-z0_2eStLmemngjL8Bvth0dOVwmgc/preview"
   },
   {
     "program": " Tumhare Hi Rahenge Hum,Amitabh Bhattacharya and Sachin-Jigar and Shilpa Rao and Varun Jain,Stree 2,2024,Saregama,Bollywood",
@@ -18677,7 +18677,7 @@ export const epgData = [
     "start": "19:34:11",
     "end": "19:34:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1880-z0_2eStLmemngjL8Bvth0dOVwmgc/preview"
   },
   {
     "program": " Tumhare Hi Rahenge Hum,Amitabh Bhattacharya and Sachin-Jigar and Shilpa Rao and Varun Jain,Stree 2,2024,Saregama,Bollywood",
@@ -18687,7 +18687,7 @@ export const epgData = [
     "start": "19:34:31",
     "end": "19:34:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1880-z0_2eStLmemngjL8Bvth0dOVwmgc/preview"
   },
   {
     "program": " Tumhare Hi Rahenge Hum,Amitabh Bhattacharya and Sachin-Jigar and Shilpa Rao and Varun Jain,Stree 2,2024,Saregama,Bollywood",
@@ -18697,7 +18697,7 @@ export const epgData = [
     "start": "19:34:36",
     "end": "19:34:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1880-z0_2eStLmemngjL8Bvth0dOVwmgc/preview"
   },
   {
     "program": " Tumhare Hi Rahenge Hum,Amitabh Bhattacharya and Sachin-Jigar and Shilpa Rao and Varun Jain,Stree 2,2024,Saregama,Bollywood",
@@ -18707,7 +18707,7 @@ export const epgData = [
     "start": "19:34:41",
     "end": "19:34:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1880-z0_2eStLmemngjL8Bvth0dOVwmgc/preview"
   },
   {
     "program": " Tumhare Hi Rahenge Hum,Amitabh Bhattacharya and Sachin-Jigar and Shilpa Rao and Varun Jain,Stree 2,2024,Saregama,Bollywood",
@@ -18717,7 +18717,7 @@ export const epgData = [
     "start": "19:34:46",
     "end": "19:34:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1880-z0_2eStLmemngjL8Bvth0dOVwmgc/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -19237,7 +19237,7 @@ export const epgData = [
     "start": "19:53:21",
     "end": "19:54:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1fRt5l-GJwWOECcsLdwopetCa4WH13ArG/preview"
   },
   {
     "program": " Marathi Cine Awards,Entertainment,,Miscellaneous",
@@ -19757,7 +19757,7 @@ export const epgData = [
     "start": "20:02:46",
     "end": "20:06:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1fRt5l-GJwWOECcsLdwopetCa4WH13ArG/preview"
   },
   {
     "program": " Gajkesari Steel,Construction,TNT Bars,Building Material",
@@ -20637,7 +20637,7 @@ export const epgData = [
     "start": "20:30:01",
     "end": "20:31:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -20647,7 +20647,7 @@ export const epgData = [
     "start": "20:31:31",
     "end": "20:31:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -20657,7 +20657,7 @@ export const epgData = [
     "start": "20:31:46",
     "end": "20:31:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -20667,7 +20667,7 @@ export const epgData = [
     "start": "20:31:51",
     "end": "20:34:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -20677,7 +20677,7 @@ export const epgData = [
     "start": "20:34:11",
     "end": "20:34:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Ishq Mein,Sachet Tandon & Asees Kaur & Sachin-Jigar,Nadaaniyan,2025,Sony Music,Bollywood",
@@ -20687,7 +20687,7 @@ export const epgData = [
     "start": "20:34:16",
     "end": "20:34:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1qtdloi8OoSnYaACbIaehtLkrCctYkkA6/preview"
   },
   {
     "program": " Gajkesari Steel,Construction,TNT Bars,Building Material",
@@ -21167,7 +21167,7 @@ export const epgData = [
     "start": "20:43:51",
     "end": "20:44:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -21177,7 +21177,7 @@ export const epgData = [
     "start": "20:44:16",
     "end": "20:44:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -21187,7 +21187,7 @@ export const epgData = [
     "start": "20:44:26",
     "end": "20:44:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -21197,7 +21197,7 @@ export const epgData = [
     "start": "20:44:31",
     "end": "20:44:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -21207,7 +21207,7 @@ export const epgData = [
     "start": "20:44:36",
     "end": "20:44:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -21217,7 +21217,7 @@ export const epgData = [
     "start": "20:44:51",
     "end": "20:44:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -21227,7 +21227,7 @@ export const epgData = [
     "start": "20:44:56",
     "end": "20:45:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -21237,7 +21237,7 @@ export const epgData = [
     "start": "20:45:01",
     "end": "20:45:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -21247,7 +21247,7 @@ export const epgData = [
     "start": "20:45:06",
     "end": "20:45:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -21257,7 +21257,7 @@ export const epgData = [
     "start": "20:45:46",
     "end": "20:46:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Muzart Disco,Entertainment,,Miscellaneous",
@@ -22412,7 +22412,7 @@ export const epgData = [
     "start": "09:43:41",
     "end": "09:44:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nVMcU6ay0w1lUCnY2WSFkz9p6kIqVb84/preview"
   },
   {
     "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
@@ -22422,7 +22422,7 @@ export const epgData = [
     "start": "09:44:31",
     "end": "09:44:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nVMcU6ay0w1lUCnY2WSFkz9p6kIqVb84/preview"
   },
   {
     "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
@@ -22432,7 +22432,7 @@ export const epgData = [
     "start": "09:44:36",
     "end": "09:44:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nVMcU6ay0w1lUCnY2WSFkz9p6kIqVb84/preview"
   },
   {
     "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
@@ -22442,7 +22442,7 @@ export const epgData = [
     "start": "09:44:51",
     "end": "09:45:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nVMcU6ay0w1lUCnY2WSFkz9p6kIqVb84/preview"
   },
   {
     "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
@@ -22452,7 +22452,7 @@ export const epgData = [
     "start": "09:45:01",
     "end": "09:45:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nVMcU6ay0w1lUCnY2WSFkz9p6kIqVb84/preview"
   },
   {
     "program": " Naah,Harrdy Sandhu,Naah,2017,Sony Music,Punjabi",
@@ -22462,7 +22462,7 @@ export const epgData = [
     "start": "09:45:06",
     "end": "09:46:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nVMcU6ay0w1lUCnY2WSFkz9p6kIqVb84/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22472,7 +22472,7 @@ export const epgData = [
     "start": "09:46:01",
     "end": "09:46:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22482,7 +22482,7 @@ export const epgData = [
     "start": "09:46:56",
     "end": "09:47:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22492,7 +22492,7 @@ export const epgData = [
     "start": "09:47:06",
     "end": "09:47:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22502,7 +22502,7 @@ export const epgData = [
     "start": "09:47:11",
     "end": "09:47:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22512,7 +22512,7 @@ export const epgData = [
     "start": "09:47:16",
     "end": "09:47:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22522,7 +22522,7 @@ export const epgData = [
     "start": "09:47:21",
     "end": "09:47:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22532,7 +22532,7 @@ export const epgData = [
     "start": "09:47:26",
     "end": "09:47:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22542,7 +22542,7 @@ export const epgData = [
     "start": "09:47:41",
     "end": "09:47:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22552,7 +22552,7 @@ export const epgData = [
     "start": "09:47:46",
     "end": "09:47:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22562,7 +22562,7 @@ export const epgData = [
     "start": "09:47:51",
     "end": "09:47:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22572,7 +22572,7 @@ export const epgData = [
     "start": "09:47:56",
     "end": "09:48:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22582,7 +22582,7 @@ export const epgData = [
     "start": "09:48:36",
     "end": "09:48:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -22592,7 +22592,7 @@ export const epgData = [
     "start": "09:48:51",
     "end": "09:49:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
@@ -22962,7 +22962,7 @@ export const epgData = [
     "start": "09:57:21",
     "end": "10:06:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -22972,7 +22972,7 @@ export const epgData = [
     "start": "10:06:06",
     "end": "10:06:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -22982,7 +22982,7 @@ export const epgData = [
     "start": "10:06:16",
     "end": "10:06:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -22992,7 +22992,7 @@ export const epgData = [
     "start": "10:06:21",
     "end": "10:06:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -23002,7 +23002,7 @@ export const epgData = [
     "start": "10:06:26",
     "end": "10:06:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -23012,7 +23012,7 @@ export const epgData = [
     "start": "10:06:31",
     "end": "10:06:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -23022,7 +23022,7 @@ export const epgData = [
     "start": "10:06:41",
     "end": "10:06:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -23032,7 +23032,7 @@ export const epgData = [
     "start": "10:06:46",
     "end": "10:07:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -23042,7 +23042,7 @@ export const epgData = [
     "start": "10:07:01",
     "end": "10:07:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -23052,7 +23052,7 @@ export const epgData = [
     "start": "10:07:16",
     "end": "10:07:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -23062,7 +23062,7 @@ export const epgData = [
     "start": "10:07:36",
     "end": "10:07:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -23072,7 +23072,7 @@ export const epgData = [
     "start": "10:07:41",
     "end": "10:07:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -23082,7 +23082,7 @@ export const epgData = [
     "start": "10:07:46",
     "end": "10:08:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -23462,7 +23462,7 @@ export const epgData = [
     "start": "10:18:11",
     "end": "10:19:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23472,7 +23472,7 @@ export const epgData = [
     "start": "10:19:31",
     "end": "10:19:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23482,7 +23482,7 @@ export const epgData = [
     "start": "10:19:36",
     "end": "10:19:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23492,7 +23492,7 @@ export const epgData = [
     "start": "10:19:46",
     "end": "10:20:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23502,7 +23502,7 @@ export const epgData = [
     "start": "10:20:01",
     "end": "10:20:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23512,7 +23512,7 @@ export const epgData = [
     "start": "10:20:06",
     "end": "10:20:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23522,7 +23522,7 @@ export const epgData = [
     "start": "10:20:11",
     "end": "10:20:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23532,7 +23532,7 @@ export const epgData = [
     "start": "10:20:46",
     "end": "10:20:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23542,7 +23542,7 @@ export const epgData = [
     "start": "10:20:56",
     "end": "10:21:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23552,7 +23552,7 @@ export const epgData = [
     "start": "10:21:11",
     "end": "10:21:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23562,7 +23562,7 @@ export const epgData = [
     "start": "10:21:31",
     "end": "10:21:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -23572,7 +23572,7 @@ export const epgData = [
     "start": "10:21:41",
     "end": "10:22:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Sensodyne Toothpaste,Healthcare ,,Personal Care",
@@ -23832,7 +23832,7 @@ export const epgData = [
     "start": "10:32:26",
     "end": "10:34:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23842,7 +23842,7 @@ export const epgData = [
     "start": "10:34:01",
     "end": "10:34:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23852,7 +23852,7 @@ export const epgData = [
     "start": "10:34:06",
     "end": "10:34:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23862,7 +23862,7 @@ export const epgData = [
     "start": "10:34:11",
     "end": "10:34:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23872,7 +23872,7 @@ export const epgData = [
     "start": "10:34:16",
     "end": "10:34:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23882,7 +23882,7 @@ export const epgData = [
     "start": "10:34:21",
     "end": "10:34:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23892,7 +23892,7 @@ export const epgData = [
     "start": "10:34:26",
     "end": "10:34:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23902,7 +23902,7 @@ export const epgData = [
     "start": "10:34:31",
     "end": "10:34:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23912,7 +23912,7 @@ export const epgData = [
     "start": "10:34:36",
     "end": "10:34:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23922,7 +23922,7 @@ export const epgData = [
     "start": "10:34:41",
     "end": "10:34:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23932,7 +23932,7 @@ export const epgData = [
     "start": "10:34:51",
     "end": "10:35:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23942,7 +23942,7 @@ export const epgData = [
     "start": "10:35:16",
     "end": "10:35:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23952,7 +23952,7 @@ export const epgData = [
     "start": "10:35:21",
     "end": "10:35:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23962,7 +23962,7 @@ export const epgData = [
     "start": "10:35:31",
     "end": "10:35:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23972,7 +23972,7 @@ export const epgData = [
     "start": "10:35:51",
     "end": "10:35:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23982,7 +23982,7 @@ export const epgData = [
     "start": "10:35:56",
     "end": "10:36:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -23992,7 +23992,7 @@ export const epgData = [
     "start": "10:36:01",
     "end": "10:36:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -24002,7 +24002,7 @@ export const epgData = [
     "start": "10:36:06",
     "end": "10:36:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -24012,7 +24012,7 @@ export const epgData = [
     "start": "10:36:11",
     "end": "10:36:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -24022,7 +24022,7 @@ export const epgData = [
     "start": "10:36:16",
     "end": "10:36:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -24362,7 +24362,7 @@ export const epgData = [
     "start": "10:44:16",
     "end": "10:45:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -24372,7 +24372,7 @@ export const epgData = [
     "start": "10:45:06",
     "end": "10:45:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -24382,7 +24382,7 @@ export const epgData = [
     "start": "10:45:11",
     "end": "10:45:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -24392,7 +24392,7 @@ export const epgData = [
     "start": "10:45:16",
     "end": "10:45:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -24402,7 +24402,7 @@ export const epgData = [
     "start": "10:45:21",
     "end": "10:45:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -24412,7 +24412,7 @@ export const epgData = [
     "start": "10:45:31",
     "end": "10:45:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -24422,7 +24422,7 @@ export const epgData = [
     "start": "10:45:36",
     "end": "10:45:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Shell,Public Works,,Petroleum Products",
@@ -24562,7 +24562,7 @@ export const epgData = [
     "start": "10:55:11",
     "end": "10:56:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24572,7 +24572,7 @@ export const epgData = [
     "start": "10:56:36",
     "end": "10:56:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24582,7 +24582,7 @@ export const epgData = [
     "start": "10:56:41",
     "end": "10:56:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24592,7 +24592,7 @@ export const epgData = [
     "start": "10:56:51",
     "end": "10:56:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24602,7 +24602,7 @@ export const epgData = [
     "start": "10:56:56",
     "end": "10:57:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24612,7 +24612,7 @@ export const epgData = [
     "start": "10:57:01",
     "end": "10:57:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24622,7 +24622,7 @@ export const epgData = [
     "start": "10:57:11",
     "end": "10:57:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24632,7 +24632,7 @@ export const epgData = [
     "start": "10:57:26",
     "end": "10:57:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24642,7 +24642,7 @@ export const epgData = [
     "start": "10:57:41",
     "end": "10:57:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24652,7 +24652,7 @@ export const epgData = [
     "start": "10:57:51",
     "end": "10:57:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24662,7 +24662,7 @@ export const epgData = [
     "start": "10:57:56",
     "end": "10:58:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " LIC,Banking,Housing Finance,Finance - Loans",
@@ -24682,7 +24682,7 @@ export const epgData = [
     "start": "10:59:06",
     "end": "10:59:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Maiyya Mainu,Sachet Tandon,Jersey,2022,Zee Music,Bollywood",
@@ -24692,7 +24692,7 @@ export const epgData = [
     "start": "10:59:11",
     "end": "10:59:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1_pBjwhMSWcRboTOZYYfOoHhptkrMs92P/preview"
   },
   {
     "program": " Prathamesh Resort,Travel,,Travel and Tourism",
@@ -24712,7 +24712,7 @@ export const epgData = [
     "start": "10:59:41",
     "end": "11:01:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/18AvT7DTo7fz2YnzBcVhEwcELsri9vdE4/preview"
   },
   {
     "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
@@ -24722,7 +24722,7 @@ export const epgData = [
     "start": "11:01:51",
     "end": "11:02:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/18AvT7DTo7fz2YnzBcVhEwcELsri9vdE4/preview"
   },
   {
     "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
@@ -24732,7 +24732,7 @@ export const epgData = [
     "start": "11:02:31",
     "end": "11:02:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/18AvT7DTo7fz2YnzBcVhEwcELsri9vdE4/preview"
   },
   {
     "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
@@ -24742,7 +24742,7 @@ export const epgData = [
     "start": "11:02:36",
     "end": "11:02:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/18AvT7DTo7fz2YnzBcVhEwcELsri9vdE4/preview"
   },
   {
     "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
@@ -24752,7 +24752,7 @@ export const epgData = [
     "start": "11:02:41",
     "end": "11:02:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/18AvT7DTo7fz2YnzBcVhEwcELsri9vdE4/preview"
   },
   {
     "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
@@ -24762,7 +24762,7 @@ export const epgData = [
     "start": "11:02:51",
     "end": "11:03:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/18AvT7DTo7fz2YnzBcVhEwcELsri9vdE4/preview"
   },
   {
     "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
@@ -24772,7 +24772,7 @@ export const epgData = [
     "start": "11:03:16",
     "end": "11:03:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/18AvT7DTo7fz2YnzBcVhEwcELsri9vdE4/preview"
   },
   {
     "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
@@ -24782,7 +24782,7 @@ export const epgData = [
     "start": "11:03:36",
     "end": "11:03:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/18AvT7DTo7fz2YnzBcVhEwcELsri9vdE4/preview"
   },
   {
     "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
@@ -24792,7 +24792,7 @@ export const epgData = [
     "start": "11:03:51",
     "end": "11:04:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/18AvT7DTo7fz2YnzBcVhEwcELsri9vdE4/preview"
   },
   {
     "program": " Khoobsurat,Amitabh Bhattacharya and Sachin-Jigar and Vishal Mishra,Stree 2,2024,Saregama,Bollywood",
@@ -24802,7 +24802,7 @@ export const epgData = [
     "start": "11:04:16",
     "end": "11:04:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/18AvT7DTo7fz2YnzBcVhEwcELsri9vdE4/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24812,7 +24812,7 @@ export const epgData = [
     "start": "11:04:21",
     "end": "11:04:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24822,7 +24822,7 @@ export const epgData = [
     "start": "11:04:51",
     "end": "11:04:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24832,7 +24832,7 @@ export const epgData = [
     "start": "11:04:56",
     "end": "11:05:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24842,7 +24842,7 @@ export const epgData = [
     "start": "11:05:01",
     "end": "11:05:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24852,7 +24852,7 @@ export const epgData = [
     "start": "11:05:06",
     "end": "11:05:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24862,7 +24862,7 @@ export const epgData = [
     "start": "11:05:11",
     "end": "11:05:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24872,7 +24872,7 @@ export const epgData = [
     "start": "11:05:16",
     "end": "11:05:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24882,7 +24882,7 @@ export const epgData = [
     "start": "11:05:21",
     "end": "11:05:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24892,7 +24892,7 @@ export const epgData = [
     "start": "11:05:26",
     "end": "11:05:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24902,7 +24902,7 @@ export const epgData = [
     "start": "11:05:31",
     "end": "11:05:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24912,7 +24912,7 @@ export const epgData = [
     "start": "11:05:36",
     "end": "11:05:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24922,7 +24922,7 @@ export const epgData = [
     "start": "11:05:46",
     "end": "11:05:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24932,7 +24932,7 @@ export const epgData = [
     "start": "11:05:51",
     "end": "11:06:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24942,7 +24942,7 @@ export const epgData = [
     "start": "11:06:06",
     "end": "11:06:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24952,7 +24952,7 @@ export const epgData = [
     "start": "11:06:11",
     "end": "11:06:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24962,7 +24962,7 @@ export const epgData = [
     "start": "11:06:16",
     "end": "11:06:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24972,7 +24972,7 @@ export const epgData = [
     "start": "11:06:21",
     "end": "11:06:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24982,7 +24982,7 @@ export const epgData = [
     "start": "11:06:31",
     "end": "11:06:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -24992,7 +24992,7 @@ export const epgData = [
     "start": "11:06:36",
     "end": "11:06:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -25002,7 +25002,7 @@ export const epgData = [
     "start": "11:06:41",
     "end": "11:07:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -25012,7 +25012,7 @@ export const epgData = [
     "start": "11:07:01",
     "end": "11:07:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -25172,7 +25172,7 @@ export const epgData = [
     "start": "11:13:41",
     "end": "11:16:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
@@ -25182,7 +25182,7 @@ export const epgData = [
     "start": "11:16:21",
     "end": "11:16:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
@@ -25192,7 +25192,7 @@ export const epgData = [
     "start": "11:16:26",
     "end": "11:17:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
@@ -25202,7 +25202,7 @@ export const epgData = [
     "start": "11:17:06",
     "end": "11:17:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Alfaazo,Mitraz,Alfaazo,2023,Bang Records,Pop",
@@ -25212,7 +25212,7 @@ export const epgData = [
     "start": "11:17:26",
     "end": "11:21:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1g3L6ellGDodF8xgbujanLyfBPy6HIiEn/preview"
   },
   {
     "program": " Tainu Khabar Nahi,Arijit Singh & Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -25222,7 +25222,7 @@ export const epgData = [
     "start": "11:21:36",
     "end": "11:22:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/19pk6FXvYNxuG_8ksGC4xSLuuDkrBopPT/preview"
   },
   {
     "program": " Tainu Khabar Nahi,Arijit Singh & Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -25232,7 +25232,7 @@ export const epgData = [
     "start": "11:22:21",
     "end": "11:22:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/19pk6FXvYNxuG_8ksGC4xSLuuDkrBopPT/preview"
   },
   {
     "program": " FemCare Fertility,Healthcare,,Services - Medical",
@@ -25752,7 +25752,7 @@ export const epgData = [
     "start": "11:42:21",
     "end": "11:46:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25762,7 +25762,7 @@ export const epgData = [
     "start": "11:46:46",
     "end": "11:46:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25772,7 +25772,7 @@ export const epgData = [
     "start": "11:46:51",
     "end": "11:46:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25782,7 +25782,7 @@ export const epgData = [
     "start": "11:46:56",
     "end": "11:47:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25792,7 +25792,7 @@ export const epgData = [
     "start": "11:47:01",
     "end": "11:47:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25802,7 +25802,7 @@ export const epgData = [
     "start": "11:47:06",
     "end": "11:47:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25812,7 +25812,7 @@ export const epgData = [
     "start": "11:47:16",
     "end": "11:47:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25822,7 +25822,7 @@ export const epgData = [
     "start": "11:47:26",
     "end": "11:47:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25832,7 +25832,7 @@ export const epgData = [
     "start": "11:47:31",
     "end": "11:48:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25842,7 +25842,7 @@ export const epgData = [
     "start": "11:48:36",
     "end": "11:48:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25852,7 +25852,7 @@ export const epgData = [
     "start": "11:48:46",
     "end": "11:48:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " Aaj Ki Raat,Madhubanti Bagchi & Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -25862,7 +25862,7 @@ export const epgData = [
     "start": "11:48:56",
     "end": "11:49:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1GdCy5pNGhdUcVDkS0P1w_QEuziteQXj1/preview"
   },
   {
     "program": " VSG,Real Estate,Legacy One,Property - Commercial",
@@ -26142,7 +26142,7 @@ export const epgData = [
     "start": "11:56:01",
     "end": "12:01:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1P87usE2eDhTa7PvcNWcHcNFEVUlCtcKX/preview"
   },
   {
     "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
@@ -26152,7 +26152,7 @@ export const epgData = [
     "start": "12:01:56",
     "end": "12:02:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1P87usE2eDhTa7PvcNWcHcNFEVUlCtcKX/preview"
   },
   {
     "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
@@ -26162,7 +26162,7 @@ export const epgData = [
     "start": "12:02:01",
     "end": "12:02:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1P87usE2eDhTa7PvcNWcHcNFEVUlCtcKX/preview"
   },
   {
     "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
@@ -26172,7 +26172,7 @@ export const epgData = [
     "start": "12:02:11",
     "end": "12:02:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1P87usE2eDhTa7PvcNWcHcNFEVUlCtcKX/preview"
   },
   {
     "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
@@ -26182,7 +26182,7 @@ export const epgData = [
     "start": "12:02:16",
     "end": "12:03:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1P87usE2eDhTa7PvcNWcHcNFEVUlCtcKX/preview"
   },
   {
     "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
@@ -26192,7 +26192,7 @@ export const epgData = [
     "start": "12:03:31",
     "end": "12:03:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1P87usE2eDhTa7PvcNWcHcNFEVUlCtcKX/preview"
   },
   {
     "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
@@ -26202,7 +26202,7 @@ export const epgData = [
     "start": "12:03:41",
     "end": "12:04:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1P87usE2eDhTa7PvcNWcHcNFEVUlCtcKX/preview"
   },
   {
     "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
@@ -26212,7 +26212,7 @@ export const epgData = [
     "start": "12:04:31",
     "end": "12:04:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1P87usE2eDhTa7PvcNWcHcNFEVUlCtcKX/preview"
   },
   {
     "program": " Chal Wahan Jaate Hain,Arijit Singh,Groove With Arijit Singh,2015,T-Series,Pop",
@@ -26222,7 +26222,7 @@ export const epgData = [
     "start": "12:04:51",
     "end": "12:05:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1P87usE2eDhTa7PvcNWcHcNFEVUlCtcKX/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26232,7 +26232,7 @@ export const epgData = [
     "start": "12:05:06",
     "end": "12:05:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26242,7 +26242,7 @@ export const epgData = [
     "start": "12:05:46",
     "end": "12:05:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26252,7 +26252,7 @@ export const epgData = [
     "start": "12:05:51",
     "end": "12:06:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26262,7 +26262,7 @@ export const epgData = [
     "start": "12:06:06",
     "end": "12:06:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26272,7 +26272,7 @@ export const epgData = [
     "start": "12:06:31",
     "end": "12:06:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26282,7 +26282,7 @@ export const epgData = [
     "start": "12:06:46",
     "end": "12:06:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26292,7 +26292,7 @@ export const epgData = [
     "start": "12:06:51",
     "end": "12:06:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26302,7 +26302,7 @@ export const epgData = [
     "start": "12:06:56",
     "end": "12:07:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26312,7 +26312,7 @@ export const epgData = [
     "start": "12:07:16",
     "end": "12:07:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26322,7 +26322,7 @@ export const epgData = [
     "start": "12:07:21",
     "end": "12:07:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26332,7 +26332,7 @@ export const epgData = [
     "start": "12:07:26",
     "end": "12:07:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -26342,7 +26342,7 @@ export const epgData = [
     "start": "12:07:31",
     "end": "12:07:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -26622,7 +26622,7 @@ export const epgData = [
     "start": "12:14:51",
     "end": "12:15:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tkMDZLhEv-aauIIDzhjvIMa7UospqpvO/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -26632,7 +26632,7 @@ export const epgData = [
     "start": "12:15:51",
     "end": "12:16:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -26642,7 +26642,7 @@ export const epgData = [
     "start": "12:16:06",
     "end": "12:16:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -26652,7 +26652,7 @@ export const epgData = [
     "start": "12:16:31",
     "end": "12:16:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -26662,7 +26662,7 @@ export const epgData = [
     "start": "12:16:46",
     "end": "12:17:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26672,7 +26672,7 @@ export const epgData = [
     "start": "12:17:16",
     "end": "12:19:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26682,7 +26682,7 @@ export const epgData = [
     "start": "12:19:16",
     "end": "12:19:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26692,7 +26692,7 @@ export const epgData = [
     "start": "12:19:21",
     "end": "12:19:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26702,7 +26702,7 @@ export const epgData = [
     "start": "12:19:26",
     "end": "12:19:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26712,7 +26712,7 @@ export const epgData = [
     "start": "12:19:31",
     "end": "12:19:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26722,7 +26722,7 @@ export const epgData = [
     "start": "12:19:36",
     "end": "12:19:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26732,7 +26732,7 @@ export const epgData = [
     "start": "12:19:41",
     "end": "12:19:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26742,7 +26742,7 @@ export const epgData = [
     "start": "12:19:46",
     "end": "12:19:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26752,7 +26752,7 @@ export const epgData = [
     "start": "12:19:56",
     "end": "12:20:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26762,7 +26762,7 @@ export const epgData = [
     "start": "12:20:01",
     "end": "12:20:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26772,7 +26772,7 @@ export const epgData = [
     "start": "12:20:06",
     "end": "12:20:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26782,7 +26782,7 @@ export const epgData = [
     "start": "12:20:11",
     "end": "12:20:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26792,7 +26792,7 @@ export const epgData = [
     "start": "12:20:26",
     "end": "12:21:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26802,7 +26802,7 @@ export const epgData = [
     "start": "12:21:16",
     "end": "12:21:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26812,7 +26812,7 @@ export const epgData = [
     "start": "12:21:21",
     "end": "12:21:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -26822,7 +26822,7 @@ export const epgData = [
     "start": "12:21:36",
     "end": "12:22:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -26982,7 +26982,7 @@ export const epgData = [
     "start": "12:26:16",
     "end": "12:30:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tkMDZLhEv-aauIIDzhjvIMa7UospqpvO/preview"
   },
   {
     "program": " LIC,Banking,Housing Finance,Finance - Loans",
@@ -27142,7 +27142,7 @@ export const epgData = [
     "start": "12:40:06",
     "end": "12:41:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27152,7 +27152,7 @@ export const epgData = [
     "start": "12:41:01",
     "end": "12:41:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27162,7 +27162,7 @@ export const epgData = [
     "start": "12:41:16",
     "end": "12:41:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27172,7 +27172,7 @@ export const epgData = [
     "start": "12:41:21",
     "end": "12:41:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27182,7 +27182,7 @@ export const epgData = [
     "start": "12:41:26",
     "end": "12:41:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27192,7 +27192,7 @@ export const epgData = [
     "start": "12:41:31",
     "end": "12:41:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27202,7 +27202,7 @@ export const epgData = [
     "start": "12:41:36",
     "end": "12:41:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27212,7 +27212,7 @@ export const epgData = [
     "start": "12:41:46",
     "end": "12:42:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27222,7 +27222,7 @@ export const epgData = [
     "start": "12:42:36",
     "end": "12:42:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27232,7 +27232,7 @@ export const epgData = [
     "start": "12:42:41",
     "end": "12:42:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27242,7 +27242,7 @@ export const epgData = [
     "start": "12:42:46",
     "end": "12:42:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27252,7 +27252,7 @@ export const epgData = [
     "start": "12:42:51",
     "end": "12:43:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Teri Khair Mangdi,Bilal Saeed,Baar Baar Dekho,2016,Zee Music,Bollywood",
@@ -27262,7 +27262,7 @@ export const epgData = [
     "start": "12:43:01",
     "end": "12:43:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Ott2-SYB9T5rwfoSLwj2iD6ZsyMqO4lR/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27272,7 +27272,7 @@ export const epgData = [
     "start": "12:43:11",
     "end": "12:43:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27282,7 +27282,7 @@ export const epgData = [
     "start": "12:43:51",
     "end": "12:44:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Maahi Ve,A.R. Rahman,Highway,2014,T-Series,Bollywood",
@@ -27292,7 +27292,7 @@ export const epgData = [
     "start": "12:44:01",
     "end": "12:44:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1sOy1g5_S75LT_MooP0Oux2hgIqEn6lXh/preview"
   },
   {
     "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
@@ -27462,7 +27462,7 @@ export const epgData = [
     "start": "12:56:31",
     "end": "13:04:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1FOLjeNG5w4LsA7ITgIyvZPMCd153TO5K/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27472,7 +27472,7 @@ export const epgData = [
     "start": "13:04:01",
     "end": "13:05:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27482,7 +27482,7 @@ export const epgData = [
     "start": "13:05:46",
     "end": "13:05:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27492,7 +27492,7 @@ export const epgData = [
     "start": "13:05:51",
     "end": "13:05:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27502,7 +27502,7 @@ export const epgData = [
     "start": "13:05:56",
     "end": "13:06:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27512,7 +27512,7 @@ export const epgData = [
     "start": "13:06:01",
     "end": "13:06:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27522,7 +27522,7 @@ export const epgData = [
     "start": "13:06:06",
     "end": "13:06:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27532,7 +27532,7 @@ export const epgData = [
     "start": "13:06:11",
     "end": "13:06:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27542,7 +27542,7 @@ export const epgData = [
     "start": "13:06:21",
     "end": "13:06:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27552,7 +27552,7 @@ export const epgData = [
     "start": "13:06:41",
     "end": "13:06:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27562,7 +27562,7 @@ export const epgData = [
     "start": "13:06:51",
     "end": "13:07:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27572,7 +27572,7 @@ export const epgData = [
     "start": "13:07:16",
     "end": "13:07:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -27582,7 +27582,7 @@ export const epgData = [
     "start": "13:07:21",
     "end": "13:07:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -27822,7 +27822,7 @@ export const epgData = [
     "start": "13:14:16",
     "end": "13:14:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -27832,7 +27832,7 @@ export const epgData = [
     "start": "13:14:56",
     "end": "13:15:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -27842,7 +27842,7 @@ export const epgData = [
     "start": "13:15:11",
     "end": "13:15:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -27852,7 +27852,7 @@ export const epgData = [
     "start": "13:15:16",
     "end": "13:15:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -27862,7 +27862,7 @@ export const epgData = [
     "start": "13:15:21",
     "end": "13:15:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -27872,7 +27872,7 @@ export const epgData = [
     "start": "13:15:26",
     "end": "13:15:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -27882,7 +27882,7 @@ export const epgData = [
     "start": "13:15:31",
     "end": "13:16:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -27892,7 +27892,7 @@ export const epgData = [
     "start": "13:16:16",
     "end": "13:16:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -27902,7 +27902,7 @@ export const epgData = [
     "start": "13:16:36",
     "end": "13:17:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -27912,7 +27912,7 @@ export const epgData = [
     "start": "13:17:31",
     "end": "13:17:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -27922,7 +27922,7 @@ export const epgData = [
     "start": "13:17:36",
     "end": "13:17:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -27932,7 +27932,7 @@ export const epgData = [
     "start": "13:17:41",
     "end": "13:17:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -27942,7 +27942,7 @@ export const epgData = [
     "start": "13:17:46",
     "end": "13:17:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -27952,7 +27952,7 @@ export const epgData = [
     "start": "13:17:51",
     "end": "13:17:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -27962,7 +27962,7 @@ export const epgData = [
     "start": "13:17:56",
     "end": "13:18:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -27972,7 +27972,7 @@ export const epgData = [
     "start": "13:18:01",
     "end": "13:18:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -27982,7 +27982,7 @@ export const epgData = [
     "start": "13:18:06",
     "end": "13:18:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -27992,7 +27992,7 @@ export const epgData = [
     "start": "13:18:41",
     "end": "13:18:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -28002,7 +28002,7 @@ export const epgData = [
     "start": "13:18:46",
     "end": "13:18:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -28012,7 +28012,7 @@ export const epgData = [
     "start": "13:18:51",
     "end": "13:18:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -28022,7 +28022,7 @@ export const epgData = [
     "start": "13:18:56",
     "end": "13:19:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -28032,7 +28032,7 @@ export const epgData = [
     "start": "13:19:01",
     "end": "13:19:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -28042,7 +28042,7 @@ export const epgData = [
     "start": "13:19:11",
     "end": "13:19:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -28052,7 +28052,7 @@ export const epgData = [
     "start": "13:19:41",
     "end": "13:19:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -28182,7 +28182,7 @@ export const epgData = [
     "start": "13:24:41",
     "end": "13:29:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28192,7 +28192,7 @@ export const epgData = [
     "start": "13:29:26",
     "end": "13:29:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28202,7 +28202,7 @@ export const epgData = [
     "start": "13:29:36",
     "end": "13:29:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28212,7 +28212,7 @@ export const epgData = [
     "start": "13:29:41",
     "end": "13:29:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28222,7 +28222,7 @@ export const epgData = [
     "start": "13:29:46",
     "end": "13:29:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28232,7 +28232,7 @@ export const epgData = [
     "start": "13:29:56",
     "end": "13:30:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28242,7 +28242,7 @@ export const epgData = [
     "start": "13:30:01",
     "end": "13:30:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28252,7 +28252,7 @@ export const epgData = [
     "start": "13:30:11",
     "end": "13:30:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28262,7 +28262,7 @@ export const epgData = [
     "start": "13:30:21",
     "end": "13:30:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28272,7 +28272,7 @@ export const epgData = [
     "start": "13:30:51",
     "end": "13:31:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28282,7 +28282,7 @@ export const epgData = [
     "start": "13:31:01",
     "end": "13:31:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28292,7 +28292,7 @@ export const epgData = [
     "start": "13:31:06",
     "end": "13:31:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28302,7 +28302,7 @@ export const epgData = [
     "start": "13:31:16",
     "end": "13:31:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28312,7 +28312,7 @@ export const epgData = [
     "start": "13:31:21",
     "end": "13:31:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28322,7 +28322,7 @@ export const epgData = [
     "start": "13:31:31",
     "end": "13:31:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -28332,7 +28332,7 @@ export const epgData = [
     "start": "13:31:36",
     "end": "13:32:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
@@ -28742,7 +28742,7 @@ export const epgData = [
     "start": "13:57:06",
     "end": "14:02:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1xqYq26bkHan3uqxMV4uDqqI3jYrfSNhH/preview"
   },
   {
     "program": " Red FM,Entertainment,Riders Music Festival,Festival",
@@ -28972,7 +28972,7 @@ export const epgData = [
     "start": "14:12:46",
     "end": "14:13:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
@@ -28982,7 +28982,7 @@ export const epgData = [
     "start": "14:13:51",
     "end": "14:15:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
@@ -28992,7 +28992,7 @@ export const epgData = [
     "start": "14:15:01",
     "end": "14:15:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
@@ -29002,7 +29002,7 @@ export const epgData = [
     "start": "14:15:21",
     "end": "14:15:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
@@ -29012,7 +29012,7 @@ export const epgData = [
     "start": "14:15:36",
     "end": "14:15:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
@@ -29022,7 +29022,7 @@ export const epgData = [
     "start": "14:15:46",
     "end": "14:16:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Jaane Tu,Arijit Singh,Chhaava,2025,Sony Music,Bollywood",
@@ -29032,7 +29032,7 @@ export const epgData = [
     "start": "14:16:01",
     "end": "14:16:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1687FnvVUsUwW8suS_iXrhnlGSecq6Ziq/preview"
   },
   {
     "program": " Kalyan Jewellers,Jewellery,Mangalsutra Mahotsav,Accessory - Jewellery",
@@ -29362,7 +29362,7 @@ export const epgData = [
     "start": "14:43:36",
     "end": "14:45:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1D06yZUtgyAGsBgde7ErtYcqPz4RCcb6T/preview"
   },
   {
     "program": " Maan Meri Jaan,King,Champagne Talk,2022,WMG,Pop",
@@ -29372,7 +29372,7 @@ export const epgData = [
     "start": "14:45:41",
     "end": "14:46:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1D06yZUtgyAGsBgde7ErtYcqPz4RCcb6T/preview"
   },
   {
     "program": " Kinare,Amit Trivedi & Mohan Kanan,Queen,2014,T-Series,Bollywood",
@@ -29382,7 +29382,7 @@ export const epgData = [
     "start": "14:46:46",
     "end": "14:48:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1fRt5l-GJwWOECcsLdwopetCa4WH13ArG/preview"
   },
   {
     "program": " LIC,Banking,Housing Finance,Finance - Loans",
@@ -29522,7 +29522,7 @@ export const epgData = [
     "start": "14:55:36",
     "end": "15:03:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1fRt5l-GJwWOECcsLdwopetCa4WH13ArG/preview"
   },
   {
     "program": " Nazm Nazm,Arko,Bareilly Ki Barfi,2017,Zee Music,Bollywood",
@@ -29532,7 +29532,7 @@ export const epgData = [
     "start": "15:03:31",
     "end": "15:03:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Z6iVOmU-Q12s8x4eFkiOw-TGmsVYG8_Y/preview"
   },
   {
     "program": " LIC,Banking,Housing Finance,Finance - Loans",
@@ -29722,7 +29722,7 @@ export const epgData = [
     "start": "15:14:01",
     "end": "15:16:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1-umP75kcOmidVrakkCf5QjD4QKaqkqml/preview"
   },
   {
     "program": " Kuch Khaas,Neha Bhasin & Mohit Chauhan,Fashion,2008,T-Series,Bollywood",
@@ -29732,7 +29732,7 @@ export const epgData = [
     "start": "15:16:01",
     "end": "15:19:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1teknLFvZC6R8_N5gEXNdD-eiovVbBdMB/preview"
   },
   {
     "program": " Bharati Hospital,Healthcare,,Services - Health",
@@ -29912,7 +29912,7 @@ export const epgData = [
     "start": "15:29:11",
     "end": "15:32:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
@@ -29922,7 +29922,7 @@ export const epgData = [
     "start": "15:32:46",
     "end": "15:32:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
@@ -29932,7 +29932,7 @@ export const epgData = [
     "start": "15:32:51",
     "end": "15:33:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
@@ -29942,7 +29942,7 @@ export const epgData = [
     "start": "15:33:01",
     "end": "15:33:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
@@ -29952,7 +29952,7 @@ export const epgData = [
     "start": "15:33:06",
     "end": "15:33:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
@@ -29962,7 +29962,7 @@ export const epgData = [
     "start": "15:33:16",
     "end": "15:33:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
@@ -29972,7 +29972,7 @@ export const epgData = [
     "start": "15:33:36",
     "end": "15:33:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
@@ -29982,7 +29982,7 @@ export const epgData = [
     "start": "15:33:46",
     "end": "15:33:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
@@ -29992,7 +29992,7 @@ export const epgData = [
     "start": "15:33:51",
     "end": "15:33:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
@@ -30002,7 +30002,7 @@ export const epgData = [
     "start": "15:33:56",
     "end": "15:34:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " Sardi Ka Mausam,Arjun,Sardi Ka Mausam,2022,Gringo,Bollywood",
@@ -30012,7 +30012,7 @@ export const epgData = [
     "start": "15:34:01",
     "end": "15:34:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1IQyOfHaJ8Dmi7lwfYVIaYu_xEJSKKFk0/preview"
   },
   {
     "program": " The Nature at Mukaiwadi,Real Estate,,Property - Housing",
@@ -30212,7 +30212,7 @@ export const epgData = [
     "start": "15:41:01",
     "end": "15:46:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1FOLjeNG5w4LsA7ITgIyvZPMCd153TO5K/preview"
   },
   {
     "program": " RTO,Government,,Public Serivce Ads",
@@ -30422,7 +30422,7 @@ export const epgData = [
     "start": "15:53:56",
     "end": "15:54:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1fRt5l-GJwWOECcsLdwopetCa4WH13ArG/preview"
   },
   {
     "program": " Red FM,Entertainment,Riders Music Festival,Festival",
@@ -30752,7 +30752,7 @@ export const epgData = [
     "start": "16:32:11",
     "end": "16:36:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1FOLjeNG5w4LsA7ITgIyvZPMCd153TO5K/preview"
   },
   {
     "program": " Kinare,Amit Trivedi & Mohan Kanan,Queen,2014,T-Series,Bollywood",
@@ -30762,7 +30762,7 @@ export const epgData = [
     "start": "16:36:16",
     "end": "16:39:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1fRt5l-GJwWOECcsLdwopetCa4WH13ArG/preview"
   },
   {
     "program": " Red FM,Entertainment,Riders Music Festival,Festival",
@@ -30782,7 +30782,7 @@ export const epgData = [
     "start": "16:40:21",
     "end": "16:40:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1AGfRoohPchXXCH67cUmKphOKCc85HOGt/preview"
   },
   {
     "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
@@ -30992,7 +30992,7 @@ export const epgData = [
     "start": "16:53:56",
     "end": "17:01:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Wgv6WAZ_PJU1BwY5ALdVJdGDkXv-_2hg/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -31192,7 +31192,7 @@ export const epgData = [
     "start": "17:13:36",
     "end": "17:16:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/19pk6FXvYNxuG_8ksGC4xSLuuDkrBopPT/preview"
   },
   {
     "program": " Tainu Khabar Nahi,Arijit Singh & Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -31202,7 +31202,7 @@ export const epgData = [
     "start": "17:16:31",
     "end": "17:16:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/19pk6FXvYNxuG_8ksGC4xSLuuDkrBopPT/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -31212,7 +31212,7 @@ export const epgData = [
     "start": "17:16:51",
     "end": "17:18:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -31222,7 +31222,7 @@ export const epgData = [
     "start": "17:18:26",
     "end": "17:18:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -31232,7 +31232,7 @@ export const epgData = [
     "start": "17:18:31",
     "end": "17:18:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -31242,7 +31242,7 @@ export const epgData = [
     "start": "17:18:51",
     "end": "17:18:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -31252,7 +31252,7 @@ export const epgData = [
     "start": "17:18:56",
     "end": "17:19:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -31262,7 +31262,7 @@ export const epgData = [
     "start": "17:19:06",
     "end": "17:19:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Stay,King,Stay,2025,WMG,Hip Hop",
@@ -31272,7 +31272,7 @@ export const epgData = [
     "start": "17:19:11",
     "end": "17:19:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vK7_dxAVI9EWtaDjI5cuftbY_KURfHNx/preview"
   },
   {
     "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
@@ -31562,7 +31562,7 @@ export const epgData = [
     "start": "17:26:36",
     "end": "17:27:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31572,7 +31572,7 @@ export const epgData = [
     "start": "17:27:51",
     "end": "17:28:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31582,7 +31582,7 @@ export const epgData = [
     "start": "17:28:26",
     "end": "17:28:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31592,7 +31592,7 @@ export const epgData = [
     "start": "17:28:36",
     "end": "17:28:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31602,7 +31602,7 @@ export const epgData = [
     "start": "17:28:51",
     "end": "17:28:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31612,7 +31612,7 @@ export const epgData = [
     "start": "17:28:56",
     "end": "17:29:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31622,7 +31622,7 @@ export const epgData = [
     "start": "17:29:01",
     "end": "17:29:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31632,7 +31632,7 @@ export const epgData = [
     "start": "17:29:06",
     "end": "17:29:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31642,7 +31642,7 @@ export const epgData = [
     "start": "17:29:16",
     "end": "17:29:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31652,7 +31652,7 @@ export const epgData = [
     "start": "17:29:21",
     "end": "17:29:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31662,7 +31662,7 @@ export const epgData = [
     "start": "17:29:26",
     "end": "17:29:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31672,7 +31672,7 @@ export const epgData = [
     "start": "17:29:31",
     "end": "17:29:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Raanjhan,Sachet-Parampara and Parampara Tandon and Kausar Munir,Do Patti,2024,T-Series,Bollywood",
@@ -31682,7 +31682,7 @@ export const epgData = [
     "start": "17:29:36",
     "end": "17:29:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ouAVZjxJ8pUYJy_QsEh7l4s9t3v40Vxb/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -31712,7 +31712,7 @@ export const epgData = [
     "start": "17:31:26",
     "end": "17:31:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -31722,7 +31722,7 @@ export const epgData = [
     "start": "17:31:36",
     "end": "17:31:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -31732,7 +31732,7 @@ export const epgData = [
     "start": "17:31:41",
     "end": "17:31:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -31742,7 +31742,7 @@ export const epgData = [
     "start": "17:31:46",
     "end": "17:31:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -31752,7 +31752,7 @@ export const epgData = [
     "start": "17:31:51",
     "end": "17:31:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -31762,7 +31762,7 @@ export const epgData = [
     "start": "17:31:56",
     "end": "17:32:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -31772,7 +31772,7 @@ export const epgData = [
     "start": "17:32:01",
     "end": "17:32:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -31782,7 +31782,7 @@ export const epgData = [
     "start": "17:32:06",
     "end": "17:32:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -31792,7 +31792,7 @@ export const epgData = [
     "start": "17:32:36",
     "end": "17:33:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -31802,7 +31802,7 @@ export const epgData = [
     "start": "17:33:31",
     "end": "17:33:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -31812,7 +31812,7 @@ export const epgData = [
     "start": "17:33:36",
     "end": "17:33:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
@@ -32202,7 +32202,7 @@ export const epgData = [
     "start": "17:51:16",
     "end": "18:04:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32212,7 +32212,7 @@ export const epgData = [
     "start": "18:04:36",
     "end": "18:04:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32222,7 +32222,7 @@ export const epgData = [
     "start": "18:04:41",
     "end": "18:04:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32232,7 +32232,7 @@ export const epgData = [
     "start": "18:04:46",
     "end": "18:04:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32242,7 +32242,7 @@ export const epgData = [
     "start": "18:04:51",
     "end": "18:04:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32252,7 +32252,7 @@ export const epgData = [
     "start": "18:04:56",
     "end": "18:05:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32262,7 +32262,7 @@ export const epgData = [
     "start": "18:05:01",
     "end": "18:05:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32272,7 +32272,7 @@ export const epgData = [
     "start": "18:05:06",
     "end": "18:05:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32282,7 +32282,7 @@ export const epgData = [
     "start": "18:05:11",
     "end": "18:05:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32292,7 +32292,7 @@ export const epgData = [
     "start": "18:05:16",
     "end": "18:05:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32302,7 +32302,7 @@ export const epgData = [
     "start": "18:05:26",
     "end": "18:05:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32312,7 +32312,7 @@ export const epgData = [
     "start": "18:05:51",
     "end": "18:05:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32322,7 +32322,7 @@ export const epgData = [
     "start": "18:05:56",
     "end": "18:06:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32332,7 +32332,7 @@ export const epgData = [
     "start": "18:06:01",
     "end": "18:06:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32342,7 +32342,7 @@ export const epgData = [
     "start": "18:06:06",
     "end": "18:06:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32352,7 +32352,7 @@ export const epgData = [
     "start": "18:06:26",
     "end": "18:06:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32362,7 +32362,7 @@ export const epgData = [
     "start": "18:06:31",
     "end": "18:06:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32372,7 +32372,7 @@ export const epgData = [
     "start": "18:06:41",
     "end": "18:06:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Uyi Amma,Madhubanti Bagchi,Uyi Amma,2025,Zee Music,Bollywood",
@@ -32382,7 +32382,7 @@ export const epgData = [
     "start": "18:06:51",
     "end": "18:06:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1nQpSyec2cgpdl89VqeB3r9GMO2zd_y9p/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -32622,7 +32622,7 @@ export const epgData = [
     "start": "18:16:31",
     "end": "18:20:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -32632,7 +32632,7 @@ export const epgData = [
     "start": "18:20:56",
     "end": "18:21:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -32642,7 +32642,7 @@ export const epgData = [
     "start": "18:21:01",
     "end": "18:21:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -32652,7 +32652,7 @@ export const epgData = [
     "start": "18:21:06",
     "end": "18:21:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -32662,7 +32662,7 @@ export const epgData = [
     "start": "18:21:11",
     "end": "18:21:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -32672,7 +32672,7 @@ export const epgData = [
     "start": "18:21:36",
     "end": "18:22:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -32682,7 +32682,7 @@ export const epgData = [
     "start": "18:22:36",
     "end": "18:22:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -32692,7 +32692,7 @@ export const epgData = [
     "start": "18:22:56",
     "end": "18:23:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Taras,Jasmine Sandlas Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -32702,7 +32702,7 @@ export const epgData = [
     "start": "18:23:06",
     "end": "18:23:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ahOpZvDg1RKSyWn00h4QIwmisndR0maf/preview"
   },
   {
     "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
@@ -33052,7 +33052,7 @@ export const epgData = [
     "start": "18:30:11",
     "end": "18:31:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33062,7 +33062,7 @@ export const epgData = [
     "start": "18:31:21",
     "end": "18:31:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33072,7 +33072,7 @@ export const epgData = [
     "start": "18:31:26",
     "end": "18:31:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33082,7 +33082,7 @@ export const epgData = [
     "start": "18:31:31",
     "end": "18:31:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33092,7 +33092,7 @@ export const epgData = [
     "start": "18:31:36",
     "end": "18:31:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33102,7 +33102,7 @@ export const epgData = [
     "start": "18:31:41",
     "end": "18:32:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33112,7 +33112,7 @@ export const epgData = [
     "start": "18:32:01",
     "end": "18:32:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Pehla Pyaar,Armaan Malik,Kabir Singh,2019,T-Series,Bollywood",
@@ -33122,7 +33122,7 @@ export const epgData = [
     "start": "18:32:06",
     "end": "18:32:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vTHNBozJa6RT61D3cYZpk-cjIzDLyTSm/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33132,7 +33132,7 @@ export const epgData = [
     "start": "18:32:21",
     "end": "18:32:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33142,7 +33142,7 @@ export const epgData = [
     "start": "18:32:41",
     "end": "18:32:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33152,7 +33152,7 @@ export const epgData = [
     "start": "18:32:51",
     "end": "18:33:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33162,7 +33162,7 @@ export const epgData = [
     "start": "18:33:06",
     "end": "18:33:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33172,7 +33172,7 @@ export const epgData = [
     "start": "18:33:16",
     "end": "18:33:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33182,7 +33182,7 @@ export const epgData = [
     "start": "18:33:21",
     "end": "18:33:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -33192,7 +33192,7 @@ export const epgData = [
     "start": "18:33:26",
     "end": "18:33:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33202,7 +33202,7 @@ export const epgData = [
     "start": "18:33:51",
     "end": "18:34:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33212,7 +33212,7 @@ export const epgData = [
     "start": "18:34:31",
     "end": "18:34:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33222,7 +33222,7 @@ export const epgData = [
     "start": "18:34:56",
     "end": "18:35:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33232,7 +33232,7 @@ export const epgData = [
     "start": "18:35:01",
     "end": "18:35:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33242,7 +33242,7 @@ export const epgData = [
     "start": "18:35:06",
     "end": "18:35:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33252,7 +33252,7 @@ export const epgData = [
     "start": "18:35:11",
     "end": "18:35:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33262,7 +33262,7 @@ export const epgData = [
     "start": "18:35:16",
     "end": "18:35:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33272,7 +33272,7 @@ export const epgData = [
     "start": "18:35:21",
     "end": "18:35:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33282,7 +33282,7 @@ export const epgData = [
     "start": "18:35:26",
     "end": "18:36:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33292,7 +33292,7 @@ export const epgData = [
     "start": "18:36:01",
     "end": "18:36:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33302,7 +33302,7 @@ export const epgData = [
     "start": "18:36:06",
     "end": "18:36:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33312,7 +33312,7 @@ export const epgData = [
     "start": "18:36:11",
     "end": "18:36:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33322,7 +33322,7 @@ export const epgData = [
     "start": "18:36:16",
     "end": "18:36:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Millionaire,Yo Yo Honey Singh,Glory,2024,T-Series,Hip-Hop",
@@ -33332,7 +33332,7 @@ export const epgData = [
     "start": "18:36:31",
     "end": "18:37:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1REF50zIp7Zjm4XC_CoUVs7LtV5yd-btQ/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -33692,7 +33692,7 @@ export const epgData = [
     "start": "18:44:11",
     "end": "18:45:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/19pk6FXvYNxuG_8ksGC4xSLuuDkrBopPT/preview"
   },
   {
     "program": " Tainu Khabar Nahi,Arijit Singh & Sachin-Jigar,Munjya,2024,Zee Music,Bollywood",
@@ -33702,7 +33702,7 @@ export const epgData = [
     "start": "18:45:56",
     "end": "18:46:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/19pk6FXvYNxuG_8ksGC4xSLuuDkrBopPT/preview"
   },
   {
     "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
@@ -34092,7 +34092,7 @@ export const epgData = [
     "start": "18:53:31",
     "end": "19:05:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34102,7 +34102,7 @@ export const epgData = [
     "start": "19:05:16",
     "end": "19:05:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34112,7 +34112,7 @@ export const epgData = [
     "start": "19:05:21",
     "end": "19:05:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34122,7 +34122,7 @@ export const epgData = [
     "start": "19:05:26",
     "end": "19:05:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34132,7 +34132,7 @@ export const epgData = [
     "start": "19:05:31",
     "end": "19:05:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34142,7 +34142,7 @@ export const epgData = [
     "start": "19:05:36",
     "end": "19:05:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34152,7 +34152,7 @@ export const epgData = [
     "start": "19:05:41",
     "end": "19:05:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34162,7 +34162,7 @@ export const epgData = [
     "start": "19:05:46",
     "end": "19:05:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34172,7 +34172,7 @@ export const epgData = [
     "start": "19:05:56",
     "end": "19:06:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34182,7 +34182,7 @@ export const epgData = [
     "start": "19:06:01",
     "end": "19:06:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34192,7 +34192,7 @@ export const epgData = [
     "start": "19:06:11",
     "end": "19:06:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34202,7 +34202,7 @@ export const epgData = [
     "start": "19:06:31",
     "end": "19:07:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34212,7 +34212,7 @@ export const epgData = [
     "start": "19:07:11",
     "end": "19:07:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34222,7 +34222,7 @@ export const epgData = [
     "start": "19:07:16",
     "end": "19:07:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34232,7 +34232,7 @@ export const epgData = [
     "start": "19:07:26",
     "end": "19:07:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34242,7 +34242,7 @@ export const epgData = [
     "start": "19:07:31",
     "end": "19:07:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -34252,7 +34252,7 @@ export const epgData = [
     "start": "19:07:41",
     "end": "19:07:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -34472,7 +34472,7 @@ export const epgData = [
     "start": "19:17:01",
     "end": "19:20:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -34482,7 +34482,7 @@ export const epgData = [
     "start": "19:20:26",
     "end": "19:20:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -34492,7 +34492,7 @@ export const epgData = [
     "start": "19:20:36",
     "end": "19:20:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -34502,7 +34502,7 @@ export const epgData = [
     "start": "19:20:46",
     "end": "19:20:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -34512,7 +34512,7 @@ export const epgData = [
     "start": "19:20:51",
     "end": "19:21:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -34522,7 +34522,7 @@ export const epgData = [
     "start": "19:21:01",
     "end": "19:21:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -34532,7 +34532,7 @@ export const epgData = [
     "start": "19:21:06",
     "end": "19:21:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -34542,7 +34542,7 @@ export const epgData = [
     "start": "19:21:41",
     "end": "19:21:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Aayi Nai,Pawan Singh and Simran Choudhary and Divya Kumar,Stree 2,2024,Saregama,Bollywood",
@@ -34552,7 +34552,7 @@ export const epgData = [
     "start": "19:21:51",
     "end": "19:22:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1gF6OeV7AqseKuMEDcAzz6q_c_DaZI4pL/preview"
   },
   {
     "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
@@ -34932,7 +34932,7 @@ export const epgData = [
     "start": "19:31:06",
     "end": "19:37:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1D5VdVu-pWql8KzkZ-8XtK2FEh1YkU1UO/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -35562,7 +35562,7 @@ export const epgData = [
     "start": "19:59:16",
     "end": "20:05:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35572,7 +35572,7 @@ export const epgData = [
     "start": "20:05:41",
     "end": "20:05:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35582,7 +35582,7 @@ export const epgData = [
     "start": "20:05:46",
     "end": "20:05:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35592,7 +35592,7 @@ export const epgData = [
     "start": "20:05:51",
     "end": "20:05:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35602,7 +35602,7 @@ export const epgData = [
     "start": "20:05:56",
     "end": "20:06:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35612,7 +35612,7 @@ export const epgData = [
     "start": "20:06:01",
     "end": "20:06:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35622,7 +35622,7 @@ export const epgData = [
     "start": "20:06:06",
     "end": "20:06:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35632,7 +35632,7 @@ export const epgData = [
     "start": "20:06:11",
     "end": "20:06:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35642,7 +35642,7 @@ export const epgData = [
     "start": "20:06:41",
     "end": "20:07:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35652,7 +35652,7 @@ export const epgData = [
     "start": "20:07:01",
     "end": "20:07:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35662,7 +35662,7 @@ export const epgData = [
     "start": "20:07:06",
     "end": "20:07:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull),Pitbull and Diljit Dosanjh and Tanishk Bagch and Pritam and Neeraj Shridhar and Dhrruv Yogi and Sameer and Tanishk Bagchi,Bhool Bhulaiyaa 3,2024,T-Series,Bollywood",
@@ -35672,7 +35672,7 @@ export const epgData = [
     "start": "20:07:11",
     "end": "20:07:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1mWQ4o5spSGWCHbMEDYP8bdIMj9fBhA6t/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -35702,7 +35702,7 @@ export const epgData = [
     "start": "20:08:21",
     "end": "20:09:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -35712,7 +35712,7 @@ export const epgData = [
     "start": "20:09:26",
     "end": "20:09:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Red FM,Entertainment,Riders Music Festival,Festival",
@@ -36382,7 +36382,7 @@ export const epgData = [
     "start": "20:27:56",
     "end": "20:29:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36392,7 +36392,7 @@ export const epgData = [
     "start": "20:29:31",
     "end": "20:29:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36402,7 +36402,7 @@ export const epgData = [
     "start": "20:29:36",
     "end": "20:29:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36412,7 +36412,7 @@ export const epgData = [
     "start": "20:29:41",
     "end": "20:29:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36422,7 +36422,7 @@ export const epgData = [
     "start": "20:29:46",
     "end": "20:29:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36432,7 +36432,7 @@ export const epgData = [
     "start": "20:29:51",
     "end": "20:29:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36442,7 +36442,7 @@ export const epgData = [
     "start": "20:29:56",
     "end": "20:30:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36452,7 +36452,7 @@ export const epgData = [
     "start": "20:30:01",
     "end": "20:30:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36462,7 +36462,7 @@ export const epgData = [
     "start": "20:30:06",
     "end": "20:30:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36472,7 +36472,7 @@ export const epgData = [
     "start": "20:30:11",
     "end": "20:30:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36482,7 +36482,7 @@ export const epgData = [
     "start": "20:30:16",
     "end": "20:30:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36492,7 +36492,7 @@ export const epgData = [
     "start": "20:30:26",
     "end": "20:30:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36502,7 +36502,7 @@ export const epgData = [
     "start": "20:30:31",
     "end": "20:30:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36512,7 +36512,7 @@ export const epgData = [
     "start": "20:30:36",
     "end": "20:30:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36522,7 +36522,7 @@ export const epgData = [
     "start": "20:30:46",
     "end": "20:30:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36532,7 +36532,7 @@ export const epgData = [
     "start": "20:30:51",
     "end": "20:30:56",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36542,7 +36542,7 @@ export const epgData = [
     "start": "20:30:56",
     "end": "20:31:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36552,7 +36552,7 @@ export const epgData = [
     "start": "20:31:01",
     "end": "20:31:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36562,7 +36562,7 @@ export const epgData = [
     "start": "20:31:11",
     "end": "20:31:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36572,7 +36572,7 @@ export const epgData = [
     "start": "20:31:16",
     "end": "20:31:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Morni,Badshah and Sharvi Yadav and Hiten,Morni,2024,Saregama,Hip Hop",
@@ -36582,7 +36582,7 @@ export const epgData = [
     "start": "20:31:36",
     "end": "20:31:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1ljVMAqKG-gAno12hp1EZ28JncUvJvn7Q/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -37042,7 +37042,7 @@ export const epgData = [
     "start": "20:39:06",
     "end": "20:43:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1Byo5ChtyYYB2ruH7YnQX7Z6aTMeNgOzZ/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -37052,7 +37052,7 @@ export const epgData = [
     "start": "20:43:41",
     "end": "20:44:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -37062,7 +37062,7 @@ export const epgData = [
     "start": "20:44:16",
     "end": "20:44:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -37072,7 +37072,7 @@ export const epgData = [
     "start": "20:44:21",
     "end": "20:44:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -37082,7 +37082,7 @@ export const epgData = [
     "start": "20:44:26",
     "end": "20:44:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -37092,7 +37092,7 @@ export const epgData = [
     "start": "20:44:31",
     "end": "20:44:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -37102,7 +37102,7 @@ export const epgData = [
     "start": "20:44:36",
     "end": "20:44:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -37112,7 +37112,7 @@ export const epgData = [
     "start": "20:44:41",
     "end": "20:44:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -37122,7 +37122,7 @@ export const epgData = [
     "start": "20:44:46",
     "end": "20:46:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -37132,7 +37132,7 @@ export const epgData = [
     "start": "20:46:16",
     "end": "20:46:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Tu Hain Toh Main Hoon,Irshad Kamil and Tanishk Bagchi and Arijit Singh and Afsana Khan,Sky Force,2025,Saragama,Bollywood",
@@ -37142,7 +37142,7 @@ export const epgData = [
     "start": "20:46:26",
     "end": "20:46:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1CpsYMnIY9mAleSLnQdNAJ4mJRh-_7Rtd/preview"
   },
   {
     "program": " Mahindra,Real Estate,IV Lush,Property - Housing",
@@ -37392,7 +37392,7 @@ export const epgData = [
     "start": "20:55:21",
     "end": "21:04:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37402,7 +37402,7 @@ export const epgData = [
     "start": "21:04:26",
     "end": "21:04:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37412,7 +37412,7 @@ export const epgData = [
     "start": "21:04:31",
     "end": "21:04:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37422,7 +37422,7 @@ export const epgData = [
     "start": "21:04:36",
     "end": "21:04:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37432,7 +37432,7 @@ export const epgData = [
     "start": "21:04:41",
     "end": "21:04:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37442,7 +37442,7 @@ export const epgData = [
     "start": "21:04:46",
     "end": "21:04:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37452,7 +37452,7 @@ export const epgData = [
     "start": "21:04:51",
     "end": "21:05:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37462,7 +37462,7 @@ export const epgData = [
     "start": "21:05:01",
     "end": "21:05:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37472,7 +37472,7 @@ export const epgData = [
     "start": "21:05:06",
     "end": "21:05:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37482,7 +37482,7 @@ export const epgData = [
     "start": "21:05:11",
     "end": "21:05:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37492,7 +37492,7 @@ export const epgData = [
     "start": "21:05:16",
     "end": "21:05:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37502,7 +37502,7 @@ export const epgData = [
     "start": "21:05:21",
     "end": "21:05:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37512,7 +37512,7 @@ export const epgData = [
     "start": "21:05:36",
     "end": "21:06:01",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37522,7 +37522,7 @@ export const epgData = [
     "start": "21:06:01",
     "end": "21:06:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37532,7 +37532,7 @@ export const epgData = [
     "start": "21:06:16",
     "end": "21:06:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37542,7 +37542,7 @@ export const epgData = [
     "start": "21:06:26",
     "end": "21:06:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37552,7 +37552,7 @@ export const epgData = [
     "start": "21:06:31",
     "end": "21:06:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37562,7 +37562,7 @@ export const epgData = [
     "start": "21:06:36",
     "end": "21:06:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Mere Mehboob,Sachin-Jigar and Shilpa Rao and Sachet Tandon and Priya Saraiya,Vicky Vidya Ka Woh Wala Video,2024,T-Series,Bollywood",
@@ -37572,7 +37572,7 @@ export const epgData = [
     "start": "21:06:46",
     "end": "21:07:16",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1tNqtJNfpSyXxbQ1Xqqs1JSDnAGT9m60N/preview"
   },
   {
     "program": " Kohinoor Group,Real Estate,,Property - Housing",
@@ -37822,7 +37822,7 @@ export const epgData = [
     "start": "21:13:21",
     "end": "21:17:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1FOLjeNG5w4LsA7ITgIyvZPMCd153TO5K/preview"
   },
   {
     "program": " Dhak Dhuk,Amit Trivedi,English Vinglish,2012,T-Series & Eros Music,Bollywood",
@@ -37832,7 +37832,7 @@ export const epgData = [
     "start": "21:17:06",
     "end": "21:17:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1FOLjeNG5w4LsA7ITgIyvZPMCd153TO5K/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37842,7 +37842,7 @@ export const epgData = [
     "start": "21:17:31",
     "end": "21:18:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37852,7 +37852,7 @@ export const epgData = [
     "start": "21:18:11",
     "end": "21:18:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37862,7 +37862,7 @@ export const epgData = [
     "start": "21:18:21",
     "end": "21:18:26",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37872,7 +37872,7 @@ export const epgData = [
     "start": "21:18:26",
     "end": "21:18:31",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37882,7 +37882,7 @@ export const epgData = [
     "start": "21:18:31",
     "end": "21:18:41",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37892,7 +37892,7 @@ export const epgData = [
     "start": "21:18:41",
     "end": "21:18:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37902,7 +37902,7 @@ export const epgData = [
     "start": "21:18:46",
     "end": "21:19:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Sahiba,Priya Saraiya and Aditya Sharma and Jasleen Royal and Stebin Ben and Vijay Deverakonda and Radhikka Madan,Sahiba,2024,Warner Music Group,Bollywood",
@@ -37912,7 +37912,7 @@ export const epgData = [
     "start": "21:19:06",
     "end": "21:19:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1jdhmBz3fazdQQtWKFPfbbWaqX7OwT7hO/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37922,7 +37922,7 @@ export const epgData = [
     "start": "21:19:21",
     "end": "21:19:36",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37932,7 +37932,7 @@ export const epgData = [
     "start": "21:19:36",
     "end": "21:19:46",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37942,7 +37942,7 @@ export const epgData = [
     "start": "21:19:46",
     "end": "21:19:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37952,7 +37952,7 @@ export const epgData = [
     "start": "21:19:51",
     "end": "21:20:06",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37962,7 +37962,7 @@ export const epgData = [
     "start": "21:20:06",
     "end": "21:20:11",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37972,7 +37972,7 @@ export const epgData = [
     "start": "21:20:11",
     "end": "21:20:21",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Channa Di Yaariyaan,Amit Trivedi & Neha Kakkar,Azaad Collab,2024,AT Azaad,Pop",
@@ -37982,7 +37982,7 @@ export const epgData = [
     "start": "21:20:21",
     "end": "21:20:51",
     "type": "song",
-    "audio": "/sounds/radio.mp3"
+    "audio": "https://drive.google.com/file/d/1vSfKRu-s_mPoPvSRbfG245r31PtWM3lW/preview"
   },
   {
     "program": " Central Bavdhan,Real Estate,Ultimate Hosing,Property - Housing",
@@ -38242,12 +38242,10 @@ export const findAndFillGaps = (merged) => {
     const currentProgram = merged[i];
     const nextProgram = merged[i + 1];
 
-    // Check for meaningful gaps
     const currentEndSeconds = timeToSeconds(currentProgram.end);
     const nextStartSeconds = timeToSeconds(nextProgram.start);
     const gapDuration = nextStartSeconds - currentEndSeconds;
 
-    // Detect gaps longer than 30 seconds (adjust as needed)
     if (gapDuration > 3) { 
       gapsToFill.push({
         id: `not-detected-${uniqueIdCounter++}`,
@@ -38273,7 +38271,6 @@ export const mergeAdjacentPrograms = (data) => {
     }
     const lastProgram = merged[merged.length - 1];
     
-    // Existing merging logic for similar programs
     if (
       lastProgram.channel === data[i].channel &&
       lastProgram.program === data[i].program &&
@@ -38288,12 +38285,29 @@ export const mergeAdjacentPrograms = (data) => {
     }
   }
 
-  // Ad and program merging logic
+  // Process song and ad durations
   for (let i = 0; i < merged.length - 1; i++) {
     const currentProgram = merged[i];
     const nextProgram = merged[i + 1];
     
-    // Long ad removal
+    // Handle long songs (> 4 minutes)
+    if (currentProgram.type === "song") {
+      const songStartTime = timeToSeconds(currentProgram.start);
+      const songEndTime = timeToSeconds(currentProgram.end);
+      const songDuration = songEndTime - songStartTime;
+      
+      if (songDuration > 240) { // 4 minutes = 240 seconds
+        const adjustedEndTime = songStartTime + 240;
+        currentProgram.end = secondsToTime(adjustedEndTime);
+        
+        // Adjust next program's start time if needed
+        if (nextProgram && timeToSeconds(nextProgram.start) > adjustedEndTime) {
+          nextProgram.start = currentProgram.end;
+        }
+      }
+    }
+    
+    // Handle long ads
     if (nextProgram.type === "ad") {
       const adStartTime = timeToSeconds(nextProgram.start);
       const adEndTime = timeToSeconds(nextProgram.end);
