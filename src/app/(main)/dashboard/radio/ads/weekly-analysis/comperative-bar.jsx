@@ -255,6 +255,28 @@ const RadioSectorAnalysis = () => {
           <div className="flex items-center gap-4">
             <Filter className="h-6 w-6 text-primary/60" />
             <div className="flex gap-2">
+                      <Select >
+                        <SelectTrigger className="w-[240px] bg-white">
+                          <SelectValue placeholder="Sector" />
+                        </SelectTrigger>
+                        <SelectContent>
+                          <SelectItem value="Healthcare">Healthcare</SelectItem>
+                          <SelectItem value="Education">Education</SelectItem>
+                          <SelectItem value="Insurance">Insurance</SelectItem>
+                          <SelectItem value="Entertainment">Entertainment</SelectItem>
+                          <SelectItem value="Contruction">Contruction</SelectItem>
+                          <SelectItem value="Chemical">Chemical</SelectItem>
+                          <SelectItem value="Public Works">Public Works</SelectItem>
+                          <SelectItem value="FMCG">FMCG</SelectItem>
+                          <SelectItem value="Govt">Govt</SelectItem>
+                          <SelectItem value="Real Estate">Real Estate</SelectItem>
+                          <SelectItem value="Jewellery">Jewellery</SelectItem>
+                          <SelectItem value="Travel">Travel</SelectItem>
+                          <SelectItem value="AutoMobile">AutoMobile</SelectItem>
+                          <SelectItem value="Fashion">Fashion</SelectItem>
+                          <SelectItem value="Banking">Banking</SelectItem>
+                        </SelectContent>
+                      </Select>
             <Select
             value={selectedMonths[0]}
             onValueChange={handleMonthSelection}

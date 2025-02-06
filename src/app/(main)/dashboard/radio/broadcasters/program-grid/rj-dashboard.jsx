@@ -19,16 +19,16 @@ import { Users, Radio, Search, Trophy } from "lucide-react";
 
 const RJDashboard = () => {
   const rjData = [
-    { name: "RJ Anmol 🇮🇳", followers: { ig: 523582, fb: 200000, twitter: 150000 }, username: "rjanmol27" },
-    { name: "RJ Praveen", followers: { ig: 2510230, fb: 1800000, twitter: 1200000 }, username: "rjpraveen" },
-    { name: "Rj Kisna", followers: { ig: 1862141, fb: 1400000, twitter: 900000 }, username: "rjkisnaa" },
-    { name: "RJ Princy Parikh", followers: { ig: 1652500, fb: 1100000, twitter: 800000 }, username: "princymirchilove" },
-    { name: "Salil", followers: { ig: 367753, fb: 300000, twitter: 200000 }, username: "salilacharya" },
-    { name: "Archana L Pania", followers: { ig: 234396, fb: 190000, twitter: 120000 }, username: "archanaapania" },
-    { name: "RJ Harsh", followers: { ig: 119036, fb: 90000, twitter: 70000 }, username: "loveseharsh" },
-    { name: "RJ Raaj", followers: { ig: 54758, fb: 40000, twitter: 30000 }, username: "ursrjraaj" },
-    { name: "RJ Niyati", followers: { ig: 42336, fb: 35000, twitter: 25000 }, username: "rj_niyati" },
-    { name: "Ginnie Mahajan", followers: { ig: 24856, fb: 20000, twitter: 15000 }, username: "rjginnie" }
+    { name: "RJ Praveen", followers: { ig: 2510230, fb: 1800000, twitter: 9027 },radio:"RedFM" ,username: "rjpraveen" },
+    { name: "Rj Kisna", followers: { ig: 1862141, fb: 1400000, twitter: 9950 },radio:"RedFM Delhi" ,username: "rjkisnaa" },
+    { name: "RJ Princy Parikh", followers: { ig: 1652500, fb: 1100000, twitter: 800000 },radio:"Radio Nasha" ,username: "princymirchilove" },
+    { name: "RJ Anmol 🇮🇳", followers: { ig: 523582, fb: 200000, twitter: 150000 },radio:"Radio Nasha" ,username: "rjanmol27" },
+    { name: "Salil", followers: { ig: 367753, fb: 300000, twitter: 200000 },radio:"Radio City Mumbai" ,username: "salilacharya" },
+    { name: "Archana L Pania", followers: { ig: 234396, fb: 190000, twitter: 24700 },radio:"Radio City Mumbai" ,username: "archanaapania" },
+    { name: "RJ Harsh", followers: { ig: 119036, fb: 90000, twitter: 70000 },radio:"RedFM Ahemdabad" ,username: "loveseharsh" },
+    { name: "RJ Raaj", followers: { ig: 54758, fb: 40000, twitter: 30000 },radio:"RedFM Hydrabad" ,username: "ursrjraaj" },
+    { name: "RJ Niyati", followers: { ig: 42336, fb: 35000, twitter: 13 },radio:"Radio Mirchi" ,username: "rj_niyati" },
+    { name: "Ginnie Mahajan", followers: { ig: 24856, fb: 20000, twitter: 13500 },radio:"Radio City" ,username: "rjginnie" }
   ].sort((a, b) => b.followers.ig - a.followers.ig);
 
   const [searchTerm, setSearchTerm] = useState("");
@@ -80,6 +80,7 @@ const RJDashboard = () => {
                 <TableRow className="bg-gray-50">
                   <TableHead className="w-12 font-semibold">Rank</TableHead>
                   <TableHead className="font-semibold">Name</TableHead>
+                  <TableHead className="font-semibold">Radio Station</TableHead>
                   <TableHead className="font-semibold">Instagram Username</TableHead>
                   <TableHead className="text-right font-semibold">Instagram</TableHead>
                   <TableHead className="text-right font-semibold">Facebook</TableHead>
@@ -91,6 +92,7 @@ const RJDashboard = () => {
                   <TableRow key={rj.username} className="hover:bg-gray-50">
                     <TableCell className="font-semibold">{index + 1}</TableCell>
                     <TableCell>{rj.name}</TableCell>
+                    <TableCell>{rj.radio}</TableCell>
                     <TableCell className="text-blue-600">@{rj.username}</TableCell>
                     <TableCell className="text-right font-semibold">{formatFollowers(rj.followers.ig)}</TableCell>
                     <TableCell className="text-right font-semibold">{formatFollowers(rj.followers.fb)}</TableCell>

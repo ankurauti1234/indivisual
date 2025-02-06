@@ -196,10 +196,10 @@ const data = {
             </div>
             <div>
               <CardTitle className="text-2xl font-semibold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent mb-1">
-                Ad Distribution Heatmap
+                Ad Airplay time Distribution Heatmap
               </CardTitle>
               <CardDescription className="text-gray-500">
-                24-hour advertisement frequency analysis
+                24-hour advertisement duration analysis
               </CardDescription>
             </div>
           </div>
@@ -267,7 +267,7 @@ const data = {
                       <span className="text-xs font-medium">{row[hour]}</span>
                     </div>
                     <div className="absolute -top-8 left-1/2  w-20 h-fit z-50 -translate-x-1/2 bg-gray-800 text-white text-xs py-1 px-2 rounded-md opacity-0 group-hover:opacity-100 transition-opacity">
-                      {`${row.station}: ${row[hour]} ads`}
+                      {`${row.station}: ${row[hour]} mins`}
                     </div>
                   </div>
                 ))}

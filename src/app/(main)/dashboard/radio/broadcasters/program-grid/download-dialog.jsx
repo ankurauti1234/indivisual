@@ -135,7 +135,7 @@ const DownloadDialog = ({ channels, epgData }) => {
         </Button>
       </DialogTrigger>
 
-      <DialogContent className="sm:max-w-[600px] p-0 bg-white/80 dark:bg-zinc-900/80 backdrop-blur-xl border-0 shadow-2xl">
+      <DialogContent className="sm:max-w-[600px] max-h-screen overflow-auto p-0 bg-white/80 dark:bg-zinc-900/80 backdrop-blur-xl border-0 shadow-2xl">
         <div className="p-6 space-y-6">
           <DialogHeader>
             <DialogTitle className="text-2xl font-medium">

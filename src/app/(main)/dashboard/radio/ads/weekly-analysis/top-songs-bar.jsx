@@ -20,16 +20,15 @@ import ChartCard from "@/components/card/charts-card";
 import { Radio } from "lucide-react";
 
 // Generate sample data for radio Songs and their ad counts
-const generateAdPlacementData = (station, timePeriod) => {
-const Songs = [
-  "Aaj Ki Raat (Stree 2)",
-  "Kesariya (Brahmastra)",
-  "Apna Bana Le (Bhediya)",
-  "Naatu Naatu (RRR)",
-  "Ranjha (Shershaah)",
-  "Pasoori (Coke Studio)",
-];
-
+const generateClusteredData = (timePeriod) => {
+  const Songs = [
+    "Aaj Ki Raat (Stree 2)",
+    "Kesariya (Brahmastra)",
+    "Apna Bana Le (Bhediya)",
+    "Naatu Naatu (RRR)",
+    "Ranjha (Shershaah)",
+    "Pasoori (Coke Studio)",
+  ];
 
   const baseMultiplier = {
     daily: 1,
@@ -39,61 +38,47 @@ const Songs = [
 
   // Adjust base ad counts based on station popularity
   const stationMultiplier = {
-    "radio city": 1.2,
-    "radio mirchi": 1.1,
-    "red fm": 1.0,
+    "Radio City": 1.2,
+    "Radio Mirchi": 1.1,
+    "Red FM": 1.0,
   };
 
-  return Songs
-    .map((program) => ({
-      name: program,
-      adCount: Math.floor(
-        (Math.random() * 15 + 10) *
-          baseMultiplier[timePeriod] *
-          stationMultiplier[station]
-      ),
-    }))
-    .sort((a, b) => b.adCount - a.adCount);
+  return Songs.map((song) => ({
+    name: song,
+    "Radio City": Math.floor(
+      (Math.random() * 15 + 10) *
+        baseMultiplier[timePeriod] *
+        stationMultiplier["Radio City"]
+    ),
+    "Radio Mirchi": Math.floor(
+      (Math.random() * 15 + 10) *
+        baseMultiplier[timePeriod] *
+        stationMultiplier["Radio Mirchi"]
+    ),
+    "Red FM": Math.floor(
+      (Math.random() * 15 + 10) *
+        baseMultiplier[timePeriod] *
+        stationMultiplier["Red FM"]
+    ),
+  })).sort((a, b) => b["Radio City"] - a["Radio City"]);
 };
 
 const TopSongsChart = () => {
-  const [station, setStation] = useState("radio city");
   const [timePeriod, setTimePeriod] = useState("daily");
-  const [adData, setAdData] = useState(
-    generateAdPlacementData(station, timePeriod)
-  );
-
-  const handleStationChange = (value) => {
-    setStation(value);
-    setAdData(generateAdPlacementData(value, timePeriod));
-  };
+  const [data, setData] = useState(generateClusteredData(timePeriod));
 
   const handleTimePeriodChange = (value) => {
     setTimePeriod(value);
-    setAdData(generateAdPlacementData(station, value));
+    setData(generateClusteredData(value));
   };
 
   return (
     <ChartCard
       icon={<Radio className="w-6 h-6" />}
       title="Top Songs by Volume"
-      description="View top songs by number of times it has been played across different radio stations"
+      description="View top songs by number of times played across different radio stations"
       action={
-        <div className="flex  justify-end">
-          {/* <div>
-            <p className="text-sm font-medium mb-2">Select Station</p>
-            <Select value={station} onValueChange={handleStationChange}>
-              <SelectTrigger>
-                <SelectValue placeholder="Select station" />
-              </SelectTrigger>
-              <SelectContent>
-                <SelectItem value="radio city">Radio City</SelectItem>
-                <SelectItem value="radio mirchi">Radio Mirchi</SelectItem>
-                <SelectItem value="red fm">Red FM</SelectItem>
-              </SelectContent>
-            </Select>
-          </div> */}
-
+        <div className="flex justify-end">
           <div>
             <p className="text-sm font-medium mb-2">Select Time Period</p>
             <Select value={timePeriod} onValueChange={handleTimePeriodChange}>
@@ -112,7 +97,7 @@ const TopSongsChart = () => {
       chart={
         <ResponsiveContainer width="100%" height={400}>
           <BarChart
-            data={adData}
+            data={data}
             layout="vertical"
             margin={{ top: 5, right: 30, left: 15, bottom: 5 }}
           >
@@ -123,28 +108,39 @@ const TopSongsChart = () => {
               type="category"
               tickLine={false}
               axisLine={false}
-              width={90}
+              width={150}
             />
             <Tooltip
-              formatter={(value, name) => {
-                if (name === "adCount") return [`${value} ads`, "Ad Count"];
-                return [`${value.toLocaleString()}`, "Ad Count"];
-              }}
+              formatter={(value, name) => [
+                `${value} plays`,
+                `${name}`
+              ]}
             />
             <Legend />
             <Bar
-              dataKey="adCount"
+              dataKey="Radio City"
               fill="#8884d8"
-              name="Ad Count"
-              radius={8}
+              name="Radio City"
+              radius={[0, 8, 8, 0]}
+            />
+            <Bar
+              dataKey="Radio Mirchi"
+              fill="#82ca9d"
+              name="Radio Mirchi"
+              radius={[0, 8, 8, 0]}
+            />
+            <Bar
+              dataKey="Red FM"
+              fill="#ffc658"
+              name="Red FM"
+              radius={[0, 8, 8, 0]}
             />
           </BarChart>
         </ResponsiveContainer>
       }
       footer={
         <p className="text-sm text-gray-500">
-          Shows top Songs ranked by number of ad placements. Revenue data is
-          simulated.
+          Shows top Songs ranked by number of plays across different radio stations. Data is simulated.
         </p>
       }
     />
