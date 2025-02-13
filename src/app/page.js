@@ -193,7 +193,7 @@ const LandingPage = () => {
 
               <h1 className="text-4xl md:text-6xl font-bold leading-tight">
                 <span className="flex flex-row gap-2 items-center">
-                  Subversive{" "}
+                  Submersive{" "}
                   {/* <WordRotate
                     className="text-4xl md:text-6xl font-bold text-primary"
                     words={["Broadcasters", "Advertisers", "Brand"]}
