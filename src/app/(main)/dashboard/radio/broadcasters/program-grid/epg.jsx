@@ -181,61 +181,66 @@ const EPG = () => {
     const width = (visibleEnd - visibleStart) * pixelsPerMinute;
     const left = (visibleStart - timeRange[0]) * pixelsPerMinute;
   
-  // Distinguish between different program types
-  const isProgramType = program.type === "song";
-  const isNotDetectedType = program.type === "not detected";
-  const isAdType = program.type === "ad";
+    // Distinguish between different program types
+    const isProgramType = program.type === "song";
+    const isNotDetectedType = program.type === "not detected";
+    const isAdType = program.type === "ad";
+    const isRegularProgramType = program.type === "program"; // New condition for "program" type
   
-  const isVeryNarrow = width < 80;
-  const isNarrow = width < 120;
-  const duration = endMinutes - startMinutes;
-  const durationText = `${Math.floor(duration / 60)}h ${duration % 60}m`;
-
-  return (
-    <motion.div
-      key={program.id}
-      className={`absolute h-28 overflow-hidden transition-all duration-300 cursor-pointer
-        ${
-          isNotDetectedType
-            ? "bg-zinc-300 dark:bg-zinc-700"  // Gray color for not detected
-            : isProgramType
-            ? "bg-blue-200 dark:bg-popover dark:to-card"
-            : "bg-rose-300 dark:bg-rose-900 dark:to-card"
-        }
-        ${isVeryNarrow ? "rounded-lg" : "rounded-xl"}
-        shadow-[2px_2px_4px_rgba(0,0,0,0.05),-2px_-2px_4px_rgba(255,255,255,0.5)] 
-        dark:shadow-[2px_2px_4px_rgba(0,0,0,0.2),-2px_-2px_4px_rgba(255,255,255,0.05)]
-        border border-white/20 dark:border-zinc-800
-        hover:shadow-[4px_4px_8px_rgba(0,0,0,0.1),-4px_-4px_8px_rgba(255,255,255,0.8)] 
-        dark:hover:shadow-[4px_4px_8px_rgba(0,0,0,0.3),-4px_-4px_8px_rgba(255,255,255,0.1)]
-        hover:translate-y-[-1px]
-        group`}
-      style={{
-        left: `${left}px`,
-        width: `${width}px`
-      }}
-      // Remove onClick for not detected types
-      onClick={isNotDetectedType ? undefined : () => setSelectedProgram(program)}
-    >
-      <div
-        className={`relative h-full flex flex-col justify-between 
-        ${isVeryNarrow ? "p-1" : isNarrow ? "p-1.5" : "p-2.5"}`}
+    const isVeryNarrow = width < 80;
+    const isNarrow = width < 120;
+    const duration = endMinutes - startMinutes;
+    const durationText = `${Math.floor(duration / 60)}h ${duration % 60}m`;
+  
+    return (
+      <motion.div
+        key={program.id}
+        className={`absolute h-28 overflow-hidden transition-all duration-300 cursor-pointer
+          ${
+            isNotDetectedType
+              ? "bg-zinc-300 dark:bg-zinc-700"  // Gray color for not detected
+              : isProgramType
+              ? "bg-blue-200 dark:bg-popover dark:to-card"
+              : isRegularProgramType
+              ? "bg-green-200 dark:bg-green-900 dark:to-card" // Green color for "program" type
+              : "bg-rose-300 dark:bg-rose-900 dark:to-card"
+          }
+          ${isVeryNarrow ? "rounded-lg" : "rounded-xl"}
+          shadow-[2px_2px_4px_rgba(0,0,0,0.05),-2px_-2px_4px_rgba(255,255,255,0.5)] 
+          dark:shadow-[2px_2px_4px_rgba(0,0,0,0.2),-2px_-2px_4px_rgba(255,255,255,0.05)]
+          border border-white/20 dark:border-zinc-800
+          hover:shadow-[4px_4px_8px_rgba(0,0,0,0.1),-4px_-4px_8px_rgba(255,255,255,0.8)] 
+          dark:hover:shadow-[4px_4px_8px_rgba(0,0,0,0.3),-4px_-4px_8px_rgba(255,255,255,0.1)]
+          hover:translate-y-[-1px]
+          group`}
+        style={{
+          left: `${left}px`,
+          width: `${width}px`
+        }}
+        // Remove onClick for not detected types
+        onClick={isNotDetectedType ? undefined : () => setSelectedProgram(program)}
       >
-        <div className="space-y-1.5">
-          {!isVeryNarrow && (
-            <h3
-              className={`font-medium text-sm leading-tight line-clamp-2 group-hover:line-clamp-none
-              ${
-                isNotDetectedType
-                  ? "text-zinc-600 dark:text-zinc-300"
-                  : isProgramType
-                  ? "text-zinc-800 dark:text-zinc-200"
-                  : "text-red-800 dark:text-red-200"
-              }`}
-            >
-              <span className="font-bold capitalize">{program.type}:</span>{program.program}
-            </h3>
-          )}
+        <div
+          className={`relative h-full flex flex-col justify-between 
+          ${isVeryNarrow ? "p-1" : isNarrow ? "p-1.5" : "p-2.5"}`}
+        >
+          <div className="space-y-1.5">
+            {!isVeryNarrow && (
+              <h3
+                className={`font-medium text-sm leading-tight line-clamp-2 group-hover:line-clamp-none
+                ${
+                  isNotDetectedType
+                    ? "text-zinc-600 dark:text-zinc-300"
+                    : isProgramType
+                    ? "text-zinc-800 dark:text-zinc-200"
+                    : isRegularProgramType
+                    ? "text-green-800 dark:text-green-200" // Green text for "program" type
+                    : "text-red-800 dark:text-red-200"
+                }`}
+              >
+                <span className="font-bold capitalize">{program.type}:</span>{program.program}
+              </h3>
+            )}
             {isVeryNarrow && (
               <div className="tooltip-container">
                 <div className="w-6 h-6 flex items-center justify-center">
@@ -254,7 +259,7 @@ const EPG = () => {
                 </div>
               </div>
             )}
-
+  
             <div
               className={`flex items-center gap-1.5 
               ${isVeryNarrow ? "flex-col items-start gap-0.5" : "flex-row"}`}
@@ -264,6 +269,8 @@ const EPG = () => {
                 ${
                   isProgramType
                     ? "bg-blue-100/80 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 shadow-[1px_1px_2px_rgba(0,0,0,0.05),-1px_-1px_2px_rgba(255,255,255,0.5)]"
+                    : isRegularProgramType
+                    ? "bg-green-200/80 dark:bg-green-900/30 text-green-800 dark:text-green-200 shadow-[1px_1px_2px_rgba(0,0,0,0.05),-1px_-1px_2px_rgba(255,255,255,0.5)]" // Green background for "program" type
                     : "bg-red-100/80 dark:bg-red-900/30 text-red-800 dark:text-red-200 shadow-[1px_1px_2px_rgba(0,0,0,0.05),-1px_-1px_2px_rgba(255,255,255,0.5)]"
                 }`}
               >
