@@ -63,7 +63,7 @@ const RadioPage = () => {
       title: "Advertisers",
       description:
         "Track campaign ROI and engagement with advanced analytics tools",
-      href: "/dashboard/radio/advertisers",
+      href: "/dashboard/radio/ads",
     },
     {
       icon: Building2,
