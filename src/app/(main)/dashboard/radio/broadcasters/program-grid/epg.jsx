@@ -196,6 +196,12 @@ const EPG = () => {
               {brands.map((brand) => (
                 <SelectItem key={brand} value={brand}>{brand}</SelectItem>
               ))}
+
+<SelectItem value="apple">Apple</SelectItem>
+          <SelectItem value="banana">Banana</SelectItem>
+          <SelectItem value="blueberry">Blueberry</SelectItem>
+          <SelectItem value="grapes">Grapes</SelectItem>
+          <SelectItem value="pineapple">Pineapple</SelectItem>
             </SelectContent>
           </Select>
           <Select value={selectedContentType} onValueChange={setSelectedContentType}>
