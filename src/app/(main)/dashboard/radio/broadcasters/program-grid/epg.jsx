@@ -197,11 +197,11 @@ const EPG = () => {
                 <SelectItem key={brand} value={brand}>{brand}</SelectItem>
               ))}
 
-<SelectItem value="apple">Apple</SelectItem>
-          <SelectItem value="banana">Banana</SelectItem>
-          <SelectItem value="blueberry">Blueberry</SelectItem>
-          <SelectItem value="grapes">Grapes</SelectItem>
-          <SelectItem value="pineapple">Pineapple</SelectItem>
+          <SelectItem value="pineapple">Adma Fertilizers</SelectItem>
+          <SelectItem value="blueberry">Amrit Noni</SelectItem>
+<SelectItem value="apple">Kalyan Jewellers</SelectItem>
+          <SelectItem value="banana">Sensodyne</SelectItem>
+          <SelectItem value="grapes">Palmonas Jewellers</SelectItem>
             </SelectContent>
           </Select>
           <Select value={selectedContentType} onValueChange={setSelectedContentType}>
