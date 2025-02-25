@@ -94,8 +94,21 @@ const EPG = () => {
     return matchesDate && matchesBrand && matchesContentType;
   });
 
-  const handlePrevDate = () => setSelectedDate((prev) => new Date(prev).setDate(new Date(prev).getDate() - 1) && new Date(prev).toISOString().split("T")[0]);
-  const handleNextDate = () => setSelectedDate((prev) => new Date(prev).setDate(new Date(prev).getDate() + 1) && new Date(prev).toISOString().split("T")[0]);
+  const handlePrevDate = () => {
+    setSelectedDate((prevDate) => {
+      const newDate = new Date(prevDate);
+      newDate.setDate(newDate.getDate() - 1);
+      return newDate.toISOString().split("T")[0];
+    });
+  };
+
+  const handleNextDate = () => {
+    setSelectedDate((prevDate) => {
+      const newDate = new Date(prevDate);
+      newDate.setDate(newDate.getDate() + 1);
+      return newDate.toISOString().split("T")[0];
+    });
+  };
 
   const toRadians = (deg) => (deg * Math.PI) / 180;
   const squircle = (cornerRadius) => (angle) => {
@@ -196,8 +209,7 @@ const EPG = () => {
               {brands.map((brand) => (
                 <SelectItem key={brand} value={brand}>{brand}</SelectItem>
               ))}
-
-          <SelectItem value="pineapple">Adma Fertilizers</SelectItem>
+                             <SelectItem value="pineapple">Adma Fertilizers</SelectItem>
           <SelectItem value="blueberry">Amrit Noni</SelectItem>
 <SelectItem value="apple">Kalyan Jewellers</SelectItem>
           <SelectItem value="banana">Sensodyne</SelectItem>
@@ -213,6 +225,7 @@ const EPG = () => {
               {contentTypes.map((type) => (
                 <SelectItem key={type} value={type}>{type.charAt(0).toUpperCase() + type.slice(1)}</SelectItem>
               ))}
+
             </SelectContent>
           </Select>
         </div>

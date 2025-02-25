@@ -8,6 +8,7 @@ import { CalendarIcon, Download, Check } from "lucide-react";
 import { Checkbox } from "@/components/ui/checkbox";
 import { format, startOfDay } from "date-fns";
 import { useToast } from "@/hooks/use-toast";
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 
 const DownloadDialog = ({ channels, epgData }) => {
   const [date, setDate] = useState(new Date());
@@ -76,38 +77,51 @@ const DownloadDialog = ({ channels, epgData }) => {
           <Download className="h-4 w-4 mr-2" /> Export
         </Button>
       </DialogTrigger>
-      <DialogContent className="sm:max-w-[600px] bg-white dark:bg-zinc-900 rounded-xl shadow-2xl border border-zinc-200/50 dark:border-zinc-800/50 p-0">
+      <DialogContent className="w-full max-w-md sm:max-w-lg md:max-w-xl bg-white dark:bg-zinc-900 rounded-xl shadow-2xl border border-zinc-200/50 dark:border-zinc-800/50 p-0">
         <div className="p-6 space-y-6">
           <DialogHeader>
             <DialogTitle className="text-2xl font-semibold text-zinc-800 dark:text-zinc-100">Export EPG Data</DialogTitle>
           </DialogHeader>
           <div className="space-y-6">
-            <div className="flex gap-6">
+            {/* Date Picker */}
+            <div className="space-y-2">
+              <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">Date</Label>
+              <Popover>
+                <PopoverTrigger asChild>
+                  <Button variant="outline" className="w-full h-10 justify-start text-left bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 hover:bg-zinc-100 dark:hover:bg-zinc-700">
+                    <CalendarIcon className="h-4 w-4 mr-2" />
+                    {format(date, "PPP")}
+                  </Button>
+                </PopoverTrigger>
+                <PopoverContent className="w-auto p-0 bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-700">
+                  <Calendar mode="single" selected={date} onSelect={setDate} initialFocus />
+                </PopoverContent>
+              </Popover>
+            </div>
+
+            {/* Time Inputs */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div className="space-y-2">
-                <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">Date</Label>
-                <Calendar mode="single" selected={date} onSelect={setDate} className="rounded-lg shadow-md border-zinc-200 dark:border-zinc-700" />
+                <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">Start Time</Label>
+                <Input
+                  type="time"
+                  value={startTime}
+                  onChange={handleStartTimeChange}
+                  className="h-10 rounded-lg bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 focus:ring-indigo-500 dark:focus:ring-indigo-400"
+                />
               </div>
-              <div className="flex-1 space-y-4">
-                <div>
-                  <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">Start Time</Label>
-                  <Input
-                    type="time"
-                    value={startTime}
-                    onChange={handleStartTimeChange}
-                    className="mt-1 h-10 rounded-lg bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 focus:ring-indigo-500 dark:focus:ring-indigo-400"
-                  />
-                </div>
-                <div>
-                  <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">End Time</Label>
-                  <Input
-                    type="time"
-                    value={endTime}
-                    onChange={handleEndTimeChange}
-                    className="mt-1 h-10 rounded-lg bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 focus:ring-indigo-500 dark:focus:ring-indigo-400"
-                  />
-                </div>
+              <div className="space-y-2">
+                <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">End Time</Label>
+                <Input
+                  type="time"
+                  value={endTime}
+                  onChange={handleEndTimeChange}
+                  className="h-10 rounded-lg bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 focus:ring-indigo-500 dark:focus:ring-indigo-400"
+                />
               </div>
             </div>
+
+            {/* File Name */}
             <div className="space-y-2">
               <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">File Name (Optional)</Label>
               <Input
@@ -118,10 +132,12 @@ const DownloadDialog = ({ channels, epgData }) => {
                 className="h-10 rounded-lg bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 focus:ring-indigo-500 dark:focus:ring-indigo-400"
               />
             </div>
+
+            {/* Channels */}
             <div className="space-y-2">
               <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">Channels</Label>
-              <div className="max-h-64 overflow-y-auto rounded-lg bg-white dark:bg-zinc-800 p-4 shadow-md border border-zinc-200 dark:border-zinc-700">
-                <label className="flex items-center p-2 rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-700/50">
+              <div className="max-h-48 overflow-y-auto rounded-lg bg-white dark:bg-zinc-800 p-3 shadow-md border border-zinc-200 dark:border-zinc-700">
+                <label className="flex items-center p-2 rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-700/50 cursor-pointer">
                   <Checkbox
                     checked={selectedChannels.includes("all")}
                     onCheckedChange={(checked) => setSelectedChannels(checked ? ["all"] : [])}
@@ -131,7 +147,7 @@ const DownloadDialog = ({ channels, epgData }) => {
                 </label>
                 {!selectedChannels.includes("all") &&
                   channels.map((channel) => (
-                    <label key={channel} className="flex items-center p-2 rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-700/50">
+                    <label key={channel} className="flex items-center p-2 rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-700/50 cursor-pointer">
                       <Checkbox
                         checked={selectedChannels.includes(channel)}
                         onCheckedChange={(checked) =>
@@ -150,9 +166,9 @@ const DownloadDialog = ({ channels, epgData }) => {
           <Button
             onClick={handleDownload}
             disabled={selectedChannels.length === 0 || isDownloading}
-            className="w-full h-12 rounded-lg bg-indigo-500 hover:bg-indigo-600 dark:bg-indigo-600 dark:hover:bg-indigo-700 text-white shadow-lg hover:shadow-xl transition-all duration-200"
+            className="w-full h-12 rounded-lg bg-indigo-500 hover:bg-indigo-600 dark:bg-indigo-600 dark:hover:bg-indigo-700 text-white shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-2"
           >
-            {isDownloading ? <Check className="h-5 w-5" /> : <Download className="h-5 w-5 mr-2" />}
+            {isDownloading ? <Check className="h-5 w-5" /> : <Download className="h-5 w-5" />}
             {isDownloading ? "Downloaded" : "Download CSV"}
           </Button>
         </DialogFooter>
