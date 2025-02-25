@@ -7,13 +7,16 @@ import {
   Bot,
   Command,
   Frame,
+  Gamepad,
   LifeBuoy,
   Map,
   PieChart,
+  Play,
   Send,
   Settings,
   Settings2,
   SquareTerminal,
+  Video,
 } from "lucide-react";
 
 import { NavMain } from "@/components/navigation/sidebar/nav-main";
@@ -61,39 +64,73 @@ const data = {
       icon: Bot,
       items: [
         {
-          title: "Broadcasters",
+          title: "Operator",
           url: "/dashboard/radio/broadcasters",
         },
         {
-          title: "Advertisers",
+          title: "Advertisers & Brands",
           url: "/dashboard/radio/ads",
         },
         {
-          title: "Brands",
-          url: "/dashboard/radio/brands",
+          title: "Listenership",
+          url: "/dashboard/radio/listenership",
         },
       ],
     },
     {
-      title: "Custom",
-      url: "/dashboard/custom",
-      icon: Settings2,
+      title: "YouTube",
+      url: "/dashboard/youtube",
+      icon: Video,
       items: [
         {
-          title: "General",
-          url: "/dashboard/custom/general",
+          title: "Creators",
+          url: "/dashboard/youtube/creators",
         },
         {
-          title: "Team",
-          url: "/dashboard/custom/team",
+          title: "Advertisers",
+          url: "/dashboard/youtube/ads",
         },
         {
-          title: "Billing",
-          url: "/dashboard/custom/billing",
+          title: "Viewership",
+          url: "/dashboard/youtube/viewership",
+        },
+      ],
+    },
+    {
+      title: "OTT",
+      url: "/dashboard/ott",
+      icon: Play,
+      items: [
+        {
+          title: "Platforms",
+          url: "/dashboard/ott/platforms",
         },
         {
-          title: "Limits",
-          url: "/dashboard/custom/limits",
+          title: "Advertisers",
+          url: "/dashboard/ott/ads",
+        },
+        {
+          title: "Subscribers",
+          url: "/dashboard/ott/subscribers",
+        },
+      ],
+    },
+    {
+      title: "Gaming",
+      url: "/dashboard/gaming",
+      icon: Gamepad,
+      items: [
+        {
+          title: "Publishers",
+          url: "/dashboard/gaming/publishers",
+        },
+        {
+          title: "Advertisers",
+          url: "/dashboard/gaming/ads",
+        },
+        {
+          title: "Players",
+          url: "/dashboard/gaming/players",
         },
       ],
     },

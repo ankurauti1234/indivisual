@@ -1,19 +1,12 @@
 import React, { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Calendar } from "@/components/ui/calendar";
-import {
-  Dialog,
-  DialogContent,
-  DialogHeader,
-  DialogTitle,
-  DialogTrigger,
-  DialogFooter,
-} from "@/components/ui/dialog";
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogFooter, DialogTrigger } from "@/components/ui/dialog";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { CalendarIcon, Download, Check } from "lucide-react";
 import { Checkbox } from "@/components/ui/checkbox";
-import { format, startOfDay, endOfDay } from "date-fns";
+import { format, startOfDay } from "date-fns";
 import { useToast } from "@/hooks/use-toast";
 
 const DownloadDialog = ({ channels, epgData }) => {
@@ -22,78 +15,40 @@ const DownloadDialog = ({ channels, epgData }) => {
   const [endTime, setEndTime] = useState("23:59");
   const [selectedChannels, setSelectedChannels] = useState([]);
   const [open, setOpen] = useState(false);
-  const [calendarOpen, setCalendarOpen] = useState(false);
   const [fileName, setFileName] = useState("");
   const [isDownloading, setIsDownloading] = useState(false);
   const { toast } = useToast();
 
-  const validateTimeInput = (time) => {
-    const timeRegex = /^([0-1]?[0-9]|2[0-3]):[0-5][0-9]$/;
-    return timeRegex.test(time);
-  };
+  const validateTimeInput = (time) => /^([0-1]?[0-9]|2[0-3]):[0-5][0-9]$/.test(time);
 
   const handleStartTimeChange = (e) => {
     const newTime = e.target.value;
-    if (validateTimeInput(newTime)) {
-      if (newTime < endTime) {
-        setStartTime(newTime);
-      } else {
-        setStartTime(endTime);
-      }
-    }
+    if (validateTimeInput(newTime) && newTime < endTime) setStartTime(newTime);
   };
 
   const handleEndTimeChange = (e) => {
     const newTime = e.target.value;
-    if (validateTimeInput(newTime)) {
-      if (newTime > startTime) {
-        setEndTime(newTime);
-      } else {
-        setEndTime(startTime);
-      }
-    }
-  };
-
-  const handleDateSelect = (selectedDate) => {
-    if (selectedDate) {
-      setDate(selectedDate);
-      setCalendarOpen(false);
-    }
+    if (validateTimeInput(newTime) && newTime > startTime) setEndTime(newTime);
   };
 
   const handleDownload = async () => {
     setIsDownloading(true);
-
     try {
-      // Convert selected date to UTC midnight to ensure consistent date comparison
       const selectedDate = startOfDay(date);
-      const selectedDateStr = format(selectedDate, 'yyyy-MM-dd');
+      const selectedDateStr = format(selectedDate, "yyyy-MM-dd");
 
       const filteredData = epgData.filter((program) => {
-        // Parse the program date and convert to local date string for comparison
-        const programDate = new Date(program.date);
-        const programDateStr = format(programDate, 'yyyy-MM-dd');
-        
+        const programDateStr = format(new Date(program.date), "yyyy-MM-dd");
         const isSelectedChannel = selectedChannels.includes(program.channel) || selectedChannels.includes("all");
         const programStartTime = program.start.substring(0, 5);
         const programEndTime = program.end.substring(0, 5);
-        const isInTimeRange = programStartTime >= startTime && programEndTime <= endTime;
-
-        // Compare date strings to avoid timezone issues
-        return programDateStr === selectedDateStr && isSelectedChannel && isInTimeRange;
+        return programDateStr === selectedDateStr && isSelectedChannel && programStartTime >= startTime && programEndTime <= endTime;
       });
 
       const csvContent = [
         ["Channel", "Date", "Start", "End", "Type", "Program Name"].join(","),
         ...filteredData.map((program) =>
-          [
-            program.channel,
-            program.date,
-            program.start,
-            program.end,
-            program.type,
-            `"${program.program}"`,
-          ].join(",")
+          [program.channel, program.date, program.start, program.end, program.type, `"${program.program}"`].join(",")
         ),
       ].join("\n");
 
@@ -101,27 +56,15 @@ const DownloadDialog = ({ channels, epgData }) => {
       const url = window.URL.createObjectURL(blob);
       const a = document.createElement("a");
       a.href = url;
-      a.download = `${fileName || `epg-data-${format(date, 'yyyy-MM-dd')}`}.csv`;
-      document.body.appendChild(a);
+      a.download = `${fileName || `epg-data-${selectedDateStr}`}.csv`;
       a.click();
-      document.body.removeChild(a);
       window.URL.revokeObjectURL(url);
 
-      toast({
-        title: "Download Complete",
-        description: "Your EPG data has been successfully exported.",
-      });
-
-      setTimeout(() => {
-        setOpen(false);
-        setIsDownloading(false);
-      }, 1000);
+      toast({ title: "Download Complete", description: "EPG data exported successfully." });
+      setTimeout(() => setOpen(false), 1000);
     } catch (error) {
-      toast({
-        title: "Download Failed",
-        description: "There was an error exporting your EPG data.",
-        variant: "destructive",
-      });
+      toast({ title: "Download Failed", description: "An error occurred.", variant: "destructive" });
+    } finally {
       setIsDownloading(false);
     }
   };
@@ -129,142 +72,88 @@ const DownloadDialog = ({ channels, epgData }) => {
   return (
     <Dialog open={open} onOpenChange={setOpen}>
       <DialogTrigger asChild>
-        <Button variant="outline">
-          <Download className="h-4 w-4" />  
-          Export
+        <Button className="bg-white dark:bg-zinc-800 text-zinc-800 dark:text-zinc-100 hover:bg-zinc-100 dark:hover:bg-zinc-700 shadow-md">
+          <Download className="h-4 w-4 mr-2" /> Export
         </Button>
       </DialogTrigger>
-
-      <DialogContent className="sm:max-w-[600px] max-h-screen overflow-auto p-0 bg-white/80 dark:bg-zinc-900/80 backdrop-blur-xl border-0 shadow-2xl">
+      <DialogContent className="sm:max-w-[600px] bg-white dark:bg-zinc-900 rounded-xl shadow-2xl border border-zinc-200/50 dark:border-zinc-800/50 p-0">
         <div className="p-6 space-y-6">
           <DialogHeader>
-            <DialogTitle className="text-2xl font-medium">
-              Export EPG Data
-            </DialogTitle>
+            <DialogTitle className="text-2xl font-semibold text-zinc-800 dark:text-zinc-100">Export EPG Data</DialogTitle>
           </DialogHeader>
-
-          <div className="space-y-8">
-            <div className="flex gap-4">
+          <div className="space-y-6">
+            <div className="flex gap-6">
               <div className="space-y-2">
-                <Label className="text-sm font-medium">Select Date</Label>
-                <Calendar
-                  mode="single"
-                  selected={date}
-                  onSelect={handleDateSelect}
-                  initialFocus
-                  className="bg-card w-fit rounded-lg"
-                />
+                <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">Date</Label>
+                <Calendar mode="single" selected={date} onSelect={setDate} className="rounded-lg shadow-md border-zinc-200 dark:border-zinc-700" />
               </div>
-
-              <div className="flex-1 gap-6">
-                <div className="space-y-2 w-full">
-                  <Label className="text-sm font-medium">Start Time</Label>
+              <div className="flex-1 space-y-4">
+                <div>
+                  <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">Start Time</Label>
                   <Input
                     type="time"
                     value={startTime}
                     onChange={handleStartTimeChange}
-                    className="rounded-xl h-12 border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-800
-                    focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400 transition-all duration-200"
+                    className="mt-1 h-10 rounded-lg bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 focus:ring-indigo-500 dark:focus:ring-indigo-400"
                   />
                 </div>
-
-                <div className="space-y-2 w-full">
-                  <Label className="text-sm font-medium">End Time</Label>
+                <div>
+                  <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">End Time</Label>
                   <Input
                     type="time"
                     value={endTime}
                     onChange={handleEndTimeChange}
-                    className="rounded-xl h-12 border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-800
-                    focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400 transition-all duration-200"
+                    className="mt-1 h-10 rounded-lg bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 focus:ring-indigo-500 dark:focus:ring-indigo-400"
                   />
                 </div>
               </div>
             </div>
-
             <div className="space-y-2">
-              <Label className="text-sm font-medium">File Name</Label>
+              <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">File Name (Optional)</Label>
               <Input
                 type="text"
-                placeholder="Enter file name (optional)"
+                placeholder={`epg-data-${format(date, "yyyy-MM-dd")}`}
                 value={fileName}
                 onChange={(e) => setFileName(e.target.value)}
-                className="rounded-xl h-12 border-zinc-200 dark:border-zinc-700 bg-white dark:bg-zinc-800
-                  focus:ring-2 focus:ring-blue-500 dark:focus:ring-blue-400 transition-all duration-200"
+                className="h-10 rounded-lg bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 focus:ring-indigo-500 dark:focus:ring-indigo-400"
               />
             </div>
-
             <div className="space-y-2">
-              <Label className="text-sm font-medium">Select Channels</Label>
-              <div className="grid grid-cols-2 gap-4 p-4 rounded-2xl bg-white dark:bg-zinc-800 shadow-lg max-h-64 overflow-y-auto">
-                <div className="col-span-2">
-                  <label className="flex items-center p-3 rounded-xl hover:bg-zinc-50 dark:hover:bg-zinc-700/50 transition-colors cursor-pointer">
-                    <Checkbox
-                      id="all-channels"
-                      checked={selectedChannels.includes("all")}
-                      onCheckedChange={(checked) => {
-                        if (checked) {
-                          setSelectedChannels(["all"]);
-                        } else {
-                          setSelectedChannels([]);
-                        }
-                      }}
-                      className="h-5 w-5 rounded-lg"
-                    />
-                    <span className="ml-3 font-medium">
-                      Select All Channels
-                    </span>
-                  </label>
-                </div>
-
+              <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">Channels</Label>
+              <div className="max-h-64 overflow-y-auto rounded-lg bg-white dark:bg-zinc-800 p-4 shadow-md border border-zinc-200 dark:border-zinc-700">
+                <label className="flex items-center p-2 rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-700/50">
+                  <Checkbox
+                    checked={selectedChannels.includes("all")}
+                    onCheckedChange={(checked) => setSelectedChannels(checked ? ["all"] : [])}
+                    className="h-5 w-5 rounded-md"
+                  />
+                  <span className="ml-3 text-sm font-medium text-zinc-800 dark:text-zinc-100">All Channels</span>
+                </label>
                 {!selectedChannels.includes("all") &&
                   channels.map((channel) => (
-                    <label
-                      key={channel}
-                      className="flex items-center p-3 rounded-xl hover:bg-zinc-50 dark:hover:bg-zinc-700/50 transition-colors cursor-pointer"
-                    >
+                    <label key={channel} className="flex items-center p-2 rounded-lg hover:bg-zinc-100 dark:hover:bg-zinc-700/50">
                       <Checkbox
-                        id={channel}
                         checked={selectedChannels.includes(channel)}
-                        onCheckedChange={(checked) => {
-                          if (checked) {
-                            setSelectedChannels([...selectedChannels, channel]);
-                          } else {
-                            setSelectedChannels(
-                              selectedChannels.filter((ch) => ch !== channel)
-                            );
-                          }
-                        }}
-                        className="h-5 w-5 rounded-lg"
+                        onCheckedChange={(checked) =>
+                          setSelectedChannels(checked ? [...selectedChannels, channel] : selectedChannels.filter((ch) => ch !== channel))
+                        }
+                        className="h-5 w-5 rounded-md"
                       />
-                      <span className="ml-3">{channel}</span>
+                      <span className="ml-3 text-sm text-zinc-800 dark:text-zinc-100">{channel}</span>
                     </label>
                   ))}
               </div>
             </div>
           </div>
         </div>
-
-        <DialogFooter className="p-6 bg-zinc-50 dark:bg-zinc-800/50">
+        <DialogFooter className="p-6 bg-zinc-50 dark:bg-zinc-800/50 border-t border-zinc-200/50 dark:border-zinc-700/50">
           <Button
             onClick={handleDownload}
             disabled={selectedChannels.length === 0 || isDownloading}
-            className="w-full h-12 rounded-full bg-blue-500 hover:bg-blue-600 text-white
-              dark:bg-blue-400 dark:hover:bg-blue-500 font-medium
-              disabled:opacity-50 disabled:cursor-not-allowed
-              transition-all duration-200 shadow-lg hover:shadow-xl
-              flex items-center justify-center gap-2"
+            className="w-full h-12 rounded-lg bg-indigo-500 hover:bg-indigo-600 dark:bg-indigo-600 dark:hover:bg-indigo-700 text-white shadow-lg hover:shadow-xl transition-all duration-200"
           >
-            {isDownloading ? (
-              <>
-                <Check className="h-4 w-4" />
-                Download Complete
-              </>
-            ) : (
-              <>
-                <Download className="h-4 w-4" />
-                Download CSV
-              </>
-            )}
+            {isDownloading ? <Check className="h-5 w-5" /> : <Download className="h-5 w-5 mr-2" />}
+            {isDownloading ? "Downloaded" : "Download CSV"}
           </Button>
         </DialogFooter>
       </DialogContent>

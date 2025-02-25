@@ -52,7 +52,7 @@ const RJDashboard = () => {
             <div className="flex items-center space-x-4">
               <Radio className="w-8 h-8 text-purple-500" />
               <div>
-                <CardTitle className="text-2xl font-bold">Top Radio RJs of India</CardTitle>
+                <CardTitle className="text-2xl font-bold">Top RJs of India</CardTitle>
                 <CardDescription>Social Media Followers Ranking</CardDescription>
               </div>
             </div>

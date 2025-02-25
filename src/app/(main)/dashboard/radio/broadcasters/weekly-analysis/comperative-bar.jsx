@@ -172,6 +172,7 @@ const RadioSectorAnalysis = () => {
     }
   };
 
+
   // Convert nested data structure to flat array for filtering
   const flattenedData = Object.entries(rawData).flatMap(([network, stations]) =>
     Object.entries(stations).map(([city, data]) => ({
@@ -180,14 +181,7 @@ const RadioSectorAnalysis = () => {
     }))
   );
 
-  const handleMonthSelection = (value) => {
-    if (selectedMonths.includes(value)) {
-      setSelectedMonths(selectedMonths.filter(month => month !== value));
-    } else {
-      setSelectedMonths([...selectedMonths, value]);
-    }
-  };
-
+  // Define filteredData before the return statement
   const filteredData = useMemo(() => {
     return flattenedData
       .filter((stationData) => {
@@ -204,7 +198,7 @@ const RadioSectorAnalysis = () => {
         region: stationData.region,
         language: stationData.language,
       }));
-  }, [selectedMonths, selectedRegion, selectedLanguage]);
+  }, [selectedMonths, selectedRegion, selectedLanguage, flattenedData]);
 
   const maxTotalAds = useMemo(() => {
     return Math.max(
@@ -216,149 +210,144 @@ const RadioSectorAnalysis = () => {
     );
   }, [filteredData]);
 
-
   const formatSelectedMonths = (selected) => {
     if (selected.length === 0) return "Select months";
     if (selected.length === 3) return "Quarter 1";
-    
     return selected
       .map(month => months.find(m => m.value === month)?.shortLabel)
       .sort((a, b) => months.findIndex(m => m.shortLabel === a) - months.findIndex(m => m.shortLabel === b))
       .join("-");
   };
 
-  // const handleMonthSelection = (value) => {
-  //   if (selectedMonths.includes(value)) {
-  //     setSelectedMonths(selectedMonths.filter(month => month !== value));
-  //   } else {
-  //     setSelectedMonths([...selectedMonths, value]);
-  //   }
-  // };
+  const handleMonthSelection = (value) => {
+    if (selectedMonths.includes(value)) {
+      setSelectedMonths(selectedMonths.filter(month => month !== value));
+    } else {
+      setSelectedMonths([...selectedMonths, value]);
+    }
+  };
 
   return (
-    <Card className="w-full bg-gradient-to-br from-gray-50/50 to-gray-100/50 backdrop-blur-xl">
-      <CardHeader className="pb-2">
-        <div className="flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <div className="rounded-2xl bg-primary/10 p-2">
-              <Radio className="h-6 w-6 text-primary animate-pulse" />
+    <Card className="w-full bg-white shadow-xl rounded-2xl overflow-hidden">
+      <CardHeader className="bg-gradient-to-r from-gray-50 to-gray-100 p-6">
+        <div className="flex flex-col space-y-4">
+
+
+          <div className="flex items-center justify-between flex-wrap gap-4">
+            <div className="flex items-center gap-3">
+              <div className="rounded-full bg-primary/10 p-2 shadow-md">
+                <Radio className="h-5 w-5 text-primary" />
+              </div>
+              <div>
+                <CardTitle className="text-xl font-bold text-gray-800">
+                  Sector-wise Ad Distribution
+                </CardTitle>
+                <CardDescription className="text-sm text-gray-600 mt-1">
+                  Analyze sector performance across regions and languages
+                </CardDescription>
+              </div>
             </div>
-            <div>
-              <CardTitle className="text-2xl font-semibold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent mb-1">
-              Sector-wise Ad Distribution
-              </CardTitle>
-              <CardDescription className="text-gray-500">
-                Compare sector performance across regions and languages
-              </CardDescription>
-            </div>
-          </div>
-          <div className="flex items-center gap-4">
-            <Filter className="h-6 w-6 text-primary/60" />
-            <div className="flex gap-2">
-                      <Select >
-                        <SelectTrigger className="w-[240px] bg-white">
-                          <SelectValue placeholder="Sector" />
-                        </SelectTrigger>
-                        <SelectContent>
-                          <SelectItem value="Healthcare">Healthcare</SelectItem>
-                          <SelectItem value="Education">Education</SelectItem>
-                          <SelectItem value="Insurance">Insurance</SelectItem>
-                          <SelectItem value="Entertainment">Entertainment</SelectItem>
-                          <SelectItem value="Contruction">Contruction</SelectItem>
-                          <SelectItem value="Chemical">Chemical</SelectItem>
-                          <SelectItem value="Public Works">Public Works</SelectItem>
-                          <SelectItem value="FMCG">FMCG</SelectItem>
-                          <SelectItem value="Govt">Govt</SelectItem>
-                          <SelectItem value="Real Estate">Real Estate</SelectItem>
-                          <SelectItem value="Jewellery">Jewellery</SelectItem>
-                          <SelectItem value="Travel">Travel</SelectItem>
-                          <SelectItem value="AutoMobile">AutoMobile</SelectItem>
-                          <SelectItem value="Fashion">Fashion</SelectItem>
-                          <SelectItem value="Banking">Banking</SelectItem>
-                        </SelectContent>
-                      </Select>
-            <Select
-            value={selectedMonths[0]}
-            onValueChange={handleMonthSelection}
-          >
-            <SelectTrigger className="w-40">
-              <SelectValue>
-                {formatSelectedMonths(selectedMonths)}
-              </SelectValue>
-            </SelectTrigger>
-            <SelectContent>
-              {months.map((month) => (
-                <SelectItem 
-                  key={month.value} 
-                  value={month.value}
-                  className="flex items-center gap-2"
+            <div className="flex items-center gap-3 flex-wrap">
+              <Filter className="h-5 w-5 text-gray-500" />
+              <div className="flex gap-2">
+                <Select
+                  value={selectedMonths[0]}
+                  onValueChange={handleMonthSelection}
                 >
-                  <input
-                    type="checkbox"
-                    checked={selectedMonths.includes(month.value)}
-                    onChange={() => {}}
-                    className="mr-2"
-                  />
-                  {month.label}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-              <Select value={selectedRegion} onValueChange={setSelectedRegion}>
-                <SelectTrigger className="w-36">
-                  <SelectValue placeholder="Select region" />
-                </SelectTrigger>
-                <SelectContent>
-                  {regions.map((region) => (
-                    <SelectItem key={region.value} value={region.value}>
-                      {region.label}
-                    </SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-              <Select value={selectedLanguage} onValueChange={setSelectedLanguage}>
-                <SelectTrigger className="w-36">
-                  <SelectValue placeholder="Select language" />
-                </SelectTrigger>
-                <SelectContent>
-                  {languages.map((language) => (
-                    <SelectItem key={language.value} value={language.value}>
-                      {language.label}
-                    </SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
+                  <SelectTrigger className="w-40 bg-white shadow-sm border-gray-200">
+                    <SelectValue>{formatSelectedMonths(selectedMonths)}</SelectValue>
+                  </SelectTrigger>
+                  <SelectContent>
+                    {months.map((month) => (
+                      <SelectItem
+                        key={month.value}
+                        value={month.value}
+                        className="flex items-center gap-2"
+                      >
+                        <input
+                          type="checkbox"
+                          checked={selectedMonths.includes(month.value)}
+                          onChange={() => {}}
+                          className="mr-2"
+                        />
+                        {month.label}
+                      </SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+                <Select value={selectedRegion} onValueChange={setSelectedRegion}>
+                  <SelectTrigger className="w-36 bg-white shadow-sm border-gray-200">
+                    <SelectValue placeholder="Select region" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    {regions.map((region) => (
+                      <SelectItem key={region.value} value={region.value}>
+                        {region.label}
+                      </SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+                <Select value={selectedLanguage} onValueChange={setSelectedLanguage}>
+                  <SelectTrigger className="w-36 bg-white shadow-sm border-gray-200">
+                    <SelectValue placeholder="Select language" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    {languages.map((language) => (
+                      <SelectItem key={language.value} value={language.value}>
+                        {language.label}
+                      </SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </div>
             </div>
           </div>
         </div>
       </CardHeader>
-      <CardContent>
-        <div className="mt-6 space-y-8">
+      <CardContent className="p-6">
+      <div className="flex flex-wrap gap-3 justify-center">
+            {Object.entries(sectors).map(([key, sector]) => (
+              <div
+                key={key}
+                className="flex items-center gap-2 bg-white/80 rounded-full px-3 py-1 shadow-sm"
+              >
+                <div
+                  className="h-2.5 w-2.5 rounded-full ring-1 ring-white"
+                  style={{ backgroundColor: sector.color }}
+                />
+                <span className="text-xs font-medium text-gray-700">{sector.name}</span>
+              </div>
+            ))}
+          </div>
+        <div className="space-y-6">
           {filteredData.map((station) => (
-            <div key={station.station} className="relative">
+            <div
+              key={station.station}
+              className="bg-gray-50/50 rounded-xl p-4 hover:bg-gray-50 transition-colors"
+            >
               <div className="flex items-start gap-4">
-                <div className="w-36">
-                  <div className="text-sm font-medium">{station.station}</div>
-                  <div className="text-xs text-gray-400">
+                <div className="w-36 flex-shrink-0">
+                  <div className="text-sm font-semibold text-gray-800">{station.station}</div>
+                  <div className="text-xs text-gray-500 mt-1">
                     {regions.find(r => r.value === station.region)?.label}
                   </div>
-                  <div className="text-xs text-gray-400">
+                  <div className="text-xs text-gray-500">
                     {languages.find(l => l.value === station.language)?.label}
                   </div>
                 </div>
                 <div className="flex-1">
-                  <div className="space-y-2">
+                  <div className="space-y-3">
                     {station.monthlyData.map((monthData) => {
                       const totalMonthAds = Object.values(monthData.ads).reduce((a, b) => a + b, 0);
                       return (
                         <div key={monthData.month} className="relative">
-                          <div className="text-xs text-gray-500 mb-1">
+                          <div className="text-xs font-medium text-gray-600 mb-1.5">
                             {months.find(m => m.value === monthData.month)?.label}
                           </div>
-                          <div className="relative h-16 min-w-screen">
-                            <div className="absolute inset-y-0 w-full bg-gray-100 rounded-xl" />
+                          <div className="relative h-8">
+                            <div className="absolute inset-y-0 w-full bg-gray-200/50 rounded-full" />
                             <div
-                              className="relative h-full rounded-xl flex overflow-hidden"
+                              className="relative h-full rounded-full flex overflow-hidden shadow-sm"
                               style={{
                                 width: `${(totalMonthAds / maxTotalAds) * 100}%`,
                               }}
@@ -368,16 +357,16 @@ const RadioSectorAnalysis = () => {
                                 return (
                                   <div
                                     key={sector}
-                                    className="h-full relative flex items-center justify-center group"
+                                    className="h-full relative flex items-center justify-center group transition-all duration-200 hover:brightness-110"
                                     style={{
                                       width: `${percentage}%`,
                                       backgroundColor: sectors[sector].color,
                                     }}
                                   >
-                                    <div className="text-xs font-medium text-white drop-shadow-md">
+                                    <div className="text-xs font-medium text-white px-1">
                                       {value}
                                     </div>
-                                    <div className="absolute bottom-full mb-2 px-2 py-1 bg-gray-800 text-white text-xs rounded opacity-0 group-hover:opacity-100 transition-opacity">
+                                    <div className="absolute -top-8 left-1/2 transform -translate-x-1/2 px-2 py-1 bg-gray-900/90 text-white text-xs rounded shadow-lg opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
                                       {sectors[sector].name}: {value} ({percentage.toFixed(1)}%)
                                     </div>
                                   </div>
@@ -393,24 +382,6 @@ const RadioSectorAnalysis = () => {
               </div>
             </div>
           ))}
-        </div>
-
-        <div className="mt-8 pt-6 border-t border-gray-200">
-          <div className="text-sm font-medium mb-4">Legend</div>
-          <div className="grid grid-cols-5 gap-4 text-sm">
-            {Object.entries(sectors).map(([key, sector]) => (
-              <div
-                key={key}
-                className="flex items-center gap-3 bg-gray-50/50 rounded-xl p-3"
-              >
-                <div
-                  className="h-3 w-3 rounded-full"
-                  style={{ backgroundColor: sector.color }}
-                />
-                <span className="text-gray-600">{sector.name}</span>
-              </div>
-            ))}
-          </div>
         </div>
       </CardContent>
     </Card>

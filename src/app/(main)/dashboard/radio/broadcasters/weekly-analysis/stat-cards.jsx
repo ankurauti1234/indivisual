@@ -15,7 +15,7 @@ import {
 const StatCards = () => {
   const summaryCards = [
     {
-      title: "Highiest AD Count",
+      title: "Highest AD Count",
       value: "201",
       trend: "+8.2%",
       isPositive: true,

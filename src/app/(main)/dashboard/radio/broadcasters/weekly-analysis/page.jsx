@@ -9,11 +9,13 @@ import DetailedAdAnalysis from './derailedAdAnalysis'
 import PlatformComparison from './platform-comparison'
 import AppleStyleTreemap from './treemap'
 import RadioSectorAnalysis from './comperative-bar'
+import RJDashboard from './rj-dashboard'
 
 const page = () => {
   return (
     <div className='space-y-6'>
       <StatCards />
+      <RJDashboard/>
       <RadioAdHeatmap />
       <RadioSectorAnalysis/>
       <AppleStyleTreemap/>

@@ -1,96 +1,64 @@
 "use client";
 import React from "react";
-import {
-  Dialog,
-  DialogContent,
-  DialogHeader,
-  DialogTitle,
-} from "@/components/ui/dialog";
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 
 const ProgramDialog = ({ selectedProgram, setSelectedProgram }) => {
-  return (
-    <Dialog
-      open={!!selectedProgram}
-      onOpenChange={() => setSelectedProgram(null)}
-    >
-      <DialogContent className="max-w-xl backdrop-blur-xl border rounded-2xl bg-white/80 dark:bg-zinc-900/80 p-6">
-        <DialogHeader>
-          <DialogTitle className="text-2xl flex font-bold bg-gradient-to-r from-zinc-900 to-zinc-600 dark:from-zinc-100 dark:to-zinc-400 bg-clip-text text-transparent">
-            <img
-              src={`/images/${selectedProgram?.channel
-                ?.toLowerCase()
-                .trim()
-                .replace(/\s+/g, "-")}.png`}
-              alt={
-                selectedProgram?.channel
-                  ?.toLowerCase()
-                  .trim()
-                  .replace(/\s+/g, "-") + ".png"
-              }
-              className="h-16 w-16 ios-radius mr-2 shadow"
-            />
+  const typeStyles = {
+    song: "bg-indigo-100 dark:bg-indigo-900/50 text-indigo-800 dark:text-indigo-200",
+    ad: "bg-rose-100 dark:bg-rose-900/50 text-rose-800 dark:text-rose-200",
+    program: "bg-teal-100 dark:bg-teal-900/50 text-teal-800 dark:text-teal-200",
+    notDetected: "bg-zinc-100 dark:bg-zinc-700/50 text-zinc-600 dark:text-zinc-300",
+  };
 
-            <h1 className="flex flex-col gap-2">
-              {selectedProgram?.program}
-              <span className="text-sm font-medium text-zinc-800 dark:text-zinc-200">
-                ({selectedProgram?.channel})
-              </span>
-            </h1>
+  return (
+    <Dialog open={!!selectedProgram} onOpenChange={() => setSelectedProgram(null)}>
+      <DialogContent className="max-w-lg bg-white dark:bg-zinc-900 rounded-xl shadow-2xl border border-zinc-200/50 dark:border-zinc-800/50 p-0">
+        <DialogHeader className="p-6 border-b border-zinc-200/50 dark:border-zinc-700/50">
+          <DialogTitle className="flex items-center gap-3">
+            <img
+              src={`/images/${selectedProgram?.channel?.toLowerCase().trim().replace(/\s+/g, "-")}.png`}
+              alt={selectedProgram?.channel}
+              className="h-12 w-12 rounded-lg shadow-md"
+            />
+            <div>
+              <h1 className="text-xl font-semibold text-zinc-800 dark:text-zinc-100">{selectedProgram?.program}</h1>
+              <span className="text-sm text-zinc-600 dark:text-zinc-400">{selectedProgram?.channel}</span>
+            </div>
           </DialogTitle>
         </DialogHeader>
-
-        {/* Program Details */}
-        <div className="space-y-4 p-4 rounded-xl bg-white/60 dark:bg-zinc-800/60 shadow-md">
-          <div className="grid grid-cols-2 gap-4">
-            <div className="space-y-3">
-              <p className="text-zinc-700 dark:text-zinc-300">
-                <span className="text-sm font-medium uppercase tracking-wide">
-                  Station
-                </span>
-                <span className="block text-lg font-semibold mt-1">
-                  {selectedProgram?.channel}
-                </span>
-              </p>
-              <p className="text-zinc-700 dark:text-zinc-300">
-                <span className="text-sm font-medium uppercase tracking-wide">
-                  Date
-                </span>
-                <span className="block text-lg font-semibold mt-1">
-                  {selectedProgram?.date}
-                </span>
-              </p>
-            </div>
-            <div className="space-y-3">
-              <p className="text-zinc-700 dark:text-zinc-300">
-                <span className="text-sm font-medium uppercase tracking-wide">
-                  Time
-                </span>
-                <span className="block text-lg font-semibold mt-1">
-                  {selectedProgram?.start} - {selectedProgram?.end}
-                </span>
-              </p>
-              <p className="text-zinc-700 dark:text-zinc-300">
-                <span className="text-sm font-medium uppercase tracking-wide">
-                  Type
-                </span>
-                <span className="block text-lg font-semibold mt-1 capitalize">
-                  {selectedProgram?.type}
-                </span>
-              </p>
+        <div className="p-6 space-y-6">
+          <div className={`p-4 rounded-lg shadow-md ${typeStyles[selectedProgram?.type || "notDetected"]}`}>
+            <div className="grid grid-cols-2 gap-4">
+              <div>
+                <span className="text-xs font-medium uppercase text-zinc-700 dark:text-zinc-300 tracking-wide">Station</span>
+                <p className="mt-1 text-sm font-semibold text-zinc-800 dark:text-zinc-100">{selectedProgram?.channel}</p>
+              </div>
+              <div>
+                <span className="text-xs font-medium uppercase text-zinc-700 dark:text-zinc-300 tracking-wide">Date</span>
+                <p className="mt-1 text-sm font-semibold text-zinc-800 dark:text-zinc-100">{selectedProgram?.date}</p>
+              </div>
+              <div>
+                <span className="text-xs font-medium uppercase text-zinc-700 dark:text-zinc-300 tracking-wide">Time</span>
+                <p className="mt-1 text-sm font-semibold text-zinc-800 dark:text-zinc-100">{`${selectedProgram?.start} - ${selectedProgram?.end}`}</p>
+              </div>
+              <div>
+                <span className="text-xs font-medium uppercase text-zinc-700 dark:text-zinc-300 tracking-wide">Type</span>
+                <p className="mt-1 text-sm font-semibold capitalize text-zinc-800 dark:text-zinc-100">{selectedProgram?.type}</p>
+              </div>
             </div>
           </div>
-        </div>
-
-        {/* Audio Player Box */}
-        <div className="mt-6 p-4 rounded-xl bg-white/60 dark:bg-zinc-800/60 shadow-md">
-          <iframe
-            src={selectedProgram?.audio}
-            width="100%"
-            height="100"
-            allow="autoplay"
-            title={`${selectedProgram?.program} Audio Player`}
-            className="w-full rounded-lg"
-          ></iframe>
+          {selectedProgram?.audio && (
+            <div className="p-4 rounded-lg bg-white dark:bg-zinc-800 shadow-md">
+              <iframe
+                src={selectedProgram.audio}
+                width="100%"
+                height="80"
+                allow="autoplay"
+                title={`${selectedProgram.program} Audio`}
+                className="rounded-lg"
+              />
+            </div>
+          )}
         </div>
       </DialogContent>
     </Dialog>
