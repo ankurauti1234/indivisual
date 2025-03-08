@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { processedEpgData, timeToMinutes } from "./epg-data";
+import { epgData, timeToMinutes } from "./epg-data";
 import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area";
 import CustomRangeSlider from "./custom-range-slider";
 import { ChevronLeft, ChevronRight } from "lucide-react";
@@ -78,16 +78,16 @@ const EPG = () => {
   const [selectedBrand, setSelectedBrand] = useState("all");
   const [selectedContentType, setSelectedContentType] = useState("all");
 
-  const channels = getUniqueChannels(processedEpgData);
-  const brands = getUniqueBrands(processedEpgData);
-  const contentTypes = getUniqueContentTypes(processedEpgData);
+  const channels = getUniqueChannels(epgData);
+  const brands = getUniqueBrands(epgData);
+  const contentTypes = getUniqueContentTypes(epgData);
 
   const minutesInRange = timeRange[1] - timeRange[0];
   const pixelsPerMinute = FIXED_WIDTH / minutesInRange;
   const adjustedEndTime = Math.ceil(timeRange[1] / 60) * 60;
   const dynamicWidth = (adjustedEndTime - timeRange[0]) * pixelsPerMinute;
 
-  const filteredData = processedEpgData.filter((program) => {
+  const filteredData = epgData.filter((program) => {
     const matchesDate = program.date === selectedDate;
     const matchesBrand = selectedBrand === "all" || program.brand === selectedBrand;
     const matchesContentType = selectedContentType === "all" || program.type === selectedContentType;
@@ -137,8 +137,9 @@ const EPG = () => {
     const left = (visibleStart - timeRange[0]) * pixelsPerMinute;
 
     const isSong = program.type === "song";
-    const isAd = program.type === "ad";
+    const isAd = program.type === "advertisement";
     const isProgram = program.type === "program";
+    const isJingle = program.type === "jingle";
     const isNotDetected = program.type === "not detected";
 
     const isVeryNarrow = width < 80;
@@ -146,8 +147,9 @@ const EPG = () => {
 
     const typeStyles = {
       song: "bg-gradient-to-br from-indigo-200 to-indigo-300 dark:from-indigo-700 dark:to-indigo-900 text-indigo-800 dark:text-indigo-100",
-      ad: "bg-gradient-to-br from-rose-200 to-rose-300 dark:from-rose-700 dark:to-rose-900 text-rose-800 dark:text-rose-100",
+      advertisement: "bg-gradient-to-br from-rose-200 to-rose-300 dark:from-rose-700 dark:to-rose-900 text-rose-800 dark:text-rose-100",
       program: "bg-gradient-to-br from-teal-200 to-teal-300 dark:from-teal-700 dark:to-teal-900 text-teal-800 dark:text-teal-100",
+      jingle: "bg-gradient-to-br from-yellow-200 to-yellow-300 dark:from-yellow-700 dark:to-yellow-900 text-yellow-800 dark:text-yellow-100",
       notDetected: "bg-zinc-200 dark:bg-zinc-700 text-zinc-600 dark:text-zinc-300",
     };
 
@@ -155,7 +157,7 @@ const EPG = () => {
       <motion.div
         key={program.id}
         className={`absolute h-28 overflow-hidden rounded-lg border border-zinc-200/50 dark:border-zinc-700/50 shadow-md transition-all duration-300 hover:shadow-lg hover:-translate-y-1 group ${
-          isNotDetected ? typeStyles.notDetected : isSong ? typeStyles.song : isAd ? typeStyles.ad : typeStyles.program
+          isNotDetected ? typeStyles.notDetected : isSong ? typeStyles.song : isAd ? typeStyles.advertisement : isProgram ? typeStyles.program :typeStyles.jingle
         } ${isVeryNarrow ? "p-1" : "p-2"}`}
         style={{ left: `${left}px`, width: `${width}px` }}
         onClick={isNotDetected ? undefined : () => setSelectedProgram(program)}
@@ -189,7 +191,7 @@ const EPG = () => {
         <div className="flex justify-between items-center mb-6">
           <h1 className="text-3xl font-bold text-zinc-800 dark:text-zinc-100">Radio Program Guide</h1>
           <div className="flex items-center gap-4">
-            <DownloadDialog channels={channels} epgData={processedEpgData} />
+            <DownloadDialog channels={channels} epgData={epgData} />
             <div className="flex items-center gap-2 bg-white/80 dark:bg-zinc-800/80 rounded-xl p-2 shadow-md">
               <Button onClick={handlePrevDate} size="icon" className="bg-white dark:bg-zinc-900 hover:bg-zinc-100 dark:hover:bg-zinc-700"><ChevronLeft className="h-5 w-5" /></Button>
               <span className="text-lg font-medium text-zinc-800 dark:text-zinc-100 px-4">
