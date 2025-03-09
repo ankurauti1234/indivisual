@@ -1,16 +1,28 @@
+"use client";
+
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import { useAuth } from "@/lib/auth-context";
 import { useRouter } from "next/navigation";
+import { useState } from "react";
 
 export function LoginForm({ className, onToggle, ...props }) {
+  const { login } = useAuth();
   const router = useRouter();
+  const [error, setError] = useState("");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
 
   const handleSubmit = (e) => {
-    e.preventDefault(); // Prevent the default form submission
-    // Perform validation or authentication logic here
-    router.push("/dashboard"); // Redirect to /dashboard
+    e.preventDefault();
+    const success = login(email, password);
+    if (success) {
+      router.push("/dashboard");
+    } else {
+      setError("Invalid email or password");
+    }
   };
 
   return (
@@ -28,7 +40,14 @@ export function LoginForm({ className, onToggle, ...props }) {
       <div className="grid gap-6">
         <div className="grid gap-2">
           <Label htmlFor="email">Email</Label>
-          <Input id="email" type="email" placeholder="m@example.com" required />
+          <Input
+            id="email"
+            type="email"
+            placeholder="m@example.com"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            required
+          />
         </div>
         <div className="grid gap-2">
           <div className="flex items-center">
@@ -40,14 +59,21 @@ export function LoginForm({ className, onToggle, ...props }) {
               Forgot password?
             </a>
           </div>
-          <Input id="password" type="password" required />
+          <Input
+            id="password"
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+          />
         </div>
+        {error && <p className="text-red-500 text-sm">{error}</p>}
         <Button type="submit" className="w-full">
           Login
         </Button>
       </div>
       <div className="text-center text-sm">
-        Don&apos;t have an account?{" "}
+        Don't have an account?{" "}
         <button
           type="button"
           onClick={onToggle}

@@ -7180,6 +7180,16 @@ export const epgData = [
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Radio+jingle.mp3"
   },
   {
+    "program": "Song: Ud - Daa Punjab, Vishal Dadlani & Amit Trivedi, Udta Punjab, Zee Music Company, 2016",
+    "channel": "Radio Mirchi",
+    "id": "SONG-9090",
+    "date": "2025-03-03",
+    "start": "11:53:59",
+    "end": "11:58:36",
+    "type": "song",
+    "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Songs/Ud-daa+Punjab+-+Udta+Punjab+(128+kbps).mp3"
+  },
+  {
     "program": "Radio Jingle",
     "channel": "Radio Mirchi",
     "id": "JINGLE-4736",

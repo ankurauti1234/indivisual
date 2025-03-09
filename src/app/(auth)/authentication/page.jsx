@@ -50,7 +50,6 @@ export default function AuthPage() {
           className="relative hidden lg:block overflow-hidden "
           animate={{
             order: isLogin ? 1 : 0,
-            // borderRadius: !isLogin ? "0 3rem 3rem 0" : "3rem 0 0 3rem",
           }}
           transition={{ duration: 0.5 }}
         >
@@ -83,31 +82,6 @@ export default function AuthPage() {
                           continue your journey.
                         </p>
                       </div>
-                      {/* <div className="mt-12 space-y-8">
-                        <div className="flex items-start gap-6 group">
-                          <Shield className="mt-1 size-8 transition-transform group-hover:scale-110" />
-                          <div className="space-y-2">
-                            <h3 className="text-lg font-medium">
-                              Secure Access
-                            </h3>
-                            <p className="text-base text-white/80 font-light leading-relaxed">
-                              Your data is protected with enterprise-grade
-                              security measures
-                            </p>
-                          </div>
-                        </div>
-                        <div className="flex items-start gap-6 group">
-                          <Users className="mt-1 size-8 transition-transform group-hover:scale-110" />
-                          <div className="space-y-2">
-                            <h3 className="text-lg font-medium">
-                              Connected Community
-                            </h3>
-                            <p className="text-base text-white/80 font-light leading-relaxed">
-                              Join thousands of users already using our platform
-                            </p>
-                          </div>
-                        </div>
-                      </div> */}
                       <div className="mt-auto flex justify-center">
                         <motion.img
                           src="/assets/Idea.svg"
@@ -127,38 +101,6 @@ export default function AuthPage() {
                           community.
                         </p>
                       </div>
-                      {/* <div className="mt-12 space-y-6">
-                        <motion.div
-                          className="flex items-center gap-4 group"
-                          whileHover={{ x: 10 }}
-                          transition={{ duration: 0.2 }}
-                        >
-                          <ArrowRight className="size-6" />
-                          <p className="text-lg font-light">
-                            Access to premium features
-                          </p>
-                        </motion.div>
-                        <motion.div
-                          className="flex items-center gap-4 group"
-                          whileHover={{ x: 10 }}
-                          transition={{ duration: 0.2 }}
-                        >
-                          <ArrowRight className="size-6" />
-                          <p className="text-lg font-light">
-                            Personalized dashboard
-                          </p>
-                        </motion.div>
-                        <motion.div
-                          className="flex items-center gap-4 group"
-                          whileHover={{ x: 10 }}
-                          transition={{ duration: 0.2 }}
-                        >
-                          <ArrowRight className="size-6" />
-                          <p className="text-lg font-light">
-                            Connect with other members
-                          </p>
-                        </motion.div>
-                      </div> */}
                       <div className="mt-auto flex justify-center">
                         <motion.img
                           src="/assets/Meeting.svg"

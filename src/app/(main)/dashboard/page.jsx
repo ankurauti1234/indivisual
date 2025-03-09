@@ -1,4 +1,5 @@
-import React from "react";
+'use client'
+import React, { useEffect } from "react";
 import Link from "next/link";
 import {
   Building,
@@ -29,6 +30,9 @@ import {
   CardTitle,
   CardDescription,
 } from "@/components/ui/card";
+import { useAuth } from "@/lib/auth-context";
+import { useRouter } from "next/navigation";
+import { Button } from "@/components/ui/button";
 
 const navigationLinks = [
   {
@@ -256,8 +260,26 @@ const NavigationSection = ({ section, icon: Icon, links }) => (
 );
 
 const DashboardPage = () => {
+
+  const { user, logout } = useAuth();
+  const router = useRouter();
+
+  useEffect(() => {
+    if (!user) {
+      router.push("/authentication");
+    }
+  }, [user, router]);
+
+  if (!user) return null;
+
+
   return (
     <div className="min-h-screen bg-background">
+      <div className=" flex justify-between bg-card items-center p-2 rounded-lg shadow-md">
+        <h1 className="text-2xl font-medium">Welcome, {user.email}</h1>
+        {/* <p className="mb-4">Your role: {user.role}</p> */}
+        <Button onClick={logout}>Logout</Button>
+      </div>
       <div className="container mx-auto px-6 py-10">
         {/* Header */}
         <div className="mb-10 space-y-2">

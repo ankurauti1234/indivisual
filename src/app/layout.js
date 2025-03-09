@@ -1,4 +1,5 @@
 import "./globals.css";
+import { AuthProvider } from "@/lib/auth-context";
 
 
 export const metadata = {
@@ -8,13 +9,12 @@ export const metadata = {
 };
 
 
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className=" antialiased scroll-smooth"
-      >
-        {children}
+      <body>
+        <AuthProvider>{children}</AuthProvider>
       </body>
     </html>
   );
