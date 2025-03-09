@@ -157,7 +157,7 @@ const EPG = () => {
       <motion.div
         key={program.id}
         className={`absolute h-28 overflow-hidden rounded-lg border border-zinc-200/50 dark:border-zinc-700/50 shadow-md transition-all duration-300 hover:shadow-lg hover:-translate-y-1 group ${
-          isNotDetected ? typeStyles.notDetected : isSong ? typeStyles.song : isAd ? typeStyles.advertisement : isProgram ? typeStyles.program :typeStyles.jingle
+          isNotDetected ? typeStyles.notDetected : isSong ? typeStyles.song : isAd ? typeStyles.advertisement : isProgram ? typeStyles.program : typeStyles.jingle
         } ${isVeryNarrow ? "p-1" : "p-2"}`}
         style={{ left: `${left}px`, width: `${width}px` }}
         onClick={isNotDetected ? undefined : () => setSelectedProgram(program)}
@@ -191,7 +191,7 @@ const EPG = () => {
         <div className="flex justify-between items-center mb-6">
           <h1 className="text-3xl font-bold text-zinc-800 dark:text-zinc-100">Radio Program Guide</h1>
           <div className="flex items-center gap-4">
-            <DownloadDialog channels={channels} epgData={epgData} />
+            <DownloadDialog channels={channels} selectedDate={selectedDate} />
             <div className="flex items-center gap-2 bg-white/80 dark:bg-zinc-800/80 rounded-xl p-2 shadow-md">
               <Button onClick={handlePrevDate} size="icon" className="bg-white dark:bg-zinc-900 hover:bg-zinc-100 dark:hover:bg-zinc-700"><ChevronLeft className="h-5 w-5" /></Button>
               <span className="text-lg font-medium text-zinc-800 dark:text-zinc-100 px-4">
@@ -211,11 +211,6 @@ const EPG = () => {
               {brands.map((brand) => (
                 <SelectItem key={brand} value={brand}>{brand}</SelectItem>
               ))}
-                             <SelectItem value="pineapple">Adma Fertilizers</SelectItem>
-          <SelectItem value="blueberry">Amrit Noni</SelectItem>
-<SelectItem value="apple">Kalyan Jewellers</SelectItem>
-          <SelectItem value="banana">Sensodyne</SelectItem>
-          <SelectItem value="grapes">Palmonas Jewellers</SelectItem>
             </SelectContent>
           </Select>
           <Select value={selectedContentType} onValueChange={setSelectedContentType}>
@@ -227,7 +222,6 @@ const EPG = () => {
               {contentTypes.map((type) => (
                 <SelectItem key={type} value={type}>{type.charAt(0).toUpperCase() + type.slice(1)}</SelectItem>
               ))}
-
             </SelectContent>
           </Select>
         </div>
@@ -280,3 +274,4 @@ const EPG = () => {
 };
 
 export default EPG;
+
