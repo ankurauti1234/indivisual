@@ -1,17 +1,14 @@
 // Updated DownloadDialog Component
 import React, { useState } from "react";
 import { Button } from "@/components/ui/button";
-import { Calendar } from "@/components/ui/calendar";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogFooter, DialogTrigger } from "@/components/ui/dialog";
 import { Label } from "@/components/ui/label";
-import { CalendarIcon, Download, Check } from "lucide-react";
-import { format } from "date-fns";
-import { useToast } from "@/hooks/use-toast";
-import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
+import { Download, Check } from "lucide-react";
+import { useToast } from "@/hooks/use-toast"; // Adjusted import path
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { format } from "date-fns";
 
 const DownloadDialog = ({ selectedDate }) => {
-  const [date, setDate] = useState(new Date(selectedDate));
   const [fileFormat, setFileFormat] = useState("csv");
   const [open, setOpen] = useState(false);
   const [isDownloading, setIsDownloading] = useState(false);
@@ -20,7 +17,7 @@ const DownloadDialog = ({ selectedDate }) => {
   const handleDownload = async () => {
     setIsDownloading(true);
     try {
-      const formattedDate = format(date, "d_MMM").toLowerCase(); // e.g., "3_mar"
+      const formattedDate = format(new Date(selectedDate), "d_MMM").toLowerCase(); // e.g., "3_mar"
       const fileName = `${formattedDate}.${fileFormat}`; // e.g., "3_mar.csv" or "3_mar.xlsx"
       const fileUrl = `/files/${fileName}`; // Assuming files are in public/files/
 
@@ -55,25 +52,11 @@ const DownloadDialog = ({ selectedDate }) => {
       <DialogContent className="w-full max-w-md sm:max-w-lg md:max-w-xl bg-white dark:bg-zinc-900 rounded-xl shadow-2xl border border-zinc-200/50 dark:border-zinc-800/50 p-0">
         <div className="p-6 space-y-6">
           <DialogHeader>
-            <DialogTitle className="text-2xl font-semibold text-zinc-800 dark:text-zinc-100">Export EPG Data</DialogTitle>
+            <DialogTitle className="text-2xl font-semibold text-zinc-800 dark:text-zinc-100">
+              Export EPG Data for {format(new Date(selectedDate), "MMMM d, yyyy")}
+            </DialogTitle>
           </DialogHeader>
           <div className="space-y-6">
-            {/* Date Picker */}
-            <div className="space-y-2">
-              <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">Date</Label>
-              <Popover>
-                <PopoverTrigger asChild>
-                  <Button variant="outline" className="w-full h-10 justify-start text-left bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 hover:bg-zinc-100 dark:hover:bg-zinc-700">
-                    <CalendarIcon className="h-4 w-4 mr-2" />
-                    {format(date, "PPP")}
-                  </Button>
-                </PopoverTrigger>
-                <PopoverContent className="w-auto p-0 bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-700">
-                  <Calendar mode="single" selected={date} onSelect={setDate} initialFocus />
-                </PopoverContent>
-              </Popover>
-            </div>
-
             {/* File Format Selection */}
             <div className="space-y-2">
               <Label className="text-sm font-medium text-zinc-700 dark:text-zinc-300">File Format</Label>
