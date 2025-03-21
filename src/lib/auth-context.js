@@ -7,7 +7,7 @@ const AuthContext = createContext();
 const dummyUsers = [
   { email: "admin@inditronics.com", password: "Admin@123", role: "admin" },
   { email: "ankur.auti@inditronics.com", password: "Ankur@123", role: "user" },
-  { email: "guest@inditronics.com", password: "Guest@123", role: "guest" },
+  // { email: "guest@inditronics.com", password: "Guest@123", role: "guest" },
 ];
 
 export function AuthProvider({ children }) {
