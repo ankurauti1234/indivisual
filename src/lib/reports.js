@@ -238,6 +238,20 @@ export const tv_brands_reports = [
   },
 ];
 
+export const tv_sports_reports = [
+  {
+    id: 1,
+    image: "/images/weekly-summary-report.png",
+    title: "Sports Analytics",
+    description:
+      "Comprehensive daily overview of broadcast performance metrics, including viewership ratings, peak hours, and program performance statistics.",
+    lastUpdated: "April 15, 2024",
+    page: "tv",
+    subpage: "sports",
+    slug: "sports-report",
+  }
+];
+
 export const radio_broad_reports = [
   {
     id: 1,

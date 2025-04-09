@@ -56,6 +56,10 @@ const data = {
           title: "Brands",
           url: "/dashboard/tv/brands",
         },
+        {
+          title: "Sports",
+          url: "/dashboard/tv/sports",
+        },
       ],
     },
     {
