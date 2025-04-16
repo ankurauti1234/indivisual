@@ -249,7 +249,19 @@ export const tv_sports_reports = [
     page: "tv",
     subpage: "sports",
     slug: "sports-report",
-  }
+  },
+
+  {
+    id: 2,
+    image: "/images/program-grid.png",
+    title: "Sports Grid",
+    description:
+      "Comprehensive daily overview of broadcast performance metrics, including viewership ratings, peak hours, and program performance statistics.",
+    lastUpdated: "April 15, 2024",
+    page: "tv",
+    subpage: "sports",
+    slug: "sports-grid",
+  },
 ];
 
 export const radio_broad_reports = [
