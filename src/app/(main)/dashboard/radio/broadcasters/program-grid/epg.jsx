@@ -1,25 +1,44 @@
 "use client";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { epgData, timeToMinutes } from "./epg-data";
 import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area";
 import CustomRangeSlider from "./custom-range-slider";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight, Calendar } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import ProgramDialog from "./program-dialog";
 import DownloadDialog from "./download-dialog";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuLabel, DropdownMenuSeparator, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
+import { useRouter, useSearchParams } from "next/navigation";
 
 const MINUTES_IN_DAY = 24 * 60;
 const FIXED_WIDTH = 9600;
 
+// Dummy data for radio stations and cities
+const radioStations = ["Radio Mirchi", "Suryan FM", "Hello FM", "Big FM"];
+const cities = ["Trichy", "Chennai", "Madurai", "Coimbatore"];
+
 const getUniqueChannels = (data, selectedDate) => {
-  // Filter programs by selected date and get unique channels
   const filteredPrograms = data.filter((item) => item.date === selectedDate);
   return [...new Set(filteredPrograms.map((item) => item.channel))];
 };
 const getUniqueBrands = (data) => [...new Set(data.filter((item) => item.type === "ad").map((item) => item.brand).filter(Boolean))];
 const getUniqueContentTypes = (data) => [...new Set(data.map((item) => item.type))];
+
+// Utility to format minutes to HH:mm:ss for URL
+const formatTimeForURL = (minutes) => {
+  const hours = Math.floor(minutes / 60);
+  const mins = minutes % 60;
+  return `${hours.toString().padStart(2, "0")}:${mins.toString().padStart(2, "0")}:00`;
+};
+
+// Utility to parse HH:mm:ss to minutes
+const parseTimeToMinutes = (timeStr) => {
+  if (!timeStr) return null;
+  const [hours, minutes] = timeStr.split(":").map(Number);
+  return hours * 60 + minutes;
+};
 
 const TimelineRuler = ({ timeRange }) => {
   const startHour = Math.floor(timeRange[0] / 60);
@@ -76,13 +95,21 @@ const TimelineRuler = ({ timeRange }) => {
 };
 
 const EPG = () => {
-  const [timeRange, setTimeRange] = useState([0, MINUTES_IN_DAY]);
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const initialDate = searchParams.get("date") || new Date().toISOString().split("T")[0];
+  const initialStart = parseTimeToMinutes(searchParams.get("start")) || 0;
+  const initialEnd = parseTimeToMinutes(searchParams.get("end")) || MINUTES_IN_DAY;
+
+  const [timeRange, setTimeRange] = useState([initialStart, initialEnd]);
   const [selectedProgram, setSelectedProgram] = useState(null);
-  const [selectedDate, setSelectedDate] = useState(new Date().toISOString().split("T")[0]);
+  const [selectedDate, setSelectedDate] = useState(initialDate);
   const [selectedBrand, setSelectedBrand] = useState("all");
   const [selectedContentType, setSelectedContentType] = useState("all");
+  const [selectedRadioStation, setSelectedRadioStation] = useState("all");
+  const [selectedCity, setSelectedCity] = useState("Trichy");
+  const [isDatePickerOpen, setIsDatePickerOpen] = useState(false);
 
-  // Pass selectedDate to getUniqueChannels to filter channels with data for the selected date
   const channels = getUniqueChannels(epgData, selectedDate);
   const brands = getUniqueBrands(epgData);
   const contentTypes = getUniqueContentTypes(epgData);
@@ -92,11 +119,29 @@ const EPG = () => {
   const adjustedEndTime = Math.ceil(timeRange[1] / 60) * 60;
   const dynamicWidth = (adjustedEndTime - timeRange[0]) * pixelsPerMinute;
 
+  // Update URL with date, start, and end times
+  useEffect(() => {
+    const params = new URLSearchParams(searchParams);
+    params.set("date", selectedDate);
+    params.set("start", formatTimeForURL(timeRange[0]));
+    params.set("end", formatTimeForURL(timeRange[1]));
+    router.push(`?${params.toString()}`, { scroll: false });
+  }, [selectedDate, timeRange, router, searchParams]);
+
+  // Handle time range changes from slider
+  const handleTimeRangeChange = (newRange) => {
+    setTimeRange(newRange);
+  };
+
+  // Filter data (relaxed filtering for radio station and city)
   const filteredData = epgData.filter((program) => {
     const matchesDate = program.date === selectedDate;
     const matchesBrand = selectedBrand === "all" || program.brand === selectedBrand;
     const matchesContentType = selectedContentType === "all" || program.type === selectedContentType;
-    return matchesDate && matchesBrand && matchesContentType;
+    // Only apply radio station and city filters if explicitly supported by data
+    const matchesRadioStation = selectedRadioStation === "all" || program.channel === selectedRadioStation;
+    const matchesCity = selectedCity === "all" || program.channel.includes(selectedCity);
+    return matchesDate && matchesBrand && matchesContentType && matchesRadioStation && matchesCity;
   });
 
   const handlePrevDate = () => {
@@ -113,6 +158,14 @@ const EPG = () => {
       newDate.setDate(newDate.getDate() + 1);
       return newDate.toISOString().split("T")[0];
     });
+  };
+
+  const handleDatePickerChange = (e) => {
+    const newDate = e.target.value;
+    if (newDate) {
+      setSelectedDate(newDate);
+      setIsDatePickerOpen(false);
+    }
   };
 
   const toRadians = (deg) => (deg * Math.PI) / 180;
@@ -198,40 +251,106 @@ const EPG = () => {
           <div className="flex items-center gap-4">
             <DownloadDialog channels={channels} selectedDate={selectedDate} />
             <div className="flex items-center gap-2 bg-white/80 dark:bg-zinc-800/80 rounded-xl p-2 shadow-md">
-              <Button onClick={handlePrevDate} size="icon" className="bg-white dark:bg-zinc-900 hover:bg-zinc-100 dark:hover:bg-zinc-700"><ChevronLeft className="h-5 w-5" /></Button>
+              <Button onClick={handlePrevDate} size="icon" className="bg-white dark:bg-zinc-900 hover:bg-zinc-100 dark:hover:bg-zinc-700">
+                <ChevronLeft className="h-5 w-5" />
+              </Button>
               <span className="text-lg font-medium text-zinc-800 dark:text-zinc-100 px-4">
                 {new Date(selectedDate).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
               </span>
-              <Button onClick={handleNextDate} size="icon" className="bg-white dark:bg-zinc-900 hover:bg-zinc-100 dark:hover:bg-zinc-700"><ChevronRight className="h-5 w-5" /></Button>
+              <Button onClick={handleNextDate} size="icon" className="bg-white dark:bg-zinc-900 hover:bg-zinc-100 dark:hover:bg-zinc-700">
+                <ChevronRight className="h-5 w-5" />
+              </Button>
+              <Button
+                onClick={() => setIsDatePickerOpen(true)}
+                size="icon"
+                className="bg-white dark:bg-zinc-900 hover:bg-zinc-100 dark:hover:bg-zinc-700"
+              >
+                <Calendar className="h-5 w-5" />
+              </Button>
+              {isDatePickerOpen && (
+                <input
+                  type="date"
+                  value={selectedDate}
+                  onChange={handleDatePickerChange}
+                  onBlur={() => setIsDatePickerOpen(false)}
+                  className="absolute mt-2 p-2 rounded-lg bg-white dark:bg-zinc-800 border border-zinc-200 dark:border-zinc-700 text-zinc-800 dark:text-zinc-100"
+                  autoFocus
+                />
+              )}
             </div>
           </div>
         </div>
         <div className="flex items-center gap-4">
-          <Select value={selectedBrand} onValueChange={setSelectedBrand}>
-            <SelectTrigger className="w-56 bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700">
-              <SelectValue placeholder="Filter by Ad Brand" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="all">All Ad Brands</SelectItem>
-              {brands.map((brand) => (
-                <SelectItem key={brand} value={brand}>{brand}</SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-          <Select value={selectedContentType} onValueChange={setSelectedContentType}>
-            <SelectTrigger className="w-56 bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700">
-              <SelectValue placeholder="Filter by Content Type" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="all">All Content Types</SelectItem>
-              {contentTypes.map((type) => (
-                <SelectItem key={type} value={type}>{type.charAt(0).toUpperCase() + type.slice(1)}</SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild>
+              <Button className="w-56 bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700 hover:bg-zinc-100 dark:hover:bg-zinc-700">
+                Filter Options
+              </Button>
+            </DropdownMenuTrigger>
+            <DropdownMenuContent className="w-56 bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700">
+              <DropdownMenuLabel>Filters</DropdownMenuLabel>
+              <DropdownMenuSeparator />
+              <DropdownMenuItem className="flex flex-col items-start p-2">
+                <label className="text-sm font-medium text-zinc-800 dark:text-zinc-200 mb-1">Ad Brand</label>
+                <Select value={selectedBrand} onValueChange={setSelectedBrand}>
+                  <SelectTrigger className="w-full bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700">
+                    <SelectValue placeholder="Filter by Ad Brand" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="all">All Ad Brands</SelectItem>
+                    {brands.map((brand) => (
+                      <SelectItem key={brand} value={brand}>{brand}</SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </DropdownMenuItem>
+              <DropdownMenuItem className="flex flex-col items-start p-2">
+                <label className="text-sm font-medium text-zinc-800 dark:text-zinc-200 mb-1">Content Type</label>
+                <Select value={selectedContentType} onValueChange={setSelectedContentType}>
+                  <SelectTrigger className="w-full bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700">
+                    <SelectValue placeholder="Filter by Content Type" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="all">All Content Types</SelectItem>
+                    {contentTypes.map((type) => (
+                      <SelectItem key={type} value={type}>{type.charAt(0).toUpperCase() + type.slice(1)}</SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </DropdownMenuItem>
+              <DropdownMenuItem className="flex flex-col items-start p-2">
+                <label className="text-sm font-medium text-zinc-800 dark:text-zinc-200 mb-1">Radio Station</label>
+                <Select value={selectedRadioStation} onValueChange={setSelectedRadioStation}>
+                  <SelectTrigger className="w-full bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700">
+                    <SelectValue placeholder="Filter by Radio Station" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="all">All Radio Stations</SelectItem>
+                    {radioStations.map((station) => (
+                      <SelectItem key={station} value={station}>{station}</SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </DropdownMenuItem>
+              <DropdownMenuItem className="flex flex-col items-start p-2">
+                <label className="text-sm font-medium text-zinc-800 dark:text-zinc-200 mb-1">City</label>
+                <Select value={selectedCity} >
+                  <SelectTrigger className="w-full bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700">
+                    <SelectValue placeholder="Filter by City" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="all">Trichy</SelectItem>
+                    {cities.map((city) => (
+                      <SelectItem key={city} value={city}>{city}</SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </DropdownMenuItem>
+            </DropdownMenuContent>
+          </DropdownMenu>
         </div>
         <div className="mt-6">
-          <CustomRangeSlider min={0} max={MINUTES_IN_DAY} step={1} value={timeRange} onChange={setTimeRange} />
+          <CustomRangeSlider min={0} max={MINUTES_IN_DAY} step={1} value={timeRange} onChange={handleTimeRangeChange} />
         </div>
       </header>
 

@@ -27217,7 +27217,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:00:00",
     "end": "07:00:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -27227,7 +27227,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:00:06",
     "end": "07:00:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Jingle+Hello+FM.mp3"
   },
   {
@@ -27237,7 +27237,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:00:20",
     "end": "07:00:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -27247,7 +27247,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:00:30",
     "end": "07:00:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -27257,7 +27257,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:00:35",
     "end": "07:00:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -27267,7 +27267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:00:50",
     "end": "07:01:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -27277,7 +27277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:01:09",
     "end": "07:01:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maligai+.mp3"
   },
   {
@@ -27287,7 +27287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:01:29",
     "end": "07:01:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Atlas+Hospitals.mp3"
   },
   {
@@ -27297,7 +27297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:01:49",
     "end": "07:01:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -27307,7 +27307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:01:58",
     "end": "07:02:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Care+AcAdemy.mp3"
   },
   {
@@ -27317,7 +27317,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:02:24",
     "end": "07:02:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maligai+.mp3"
   },
   {
@@ -27337,7 +27337,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:02:48",
     "end": "07:02:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -27347,7 +27347,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:02:53",
     "end": "07:03:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -27357,7 +27357,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:00",
     "end": "07:03:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -27367,7 +27367,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:04",
     "end": "07:03:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -27377,7 +27377,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:13",
     "end": "07:03:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -27387,7 +27387,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:16",
     "end": "07:03:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -27397,7 +27397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:23",
     "end": "07:03:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -27407,7 +27407,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:27",
     "end": "07:03:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sree+Nidhi+Promoters.mp3"
   },
   {
@@ -27417,7 +27417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:31",
     "end": "07:03:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cement+.mp3"
   },
   {
@@ -27427,7 +27427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:37",
     "end": "07:03:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -27437,7 +27437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:39",
     "end": "07:03:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -27447,7 +27447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:39",
     "end": "07:03:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -27457,7 +27457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:48",
     "end": "07:03:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -27467,7 +27467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:53",
     "end": "07:03:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -27477,7 +27477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:56",
     "end": "07:03:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Isha+Grand+Valley.mp3"
   },
   {
@@ -27487,7 +27487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:03:59",
     "end": "07:04:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -27507,7 +27507,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:08:31",
     "end": "07:08:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -27547,7 +27547,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:15:49",
     "end": "07:16:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Retro+friday+Hello+fm.mp3"
   },
   {
@@ -27557,7 +27557,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:16:19",
     "end": "07:16:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -27577,7 +27577,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:16:45",
     "end": "07:18:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -27587,7 +27587,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:18:01",
     "end": "07:18:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -27597,7 +27597,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:18:30",
     "end": "07:18:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -27607,7 +27607,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:18:40",
     "end": "07:19:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -27617,7 +27617,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:19:00",
     "end": "07:19:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -27627,7 +27627,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:19:19",
     "end": "07:19:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maligai+.mp3"
   },
   {
@@ -27637,7 +27637,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:19:39",
     "end": "07:20:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+oil+intake.mp3"
   },
   {
@@ -27647,7 +27647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:20:12",
     "end": "07:20:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -27657,7 +27657,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:20:37",
     "end": "07:20:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -27667,7 +27667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:20:57",
     "end": "07:21:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -27677,7 +27677,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:21:17",
     "end": "07:21:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -27727,7 +27727,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:28:55",
     "end": "07:29:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -27747,7 +27747,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:29:37",
     "end": "07:29:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -27757,7 +27757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:29:52",
     "end": "07:30:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -27767,7 +27767,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:30:02",
     "end": "07:30:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -27777,7 +27777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:30:06",
     "end": "07:30:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anjol+Medicine.mp3"
   },
   {
@@ -27787,7 +27787,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:30:17",
     "end": "07:30:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maligai+.mp3"
   },
   {
@@ -27797,7 +27797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:30:37",
     "end": "07:30:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -27807,7 +27807,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:30:51",
     "end": "07:30:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -27817,7 +27817,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:30:56",
     "end": "07:31:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -27827,7 +27827,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:31:21",
     "end": "07:31:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -27837,7 +27837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:31:36",
     "end": "07:31:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -27847,7 +27847,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:31:50",
     "end": "07:32:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -27857,7 +27857,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:32:10",
     "end": "07:33:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Jingle+Hello+FM.mp3"
   },
   {
@@ -27867,7 +27867,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:33:29",
     "end": "07:33:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Jingle+Hello+FM.mp3"
   },
   {
@@ -27917,7 +27917,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:42:16",
     "end": "07:42:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -27927,7 +27927,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:42:36",
     "end": "07:43:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -27947,7 +27947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:44:04",
     "end": "07:44:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -27957,7 +27957,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:44:19",
     "end": "07:44:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -27967,7 +27967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:44:29",
     "end": "07:44:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -27977,7 +27977,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:44:34",
     "end": "07:44:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurvedha+Hospital.mp3"
   },
   {
@@ -27987,7 +27987,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:44:49",
     "end": "07:45:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maligai+.mp3"
   },
   {
@@ -27997,7 +27997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:45:09",
     "end": "07:45:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -28007,7 +28007,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:45:23",
     "end": "07:45:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -28017,7 +28017,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:45:28",
     "end": "07:45:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sathya+Plywoods.mp3"
   },
   {
@@ -28027,7 +28027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:45:43",
     "end": "07:45:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -28037,7 +28037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:45:58",
     "end": "07:46:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Jodi+Premium+Silver+jewellery.mp3"
   },
   {
@@ -28047,7 +28047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:46:03",
     "end": "07:46:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -28057,7 +28057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:46:13",
     "end": "07:46:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -28067,7 +28067,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:46:28",
     "end": "07:46:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -28077,7 +28077,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:46:38",
     "end": "07:46:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -28087,7 +28087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:46:57",
     "end": "07:47:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -28097,7 +28097,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:47:17",
     "end": "07:47:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -28147,7 +28147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:49:21",
     "end": "07:49:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -28167,7 +28167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:49:34",
     "end": "07:49:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -28187,7 +28187,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:54:21",
     "end": "07:54:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -28227,7 +28227,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:59:18",
     "end": "07:59:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -28237,7 +28237,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:59:30",
     "end": "07:59:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -28257,7 +28257,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:00",
     "end": "08:00:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -28287,7 +28287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:30",
     "end": "08:00:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -28307,7 +28307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:01:19",
     "end": "08:01:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -28317,7 +28317,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:01:49",
     "end": "08:02:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -28327,7 +28327,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:02:14",
     "end": "08:02:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -28337,7 +28337,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:02:24",
     "end": "08:02:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -28347,7 +28347,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:02:29",
     "end": "08:02:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Gopal+V+Tooth+Paste.mp3"
   },
   {
@@ -28357,7 +28357,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:02:44",
     "end": "08:02:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -28367,7 +28367,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:02:50",
     "end": "08:02:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -28377,7 +28377,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:02:59",
     "end": "08:03:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/REtna+Global+Hospital.mp3"
   },
   {
@@ -28387,7 +28387,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:03:09",
     "end": "08:03:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -28397,7 +28397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:03:24",
     "end": "08:03:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -28407,7 +28407,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:03:34",
     "end": "08:03:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Care+AcAdemy.mp3"
   },
   {
@@ -28417,7 +28417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:03:59",
     "end": "08:04:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/MAdhura+Properties.mp3"
   },
   {
@@ -28427,7 +28427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:04:14",
     "end": "08:04:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -28437,7 +28437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:04:24",
     "end": "08:04:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silk.mp3"
   },
   {
@@ -28447,7 +28447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:04:33",
     "end": "08:06:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -28467,7 +28467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:11:52",
     "end": "08:12:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -28527,7 +28527,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:19:08",
     "end": "08:19:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -28547,7 +28547,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:19:32",
     "end": "08:21:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -28557,7 +28557,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:21:03",
     "end": "08:21:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -28567,7 +28567,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:21:18",
     "end": "08:21:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -28577,7 +28577,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:21:28",
     "end": "08:21:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -28587,7 +28587,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:21:34",
     "end": "08:21:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurvedha+Hospital.mp3"
   },
   {
@@ -28597,7 +28597,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:21:49",
     "end": "08:21:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -28607,7 +28607,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:21:54",
     "end": "08:22:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -28617,7 +28617,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:22:14",
     "end": "08:22:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Maa+kauvery.mp3"
   },
   {
@@ -28627,7 +28627,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:22:39",
     "end": "08:22:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sathya+Plywoods.mp3"
   },
   {
@@ -28637,7 +28637,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:22:49",
     "end": "08:23:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -28647,7 +28647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:23:07",
     "end": "08:23:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -28657,7 +28657,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:23:28",
     "end": "08:24:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+On+Obesity"
   },
   {
@@ -28667,7 +28667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:24:01",
     "end": "08:24:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -28717,7 +28717,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:33:01",
     "end": "08:33:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -28737,7 +28737,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:33:20",
     "end": "08:33:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Jingle+Hello+FM.mp3"
   },
   {
@@ -28747,7 +28747,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:33:49",
     "end": "08:33:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -28757,7 +28757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:33:59",
     "end": "08:34:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -28767,7 +28767,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:34:24",
     "end": "08:34:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -28777,7 +28777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:34:29",
     "end": "08:34:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -28787,7 +28787,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:34:39",
     "end": "08:35:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -28797,7 +28797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:35:04",
     "end": "08:35:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -28807,7 +28807,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:35:15",
     "end": "08:35:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -28817,7 +28817,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:34:29",
     "end": "08:35:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -28827,7 +28827,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:35:49",
     "end": "08:36:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -28837,7 +28837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:35:04",
     "end": "08:36:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Jodi+Premium+Silver+jewellery.mp3"
   },
   {
@@ -28847,7 +28847,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:36:09",
     "end": "08:36:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Care+AcAdemy.mp3"
   },
   {
@@ -28857,7 +28857,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:36:34",
     "end": "08:36:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -28867,7 +28867,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:36:54",
     "end": "08:37:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -28877,7 +28877,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:37:03",
     "end": "08:37:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -28887,7 +28887,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:37:24",
     "end": "08:39:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -28897,7 +28897,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:39:00",
     "end": "08:39:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -28937,7 +28937,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:43:45",
     "end": "08:44:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -28947,7 +28947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:44:11",
     "end": "08:45:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -28967,7 +28967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:45:39",
     "end": "08:45:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -28977,7 +28977,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:45:49",
     "end": "08:46:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -28987,7 +28987,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:46:24",
     "end": "08:46:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana.mp3"
   },
   {
@@ -28997,7 +28997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:46:39",
     "end": "08:46:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurvedha+Hospital.mp3"
   },
   {
@@ -29007,7 +29007,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:46:54",
     "end": "08:47:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -29017,7 +29017,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:09",
     "end": "08:47:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -29027,7 +29027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:27",
     "end": "08:47:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Maa+kauvery.mp3"
   },
   {
@@ -29037,7 +29037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:53",
     "end": "08:48:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -29047,7 +29047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:48:08",
     "end": "08:48:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/PM+Intership+Scheme.mp3"
   },
   {
@@ -29087,7 +29087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:57:26",
     "end": "08:57:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29127,7 +29127,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:01:11",
     "end": "09:01:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29137,7 +29137,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:01:19",
     "end": "09:01:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -29147,7 +29147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:01:30",
     "end": "09:01:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -29167,7 +29167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:02:04",
     "end": "09:02:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -29187,7 +29187,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:02:52",
     "end": "09:03:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29197,7 +29197,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:03:07",
     "end": "09:03:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -29207,7 +29207,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:03:17",
     "end": "09:04:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -29217,7 +29217,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:04:02",
     "end": "09:04:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anjol+Medicine.mp3"
   },
   {
@@ -29227,7 +29227,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:04:12",
     "end": "09:04:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -29237,7 +29237,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:04:18",
     "end": "09:04:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -29247,7 +29247,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:04:27",
     "end": "09:04:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -29257,7 +29257,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:04:42",
     "end": "09:04:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ooty+Fresh+Vegetables.mp3"
   },
   {
@@ -29267,7 +29267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:04:52",
     "end": "09:05:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -29277,7 +29277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:05:16",
     "end": "09:05:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/MAdhura+Properties.mp3"
   },
   {
@@ -29287,7 +29287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:05:31",
     "end": "09:05:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -29297,7 +29297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:05:56",
     "end": "09:06:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+bank.mp3"
   },
   {
@@ -29307,7 +29307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:06:26",
     "end": "09:08:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29327,7 +29327,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:12:45",
     "end": "09:12:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -29367,7 +29367,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:20:16",
     "end": "09:20:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Retro+friday+Hello+fm.mp3"
   },
   {
@@ -29377,7 +29377,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:20:46",
     "end": "09:20:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -29397,7 +29397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:21:13",
     "end": "09:21:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29407,7 +29407,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:21:20",
     "end": "09:22:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29417,7 +29417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:22:22",
     "end": "09:22:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -29427,7 +29427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:22:27",
     "end": "09:22:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -29437,7 +29437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:22:42",
     "end": "09:22:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -29447,7 +29447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:22:51",
     "end": "09:23:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -29457,7 +29457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:23:11",
     "end": "09:23:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana.mp3"
   },
   {
@@ -29467,7 +29467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:23:32",
     "end": "09:23:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -29477,7 +29477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:23:51",
     "end": "09:24:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -29487,7 +29487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:24:01",
     "end": "09:24:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Jodi+Premium+Silver+jewellery.mp3"
   },
   {
@@ -29497,7 +29497,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:24:06",
     "end": "09:24:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurvedha+Hospital.mp3"
   },
   {
@@ -29507,7 +29507,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:24:21",
     "end": "09:24:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -29517,7 +29517,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:24:36",
     "end": "09:25:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Care+AcAdemy.mp3"
   },
   {
@@ -29557,7 +29557,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:29:38",
     "end": "09:30:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+gramophone.mp3"
   },
   {
@@ -29577,7 +29577,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:30:20",
     "end": "09:30:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29587,7 +29587,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:30:35",
     "end": "09:30:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -29597,7 +29597,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:30:50",
     "end": "09:31:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -29607,7 +29607,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:31:00",
     "end": "09:31:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -29617,7 +29617,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:31:05",
     "end": "09:31:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -29627,7 +29627,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:31:20",
     "end": "09:31:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29637,7 +29637,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:31:25",
     "end": "09:31:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29647,7 +29647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:31:35",
     "end": "09:31:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29657,7 +29657,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:31:50",
     "end": "09:32:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -29667,7 +29667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:32:10",
     "end": "09:32:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -29677,7 +29677,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:32:24",
     "end": "09:32:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -29687,7 +29687,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:32:39",
     "end": "09:33:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29697,7 +29697,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:33:04",
     "end": "09:33:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29707,7 +29707,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:33:14",
     "end": "09:33:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -29717,7 +29717,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:33:39",
     "end": "09:33:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -29727,7 +29727,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:33:57",
     "end": "09:35:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29737,7 +29737,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:35:55",
     "end": "09:36:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29747,7 +29747,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:36:00",
     "end": "09:36:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -29787,7 +29787,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:44:40",
     "end": "09:45:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29797,7 +29797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:45:05",
     "end": "09:46:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29817,7 +29817,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:46:33",
     "end": "09:46:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -29827,7 +29827,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:46:43",
     "end": "09:47:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -29837,7 +29837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:47:12",
     "end": "09:47:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -29847,7 +29847,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:47:27",
     "end": "09:47:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -29857,7 +29857,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:47:41",
     "end": "09:47:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -29867,7 +29867,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:47:46",
     "end": "09:48:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Maa+kauvery.mp3"
   },
   {
@@ -29877,7 +29877,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:48:11",
     "end": "09:49:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sree+Nidhi+Promoters.mp3"
   },
   {
@@ -29887,7 +29887,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:49:07",
     "end": "09:49:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/PM+Intership+Scheme.mp3"
   },
   {
@@ -29917,7 +29917,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:52:17",
     "end": "09:52:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -29937,7 +29937,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:54:17",
     "end": "09:54:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -29977,7 +29977,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:01:25",
     "end": "10:01:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -29987,7 +29987,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:01:35",
     "end": "10:01:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -29997,7 +29997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:01:45",
     "end": "10:01:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -30007,7 +30007,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:01:50",
     "end": "10:02:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30017,7 +30017,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:02:18",
     "end": "10:02:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -30037,7 +30037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:03:05",
     "end": "10:03:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30047,7 +30047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:03:20",
     "end": "10:03:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -30057,7 +30057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:03:48",
     "end": "10:03:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -30067,7 +30067,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:03:58",
     "end": "10:04:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -30077,7 +30077,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:04:17",
     "end": "10:04:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -30087,7 +30087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:04:32",
     "end": "10:04:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -30097,7 +30097,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:04:46",
     "end": "10:04:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -30107,7 +30107,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:04:55",
     "end": "10:05:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -30117,7 +30117,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:05:01",
     "end": "10:05:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -30127,7 +30127,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:05:19",
     "end": "10:05:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+bank.mp3"
   },
   {
@@ -30137,7 +30137,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:05:48",
     "end": "10:06:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30157,7 +30157,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:10:52",
     "end": "10:11:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -30197,7 +30197,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:15:34",
     "end": "10:16:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30207,7 +30207,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:16:03",
     "end": "10:16:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -30227,7 +30227,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:16:29",
     "end": "10:16:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30237,7 +30237,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:16:36",
     "end": "10:16:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -30247,7 +30247,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:16:42",
     "end": "10:16:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aiyshwariya+Hospital.mp3"
   },
   {
@@ -30257,7 +30257,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:16:46",
     "end": "10:16:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -30267,7 +30267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:16:52",
     "end": "10:16:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -30277,7 +30277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:16:58",
     "end": "10:17:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -30287,7 +30287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:17:04",
     "end": "10:17:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -30297,7 +30297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:17:18",
     "end": "10:17:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -30307,7 +30307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:17:28",
     "end": "10:17:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -30317,7 +30317,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:17:47",
     "end": "10:18:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana.mp3"
   },
   {
@@ -30327,7 +30327,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:18:02",
     "end": "10:18:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -30337,7 +30337,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:18:20",
     "end": "10:18:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -30347,7 +30347,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:18:44",
     "end": "10:18:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -30357,7 +30357,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:18:49",
     "end": "10:19:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+oil+intake.mp3"
   },
   {
@@ -30367,7 +30367,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:19:20",
     "end": "10:19:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30407,7 +30407,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:25:58",
     "end": "10:26:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30427,7 +30427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:26:50",
     "end": "10:26:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30437,7 +30437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:26:57",
     "end": "10:27:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -30457,7 +30457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:27:21",
     "end": "10:27:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30467,7 +30467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:27:35",
     "end": "10:27:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -30477,7 +30477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:27:54",
     "end": "10:28:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -30487,7 +30487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:04",
     "end": "10:28:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -30497,7 +30497,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:08",
     "end": "10:28:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -30507,7 +30507,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:22",
     "end": "10:28:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -30517,7 +30517,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:37",
     "end": "10:28:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -30527,7 +30527,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:42",
     "end": "10:29:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -30537,7 +30537,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:29:07",
     "end": "10:29:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -30547,7 +30547,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:29:11",
     "end": "10:29:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -30557,7 +30557,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:29:16",
     "end": "10:29:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -30567,7 +30567,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:29:36",
     "end": "10:29:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -30577,7 +30577,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:29:53",
     "end": "10:30:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+oil+intake.mp3"
   },
   {
@@ -30587,7 +30587,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:30:32",
     "end": "10:31:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30607,7 +30607,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:35:30",
     "end": "10:35:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -30647,7 +30647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:42:29",
     "end": "10:42:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+Radio+Partner.mp3"
   },
   {
@@ -30657,7 +30657,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:42:58",
     "end": "10:44:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+Radio+Partner.mp3"
   },
   {
@@ -30687,7 +30687,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:44:37",
     "end": "10:44:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -30697,7 +30697,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:44:47",
     "end": "10:44:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -30707,7 +30707,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:44:52",
     "end": "10:45:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -30717,7 +30717,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:45:11",
     "end": "10:45:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30727,7 +30727,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:45:35",
     "end": "10:45:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -30737,7 +30737,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:45:40",
     "end": "10:45:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30747,7 +30747,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:45:55",
     "end": "10:46:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30757,7 +30757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:46:09",
     "end": "10:46:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -30767,7 +30767,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:46:19",
     "end": "10:47:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30777,7 +30777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:47:01",
     "end": "10:47:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30797,7 +30797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:50:26",
     "end": "10:50:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -30857,7 +30857,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:01:36",
     "end": "11:01:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Jingle+Hello+FM.mp3"
   },
   {
@@ -30867,7 +30867,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:01:47",
     "end": "11:01:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -30887,7 +30887,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:02:20",
     "end": "11:02:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -30907,7 +30907,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:03:15",
     "end": "11:03:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -30917,7 +30917,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:03:20",
     "end": "11:03:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -30927,7 +30927,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:03:49",
     "end": "11:03:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdha+silks.mp3"
   },
   {
@@ -30937,7 +30937,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:03:58",
     "end": "11:04:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -30947,7 +30947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:04:12",
     "end": "11:04:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -30957,7 +30957,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:04:36",
     "end": "11:04:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -30967,7 +30967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:04:50",
     "end": "11:05:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -30987,7 +30987,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:05:05",
     "end": "11:05:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -30997,7 +30997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:05:13",
     "end": "11:05:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -31007,7 +31007,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:05:20",
     "end": "11:05:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -31017,7 +31017,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:05:26",
     "end": "11:05:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -31027,7 +31027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:05:30",
     "end": "11:05:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -31037,7 +31037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:05:33",
     "end": "11:05:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Maha+Hospital.mp3"
   },
   {
@@ -31047,7 +31047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:05:37",
     "end": "11:05:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -31057,7 +31057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:05:44",
     "end": "11:05:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -31067,7 +31067,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:05:47",
     "end": "11:05:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sudha+Hospital.mp3"
   },
   {
@@ -31087,7 +31087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:10:35",
     "end": "11:11:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -31147,7 +31147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:17:40",
     "end": "11:17:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -31167,7 +31167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:18:11",
     "end": "11:18:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana.mp3"
   },
   {
@@ -31177,7 +31177,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:18:16",
     "end": "11:18:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -31187,7 +31187,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:18:22",
     "end": "11:18:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sree+Nidhi+Promoters.mp3"
   },
   {
@@ -31197,7 +31197,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:18:27",
     "end": "11:18:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Rathna+Hospital.mp3"
   },
   {
@@ -31207,7 +31207,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:18:33",
     "end": "11:18:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -31217,7 +31217,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:18:39",
     "end": "11:18:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -31227,7 +31227,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:18:45",
     "end": "11:18:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -31237,7 +31237,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:18:51",
     "end": "11:18:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cement+.mp3"
   },
   {
@@ -31247,7 +31247,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:18:56",
     "end": "11:19:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -31257,7 +31257,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:19:01",
     "end": "11:19:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -31267,7 +31267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:19:06",
     "end": "11:19:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdha+silks.mp3"
   },
   {
@@ -31277,7 +31277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:19:11",
     "end": "11:19:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -31287,7 +31287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:19:16",
     "end": "11:19:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdha+silks.mp3"
   },
   {
@@ -31297,7 +31297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:19:26",
     "end": "11:19:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -31307,7 +31307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:19:40",
     "end": "11:20:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -31337,7 +31337,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:24:28",
     "end": "11:24:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -31397,7 +31397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:31:59",
     "end": "11:32:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -31417,7 +31417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:32:44",
     "end": "11:32:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -31427,7 +31427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:32:48",
     "end": "11:32:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -31437,7 +31437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:32:54",
     "end": "11:33:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdha+silks.mp3"
   },
   {
@@ -31447,7 +31447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:33:03",
     "end": "11:33:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -31457,7 +31457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:33:18",
     "end": "11:33:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -31467,7 +31467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:33:32",
     "end": "11:33:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -31477,7 +31477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:33:51",
     "end": "11:34:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Stay+Safe+From+the+scam.mp3"
   },
   {
@@ -31487,7 +31487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:34:20",
     "end": "11:34:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -31507,7 +31507,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:34:48",
     "end": "11:34:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -31517,7 +31517,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:34:57",
     "end": "11:35:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -31527,7 +31527,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:35:02",
     "end": "11:35:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -31537,7 +31537,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:35:10",
     "end": "11:35:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -31547,7 +31547,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:35:14",
     "end": "11:35:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -31557,7 +31557,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:35:16",
     "end": "11:35:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -31567,7 +31567,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:35:21",
     "end": "11:35:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -31577,7 +31577,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:35:27",
     "end": "11:35:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -31587,7 +31587,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:35:30",
     "end": "11:35:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sudha+Hospital.mp3"
   },
   {
@@ -31627,7 +31627,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:42:22",
     "end": "11:42:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -31647,7 +31647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:45:56",
     "end": "11:46:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -31667,7 +31667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:46:18",
     "end": "11:46:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -31677,7 +31677,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:46:32",
     "end": "11:46:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -31687,7 +31687,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:46:42",
     "end": "11:46:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -31697,7 +31697,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:46:46",
     "end": "11:47:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -31707,7 +31707,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:47:01",
     "end": "11:47:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -31717,7 +31717,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:47:25",
     "end": "11:47:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -31727,7 +31727,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:47:30",
     "end": "11:47:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -31737,7 +31737,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:47:45",
     "end": "11:47:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -31747,7 +31747,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:47:50",
     "end": "11:48:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -31757,7 +31757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:48:09",
     "end": "11:48:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -31777,7 +31777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:51:51",
     "end": "11:52:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -31787,7 +31787,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:21",
     "end": "11:52:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Granulated+Sugar.mp3"
   },
   {
@@ -31797,7 +31797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:24",
     "end": "11:52:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -31807,7 +31807,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:31",
     "end": "11:52:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Daily+Thanthi.mp3"
   },
   {
@@ -31817,7 +31817,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:38",
     "end": "11:52:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Equitas+Bank.mp3"
   },
   {
@@ -31827,7 +31827,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:42",
     "end": "11:52:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -31837,7 +31837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:48",
     "end": "11:52:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -31847,7 +31847,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:53",
     "end": "11:52:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/rangas+Thangamaligai+Jewellery.mp3"
   },
   {
@@ -31857,7 +31857,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:58",
     "end": "11:53:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Agriya+Textila.mp3"
   },
   {
@@ -31867,7 +31867,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:53:02",
     "end": "11:53:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GVN+Hospital.mp3"
   },
   {
@@ -31877,7 +31877,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:53:09",
     "end": "11:53:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Isha+Grand+Valley.mp3"
   },
   {
@@ -31887,7 +31887,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:53:13",
     "end": "11:53:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -31897,7 +31897,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:53:17",
     "end": "11:53:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Black+Thunder.mp3"
   },
   {
@@ -31907,7 +31907,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:53:22",
     "end": "11:53:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -31967,7 +31967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:02:00",
     "end": "12:02:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -31977,7 +31977,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:02:10",
     "end": "12:02:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -31997,7 +31997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:03:34",
     "end": "12:03:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -32007,7 +32007,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:03:39",
     "end": "12:03:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -32017,7 +32017,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:03:44",
     "end": "12:03:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -32027,7 +32027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:03:58",
     "end": "12:04:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdha+silks.mp3"
   },
   {
@@ -32037,7 +32037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:04:09",
     "end": "12:04:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -32047,7 +32047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:04:17",
     "end": "12:04:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -32057,7 +32057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:04:22",
     "end": "12:04:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -32067,7 +32067,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:04:27",
     "end": "12:04:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ooty+Fresh+Vegetables.mp3"
   },
   {
@@ -32077,7 +32077,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:04:38",
     "end": "12:04:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -32087,7 +32087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:04:43",
     "end": "12:04:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -32107,7 +32107,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:04:59",
     "end": "12:05:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -32117,7 +32117,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:05:04",
     "end": "12:05:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -32127,7 +32127,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:05:07",
     "end": "12:05:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -32137,7 +32137,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:05:16",
     "end": "12:05:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -32147,7 +32147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:05:18",
     "end": "12:05:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -32157,7 +32157,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:05:28",
     "end": "12:05:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -32167,7 +32167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:05:31",
     "end": "12:05:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ooty+Fresh+Vegetables.mp3"
   },
   {
@@ -32177,7 +32177,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:05:34",
     "end": "12:05:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdha+silks.mp3"
   },
   {
@@ -32187,7 +32187,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:05:36",
     "end": "12:05:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -32207,7 +32207,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:09:59",
     "end": "12:10:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Retro+friday+Hello+fm.mp3"
   },
   {
@@ -32217,7 +32217,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:10:32",
     "end": "12:10:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -32267,7 +32267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:20:43",
     "end": "12:20:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -32287,7 +32287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:21:16",
     "end": "12:21:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -32297,7 +32297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:21:21",
     "end": "12:21:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -32307,7 +32307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:21:26",
     "end": "12:21:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sudha+Hospital.mp3"
   },
   {
@@ -32317,7 +32317,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:21:31",
     "end": "12:21:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Adhisha+jwealry.mp3"
   },
   {
@@ -32327,7 +32327,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:21:35",
     "end": "12:21:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -32337,7 +32337,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:21:39",
     "end": "12:21:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -32347,7 +32347,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:21:45",
     "end": "12:21:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -32357,7 +32357,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:21:49",
     "end": "12:21:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -32367,7 +32367,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:21:54",
     "end": "12:22:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Isha+Grand+Valley.mp3"
   },
   {
@@ -32377,7 +32377,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:22:00",
     "end": "12:22:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -32387,7 +32387,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:22:05",
     "end": "12:22:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -32397,7 +32397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:22:10",
     "end": "12:22:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -32407,7 +32407,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:22:15",
     "end": "12:22:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -32417,7 +32417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:22:19",
     "end": "12:22:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Maa+kauvery.mp3"
   },
   {
@@ -32427,7 +32427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:22:25",
     "end": "12:22:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyundai+i20.mp3"
   },
   {
@@ -32437,7 +32437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:22:30",
     "end": "12:22:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdha+silks.mp3"
   },
   {
@@ -32447,7 +32447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:22:34",
     "end": "12:22:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LIC+.mp3"
   },
   {
@@ -32457,7 +32457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:22:38",
     "end": "12:22:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -32467,7 +32467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:22:53",
     "end": "12:23:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdha+silks.mp3"
   },
   {
@@ -32477,7 +32477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:23:01",
     "end": "12:23:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -32487,7 +32487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:23:06",
     "end": "12:23:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -32497,7 +32497,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:23:16",
     "end": "12:23:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -32517,7 +32517,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:23:59",
     "end": "12:25:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -32537,7 +32537,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:29:08",
     "end": "12:29:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -32567,7 +32567,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:29:54",
     "end": "12:29:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -32587,7 +32587,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:30:02",
     "end": "12:30:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -32607,7 +32607,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:30:24",
     "end": "12:31:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -32627,7 +32627,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:32:12",
     "end": "12:34:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -32657,7 +32657,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:39:10",
     "end": "12:39:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -32667,7 +32667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:39:15",
     "end": "12:39:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -32677,7 +32677,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:39:20",
     "end": "12:39:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdha+silks.mp3"
   },
   {
@@ -32687,7 +32687,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:39:30",
     "end": "12:39:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -32697,7 +32697,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:39:35",
     "end": "12:39:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Adhisha+jwealry.mp3"
   },
   {
@@ -32707,7 +32707,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:39:45",
     "end": "12:39:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -32717,7 +32717,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:39:49",
     "end": "12:40:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -32727,7 +32727,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:40:04",
     "end": "12:40:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -32737,7 +32737,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:40:28",
     "end": "12:40:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -32757,7 +32757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:40:42",
     "end": "12:40:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -32767,7 +32767,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:40:52",
     "end": "12:40:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -32777,7 +32777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:40:56",
     "end": "12:41:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -32787,7 +32787,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:41:02",
     "end": "12:41:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -32797,7 +32797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:41:04",
     "end": "12:41:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -32807,7 +32807,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:41:13",
     "end": "12:41:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -32817,7 +32817,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:41:16",
     "end": "12:41:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ooty+Fresh+Vegetables.mp3"
   },
   {
@@ -32827,7 +32827,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:41:18",
     "end": "12:41:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdha+silks.mp3"
   },
   {
@@ -32837,7 +32837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:41:22",
     "end": "12:41:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -32847,7 +32847,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:41:26",
     "end": "12:41:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -32877,7 +32877,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:45:48",
     "end": "12:45:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Granulated+Sugar.mp3"
   },
   {
@@ -32887,7 +32887,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:45:51",
     "end": "12:45:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -32897,7 +32897,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:45:57",
     "end": "12:46:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Daily+Thanthi.mp3"
   },
   {
@@ -32907,7 +32907,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:46:04",
     "end": "12:46:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Equitas+Bank.mp3"
   },
   {
@@ -32917,7 +32917,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:46:09",
     "end": "12:46:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -32927,7 +32927,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:46:15",
     "end": "12:46:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -32937,7 +32937,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:46:20",
     "end": "12:46:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/rangas+Thangamaligai+Jewellery.mp3"
   },
   {
@@ -32947,7 +32947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:46:25",
     "end": "12:46:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -32957,7 +32957,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:46:30",
     "end": "12:46:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GVN+Hospital.mp3"
   },
   {
@@ -32967,7 +32967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:46:35",
     "end": "12:46:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Isha+Grand+Valley.mp3"
   },
   {
@@ -32977,7 +32977,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:46:39",
     "end": "12:46:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -32987,7 +32987,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:46:44",
     "end": "12:46:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Black+Thunder.mp3"
   },
   {
@@ -32997,7 +32997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:46:49",
     "end": "12:46:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -33027,7 +33027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:50:55",
     "end": "12:51:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -33037,7 +33037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:51:28",
     "end": "12:51:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Granulated+Sugar.mp3"
   },
   {
@@ -33047,7 +33047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:51:33",
     "end": "12:51:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Daily+Thanthi.mp3"
   },
   {
@@ -33057,7 +33057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:51:35",
     "end": "12:53:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -33077,7 +33077,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:57:25",
     "end": "12:57:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kodai+Kaala+Katra.mp3"
   },
   {
@@ -33107,7 +33107,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:00:15",
     "end": "13:00:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -33117,7 +33117,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:00:19",
     "end": "13:00:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -33127,7 +33127,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:00:25",
     "end": "13:00:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -33137,7 +33137,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:00:34",
     "end": "13:00:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -33147,7 +33147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:00:50",
     "end": "13:01:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -33157,7 +33157,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:01:00",
     "end": "13:01:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -33167,7 +33167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:01:25",
     "end": "13:01:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -33177,7 +33177,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:01:40",
     "end": "13:02:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Maa+kauvery.mp3"
   },
   {
@@ -33187,7 +33187,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:03",
     "end": "13:02:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -33207,7 +33207,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:14",
     "end": "13:02:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -33217,7 +33217,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:21",
     "end": "13:02:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -33227,7 +33227,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:24",
     "end": "13:02:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -33237,7 +33237,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:29",
     "end": "13:02:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -33247,7 +33247,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:34",
     "end": "13:02:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -33257,7 +33257,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:26",
     "end": "13:02:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -33267,7 +33267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:46",
     "end": "13:02:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -33277,7 +33277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:49",
     "end": "13:02:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ooty+Fresh+Vegetables.mp3"
   },
   {
@@ -33287,7 +33287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:51",
     "end": "13:02:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -33297,7 +33297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:02:54",
     "end": "13:02:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -33317,7 +33317,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:06:40",
     "end": "13:06:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -33367,7 +33367,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:18:36",
     "end": "13:19:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -33377,7 +33377,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:19:07",
     "end": "13:19:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -33397,7 +33397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:19:39",
     "end": "13:19:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -33407,7 +33407,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:19:45",
     "end": "13:19:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Atlas+Hospitals.mp3"
   },
   {
@@ -33417,7 +33417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:19:49",
     "end": "13:19:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Gopal+V+Tooth+Paste.mp3"
   },
   {
@@ -33427,7 +33427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:19:52",
     "end": "13:19:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anjol+Medicine.mp3"
   },
   {
@@ -33437,7 +33437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:19:54",
     "end": "13:19:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maligai+.mp3"
   },
   {
@@ -33447,7 +33447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:19:58",
     "end": "13:20:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -33457,7 +33457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:20:05",
     "end": "13:20:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -33467,7 +33467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:20:11",
     "end": "13:20:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -33477,7 +33477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:20:16",
     "end": "13:20:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -33487,7 +33487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:20:23",
     "end": "13:20:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -33497,7 +33497,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:20:28",
     "end": "13:20:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -33507,7 +33507,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:20:35",
     "end": "13:20:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sathya+Plywoods.mp3"
   },
   {
@@ -33517,7 +33517,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:20:40",
     "end": "13:20:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -33527,7 +33527,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:20:45",
     "end": "13:20:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -33537,7 +33537,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:20:55",
     "end": "13:21:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -33547,7 +33547,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:21:10",
     "end": "13:21:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -33557,7 +33557,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:21:34",
     "end": "13:21:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -33627,7 +33627,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:37:20",
     "end": "13:37:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -33647,7 +33647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:38:08",
     "end": "13:38:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -33657,7 +33657,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:38:13",
     "end": "13:38:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -33667,7 +33667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:38:18",
     "end": "13:38:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -33677,7 +33677,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:38:32",
     "end": "13:38:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -33687,7 +33687,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:38:43",
     "end": "13:38:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -33697,7 +33697,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:38:48",
     "end": "13:39:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -33707,7 +33707,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:39:02",
     "end": "13:39:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -33717,7 +33717,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:39:08",
     "end": "13:39:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -33727,7 +33727,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:39:22",
     "end": "13:39:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -33747,7 +33747,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:39:33",
     "end": "13:39:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -33757,7 +33757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:39:39",
     "end": "13:39:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -33767,7 +33767,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:39:42",
     "end": "13:39:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -33777,7 +33777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:39:46",
     "end": "13:39:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -33787,7 +33787,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:39:52",
     "end": "13:39:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -33797,7 +33797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:39:54",
     "end": "13:40:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -33807,7 +33807,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:40:04",
     "end": "13:40:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -33817,7 +33817,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:40:06",
     "end": "13:40:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ooty+Fresh+Vegetables.mp3"
   },
   {
@@ -33827,7 +33827,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:40:10",
     "end": "13:40:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -33837,7 +33837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:40:13",
     "end": "13:40:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -33847,7 +33847,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:40:18",
     "end": "13:40:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -33857,7 +33857,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:40:23",
     "end": "13:40:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -33877,7 +33877,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:44:17",
     "end": "13:44:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -33887,7 +33887,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:44:22",
     "end": "13:44:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -33937,7 +33937,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:52:33",
     "end": "13:53:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -33947,7 +33947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:25",
     "end": "13:53:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Granulated+Sugar.mp3"
   },
   {
@@ -33957,7 +33957,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:06",
     "end": "13:53:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -33967,7 +33967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:14",
     "end": "13:53:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -33977,7 +33977,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:19",
     "end": "13:53:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Equitas+Bank.mp3"
   },
   {
@@ -33987,7 +33987,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:25",
     "end": "13:53:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -33997,7 +33997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:30",
     "end": "13:53:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -34007,7 +34007,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:36",
     "end": "13:53:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/rangas+Thangamaligai+Jewellery.mp3"
   },
   {
@@ -34017,7 +34017,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:41",
     "end": "13:53:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -34027,7 +34027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:46",
     "end": "13:53:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GVN+Hospital.mp3"
   },
   {
@@ -34037,7 +34037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:51",
     "end": "13:53:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Isha+Grand+Valley.mp3"
   },
   {
@@ -34047,7 +34047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:53:55",
     "end": "13:54:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -34057,7 +34057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:54:00",
     "end": "13:54:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Black+Thunder.mp3"
   },
   {
@@ -34067,7 +34067,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:54:05",
     "end": "13:54:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -34087,7 +34087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:58:08",
     "end": "13:58:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -34117,7 +34117,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:00:30",
     "end": "14:00:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -34127,7 +34127,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:00:40",
     "end": "14:00:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -34147,7 +34147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:01:14",
     "end": "14:01:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -34167,7 +34167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:02:06",
     "end": "14:02:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -34177,7 +34177,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:02:11",
     "end": "14:02:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -34187,7 +34187,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:02:16",
     "end": "14:02:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -34197,7 +34197,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:02:25",
     "end": "14:02:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -34207,7 +34207,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:02:35",
     "end": "14:02:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -34217,7 +34217,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:02:50",
     "end": "14:02:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -34227,7 +34227,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:02:56",
     "end": "14:03:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -34237,7 +34237,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:03:01",
     "end": "14:03:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -34257,7 +34257,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:03:36",
     "end": "14:03:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -34267,7 +34267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:03:40",
     "end": "14:03:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -34277,7 +34277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:03:50",
     "end": "14:03:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aiyshwariya+Hospital.mp3"
   },
   {
@@ -34287,7 +34287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:03:55",
     "end": "14:03:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -34297,7 +34297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:03:58",
     "end": "14:04:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -34307,7 +34307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:04:00",
     "end": "14:04:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -34327,7 +34327,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:08:54",
     "end": "14:09:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -34377,7 +34377,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:19:46",
     "end": "14:20:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -34397,7 +34397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:20:21",
     "end": "14:20:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -34417,7 +34417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:20:50",
     "end": "14:20:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -34427,7 +34427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:20:56",
     "end": "14:21:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -34437,7 +34437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:21:01",
     "end": "14:21:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -34447,7 +34447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:21:08",
     "end": "14:21:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sathya+Plywoods.mp3"
   },
   {
@@ -34457,7 +34457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:21:15",
     "end": "14:21:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/rangas+Thangamaligai+Jewellery.mp3"
   },
   {
@@ -34467,7 +34467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:21:21",
     "end": "14:21:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -34477,7 +34477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:21:36",
     "end": "14:21:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -34487,7 +34487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:21:41",
     "end": "14:21:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -34497,7 +34497,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:21:56",
     "end": "14:22:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -34507,7 +34507,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:22:16",
     "end": "14:22:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -34527,7 +34527,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:24:58",
     "end": "14:25:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -34577,7 +34577,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:34:37",
     "end": "14:34:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -34597,7 +34597,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:34:35",
     "end": "14:35:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -34627,7 +34627,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:40:35",
     "end": "14:40:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+Radio+Partner.mp3"
   },
   {
@@ -34647,7 +34647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:41:05",
     "end": "14:41:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -34657,7 +34657,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:41:11",
     "end": "14:41:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -34667,7 +34667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:41:16",
     "end": "14:41:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -34677,7 +34677,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:41:26",
     "end": "14:41:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -34687,7 +34687,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:41:30",
     "end": "14:41:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -34697,7 +34697,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:41:46",
     "end": "14:42:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -34707,7 +34707,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:42:01",
     "end": "14:42:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -34717,7 +34717,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:42:05",
     "end": "14:42:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -34727,7 +34727,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:42:21",
     "end": "14:43:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/PM+Intership+Scheme.mp3"
   },
   {
@@ -34737,7 +34737,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:43:06",
     "end": "14:43:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Malai+malar.mp3"
   },
   {
@@ -34757,7 +34757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:43:36",
     "end": "14:43:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -34767,7 +34767,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:43:41",
     "end": "14:43:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -34777,7 +34777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:43:50",
     "end": "14:43:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Iswarya+hospital.mp3"
   },
   {
@@ -34787,7 +34787,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:43:55",
     "end": "14:43:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -34797,7 +34797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:44:00",
     "end": "14:44:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -34837,7 +34837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:52:10",
     "end": "14:52:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -34847,7 +34847,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:52:40",
     "end": "14:52:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Granulated+Sugar.mp3"
   },
   {
@@ -34857,7 +34857,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:52:44",
     "end": "14:52:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -34867,7 +34867,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:52:51",
     "end": "14:52:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dheema.mp3"
   },
   {
@@ -34877,7 +34877,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:52:57",
     "end": "14:53:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Equitas+Bank.mp3"
   },
   {
@@ -34887,7 +34887,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:03",
     "end": "14:53:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -34897,7 +34897,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:08",
     "end": "14:53:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sauma+Public+School.mp3"
   },
   {
@@ -34907,7 +34907,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:13",
     "end": "14:53:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/rangas+Thangamaligai+Jewellery.mp3"
   },
   {
@@ -34917,7 +34917,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:19",
     "end": "14:53:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -34927,7 +34927,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:24",
     "end": "14:53:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GVN+Hospital.mp3"
   },
   {
@@ -34937,7 +34937,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:29",
     "end": "14:53:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Isha+Grand+Valley.mp3"
   },
   {
@@ -34947,7 +34947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:33",
     "end": "14:53:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -34957,7 +34957,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:38",
     "end": "14:53:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Black+thunder.mp3"
   },
   {
@@ -34967,7 +34967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:43",
     "end": "14:53:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia.mp3"
   },
   {
@@ -35027,7 +35027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:01:48",
     "end": "15:01:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35037,7 +35037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:01:58",
     "end": "15:02:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -35057,7 +35057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:02:04",
     "end": "15:03:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35067,7 +35067,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:03:15",
     "end": "15:03:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35077,7 +35077,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:03:24",
     "end": "15:03:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -35087,7 +35087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:03:45",
     "end": "15:03:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anitha+Jewellers.mp3"
   },
   {
@@ -35097,7 +35097,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:03:50",
     "end": "15:03:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Summer+Shooping+Pothi.mp3"
   },
   {
@@ -35107,7 +35107,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:03:55",
     "end": "15:04:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35117,7 +35117,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:04:00",
     "end": "15:04:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Priyanka+KanvAderam.mp3"
   },
   {
@@ -35127,7 +35127,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:04:15",
     "end": "15:04:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35137,7 +35137,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:04:20",
     "end": "15:04:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35147,7 +35147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:04:30",
     "end": "15:04:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35157,7 +35157,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:04:40",
     "end": "15:04:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dr+Rajesh+Rajendran.mp3"
   },
   {
@@ -35167,7 +35167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:04:45",
     "end": "15:04:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -35177,7 +35177,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:04:48",
     "end": "15:04:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -35197,7 +35197,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:10:10",
     "end": "15:10:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -35247,7 +35247,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:22:19",
     "end": "15:22:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -35277,7 +35277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:22:52",
     "end": "15:23:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -35287,7 +35287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:23:02",
     "end": "15:23:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana.mp3"
   },
   {
@@ -35297,7 +35297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:23:08",
     "end": "15:23:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -35307,7 +35307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:23:13",
     "end": "15:23:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Family+Dental+Toothpaste.mp3"
   },
   {
@@ -35317,7 +35317,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:23:18",
     "end": "15:23:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -35327,7 +35327,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:23:22",
     "end": "15:23:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -35337,7 +35337,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:23:30",
     "end": "15:23:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -35347,7 +35347,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:23:41",
     "end": "15:23:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -35357,7 +35357,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:23:46",
     "end": "15:23:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -35367,7 +35367,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:23:51",
     "end": "15:23:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -35377,7 +35377,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:23:54",
     "end": "15:24:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cement+.mp3"
   },
   {
@@ -35387,7 +35387,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:24:00",
     "end": "15:24:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Asia+Homes.mp3"
   },
   {
@@ -35397,7 +35397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:24:13",
     "end": "15:24:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -35407,7 +35407,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:24:18",
     "end": "15:24:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -35417,7 +35417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:24:24",
     "end": "15:24:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -35427,7 +35427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:24:29",
     "end": "15:24:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LIC+.mp3"
   },
   {
@@ -35437,7 +35437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:24:31",
     "end": "15:24:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35447,7 +35447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:24:51",
     "end": "15:25:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdas+Shopping+Fashion.mp3"
   },
   {
@@ -35457,7 +35457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:25:02",
     "end": "15:25:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellry.mp3"
   },
   {
@@ -35467,7 +35467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:25:06",
     "end": "15:25:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35477,7 +35477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:25:26",
     "end": "15:25:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+oil+intake.mp3"
   },
   {
@@ -35487,7 +35487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:25:40",
     "end": "15:25:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35497,7 +35497,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:25:45",
     "end": "15:26:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35507,7 +35507,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:26:10",
     "end": "15:26:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -35527,7 +35527,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:26:34",
     "end": "15:26:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -35597,7 +35597,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:38:16",
     "end": "15:38:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -35617,7 +35617,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:42:17",
     "end": "15:42:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -35637,7 +35637,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:42:41",
     "end": "15:42:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Akshay+Tritiya+Offer.mp3"
   },
   {
@@ -35647,7 +35647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:42:55",
     "end": "15:43:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -35657,7 +35657,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:43:11",
     "end": "15:43:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35667,7 +35667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:43:20",
     "end": "15:43:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -35677,7 +35677,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:43:26",
     "end": "15:43:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -35687,7 +35687,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:43:40",
     "end": "15:43:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35697,7 +35697,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:43:45",
     "end": "15:44:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35707,7 +35707,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:44:29",
     "end": "15:44:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Cotton+collection.mp3"
   },
   {
@@ -35717,7 +35717,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:44:39",
     "end": "15:44:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Priyanka+KanvAderam.mp3"
   },
   {
@@ -35727,7 +35727,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:44:55",
     "end": "15:45:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35737,7 +35737,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:45:00",
     "end": "15:45:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35747,7 +35747,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:45:20",
     "end": "15:45:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dr+Rajesh+Rajendran.mp3"
   },
   {
@@ -35757,7 +35757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:45:25",
     "end": "15:45:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -35767,7 +35767,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:45:30",
     "end": "15:45:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -35777,7 +35777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:45:33",
     "end": "15:45:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sports+Game+Promo.mp3"
   },
   {
@@ -35867,7 +35867,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:02:05",
     "end": "16:02:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -35877,7 +35877,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:02:10",
     "end": "16:02:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35897,7 +35897,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:03:22",
     "end": "16:03:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Akshay+Tritiya+Offer.mp3"
   },
   {
@@ -35907,7 +35907,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:03:36",
     "end": "16:03:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -35917,7 +35917,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:03:51",
     "end": "16:04:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAdas+Shopping+Fashion.mp3"
   },
   {
@@ -35927,7 +35927,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:04:01",
     "end": "16:04:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Akshay+tritiya+offer.mp3"
   },
   {
@@ -35937,7 +35937,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:04:20",
     "end": "16:04:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -35947,7 +35947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:04:24",
     "end": "16:04:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Summer+Shooping+Pothi.mp3"
   },
   {
@@ -35957,7 +35957,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:04:24",
     "end": "16:04:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -35967,7 +35967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:04:44",
     "end": "16:04:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35977,7 +35977,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:04:49",
     "end": "16:05:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Priyanka+Kanvaderam.mp3"
   },
   {
@@ -35987,7 +35987,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:03",
     "end": "16:05:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -35997,7 +35997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:09",
     "end": "16:05:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36007,7 +36007,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:18",
     "end": "16:05:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurvedha+Hospital.mp3"
   },
   {
@@ -36017,7 +36017,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:23",
     "end": "16:05:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ratna+Global+Hospital.mp3"
   },
   {
@@ -36027,7 +36027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:26",
     "end": "16:05:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cement+.mp3"
   },
   {
@@ -36037,7 +36037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:32",
     "end": "16:05:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36047,7 +36047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:34",
     "end": "16:05:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36057,7 +36057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:37",
     "end": "16:05:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -36067,7 +36067,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:41",
     "end": "16:05:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anita+Jewellry.mp3"
   },
   {
@@ -36077,7 +36077,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:46",
     "end": "16:05:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Care+AcAdemy.mp3"
   },
   {
@@ -36087,7 +36087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:05:51",
     "end": "16:06:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -36107,7 +36107,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:10:40",
     "end": "16:11:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -36137,7 +36137,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:16:48",
     "end": "16:17:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Retro+friday+Hello+fm.mp3"
   },
   {
@@ -36147,7 +36147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:17:20",
     "end": "16:17:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -36167,7 +36167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:17:48",
     "end": "16:18:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36177,7 +36177,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:18:05",
     "end": "16:18:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellry.mp3"
   },
   {
@@ -36187,7 +36187,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:18:10",
     "end": "16:18:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36197,7 +36197,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:18:19",
     "end": "16:18:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -36207,7 +36207,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:18:24",
     "end": "16:18:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -36217,7 +36217,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:18:30",
     "end": "16:18:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36227,7 +36227,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:18:43",
     "end": "16:19:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -36237,7 +36237,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:19:11",
     "end": "16:19:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -36247,7 +36247,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:19:21",
     "end": "16:19:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -36257,7 +36257,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:19:39",
     "end": "16:19:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -36267,7 +36267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:19:54",
     "end": "16:20:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+bank.mp3"
   },
   {
@@ -36337,7 +36337,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:30:27",
     "end": "16:30:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -36367,7 +36367,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:35:02",
     "end": "16:35:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -36377,7 +36377,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:35:16",
     "end": "16:35:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -36387,7 +36387,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:35:31",
     "end": "16:35:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36397,7 +36397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:35:40",
     "end": "16:35:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana.mp3"
   },
   {
@@ -36407,7 +36407,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:35:54",
     "end": "16:35:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -36417,7 +36417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:35:59",
     "end": "16:36:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -36427,7 +36427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:36:04",
     "end": "16:36:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -36437,7 +36437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:36:18",
     "end": "16:36:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -36447,7 +36447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:36:33",
     "end": "16:37:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36457,7 +36457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:37:16",
     "end": "16:37:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -36467,7 +36467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:37:20",
     "end": "16:37:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Priyanka+Kanavaredam.Mp3"
   },
   {
@@ -36477,7 +36477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:37:40",
     "end": "16:37:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana.mp3"
   },
   {
@@ -36487,7 +36487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:37:49",
     "end": "16:37:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurvedha+Hospital.mp3"
   },
   {
@@ -36497,7 +36497,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:37:54",
     "end": "16:37:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Rathna+Hospital.mp3"
   },
   {
@@ -36507,7 +36507,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:37:58",
     "end": "16:38:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cement+.mp3"
   },
   {
@@ -36517,7 +36517,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:38:03",
     "end": "16:38:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -36527,7 +36527,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:28:05",
     "end": "16:38:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sree+Nidhi+Promoters.mp3"
   },
   {
@@ -36537,7 +36537,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:38:09",
     "end": "16:38:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -36547,7 +36547,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:38:18",
     "end": "16:38:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Care+AcAdemy.mp3"
   },
   {
@@ -36557,7 +36557,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:38:22",
     "end": "16:38:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -36567,7 +36567,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:38:34",
     "end": "16:38:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36587,7 +36587,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:41:57",
     "end": "16:42:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36597,7 +36597,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:42:24",
     "end": "16:42:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36607,7 +36607,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:42:27",
     "end": "16:42:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Granulated+Sugar.mp3"
   },
   {
@@ -36617,7 +36617,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:42:32",
     "end": "16:42:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -36627,7 +36627,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:42:39",
     "end": "16:42:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Equitas+Bank.mp3"
   },
   {
@@ -36637,7 +36637,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:42:51",
     "end": "16:42:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -36647,7 +36647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:42:59",
     "end": "16:43:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36657,7 +36657,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:43:06",
     "end": "16:43:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36667,7 +36667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:43:11",
     "end": "16:43:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GVN+Hospital.mp3"
   },
   {
@@ -36677,7 +36677,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:43:19",
     "end": "16:43:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Isha+Grand+Valley.mp3"
   },
   {
@@ -36687,7 +36687,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:43:21",
     "end": "16:43:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -36697,7 +36697,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:43:25",
     "end": "16:43:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Black+Thunder.mp3"
   },
   {
@@ -36707,7 +36707,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:43:30",
     "end": "16:43:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -36757,7 +36757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:55:50",
     "end": "16:56:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36767,7 +36767,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:56:52",
     "end": "16:57:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -36777,7 +36777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:57:03",
     "end": "16:57:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -36787,7 +36787,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:00:51",
     "end": "17:01:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36797,7 +36797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:01:00",
     "end": "17:01:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36807,7 +36807,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:01:10",
     "end": "17:01:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -36827,7 +36827,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:02:10",
     "end": "17:02:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -36837,7 +36837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:02:38",
     "end": "17:03:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -36847,7 +36847,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:03:02",
     "end": "17:03:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -36857,7 +36857,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:03:26",
     "end": "17:03:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -36917,7 +36917,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:14:55",
     "end": "17:15:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -36947,7 +36947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:15:30",
     "end": "17:15:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -36957,7 +36957,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:15:35",
     "end": "17:15:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -36967,7 +36967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:15:40",
     "end": "17:15:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Akshay+Tritiya+Offer.mp3"
   },
   {
@@ -36977,7 +36977,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:15:53",
     "end": "17:16:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -36987,7 +36987,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:16:10",
     "end": "17:16:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -36997,7 +36997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:16:15",
     "end": "17:16:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37007,7 +37007,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:16:24",
     "end": "17:16:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37017,7 +37017,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:16:30",
     "end": "17:16:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sathya+Plywoods.mp3"
   },
   {
@@ -37027,7 +37027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:16:40",
     "end": "17:16:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -37037,7 +37037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:16:57",
     "end": "17:17:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Akshay+Tritiya+Offer.mp3"
   },
   {
@@ -37047,7 +37047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:17:21",
     "end": "17:17:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37057,7 +37057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:17:46",
     "end": "17:18:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -37127,7 +37127,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:26:20",
     "end": "17:26:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -37137,7 +37137,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:26:40",
     "end": "17:27:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -37147,7 +37147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:27:08",
     "end": "17:27:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -37157,7 +37157,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:27:30",
     "end": "17:27:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -37167,7 +37167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:27:33",
     "end": "17:27:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -37177,7 +37177,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:27:47",
     "end": "17:27:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Zodi+Silver.mp3"
   },
   {
@@ -37187,7 +37187,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:27:52",
     "end": "17:28:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -37197,7 +37197,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:11",
     "end": "17:28:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana.mp3"
   },
   {
@@ -37207,7 +37207,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:20",
     "end": "17:28:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurvedha+Hospital.mp3"
   },
   {
@@ -37217,7 +37217,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:24",
     "end": "17:28:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ratna+Global+Hospital.mp3"
   },
   {
@@ -37227,7 +37227,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:28",
     "end": "17:28:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37237,7 +37237,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:33",
     "end": "17:28:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -37247,7 +37247,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:40",
     "end": "17:28:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -37257,7 +37257,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:42",
     "end": "17:28:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Jodi+Premium+Silver+jewellery.mp3"
   },
   {
@@ -37267,7 +37267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:47",
     "end": "17:28:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Care+Academy.mp3"
   },
   {
@@ -37277,7 +37277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:53",
     "end": "17:28:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -37287,7 +37287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:56",
     "end": "17:29:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -37297,7 +37297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:29:02",
     "end": "17:29:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -37367,7 +37367,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:38:58",
     "end": "17:39:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SNG+10000.mp3"
   },
   {
@@ -37377,7 +37377,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:39:00",
     "end": "17:39:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -37387,7 +37387,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:39:08",
     "end": "17:39:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -37397,7 +37397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:39:30",
     "end": "17:39:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Equitas+Bank.mp3"
   },
   {
@@ -37407,7 +37407,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:39:19",
     "end": "17:39:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -37417,7 +37417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:39:27",
     "end": "17:39:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -37427,7 +37427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:39:40",
     "end": "17:39:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37437,7 +37437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:39:44",
     "end": "17:39:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Isha+homes.Mp3"
   },
   {
@@ -37447,7 +37447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:39:50",
     "end": "17:39:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -37457,7 +37457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:39:54",
     "end": "17:39:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Lucky+waterfalls.mp3"
   },
   {
@@ -37467,7 +37467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:39:58",
     "end": "17:40:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -37477,7 +37477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:40:04",
     "end": "17:40:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -37487,7 +37487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:40:18",
     "end": "17:40:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -37497,7 +37497,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:40:28",
     "end": "17:40:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -37507,7 +37507,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:40:47",
     "end": "17:40:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -37517,7 +37517,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:40:57",
     "end": "17:41:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sathya+Plywoods.mp3"
   },
   {
@@ -37527,7 +37527,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:41:22",
     "end": "17:41:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harshamitra+Mahal.mp3"
   },
   {
@@ -37537,7 +37537,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:41:31",
     "end": "17:41:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -37547,7 +37547,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:41:50",
     "end": "17:41:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mandi+mandi+app.mp3"
   },
   {
@@ -37557,7 +37557,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:41:55",
     "end": "17:42:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -37567,7 +37567,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:42:05",
     "end": "17:42:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -37587,7 +37587,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:44:53",
     "end": "17:45:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -37647,7 +37647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:54:46",
     "end": "17:54:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -37697,7 +37697,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:54:46",
     "end": "17:54:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37737,7 +37737,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:00:11",
     "end": "18:00:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -37747,7 +37747,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:00:17",
     "end": "18:00:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mattresses.mp3"
   },
   {
@@ -37757,7 +37757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:00:42",
     "end": "18:00:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -37777,7 +37777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:02:15",
     "end": "18:02:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -37787,7 +37787,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:02:25",
     "end": "18:02:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Arthisha+gold+finance.mp3"
   },
   {
@@ -37797,7 +37797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:02:35",
     "end": "18:02:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Summer+Shooping+Pothi.mp3"
   },
   {
@@ -37807,7 +37807,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:02:41",
     "end": "18:02:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -37817,7 +37817,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:02:50",
     "end": "18:03:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Coaching+classes.mp3"
   },
   {
@@ -37827,7 +37827,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:03:14",
     "end": "18:03:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -37837,7 +37837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:03:32",
     "end": "18:04:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mix+all+Ad.mp3"
   },
   {
@@ -37857,7 +37857,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:08:35",
     "end": "18:09:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37897,7 +37897,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:15:59",
     "end": "18:16:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -37907,7 +37907,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:16:11",
     "end": "18:16:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37917,7 +37917,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:16:25",
     "end": "18:17:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37927,7 +37927,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:17:01",
     "end": "18:17:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37937,7 +37937,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:17:29",
     "end": "18:17:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -37947,7 +37947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:17:44",
     "end": "18:18:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -37957,7 +37957,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:18:12",
     "end": "18:18:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/MAdhura+Properties.mp3"
   },
   {
@@ -37967,7 +37967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:18:26",
     "end": "18:18:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Swarnmahal+gold.mp3"
   },
   {
@@ -37977,7 +37977,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:18:52",
     "end": "18:19:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Maa+kauvery.mp3"
   },
   {
@@ -37997,7 +37997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:24:13",
     "end": "18:24:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38027,7 +38027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:30:04",
     "end": "18:30:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38047,7 +38047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:30:55",
     "end": "18:31:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -38057,7 +38057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:31:04",
     "end": "18:31:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38067,7 +38067,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:31:26",
     "end": "18:31:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -38077,7 +38077,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:31:50",
     "end": "18:32:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38087,7 +38087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:32:10",
     "end": "18:32:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38097,7 +38097,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:32:14",
     "end": "18:32:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Tirchi.mp3"
   },
   {
@@ -38107,7 +38107,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:32:20",
     "end": "18:32:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -38117,7 +38117,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:32:33",
     "end": "18:32:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Coaching+classes.mp3"
   },
   {
@@ -38127,7 +38127,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:32:57",
     "end": "18:33:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -38137,7 +38137,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:33:16",
     "end": "18:34:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38147,7 +38147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:34:36",
     "end": "18:35:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38157,7 +38157,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:35:01",
     "end": "18:36:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38197,7 +38197,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:46:19",
     "end": "18:46:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38207,7 +38207,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:46:39",
     "end": "18:46:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38217,7 +38217,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:46:48",
     "end": "18:46:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38237,7 +38237,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:47:19",
     "end": "18:47:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ratna+Global+Hospital.mp3"
   },
   {
@@ -38247,7 +38247,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:47:34",
     "end": "18:47:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -38257,7 +38257,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:47:40",
     "end": "18:47:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -38267,7 +38267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:47:58",
     "end": "18:48:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38277,7 +38277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:48:02",
     "end": "18:48:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38287,7 +38287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:48:22",
     "end": "18:49:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38297,7 +38297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:49:22",
     "end": "18:52:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Nenjorama.mp3"
   },
   {
@@ -38307,7 +38307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:52:26",
     "end": "18:52:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -38357,7 +38357,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:00:59",
     "end": "19:01:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -38377,7 +38377,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:02:16",
     "end": "19:02:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -38387,7 +38387,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:02:32",
     "end": "19:03:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -38397,7 +38397,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:03:59",
     "end": "19:04:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+bank.mp3"
   },
   {
@@ -38407,7 +38407,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:04:36",
     "end": "19:04:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -38417,7 +38417,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:04:42",
     "end": "19:04:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Alisha+Jwellery+silk+&+redimAdes.mp3"
   },
   {
@@ -38427,7 +38427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:04:54",
     "end": "19:05:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -38437,7 +38437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:05:05",
     "end": "19:05:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -38447,7 +38447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:05:23",
     "end": "19:05:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -38457,7 +38457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:05:27",
     "end": "19:05:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -38467,7 +38467,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:05:33",
     "end": "19:05:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -38477,7 +38477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:05:43",
     "end": "19:05:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -38497,7 +38497,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:10:32",
     "end": "19:10:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -38537,7 +38537,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:18:40",
     "end": "19:19:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Retro+friday+Hello+fm.mp3"
   },
   {
@@ -38547,7 +38547,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:19:10",
     "end": "19:19:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -38567,7 +38567,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:19:31",
     "end": "19:19:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+Tamila.mp3"
   },
   {
@@ -38577,7 +38577,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:19:39",
     "end": "19:19:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -38587,7 +38587,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:19:49",
     "end": "19:19:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ongal+Savarna+electrical+enterprises.mp3"
   },
   {
@@ -38597,7 +38597,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:19:54",
     "end": "19:19:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -38607,7 +38607,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:19:59",
     "end": "19:20:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Family+Dental+Toothpaste.mp3"
   },
   {
@@ -38617,7 +38617,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:20:04",
     "end": "19:20:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -38627,7 +38627,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:20:08",
     "end": "19:20:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -38637,7 +38637,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:20:17",
     "end": "19:20:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -38647,7 +38647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:20:27",
     "end": "19:20:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -38657,7 +38657,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:20:32",
     "end": "19:20:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -38667,7 +38667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:20:37",
     "end": "19:20:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mandi+mandi+app.mp3"
   },
   {
@@ -38677,7 +38677,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:20:41",
     "end": "19:20:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cement+.mp3"
   },
   {
@@ -38687,7 +38687,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:20:46",
     "end": "19:20:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Tiruchi.mp3"
   },
   {
@@ -38697,7 +38697,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:20:55",
     "end": "19:21:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -38707,7 +38707,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:21:05",
     "end": "19:21:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -38717,7 +38717,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:21:09",
     "end": "19:21:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Matrum+lic.mp3"
   },
   {
@@ -38727,7 +38727,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:21:37",
     "end": "19:21:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -38737,7 +38737,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:21:57",
     "end": "19:22:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -38747,7 +38747,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:22:17",
     "end": "19:22:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -38757,7 +38757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:22:41",
     "end": "19:23:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Maa+kaaveri.mp3"
   },
   {
@@ -38767,7 +38767,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:23:05",
     "end": "19:23:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -38807,7 +38807,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:30:43",
     "end": "19:31:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+gramophone.mp3"
   },
   {
@@ -38827,7 +38827,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:31:20",
     "end": "19:31:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -38837,7 +38837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:31:35",
     "end": "19:31:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -38847,7 +38847,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:31:55",
     "end": "19:32:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -38857,7 +38857,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:32:23",
     "end": "19:32:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -38867,7 +38867,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:32:35",
     "end": "19:32:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -38877,7 +38877,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:32:50",
     "end": "19:32:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -38887,7 +38887,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:32:55",
     "end": "19:33:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -38897,7 +38897,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:33:10",
     "end": "19:33:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -38907,7 +38907,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:33:20",
     "end": "19:33:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -38917,7 +38917,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:33:34",
     "end": "19:33:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -38927,7 +38927,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:33:46",
     "end": "19:33:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -38937,7 +38937,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:33:54",
     "end": "19:33:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Alisha+Jwellery+silk+&+redimAdes.mp3"
   },
   {
@@ -38947,7 +38947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:33:57",
     "end": "19:34:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -38957,7 +38957,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:05",
     "end": "19:34:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shri+Sangeethas+Sweets.mp3"
   },
   {
@@ -38967,7 +38967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:08",
     "end": "19:34:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -38977,7 +38977,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:15",
     "end": "19:34:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -38987,7 +38987,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:18",
     "end": "19:34:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sree+Nidhi+Promoters.mp3"
   },
   {
@@ -38997,7 +38997,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:22",
     "end": "19:34:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -39007,7 +39007,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:26",
     "end": "19:34:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -39017,7 +39017,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:29",
     "end": "19:34:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Maa+kaaveri.mp3"
   },
   {
@@ -39027,7 +39027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:33",
     "end": "19:34:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -39037,7 +39037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:36",
     "end": "19:34:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -39047,7 +39047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:44",
     "end": "19:34:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -39057,7 +39057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:54",
     "end": "19:34:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -39077,7 +39077,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:38:54",
     "end": "19:39:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -39087,7 +39087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:39:11",
     "end": "19:39:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -39107,7 +39107,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:39:22",
     "end": "19:39:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SNG+10000.mp3"
   },
   {
@@ -39117,7 +39117,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:39:27",
     "end": "19:39:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -39127,7 +39127,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:39:42",
     "end": "19:39:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Epras+Bank.mp3"
   },
   {
@@ -39137,7 +39137,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:39:48",
     "end": "19:39:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Navanetha+Silks.mp3"
   },
   {
@@ -39147,7 +39147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:39:55",
     "end": "19:40:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -39157,7 +39157,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:40:07",
     "end": "19:40:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GVN+Hospital.mp3"
   },
   {
@@ -39167,7 +39167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:40:13",
     "end": "19:40:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Isha+Grand+Valley.mp3"
   },
   {
@@ -39177,7 +39177,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:40:18",
     "end": "19:40:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -39187,7 +39187,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:40:22",
     "end": "19:40:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Lucky+waterfalls.mp3"
   },
   {
@@ -39197,7 +39197,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:40:26",
     "end": "19:40:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -39247,7 +39247,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:47:27",
     "end": "19:47:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -39267,7 +39267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:47:48",
     "end": "19:47:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -39277,7 +39277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:48:14",
     "end": "19:48:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -39287,7 +39287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:48:18",
     "end": "19:48:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -39297,7 +39297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:48:43",
     "end": "19:48:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Visala+Agencies.mp3"
   },
   {
@@ -39307,7 +39307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:48:58",
     "end": "19:49:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -39317,7 +39317,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:49:13",
     "end": "19:49:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -39327,7 +39327,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:49:30",
     "end": "19:49:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -39337,7 +39337,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:49:37",
     "end": "19:50:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/PM+Intership+Scheme.mp3"
   },
   {
@@ -39357,7 +39357,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:50:26",
     "end": "19:50:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -39427,7 +39427,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:03:03",
     "end": "20:03:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -39437,7 +39437,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:03:14",
     "end": "20:03:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sakthi+Masala.mp3"
   },
   {
@@ -39447,7 +39447,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:03:18",
     "end": "20:03:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -39457,7 +39457,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:03:47",
     "end": "20:03:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -39477,7 +39477,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:04:34",
     "end": "20:04:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -39487,7 +39487,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:04:49",
     "end": "20:05:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dina+Thanthi.mp3"
   },
   {
@@ -39497,7 +39497,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:05:17",
     "end": "20:05:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -39507,7 +39507,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:05:27",
     "end": "20:05:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -39517,7 +39517,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:05:42",
     "end": "20:05:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anitha+Jewellers.mp3"
   },
   {
@@ -39527,7 +39527,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:05:48",
     "end": "20:05:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Cotton+collection.mp3"
   },
   {
@@ -39537,7 +39537,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:05:53",
     "end": "20:06:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -39547,7 +39547,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:06:13",
     "end": "20:06:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -39557,7 +39557,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:06:32",
     "end": "20:06:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -39567,7 +39567,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:06:45",
     "end": "20:06:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -39577,7 +39577,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:06:56",
     "end": "20:07:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -39587,7 +39587,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:07:05",
     "end": "20:07:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aachi+BAdam+Drink+MIx.mp3"
   },
   {
@@ -39597,7 +39597,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:07:13",
     "end": "20:07:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -39607,7 +39607,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:07:18",
     "end": "20:07:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -39617,7 +39617,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:07:21",
     "end": "20:07:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -39627,7 +39627,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:07:29",
     "end": "20:07:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sree+Nidhi+Promoters.mp3"
   },
   {
@@ -39637,7 +39637,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:07:33",
     "end": "20:07:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -39647,7 +39647,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:07:42",
     "end": "20:07:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -39667,7 +39667,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:13:05",
     "end": "20:13:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -39707,7 +39707,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:19:54",
     "end": "20:20:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -39717,7 +39717,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:20:03",
     "end": "20:20:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -39727,7 +39727,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:20:53",
     "end": "20:21:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ARC+Fertility+Hospitals.mp3"
   },
   {
@@ -39747,7 +39747,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:21:25",
     "end": "20:21:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Televisions.mp3"
   },
   {
@@ -39757,7 +39757,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:21:44",
     "end": "20:21:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -39767,7 +39767,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:21:56",
     "end": "20:22:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -39777,7 +39777,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:22:02",
     "end": "20:22:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Care+AcAdemy.mp3"
   },
   {
@@ -39787,7 +39787,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:22:15",
     "end": "20:22:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -39797,7 +39797,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:22:30",
     "end": "20:22:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -39807,7 +39807,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:22:40",
     "end": "20:22:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -39817,7 +39817,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:22:45",
     "end": "20:23:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+College+.mp3"
   },
   {
@@ -39827,7 +39827,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:23:04",
     "end": "20:23:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -39837,7 +39837,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:23:29",
     "end": "20:23:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Diet.mp3"
   },
   {
@@ -39847,7 +39847,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:23:44",
     "end": "20:24:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+On+Obesity"
   },
   {
@@ -39867,7 +39867,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:24:19",
     "end": "20:24:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+Radio+Partner.mp3"
   },
   {
@@ -39877,7 +39877,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:24:55",
     "end": "20:25:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -39887,7 +39887,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:25:03",
     "end": "20:25:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Equitas+Bank.mp3"
   },
   {
@@ -39897,7 +39897,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:25:15",
     "end": "20:25:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Summer+Shooping+Pothi.mp3"
   },
   {
@@ -39907,7 +39907,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:25:23",
     "end": "20:25:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowna+Public+School.mp3"
   },
   {
@@ -39917,7 +39917,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:25:31",
     "end": "20:25:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -39927,7 +39927,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:25:36",
     "end": "20:25:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GVN+Hospital.mp3"
   },
   {
@@ -39937,7 +39937,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:25:41",
     "end": "20:25:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Isha+Homes.mp3"
   },
   {
@@ -39947,7 +39947,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:25:46",
     "end": "20:25:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -39957,7 +39957,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:25:50",
     "end": "20:25:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/India+largest+waterfall.mp3"
   },
   {
@@ -39967,7 +39967,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:25:55",
     "end": "20:26:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+KIA+Car+Dealer.mp3"
   },
   {
@@ -40011,13 +40011,13 @@ export const epgData = [
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Jingles/Jingle+Hello+FM.mp3"
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Hello FM",
     "id": "ITEM-9E977AB2",
     "date": "2025-04-15",
     "start": "20:33:20",
     "end": "20:33:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40027,7 +40027,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:33:35",
     "end": "20:33:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40037,7 +40037,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:33:50",
     "end": "20:33:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Sarees.mp3"
   },
   {
@@ -40047,7 +40047,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:33:59",
     "end": "20:34:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40057,7 +40057,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:34:16",
     "end": "20:34:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VandiMandi+Second+Car+Selling+App.mp3"
   },
   {
@@ -40067,7 +40067,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:34:24",
     "end": "20:34:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40077,7 +40077,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:34:29",
     "end": "20:34:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellry.mp3"
   },
   {
@@ -40087,7 +40087,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:34:34",
     "end": "20:34:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia+.mp3"
   },
   {
@@ -40097,7 +40097,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:34:54",
     "end": "20:35:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Stay+Alert+SBI+Bank.mp3"
   },
   {
@@ -40107,7 +40107,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:35:26",
     "end": "20:35:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+.mp3"
   },
   {
@@ -40117,7 +40117,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:35:36",
     "end": "20:35:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aswin+Shop.mp3"
   },
   {
@@ -40127,7 +40127,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:35:43",
     "end": "20:35:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Adhisha+jwealry.mp3"
   },
   {
@@ -40137,7 +40137,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:35:47",
     "end": "20:35:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -40147,7 +40147,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:35:55",
     "end": "20:36:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40157,7 +40157,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:05",
     "end": "20:36:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+And+Co+Air+Conditioner.mp3"
   },
   {
@@ -40167,7 +40167,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:10",
     "end": "20:36:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40177,7 +40177,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:19",
     "end": "20:36:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40187,7 +40187,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:24",
     "end": "20:36:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Volkswagen+car.mp3"
   },
   {
@@ -40197,7 +40197,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:34",
     "end": "20:36:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saradha+silks.mp3"
   },
   {
@@ -40217,7 +40217,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:40:05",
     "end": "20:40:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hello+FM+CSK's+Offical+RAdio+Partner.mp3"
   },
   {
@@ -40267,7 +40267,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:48:06",
     "end": "20:48:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -40277,7 +40277,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:48:26",
     "end": "20:48:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellry.mp3"
   },
   {
@@ -40287,7 +40287,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:48:32",
     "end": "20:48:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyper+Engine+Oil.mp3"
   },
   {
@@ -40297,7 +40297,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:48:50",
     "end": "20:49:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -40307,7 +40307,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:49:12",
     "end": "20:49:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40317,7 +40317,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:49:28",
     "end": "20:50:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40327,7 +40327,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:50:26",
     "end": "20:50:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Manna+Corporation+Electricals.mp3"
   },
   {
@@ -40347,7 +40347,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:52:10",
     "end": "20:55:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Idhayam.mp3"
   },
   {
@@ -40398,7 +40398,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:00:50",
     "end": "07:01:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -40408,7 +40408,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:01:00",
     "end": "07:01:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -40418,7 +40418,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:01:05",
     "end": "07:01:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -40428,7 +40428,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:01:14",
     "end": "07:01:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Srinidhi+Promoters.mp3"
   },
   {
@@ -40438,7 +40438,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:01:18",
     "end": "07:01:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -40498,7 +40498,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:10:25",
     "end": "07:10:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -40508,7 +40508,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:10:34",
     "end": "07:10:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -40518,7 +40518,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:10:54",
     "end": "07:11:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -40528,7 +40528,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:11:05",
     "end": "07:11:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurveda+Hospital.mp3"
   },
   {
@@ -40538,7 +40538,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:11:20",
     "end": "07:11:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
@@ -40548,7 +40548,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:11:30",
     "end": "07:11:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cements+.mp3"
   },
   {
@@ -40558,7 +40558,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:11:40",
     "end": "07:12:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -40568,17 +40568,17 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:12:15",
     "end": "07:12:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+.mp3"
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-CF7B5304",
     "date": "2025-04-15",
     "start": "07:12:35",
     "end": "07:12:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40588,7 +40588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:12:55",
     "end": "07:13:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -40598,7 +40598,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:13:10",
     "end": "07:13:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40608,7 +40608,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:13:25",
     "end": "07:13:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -40618,7 +40618,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:13:45",
     "end": "07:14:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurveda+Hospital.mp3"
   },
   {
@@ -40628,7 +40628,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:14:00",
     "end": "07:14:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -40638,7 +40638,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:14:10",
     "end": "07:14:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -40648,7 +40648,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:14:15",
     "end": "07:14:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Tahila+jwellers+.mp3"
   },
   {
@@ -40658,7 +40658,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:14:30",
     "end": "07:14:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -40668,7 +40668,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:14:50",
     "end": "07:15:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40748,7 +40748,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:28:20",
     "end": "07:28:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -40758,7 +40758,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:28:26",
     "end": "07:28:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -40768,7 +40768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:28:32",
     "end": "07:28:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -40778,7 +40778,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:28:40",
     "end": "07:28:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anuj+Tiles.mp3"
   },
   {
@@ -40788,7 +40788,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:28:45",
     "end": "07:28:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage+.mp3"
   },
   {
@@ -40798,7 +40798,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:28:50",
     "end": "07:28:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -40808,7 +40808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:28:58",
     "end": "07:29:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -40828,7 +40828,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:31:00",
     "end": "07:31:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -40838,7 +40838,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:31:12",
     "end": "07:31:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -40848,7 +40848,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:31:32",
     "end": "07:31:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -40858,7 +40858,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:31:52",
     "end": "07:32:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40868,7 +40868,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:32:06",
     "end": "07:32:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -40878,7 +40878,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:32:27",
     "end": "07:32:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cements+.mp3"
   },
   {
@@ -40888,7 +40888,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:32:37",
     "end": "07:32:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -40898,7 +40898,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:32:42",
     "end": "07:32:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vandi+Mandi+Car.mp3"
   },
   {
@@ -40908,7 +40908,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:32:52",
     "end": "07:33:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -40918,7 +40918,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:33:07",
     "end": "07:33:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurveda+Hospital.mp3"
   },
   {
@@ -40928,7 +40928,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:33:22",
     "end": "07:33:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -40938,7 +40938,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:33:32",
     "end": "07:33:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -40948,7 +40948,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:33:42",
     "end": "07:34:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -40958,7 +40958,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:34:03",
     "end": "07:34:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -41018,7 +41018,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:36:33",
     "end": "07:36:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -41048,7 +41048,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:41:40",
     "end": "07:41:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -41078,7 +41078,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:46:29",
     "end": "07:46:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -41108,7 +41108,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:50:44",
     "end": "07:51:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -41118,7 +41118,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:51:05",
     "end": "07:51:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAda+Silks.mp3"
   },
   {
@@ -41128,7 +41128,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:51:16",
     "end": "07:52:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shree+Nidhi+Promoters.mp3"
   },
   {
@@ -41138,7 +41138,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:52:16",
     "end": "07:52:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kerala+Ayurveda+Hospital.mp3"
   },
   {
@@ -41148,7 +41148,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:52:31",
     "end": "07:52:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
@@ -41158,7 +41158,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:52:36",
     "end": "07:53:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pm+Internship.mp3"
   },
   {
@@ -41168,7 +41168,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:53:20",
     "end": "07:53:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -41178,7 +41178,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:53:41",
     "end": "07:53:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -41188,7 +41188,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:53:56",
     "end": "07:54:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -41198,7 +41198,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:54:02",
     "end": "07:54:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -41208,7 +41208,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:54:12",
     "end": "07:54:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -41218,7 +41218,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:54:18",
     "end": "07:54:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -41228,7 +41228,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:54:22",
     "end": "07:54:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Srinidhi+Promoters.mp3"
   },
   {
@@ -41238,7 +41238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "07:54:28",
     "end": "07:54:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -41288,7 +41288,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:38",
     "end": "08:00:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -41298,7 +41298,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:48",
     "end": "08:00:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -41308,7 +41308,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:54",
     "end": "08:01:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -41328,7 +41328,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:38",
     "end": "08:00:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -41338,7 +41338,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:48",
     "end": "08:00:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -41348,7 +41348,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:54",
     "end": "08:01:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -41368,7 +41368,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:38",
     "end": "08:00:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -41378,7 +41378,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:48",
     "end": "08:00:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -41388,7 +41388,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:00:54",
     "end": "08:01:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -41398,7 +41398,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:01:03",
     "end": "08:01:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana+Electricals.mp3"
   },
   {
@@ -41458,7 +41458,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:10:48",
     "end": "08:10:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -41468,7 +41468,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:10:57",
     "end": "08:11:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -41478,7 +41478,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:11:07",
     "end": "08:11:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -41488,27 +41488,27 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:11:42",
     "end": "08:11:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy,Solar.mp3"
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-6FA28193",
     "date": "2025-04-15",
     "start": "08:11:52",
     "end": "08:12:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-3BF55DDA",
     "date": "2025-04-15",
     "start": "08:12:13",
     "end": "08:12:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -41518,7 +41518,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:12:31",
     "end": "08:12:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Trichy+Eye+Foundation.mp3"
   },
   {
@@ -41528,7 +41528,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:12:47",
     "end": "08:13:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana+Electricals.mp3"
   },
   {
@@ -41538,7 +41538,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:13:03",
     "end": "08:13:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cements+.mp3"
   },
   {
@@ -41548,7 +41548,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:13:12",
     "end": "08:13:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -41558,7 +41558,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:13:32",
     "end": "08:13:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vedrada.mp3"
   },
   {
@@ -41568,7 +41568,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:13:42",
     "end": "08:14:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+.mp3"
   },
   {
@@ -41578,7 +41578,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:14:12",
     "end": "08:14:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Tahila+jwellers+.mp3"
   },
   {
@@ -41588,7 +41588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:14:28",
     "end": "08:14:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -41598,7 +41598,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:14:43",
     "end": "08:14:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anitha+Jewellers.mp3"
   },
   {
@@ -41608,7 +41608,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:14:48",
     "end": "08:15:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -41618,7 +41618,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:15:09",
     "end": "08:15:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -41628,7 +41628,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:15:28",
     "end": "08:15:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Cotton+Collection.mp3"
   },
   {
@@ -41638,7 +41638,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:15:34",
     "end": "08:15:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline.mp3"
   },
   {
@@ -41678,7 +41678,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:18:10",
     "end": "08:18:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -41708,7 +41708,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:22:08",
     "end": "08:22:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -41732,13 +41732,13 @@ export const epgData = [
     "audio": ""
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-EF90AB27",
     "date": "2025-04-15",
     "start": "08:27:27",
     "end": "08:28:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -41758,7 +41758,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:28:38",
     "end": "08:28:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -41768,7 +41768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:28:49",
     "end": "08:29:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -41778,7 +41778,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:29:15",
     "end": "08:29:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -41788,7 +41788,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:29:35",
     "end": "08:29:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hamsa+Electronics.mp3"
   },
   {
@@ -41798,7 +41798,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:29:45",
     "end": "08:30:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -41808,7 +41808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:30:00",
     "end": "08:30:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+.mp3"
   },
   {
@@ -41818,7 +41818,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:30:40",
     "end": "08:30:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -41828,7 +41828,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:30:55",
     "end": "08:31:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks+Paradise.mp3"
   },
   {
@@ -41838,7 +41838,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:31:10",
     "end": "08:31:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/L+G+Fridge,Refrigerator.mp3"
   },
   {
@@ -41848,7 +41848,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:31:30",
     "end": "08:31:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -41858,17 +41858,17 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:31:50",
     "end": "08:32:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-3A9E8C0E",
     "date": "2025-04-15",
     "start": "08:32:00",
     "end": "08:32:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -41878,7 +41878,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:32:20",
     "end": "08:32:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -41888,7 +41888,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:32:30",
     "end": "08:32:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -41898,7 +41898,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:32:40",
     "end": "08:33:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -41928,7 +41928,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:35:35",
     "end": "08:35:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -41958,7 +41958,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:39:08",
     "end": "08:39:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarada+Silks.mp3"
   },
   {
@@ -41988,7 +41988,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:41:56",
     "end": "08:42:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarada+Silks.mp3"
   },
   {
@@ -42018,7 +42018,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:46:18",
     "end": "08:47:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -42038,7 +42038,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:05",
     "end": "08:47:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -42048,7 +42048,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:12",
     "end": "08:47:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -42058,7 +42058,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:18",
     "end": "08:47:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -42068,7 +42068,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:25",
     "end": "08:47:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anuj+Tiles.mp3"
   },
   {
@@ -42078,7 +42078,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:32",
     "end": "08:47:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage.mp3"
   },
   {
@@ -42088,7 +42088,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:38",
     "end": "08:47:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -42098,7 +42098,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:45",
     "end": "08:47:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -42108,7 +42108,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:47:53",
     "end": "08:48:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowdambika+World+School.mp3"
   },
   {
@@ -42118,7 +42118,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:48:22",
     "end": "08:48:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -42128,7 +42128,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:48:30",
     "end": "08:48:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -42138,7 +42138,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:48:40",
     "end": "08:49:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -42148,7 +42148,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:49:27",
     "end": "08:49:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Chettinad+Cement.mp3"
   },
   {
@@ -42158,7 +42158,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:49:37",
     "end": "08:49:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Lemon+Salt.mp3"
   },
   {
@@ -42168,7 +42168,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:49:42",
     "end": "08:49:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Lemon+Salt.mp3"
   },
   {
@@ -42178,7 +42178,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:49:52",
     "end": "08:50:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+Faurd+.mp3"
   },
   {
@@ -42188,7 +42188,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:50:07",
     "end": "08:50:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sodhi+Primium+Hall.mp3"
   },
   {
@@ -42198,7 +42198,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:50:36",
     "end": "08:50:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anitha+Jewellers.mp3"
   },
   {
@@ -42208,7 +42208,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:50:40",
     "end": "08:50:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -42218,7 +42218,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:50:42",
     "end": "08:50:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -42228,7 +42228,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:50:57",
     "end": "08:51:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -42238,7 +42238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:51:12",
     "end": "08:51:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pm+Internship.mp3"
   },
   {
@@ -42248,7 +42248,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:51:32",
     "end": "08:52:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -42258,7 +42258,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:52:15",
     "end": "08:52:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Cotton+Collection.mp3"
   },
   {
@@ -42268,7 +42268,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:52:37",
     "end": "08:52:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -42278,7 +42278,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:52:42",
     "end": "08:53:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -42288,7 +42288,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:53:03",
     "end": "08:53:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -42298,7 +42298,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:53:12",
     "end": "08:53:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -42308,7 +42308,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:53:18",
     "end": "08:53:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana+Eletrical+.mp3"
   },
   {
@@ -42318,7 +42318,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "08:53:28",
     "end": "08:53:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Tahila+jwellers+.mp3"
   },
   {
@@ -42378,7 +42378,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:00:49",
     "end": "09:01:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mahalaxmi+silks+sarees.mp3"
   },
   {
@@ -42388,7 +42388,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:01:04",
     "end": "09:01:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shakti+Masala.mp3"
   },
   {
@@ -42398,7 +42398,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:01:08",
     "end": "09:01:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -42448,7 +42448,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:10:18",
     "end": "09:10:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -42458,7 +42458,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:10:24",
     "end": "09:10:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -42468,7 +42468,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:10:46",
     "end": "09:10:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -42478,7 +42478,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:10:56",
     "end": "09:11:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -42488,7 +42488,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:11:10",
     "end": "09:11:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -42498,7 +42498,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:11:45",
     "end": "09:12:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -42508,7 +42508,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:12:01",
     "end": "09:12:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -42518,7 +42518,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:12:11",
     "end": "09:12:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana+Electricals.mp3"
   },
   {
@@ -42528,7 +42528,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:12:26",
     "end": "09:12:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maaligai.mp3"
   },
   {
@@ -42538,7 +42538,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:12:46",
     "end": "09:13:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -42548,7 +42548,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:13:06",
     "end": "09:13:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -42558,7 +42558,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:13:21",
     "end": "09:13:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vandi+Mandi+Car.mp3"
   },
   {
@@ -42578,7 +42578,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:13:56",
     "end": "09:14:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Lemon+Salt.mp3"
   },
   {
@@ -42588,7 +42588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:14:06",
     "end": "09:14:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks+ParAdise.mp3"
   },
   {
@@ -42598,7 +42598,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:14:31",
     "end": "09:14:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -42608,7 +42608,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:14:52",
     "end": "09:15:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -42628,7 +42628,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:17:52",
     "end": "09:17:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -42658,7 +42658,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:22:24",
     "end": "09:22:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -42688,7 +42688,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:26:22",
     "end": "09:27:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Surya+Fm.mp3"
   },
   {
@@ -42698,7 +42698,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:27:03",
     "end": "09:27:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -42708,7 +42708,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:27:10",
     "end": "09:27:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -42718,7 +42718,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:27:15",
     "end": "09:27:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -42728,7 +42728,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:27:22",
     "end": "09:27:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aruchi+Tiles.mp3"
   },
   {
@@ -42738,7 +42738,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:27:29",
     "end": "09:27:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage+.mp3"
   },
   {
@@ -42748,7 +42748,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:27:34",
     "end": "09:27:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -42758,7 +42758,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:27:40",
     "end": "09:27:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -42768,7 +42768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:28:47",
     "end": "09:29:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+and+co,Televisions.mp3"
   },
   {
@@ -42778,7 +42778,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:29:19",
     "end": "09:29:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -42788,7 +42788,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:29:29",
     "end": "09:29:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -42798,7 +42798,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:29:49",
     "end": "09:29:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA+(Bharath+Electronics+Appliences).mp3"
   },
   {
@@ -42808,7 +42808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:29:54",
     "end": "09:30:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -42818,7 +42818,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:30:09",
     "end": "09:30:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cements+.mp3"
   },
   {
@@ -42828,7 +42828,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:30:19",
     "end": "09:30:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -42838,7 +42838,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:30:39",
     "end": "09:30:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -42848,7 +42848,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:30:54",
     "end": "09:31:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -42858,7 +42858,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:31:10",
     "end": "09:31:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+.mp3"
   },
   {
@@ -42868,7 +42868,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:31:30",
     "end": "09:31:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -42878,7 +42878,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:31:40",
     "end": "09:32:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -42888,7 +42888,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:32:00",
     "end": "09:32:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anitha+Jewellers.mp3"
   },
   {
@@ -42898,7 +42898,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:32:05",
     "end": "09:32:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -42918,7 +42918,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:34:31",
     "end": "09:34:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -42948,7 +42948,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:38:30",
     "end": "09:38:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -42978,7 +42978,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:43:37",
     "end": "09:43:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -43018,7 +43018,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:49:10",
     "end": "09:49:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -43028,7 +43028,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:49:30",
     "end": "09:49:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -43038,7 +43038,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:49:41",
     "end": "09:50:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+AC.mp3"
   },
   {
@@ -43048,7 +43048,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:50:00",
     "end": "09:50:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -43058,7 +43058,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:50:20",
     "end": "09:50:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hamsa+Electronics.mp3"
   },
   {
@@ -43068,7 +43068,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:50:31",
     "end": "09:50:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cements+.mp3"
   },
   {
@@ -43078,7 +43078,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:50:41",
     "end": "09:50:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -43088,7 +43088,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:50:41",
     "end": "09:51:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -43098,7 +43098,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:51:15",
     "end": "09:51:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks+ParAdise.mp3"
   },
   {
@@ -43108,7 +43108,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:51:31",
     "end": "09:52:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+.mp3"
   },
   {
@@ -43118,7 +43118,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:52:00",
     "end": "09:52:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -43128,7 +43128,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:52:16",
     "end": "09:52:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA+(Bharath+Electronics+Appliences).mp3"
   },
   {
@@ -43138,7 +43138,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:52:22",
     "end": "09:52:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -43148,7 +43148,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:52:26",
     "end": "09:52:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -43158,7 +43158,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:52:36",
     "end": "09:52:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -43168,7 +43168,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:52:45",
     "end": "09:52:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kancheepurram+Varmahalakshmi+Silk.mp3"
   },
   {
@@ -43178,7 +43178,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:52:51",
     "end": "09:52:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shakti+Masala.mp3"
   },
   {
@@ -43188,7 +43188,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "09:52:55",
     "end": "09:53:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Ac+Mela.mp3"
   },
   {
@@ -43238,7 +43238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:00:39",
     "end": "10:00:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -43248,7 +43248,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:00:52",
     "end": "10:00:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -43258,7 +43258,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:00:57",
     "end": "10:01:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -43268,7 +43268,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:01:01",
     "end": "10:01:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -43318,7 +43318,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:11:35",
     "end": "10:11:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -43328,7 +43328,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:11:40",
     "end": "10:11:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -43338,7 +43338,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:11:53",
     "end": "10:12:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -43348,7 +43348,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:12:12",
     "end": "10:12:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -43358,7 +43358,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:12:27",
     "end": "10:12:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy,Solar.mp3"
   },
   {
@@ -43368,7 +43368,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:12:38",
     "end": "10:12:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Lemon+Salt.mp3"
   },
   {
@@ -43378,7 +43378,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:12:46",
     "end": "10:13:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -43388,7 +43388,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:13:03",
     "end": "10:13:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -43398,7 +43398,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:13:18",
     "end": "10:13:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -43408,7 +43408,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:13:38",
     "end": "10:13:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -43418,7 +43418,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:13:54",
     "end": "10:14:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+.mp3"
   },
   {
@@ -43428,7 +43428,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:14:13",
     "end": "10:14:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
@@ -43438,7 +43438,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:14:23",
     "end": "10:14:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -43448,7 +43448,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:14:43",
     "end": "10:15:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -43458,7 +43458,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:15:03",
     "end": "10:15:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -43468,7 +43468,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:15:23",
     "end": "10:15:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -43478,7 +43478,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:15:33",
     "end": "10:15:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -43488,7 +43488,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:15:53",
     "end": "10:16:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -43508,7 +43508,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:18:05",
     "end": "10:18:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -43538,7 +43538,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:22:52",
     "end": "10:22:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -43588,7 +43588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:16",
     "end": "10:28:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -43598,7 +43598,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:21",
     "end": "10:28:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -43608,7 +43608,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:27",
     "end": "10:28:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -43618,7 +43618,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:34",
     "end": "10:28:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anuj+Tiles.mp3"
   },
   {
@@ -43628,7 +43628,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:41",
     "end": "10:28:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage+.mp3"
   },
   {
@@ -43638,7 +43638,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:47",
     "end": "10:28:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -43648,7 +43648,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:28:53",
     "end": "10:29:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -43668,7 +43668,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:30:30",
     "end": "10:30:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -43678,7 +43678,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:30:39",
     "end": "10:31:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -43688,7 +43688,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:31:00",
     "end": "10:31:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -43698,7 +43698,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:31:10",
     "end": "10:31:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -43708,7 +43708,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:31:29",
     "end": "10:31:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -43718,7 +43718,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:31:50",
     "end": "10:32:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -43728,7 +43728,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:32:05",
     "end": "10:33:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shree+Nidhi+Promoters.mp3"
   },
   {
@@ -43738,7 +43738,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:33:05",
     "end": "10:33:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -43748,7 +43748,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:33:25",
     "end": "10:33:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -43758,7 +43758,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:33:40",
     "end": "10:33:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellery.mp3"
   },
   {
@@ -43768,7 +43768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:33:45",
     "end": "10:34:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -43778,7 +43778,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:34:00",
     "end": "10:34:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -43788,7 +43788,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:34:10",
     "end": "10:34:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -43808,7 +43808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:36:04",
     "end": "10:36:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -43838,7 +43838,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:40:23",
     "end": "10:40:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -43868,7 +43868,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:45:11",
     "end": "10:45:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -43898,7 +43898,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:48:59",
     "end": "10:49:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowdambika+World+School.mp3"
   },
   {
@@ -43908,7 +43908,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:49:31",
     "end": "10:49:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -43918,7 +43918,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:49:38",
     "end": "10:49:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+and+co,Televisions.mp3"
   },
   {
@@ -43928,7 +43928,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:49:58",
     "end": "10:50:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -43938,7 +43938,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:50:09",
     "end": "10:50:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -43948,7 +43948,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:50:23",
     "end": "10:50:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cements+.mp3"
   },
   {
@@ -43958,7 +43958,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:50:33",
     "end": "10:50:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+AC.mp3"
   },
   {
@@ -43968,7 +43968,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:50:53",
     "end": "10:50:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks+ParAdise.mp3"
   },
   {
@@ -43978,7 +43978,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:50:59",
     "end": "10:51:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -43988,7 +43988,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:51:09",
     "end": "10:51:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -43998,7 +43998,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:51:24",
     "end": "10:51:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+.mp3"
   },
   {
@@ -44008,7 +44008,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:51:54",
     "end": "10:52:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -44018,7 +44018,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:52:09",
     "end": "10:52:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Priyam+Internship.mp3"
   },
   {
@@ -44028,7 +44028,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:52:54",
     "end": "10:52:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellers.mp3"
   },
   {
@@ -44038,7 +44038,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:52:59",
     "end": "10:53:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -44048,7 +44048,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:53:14",
     "end": "10:53:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -44058,7 +44058,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:53:19",
     "end": "10:53:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -44068,7 +44068,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:53:33",
     "end": "10:53:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -44078,7 +44078,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:53:38",
     "end": "10:53:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -44088,7 +44088,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "10:53:41",
     "end": "10:53:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -44128,7 +44128,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:00:43",
     "end": "11:00:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Thanga+Maligai.mp3"
   },
   {
@@ -44138,7 +44138,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:00:51",
     "end": "11:00:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -44148,7 +44148,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:00:59",
     "end": "11:01:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana+Electricals.mp3"
   },
   {
@@ -44158,7 +44158,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:01:02",
     "end": "11:01:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -44168,7 +44168,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:01:07",
     "end": "11:01:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -44218,7 +44218,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:11:30",
     "end": "11:11:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -44228,7 +44228,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:11:36",
     "end": "11:11:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -44238,7 +44238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:11:47",
     "end": "11:12:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -44248,7 +44248,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:12:07",
     "end": "11:12:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cements+.mp3"
   },
   {
@@ -44258,7 +44258,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:12:16",
     "end": "11:12:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana+Electricals.mp3"
   },
   {
@@ -44268,7 +44268,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:12:31",
     "end": "11:12:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -44278,7 +44278,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:12:52",
     "end": "11:13:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vandi+Mandi+Car.mp3"
   },
   {
@@ -44288,7 +44288,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:13:20",
     "end": "11:13:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -44298,7 +44298,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:13:32",
     "end": "11:13:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -44308,7 +44308,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:13:46",
     "end": "11:13:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -44318,7 +44318,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:13:57",
     "end": "11:14:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -44328,7 +44328,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:14:12",
     "end": "11:14:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -44368,7 +44368,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:19:55",
     "end": "11:20:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -44398,7 +44398,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:24:10",
     "end": "11:24:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -44438,7 +44438,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:29:46",
     "end": "11:29:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -44448,7 +44448,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:29:57",
     "end": "11:30:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -44458,7 +44458,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:30:03",
     "end": "11:30:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -44468,7 +44468,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:30:09",
     "end": "11:30:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anuj+Tiles.mp3"
   },
   {
@@ -44478,7 +44478,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:30:16",
     "end": "11:30:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage+.mp3"
   },
   {
@@ -44488,7 +44488,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:30:22",
     "end": "11:30:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -44498,7 +44498,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:30:29",
     "end": "11:30:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -44508,7 +44508,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:31:45",
     "end": "11:31:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -44518,7 +44518,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:31:57",
     "end": "11:32:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -44528,7 +44528,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:32:07",
     "end": "11:32:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -44538,7 +44538,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:32:22",
     "end": "11:32:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cements+.mp3"
   },
   {
@@ -44548,7 +44548,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:32:32",
     "end": "11:32:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+AC.mp3"
   },
   {
@@ -44558,7 +44558,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:32:52",
     "end": "11:33:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+.mp3"
   },
   {
@@ -44568,7 +44568,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:33:22",
     "end": "11:33:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
@@ -44578,7 +44578,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:33:32",
     "end": "11:33:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -44588,7 +44588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:33:52",
     "end": "11:34:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -44608,7 +44608,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:35:28",
     "end": "11:35:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -44628,7 +44628,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:35:52",
     "end": "11:35:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -44658,7 +44658,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:39:22",
     "end": "11:39:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -44688,7 +44688,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:43:39",
     "end": "11:43:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -44708,7 +44708,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:48:16",
     "end": "11:48:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -44738,7 +44738,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:49:54",
     "end": "11:50:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks+Paradise.mp3"
   },
   {
@@ -44748,7 +44748,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:50:10",
     "end": "11:50:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -44758,7 +44758,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:50:30",
     "end": "11:50:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -44768,7 +44768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:50:45",
     "end": "11:51:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -44778,7 +44778,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:51:05",
     "end": "11:51:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -44788,7 +44788,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:51:15",
     "end": "11:51:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellers.mp3"
   },
   {
@@ -44798,7 +44798,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:51:20",
     "end": "11:51:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -44808,7 +44808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:51:40",
     "end": "11:51:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy.mp3"
   },
   {
@@ -44818,7 +44818,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:51:50",
     "end": "11:52:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+Faurd+.mp3"
   },
   {
@@ -44828,7 +44828,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:20",
     "end": "11:52:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -44838,7 +44838,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:39",
     "end": "11:52:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -44848,7 +44848,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:46",
     "end": "11:52:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana+Eletrical+.mp3"
   },
   {
@@ -44858,7 +44858,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:50",
     "end": "11:52:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -44868,7 +44868,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "11:52:54",
     "end": "11:52:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -44938,7 +44938,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:00:32",
     "end": "12:00:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -44948,7 +44948,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:00:43",
     "end": "12:00:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hamsa+Electronics.mp3"
   },
   {
@@ -44958,7 +44958,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:00:55",
     "end": "12:00:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -44968,7 +44968,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:00:58",
     "end": "12:01:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -45018,7 +45018,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:10:27",
     "end": "12:10:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -45028,7 +45028,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:10:36",
     "end": "12:10:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -45038,7 +45038,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:10:46",
     "end": "12:10:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy.mp3"
   },
   {
@@ -45048,7 +45048,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:10:56",
     "end": "12:11:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -45058,7 +45058,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:11:06",
     "end": "12:11:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -45068,7 +45068,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:11:21",
     "end": "12:11:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Moon+Parivar.mp3"
   },
   {
@@ -45078,7 +45078,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:11:41",
     "end": "12:12:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -45088,7 +45088,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:12:26",
     "end": "12:12:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -45178,7 +45178,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:30:36",
     "end": "12:31:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+and+co,Televisions.mp3"
   },
   {
@@ -45188,7 +45188,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:31:06",
     "end": "12:31:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -45198,7 +45198,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:31:06",
     "end": "12:31:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -45208,7 +45208,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:31:36",
     "end": "12:31:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -45218,7 +45218,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:31:55",
     "end": "12:32:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -45228,7 +45228,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:32:11",
     "end": "12:32:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Trichy+Eye+Foundation.mp3"
   },
   {
@@ -45238,7 +45238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:32:26",
     "end": "12:32:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
@@ -45278,7 +45278,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:34:12",
     "end": "12:34:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -45308,7 +45308,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:39:04",
     "end": "12:39:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -45338,7 +45338,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:42:39",
     "end": "12:42:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -45378,7 +45378,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:48:26",
     "end": "12:49:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Tiruchi+Clothing+Summer+Collection.mp3"
   },
   {
@@ -45388,7 +45388,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:49:13",
     "end": "12:49:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Trichy+Eye+Foundation.mp3"
   },
   {
@@ -45408,7 +45408,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:50:39",
     "end": "12:50:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -45418,7 +45418,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:50:59",
     "end": "12:51:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy.mp3"
   },
   {
@@ -45438,7 +45438,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:51:49",
     "end": "12:51:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Tiruchi+ReadyMade+Collection.mp3"
   },
   {
@@ -45448,7 +45448,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:51:54",
     "end": "12:52:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -45458,7 +45458,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:52:09",
     "end": "12:52:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Trichy+Eye+Foundation.mp3"
   },
   {
@@ -45468,7 +45468,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:52:30",
     "end": "12:52:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -45478,7 +45478,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:52:35",
     "end": "12:52:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -45488,7 +45488,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:52:45",
     "end": "12:53:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hamsa+Electronics.mp3"
   },
   {
@@ -45498,7 +45498,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "12:53:01",
     "end": "12:53:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -45528,7 +45528,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:00:46",
     "end": "13:01:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -45538,7 +45538,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:01:02",
     "end": "13:01:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shakti+Masala.mp3"
   },
   {
@@ -45548,7 +45548,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:01:06",
     "end": "13:01:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -45558,7 +45558,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:01:13",
     "end": "13:01:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Salt.mp3"
   },
   {
@@ -45602,13 +45602,13 @@ export const epgData = [
     "audio": ""
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-48713977",
     "date": "2025-04-15",
     "start": "13:11:00",
     "end": "13:11:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -45618,7 +45618,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:11:02",
     "end": "13:11:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -45628,27 +45628,27 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:11:10",
     "end": "13:11:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAda+Silks.mp3"
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-EC26A713",
     "date": "2025-04-15",
     "start": "13:11:18",
     "end": "13:11:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-7B2F580C",
     "date": "2025-04-15",
     "start": "13:11:28",
     "end": "13:11:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -45658,7 +45658,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:11:34",
     "end": "13:11:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -45668,7 +45668,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:11:50",
     "end": "13:12:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Gopal.mp3"
   },
   {
@@ -45678,7 +45678,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:12:00",
     "end": "13:12:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -45688,7 +45688,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:12:20",
     "end": "13:12:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Showroom.mp3"
   },
   {
@@ -45698,7 +45698,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:12:40",
     "end": "13:12:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -45708,7 +45708,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:12:51",
     "end": "13:13:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -45718,7 +45718,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:13:11",
     "end": "13:11:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -45748,7 +45748,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:18:26",
     "end": "13:18:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -45778,7 +45778,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:20:00",
     "end": "13:20:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -45808,7 +45808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:24:23",
     "end": "13:24:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -45838,7 +45838,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:30:20",
     "end": "13:30:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -45848,7 +45848,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:30:30",
     "end": "13:30:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -45858,7 +45858,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:30:36",
     "end": "13:30:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -45868,7 +45868,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:30:49",
     "end": "13:30:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Medical+College+&+Art.mp3"
   },
   {
@@ -45878,7 +45878,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:30:55",
     "end": "13:31:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -45888,7 +45888,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:31:01",
     "end": "13:31:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -45908,7 +45908,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:32:00",
     "end": "13:32:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -45918,7 +45918,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:32:10",
     "end": "13:32:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -45928,7 +45928,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:32:30",
     "end": "13:32:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -45938,7 +45938,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:32:50",
     "end": "13:32:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellers.mp3"
   },
   {
@@ -45948,7 +45948,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:32:56",
     "end": "13:33:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -45958,7 +45958,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:33:10",
     "end": "13:33:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maaligai.mp3"
   },
   {
@@ -45968,7 +45968,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:33:30",
     "end": "13:33:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -45978,7 +45978,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:33:46",
     "end": "13:34:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Moon+Parivar.mp3"
   },
   {
@@ -45998,7 +45998,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:36:02",
     "end": "13:36:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -46028,7 +46028,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:40:20",
     "end": "13:40:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAda+Silks.mp3"
   },
   {
@@ -46058,7 +46058,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:45:03",
     "end": "13:45:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAda+Silks.mp3"
   },
   {
@@ -46088,7 +46088,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:50:22",
     "end": "13:50:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAda+Silks.mp3"
   },
   {
@@ -46098,7 +46098,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:50:33",
     "end": "13:50:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -46108,7 +46108,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:50:48",
     "end": "13:50:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy.mp3"
   },
   {
@@ -46118,7 +46118,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:50:58",
     "end": "13:51:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Tiruchi+Clothing+Summer+Collection.mp3"
   },
   {
@@ -46128,7 +46128,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:51:18",
     "end": "13:52:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pm+Internship.mp3"
   },
   {
@@ -46138,7 +46138,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:52:03",
     "end": "13:52:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellers.mp3"
   },
   {
@@ -46148,7 +46148,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:52:08",
     "end": "13:52:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -46158,7 +46158,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:52:28",
     "end": "13:52:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -46168,7 +46168,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:52:33",
     "end": "13:52:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -46178,7 +46178,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:52:49",
     "end": "13:52:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shakti+Masala.mp3"
   },
   {
@@ -46188,7 +46188,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "13:52:58",
     "end": "13:53:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Salt.mp3"
   },
   {
@@ -46238,7 +46238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:00:43",
     "end": "14:01:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -46248,7 +46248,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:01:06",
     "end": "14:01:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -46258,7 +46258,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:01:10",
     "end": "14:01:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -46302,13 +46302,13 @@ export const epgData = [
     "audio": ""
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-5430A622",
     "date": "2025-04-15",
     "start": "14:10:50",
     "end": "14:10:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -46318,7 +46318,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:10:52",
     "end": "14:11:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -46328,7 +46328,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:11:00",
     "end": "14:11:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -46338,7 +46338,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:11:05",
     "end": "14:11:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -46348,7 +46348,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:11:25",
     "end": "14:11:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -46358,7 +46358,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:11:35",
     "end": "14:11:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -46368,7 +46368,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:11:50",
     "end": "14:12:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -46378,7 +46378,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:12:00",
     "end": "14:12:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -46388,7 +46388,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:12:15",
     "end": "14:12:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarada+Silks.mp3"
   },
   {
@@ -46438,7 +46438,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:19:12",
     "end": "14:19:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -46468,7 +46468,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:24:06",
     "end": "14:24:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -46498,7 +46498,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:30:23",
     "end": "14:30:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -46508,7 +46508,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:30:45",
     "end": "14:30:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy,Solar.mp3"
   },
   {
@@ -46518,7 +46518,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:30:55",
     "end": "14:31:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -46528,7 +46528,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:31:11",
     "end": "14:31:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellers.mp3"
   },
   {
@@ -46558,7 +46558,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:33:09",
     "end": "14:33:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAda+Silks.mp3"
   },
   {
@@ -46588,7 +46588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:37:55",
     "end": "14:38:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAda+Silks.mp3"
   },
   {
@@ -46618,7 +46618,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:43:26",
     "end": "14:43:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAda+Silks.mp3"
   },
   {
@@ -46648,7 +46648,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:49:30",
     "end": "14:49:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -46658,7 +46658,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:49:46",
     "end": "14:49:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -46668,7 +46668,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:49:53",
     "end": "14:49:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -46678,7 +46678,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:49:59",
     "end": "14:50:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage+.mp3"
   },
   {
@@ -46688,7 +46688,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:50:05",
     "end": "14:50:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -46698,7 +46698,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:50:13",
     "end": "14:50:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -46718,7 +46718,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:51:00",
     "end": "14:51:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+and+co,Televisions.mp3"
   },
   {
@@ -46728,7 +46728,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:51:20",
     "end": "14:51:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAda+Silks.mp3"
   },
   {
@@ -46738,17 +46738,17 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:51:30",
     "end": "14:51:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-4CFE7684",
     "date": "2025-04-15",
     "start": "14:51:50",
     "end": "14:52:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -46758,7 +46758,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:52:00",
     "end": "14:52:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy,Solar.mp3"
   },
   {
@@ -46768,7 +46768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:52:10",
     "end": "14:52:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -46778,7 +46778,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:52:30",
     "end": "14:52:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -46788,7 +46788,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:52:51",
     "end": "14:52:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -46798,7 +46798,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:52:59",
     "end": "14:53:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -46808,7 +46808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:11",
     "end": "14:53:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -46818,7 +46818,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:23",
     "end": "14:53:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SarAda+Silks.mp3"
   },
   {
@@ -46828,7 +46828,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "14:53:28",
     "end": "14:55:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -46868,7 +46868,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:00:47",
     "end": "15:00:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -46878,7 +46878,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:00:56",
     "end": "15:01:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -46888,7 +46888,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:01:10",
     "end": "15:01:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -46942,13 +46942,13 @@ export const epgData = [
     "audio": ""
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-98BAD472",
     "date": "2025-04-15",
     "start": "15:10:41",
     "end": "15:10:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -46958,7 +46958,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:10:44",
     "end": "15:10:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -46968,7 +46968,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:10:48",
     "end": "15:11:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -46978,7 +46978,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:11:00",
     "end": "15:11:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -46988,7 +46988,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:11:16",
     "end": "15:11:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -46998,7 +46998,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:11:31",
     "end": "15:12:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Internship.mp3"
   },
   {
@@ -47008,7 +47008,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:12:16",
     "end": "15:12:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -47018,7 +47018,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:12:21",
     "end": "15:12:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -47028,7 +47028,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:12:41",
     "end": "15:12:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Tahila+jwellers+.mp3"
   },
   {
@@ -47068,7 +47068,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:19:32",
     "end": "15:19:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -47098,7 +47098,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:24:24",
     "end": "15:24:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -47138,7 +47138,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:29:56",
     "end": "15:30:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -47148,7 +47148,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:30:03",
     "end": "15:30:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -47158,7 +47158,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:30:10",
     "end": "15:30:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -47168,7 +47168,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:30:17",
     "end": "15:30:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anuj+Tiles.mp3"
   },
   {
@@ -47178,7 +47178,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:30:22",
     "end": "15:30:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage.mp3"
   },
   {
@@ -47188,7 +47188,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:30:27",
     "end": "15:30:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -47198,7 +47198,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:30:35",
     "end": "15:30:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -47218,7 +47218,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:32:00",
     "end": "15:32:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -47228,7 +47228,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:32:12",
     "end": "15:32:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -47238,7 +47238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:32:33",
     "end": "15:32:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vandi+Mandi+Used+Car+.mp3"
   },
   {
@@ -47248,7 +47248,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:32:42",
     "end": "15:32:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Trichy+Eye+Foundation.mp3"
   },
   {
@@ -47258,7 +47258,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:32:57",
     "end": "15:33:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -47268,7 +47268,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:33:12",
     "end": "15:33:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Apollo.mp3"
   },
   {
@@ -47278,7 +47278,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:33:33",
     "end": "15:33:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellers.mp3"
   },
   {
@@ -47298,7 +47298,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:34:55",
     "end": "15:35:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -47328,7 +47328,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:39:32",
     "end": "15:39:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -47358,7 +47358,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:43:50",
     "end": "15:43:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -47398,7 +47398,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:50:20",
     "end": "15:50:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -47408,7 +47408,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:50:30",
     "end": "15:50:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy.mp3"
   },
   {
@@ -47418,7 +47418,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:50:40",
     "end": "15:50:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
@@ -47428,7 +47428,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:50:51",
     "end": "15:51:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks.mp3"
   },
   {
@@ -47438,7 +47438,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:51:01",
     "end": "15:51:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -47448,7 +47448,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:51:10",
     "end": "15:51:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -47458,7 +47458,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:51:16",
     "end": "15:51:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -47468,7 +47468,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:51:36",
     "end": "15:51:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -47478,7 +47478,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:51:56",
     "end": "15:52:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -47488,7 +47488,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:52:09",
     "end": "15:52:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -47498,7 +47498,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:52:14",
     "end": "15:52:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Salt.mp3"
   },
   {
@@ -47508,7 +47508,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "15:52:19",
     "end": "15:52:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarada+Silks.mp3"
   },
   {
@@ -47568,7 +47568,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:00:45",
     "end": "16:00:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -47578,7 +47578,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:00:56",
     "end": "16:00:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -47588,7 +47588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:00:58",
     "end": "16:01:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shakati+masala.mp3"
   },
   {
@@ -47598,7 +47598,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:01:03",
     "end": "16:01:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maligai.mp3"
   },
   {
@@ -47608,7 +47608,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:01:12",
     "end": "16:01:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -47658,7 +47658,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:09:25",
     "end": "16:09:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -47668,7 +47668,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:09:27",
     "end": "16:09:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -47678,7 +47678,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:09:33",
     "end": "16:09:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -47688,7 +47688,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:09:39",
     "end": "16:09:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -47698,7 +47698,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:10:14",
     "end": "16:10:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellers.mp3"
   },
   {
@@ -47708,7 +47708,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:10:19",
     "end": "16:10:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy.mp3"
   },
   {
@@ -47718,7 +47718,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:10:29",
     "end": "16:10:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Akshay+Tritiya.mp3"
   },
   {
@@ -47728,7 +47728,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:10:49",
     "end": "16:10:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -47738,7 +47738,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:10:59",
     "end": "16:11:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -47748,7 +47748,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:11:20",
     "end": "16:11:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -47758,7 +47758,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:11:40",
     "end": "16:11:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -47768,7 +47768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:11:50",
     "end": "16:12:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -47818,7 +47818,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:17:53",
     "end": "16:17:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -47848,7 +47848,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:21:52",
     "end": "16:21:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ashwin+Shop+.mp3"
   },
   {
@@ -47888,7 +47888,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:26:42",
     "end": "16:26:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -47898,7 +47898,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:26:49",
     "end": "16:26:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -47908,7 +47908,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:26:54",
     "end": "16:27:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -47918,7 +47918,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:27:01",
     "end": "16:27:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aruchi+Tiles+(1).mp3"
   },
   {
@@ -47928,7 +47928,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:27:08",
     "end": "16:27:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage.mp3"
   },
   {
@@ -47938,7 +47938,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:27:13",
     "end": "16:27:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -47948,7 +47948,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:27:19",
     "end": "16:27:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -47968,7 +47968,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:28:44",
     "end": "16:28:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -47978,7 +47978,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:28:54",
     "end": "16:29:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Streamer.mp3"
   },
   {
@@ -47988,7 +47988,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:29:14",
     "end": "16:29:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maligai.mp3"
   },
   {
@@ -47998,7 +47998,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:29:34",
     "end": "16:29:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -48008,7 +48008,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:29:54",
     "end": "16:29:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anant+Jewellers.mp3"
   },
   {
@@ -48018,7 +48018,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:29:59",
     "end": "16:30:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -48028,7 +48028,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:30:14",
     "end": "16:30:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Trichy+Eye+Foundation.mp3"
   },
   {
@@ -48038,7 +48038,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:30:29",
     "end": "16:30:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
@@ -48048,7 +48048,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:30:39",
     "end": "16:30:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Akshay+Tritiya.mp3"
   },
   {
@@ -48058,7 +48058,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:30:59",
     "end": "16:31:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Cine+cafe.mp3"
   },
   {
@@ -48078,7 +48078,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:32:14",
     "end": "16:32:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -48108,7 +48108,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:37:07",
     "end": "16:37:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -48138,7 +48138,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:42:34",
     "end": "16:42:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -48178,7 +48178,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:47:20",
     "end": "16:47:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowdambika+World+School.mp3"
   },
   {
@@ -48188,17 +48188,17 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:47:44",
     "end": "16:47:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kasata+Ice-Cream.mp3"
   },
   {
-    "program": "Ad",
+    "program": "advertisement",
     "channel": "Suryan FM",
     "id": "ITEM-B9832CE6",
     "date": "2025-04-15",
     "start": "16:47:51",
     "end": "16:47:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -48208,7 +48208,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:47:56",
     "end": "16:48:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ticket,Travel.Mp3"
   },
   {
@@ -48218,7 +48218,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:48:04",
     "end": "16:48:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Biryani,Food.mp3"
   },
   {
@@ -48228,7 +48228,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:48:09",
     "end": "16:48:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -48238,7 +48238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:48:29",
     "end": "16:48:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -48248,7 +48248,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:48:41",
     "end": "16:49:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -48258,7 +48258,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:49:00",
     "end": "16:49:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy.mp3"
   },
   {
@@ -48268,7 +48268,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:49:11",
     "end": "16:49:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pm+Internship.mp3"
   },
   {
@@ -48278,7 +48278,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:49:55",
     "end": "16:50:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks+Paradise.mp3"
   },
   {
@@ -48288,7 +48288,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:50:10",
     "end": "16:50:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana+Eletrical+.mp3"
   },
   {
@@ -48298,7 +48298,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:50:26",
     "end": "16:50:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -48308,7 +48308,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:50:41",
     "end": "16:50:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -48318,7 +48318,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:50:46",
     "end": "16:51:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -48328,7 +48328,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:51:05",
     "end": "16:51:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Cine+cafe.mp3"
   },
   {
@@ -48338,7 +48338,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:51:09",
     "end": "16:51:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -48348,7 +48348,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:51:16",
     "end": "16:51:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -48358,7 +48358,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:51:20",
     "end": "16:51:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shakti+Masala.mp3"
   },
   {
@@ -48368,7 +48368,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:51:32",
     "end": "16:51:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -48378,7 +48378,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "16:51:38",
     "end": "16:52:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -48428,7 +48428,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:00:43",
     "end": "17:01:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -48438,7 +48438,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:01:05",
     "end": "17:01:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+and+co,Televisions.mp3"
   },
   {
@@ -48448,7 +48448,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:01:09",
     "end": "17:01:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -48518,7 +48518,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:09:30",
     "end": "17:09:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -48528,7 +48528,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:09:35",
     "end": "17:09:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -48538,7 +48538,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:09:45",
     "end": "17:10:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -48548,7 +48548,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:10:06",
     "end": "17:10:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -48558,7 +48558,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:10:16",
     "end": "17:10:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -48568,7 +48568,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:10:32",
     "end": "17:10:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -48578,7 +48578,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:10:42",
     "end": "17:10:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
@@ -48588,7 +48588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:10:52",
     "end": "17:11:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -48598,7 +48598,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:11:03",
     "end": "17:11:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy,Solar.mp3"
   },
   {
@@ -48608,7 +48608,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:11:11",
     "end": "17:11:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -48618,7 +48618,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:11:17",
     "end": "17:11:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -48628,7 +48628,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:11:27",
     "end": "17:11:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy,Solar.mp3"
   },
   {
@@ -48638,7 +48638,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:11:48",
     "end": "17:12:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -48648,7 +48648,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:12:02",
     "end": "17:12:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -48658,7 +48658,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:12:23",
     "end": "17:12:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -48728,7 +48728,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:28:31",
     "end": "17:29:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -48748,7 +48748,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:29:28",
     "end": "17:29:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Surya+Fm.mp3"
   },
   {
@@ -48758,7 +48758,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:29:31",
     "end": "17:29:37",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -48768,7 +48768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:29:37",
     "end": "17:29:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -48778,7 +48778,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:29:43",
     "end": "17:29:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -48788,7 +48788,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:29:49",
     "end": "17:29:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Aruchi+Tiles.mp3"
   },
   {
@@ -48798,7 +48798,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:29:55",
     "end": "17:30:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage+.mp3"
   },
   {
@@ -48808,7 +48808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:30:03",
     "end": "17:30:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -48818,7 +48818,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:30:10",
     "end": "17:31:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -48838,7 +48838,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:21:22",
     "end": "17:31:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -48848,7 +48848,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:31:31",
     "end": "17:31:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -48858,7 +48858,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:31:52",
     "end": "17:32:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -48868,7 +48868,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:32:12",
     "end": "17:32:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -48878,7 +48878,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:32:26",
     "end": "17:32:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Trichy+Eye+Foundation.mp3"
   },
   {
@@ -48888,7 +48888,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:32:46",
     "end": "17:33:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Akshay+Tritiya.mp3"
   },
   {
@@ -48898,7 +48898,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:33:02",
     "end": "17:33:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -48908,7 +48908,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:33:23",
     "end": "17:33:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -48998,7 +48998,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:49:44",
     "end": "17:49:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -49008,7 +49008,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:49:55",
     "end": "17:50:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -49018,7 +49018,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:50:14",
     "end": "17:50:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/EngAda+EngAda.mp3"
   },
   {
@@ -49028,7 +49028,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:50:30",
     "end": "17:50:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -49038,7 +49038,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:50:50",
     "end": "17:51:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -49048,7 +49048,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:51:05",
     "end": "17:51:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -49058,7 +49058,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:51:15",
     "end": "17:51:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Raise+Solar+Energy,Solar.mp3"
   },
   {
@@ -49068,7 +49068,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:51:22",
     "end": "17:51:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -49088,7 +49088,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:51:44",
     "end": "17:51:56",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -49098,7 +49098,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:51:56",
     "end": "17:52:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+and+co,Televisions.mp3"
   },
   {
@@ -49108,7 +49108,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:52:01",
     "end": "17:52:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -49118,7 +49118,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "17:52:07",
     "end": "17:52:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -49188,7 +49188,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:00:44",
     "end": "18:00:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -49198,7 +49198,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:00:53",
     "end": "18:00:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana+Electricals.mp3"
   },
   {
@@ -49208,7 +49208,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:00:57",
     "end": "18:01:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Appala.mp3"
   },
   {
@@ -49218,7 +49218,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:01:00",
     "end": "18:01:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -49228,7 +49228,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:01:03",
     "end": "18:01:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -49238,7 +49238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:01:06",
     "end": "18:05:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Whistle+Podu.mp3"
   },
   {
@@ -49278,7 +49278,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:11:39",
     "end": "18:11:48",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -49288,7 +49288,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:11:48",
     "end": "18:11:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -49298,7 +49298,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:11:59",
     "end": "18:12:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -49308,7 +49308,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:12:19",
     "end": "18:12:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cements+.mp3"
   },
   {
@@ -49318,7 +49318,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:12:28",
     "end": "18:12:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+.mp3"
   },
   {
@@ -49328,7 +49328,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:12:58",
     "end": "18:13:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -49338,7 +49338,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:13:19",
     "end": "18:13:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -49348,7 +49348,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:13:34",
     "end": "18:13:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -49358,7 +49358,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:13:49",
     "end": "18:13:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -49368,7 +49368,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:13:59",
     "end": "18:14:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -49378,7 +49378,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:14:41",
     "end": "18:14:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -49388,7 +49388,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:14:34",
     "end": "18:14:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+AC.mp3"
   },
   {
@@ -49398,7 +49398,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:14:54",
     "end": "18:15:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -49408,7 +49408,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:15:15",
     "end": "18:15:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -49418,7 +49418,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:15:30",
     "end": "18:15:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -49448,7 +49448,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:18:21",
     "end": "18:18:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -49458,7 +49458,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:18:26",
     "end": "18:18:33",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -49468,7 +49468,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:18:33",
     "end": "18:18:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anuj+Tiles.mp3"
   },
   {
@@ -49478,7 +49478,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:18:40",
     "end": "18:18:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage+.mp3"
   },
   {
@@ -49488,7 +49488,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:18:45",
     "end": "18:18:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -49498,7 +49498,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:18:52",
     "end": "18:19:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -49568,7 +49568,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:29:55",
     "end": "18:30:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -49578,7 +49578,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:30:07",
     "end": "18:30:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -49588,7 +49588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:30:27",
     "end": "18:30:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -49598,7 +49598,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:30:42",
     "end": "18:31:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -49608,7 +49608,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:31:02",
     "end": "18:31:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
@@ -49618,7 +49618,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:31:12",
     "end": "18:31:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anitha+Jewellers.mp3"
   },
   {
@@ -49628,7 +49628,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:31:18",
     "end": "18:31:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -49638,7 +49638,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:31:42",
     "end": "18:32:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -49648,7 +49648,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:32:02",
     "end": "18:32:43",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+.mp3"
   },
   {
@@ -49658,7 +49658,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:32:43",
     "end": "18:32:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -49668,7 +49668,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:32:57",
     "end": "18:33:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -49708,7 +49708,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:35:09",
     "end": "18:35:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -49738,7 +49738,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:40:06",
     "end": "18:40:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -49768,7 +49768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:44:55",
     "end": "18:45:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -49798,7 +49798,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:49:02",
     "end": "18:49:52",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Cricket+Kud+Kud+Prakre.mp3"
   },
   {
@@ -49808,7 +49808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:49:52",
     "end": "18:49:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -49818,7 +49818,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:49:58",
     "end": "18:50:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -49828,7 +49828,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:50:03",
     "end": "18:50:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -49838,7 +49838,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:50:01",
     "end": "18:50:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anuj+Tiles.mp3"
   },
   {
@@ -49848,7 +49848,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:50:17",
     "end": "18:50:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage+.mp3"
   },
   {
@@ -49858,7 +49858,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:50:23",
     "end": "18:50:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -49868,7 +49868,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:50:30",
     "end": "18:50:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -49878,7 +49878,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:50:38",
     "end": "18:51:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -49888,7 +49888,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:51:05",
     "end": "18:51:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -49898,7 +49898,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:51:19",
     "end": "18:51:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -49908,7 +49908,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:51:27",
     "end": "18:51:38",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hamsa+Electronics.mp3"
   },
   {
@@ -49918,7 +49918,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:51:38",
     "end": "18:52:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+.mp3"
   },
   {
@@ -49928,7 +49928,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:52:07",
     "end": "18:52:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -49938,7 +49938,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:52:18",
     "end": "18:52:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+.mp3"
   },
   {
@@ -49948,7 +49948,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:52:53",
     "end": "18:53:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -49958,7 +49958,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:53:14",
     "end": "18:53:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -49968,7 +49968,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:53:28",
     "end": "18:54:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Priyam+Internship.mp3"
   },
   {
@@ -49978,7 +49978,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:54:13",
     "end": "18:54:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -49988,7 +49988,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:54:39",
     "end": "18:54:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -49998,7 +49998,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:54:59",
     "end": "18:55:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -50008,7 +50008,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:55:07",
     "end": "18:55:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Saravana+Electricals.mp3"
   },
   {
@@ -50018,7 +50018,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:55:11",
     "end": "18:55:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Apollo.mp3"
   },
   {
@@ -50028,7 +50028,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:55:14",
     "end": "18:55:18",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -50038,7 +50038,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:55:18",
     "end": "18:55:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hyundai+I+20.mp3"
   },
   {
@@ -50068,7 +50068,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "18:57:19",
     "end": "18:57:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -50108,7 +50108,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:00:52",
     "end": "19:01:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -50118,7 +50118,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:01:02",
     "end": "19:01:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/ChettinAd+Cements+.mp3"
   },
   {
@@ -50128,7 +50128,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:01:08",
     "end": "19:01:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -50138,7 +50138,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:01:12",
     "end": "19:01:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -50148,7 +50148,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:01:15",
     "end": "19:01:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -50238,7 +50238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:07:48",
     "end": "19:07:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -50258,7 +50258,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:08:01",
     "end": "18:08:08",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage+.mp3"
   },
   {
@@ -50268,7 +50268,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:08:08",
     "end": "19:08:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -50278,7 +50278,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:08:16",
     "end": "19:08:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -50298,7 +50298,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:11:41",
     "end": "19:11:49",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -50308,7 +50308,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:11:49",
     "end": "19:12:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -50318,7 +50318,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:12:01",
     "end": "19:12:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/KAG+Tiles.mp3"
   },
   {
@@ -50328,7 +50328,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:12:21",
     "end": "19:12:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -50338,7 +50338,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:12:42",
     "end": "19:12:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -50348,7 +50348,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:12:51",
     "end": "19:13:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kongu+Thanga+Maligai.mp3"
   },
   {
@@ -50358,7 +50358,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:13:12",
     "end": "19:13:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Chettinad+Cement.mp3"
   },
   {
@@ -50368,7 +50368,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:13:22",
     "end": "19:13:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Hamsa+Electronics.mp3"
   },
   {
@@ -50378,7 +50378,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:13:32",
     "end": "19:13:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -50388,7 +50388,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:13:42",
     "end": "19:13:57",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -50398,7 +50398,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:13:57",
     "end": "19:14:07",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -50408,7 +50408,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:14:07",
     "end": "19:14:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -50418,7 +50418,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:14:27",
     "end": "19:14:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -50428,7 +50428,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:14:41",
     "end": "19:15:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Air+Asia,+Airline+(1).mp3"
   },
   {
@@ -50528,7 +50528,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:29:52",
     "end": "19:30:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -50538,7 +50538,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:30:13",
     "end": "19:30:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -50548,7 +50548,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:30:24",
     "end": "19:30:44",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -50558,7 +50558,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:30:44",
     "end": "19:31:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Silver+line+Hospital.mp3"
   },
   {
@@ -50568,7 +50568,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:31:04",
     "end": "19:31:14",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator,Digital+al.mp3"
   },
   {
@@ -50578,7 +50578,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:31:14",
     "end": "19:31:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Chettinad+Cement.mp3"
   },
   {
@@ -50588,7 +50588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:31:24",
     "end": "19:31:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+Faurd+.mp3"
   },
   {
@@ -50598,7 +50598,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:31:53",
     "end": "19:32:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -50608,7 +50608,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:32:09",
     "end": "19:32:24",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -50618,7 +50618,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:32:24",
     "end": "19:32:39",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -50658,7 +50658,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:34:59",
     "end": "19:35:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -50718,7 +50718,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:42:26",
     "end": "19:42:32",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -50758,7 +50758,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:48:47",
     "end": "19:48:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal+Jewellery.mp3"
   },
   {
@@ -50768,7 +50768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:48:53",
     "end": "19:49:00",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -50778,7 +50778,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:49:00",
     "end": "19:46:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -50788,7 +50788,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:46:06",
     "end": "19:49:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anuj+Tiles.mp3"
   },
   {
@@ -50798,7 +50798,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:49:13",
     "end": "19:49:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage.mp3"
   },
   {
@@ -50808,7 +50808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:49:20",
     "end": "19:49:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -50818,7 +50818,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:49:25",
     "end": "19:49:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -50828,7 +50828,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:49:34",
     "end": "19:50:12",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Surya+Fm.mp3"
   },
   {
@@ -50838,7 +50838,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:50:12",
     "end": "19:50:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -50848,7 +50848,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:50:25",
     "end": "19:51:23",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shree+Nidhi+Promoters.mp3"
   },
   {
@@ -50858,7 +50858,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:51:23",
     "end": "19:51:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator,Digital+al.mp3"
   },
   {
@@ -50868,7 +50868,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:51:35",
     "end": "19:51:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sodhi+Primium+Hall.mp3"
   },
   {
@@ -50878,7 +50878,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:51:40",
     "end": "19:51:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -50888,7 +50888,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:51:55",
     "end": "19:52:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Social+Awareness+.mp3"
   },
   {
@@ -50898,7 +50898,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:52:30",
     "end": "19:52:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -50908,7 +50908,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:52:45",
     "end": "19:53:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Moon+Parivar.mp3"
   },
   {
@@ -50918,7 +50918,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:53:05",
     "end": "19:53:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -50928,7 +50928,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:53:10",
     "end": "19:53:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -50948,7 +50948,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:53:34",
     "end": "19:53:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -50958,7 +50958,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:53:40",
     "end": "19:53:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Chettinad+Cement.mp3"
   },
   {
@@ -50968,7 +50968,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:53:46",
     "end": "19:53:50",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/K+Ramakrishnan+Collage.mp3"
   },
   {
@@ -50978,7 +50978,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:53:50",
     "end": "19:53:53",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/GT+Hyundai.mp3"
   },
   {
@@ -50988,7 +50988,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "19:53:53",
     "end": "19:53:58",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -51038,7 +51038,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:00:48",
     "end": "20:00:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -51048,7 +51048,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:00:59",
     "end": "20:01:03",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shakti+Masala.mp3"
   },
   {
@@ -51058,7 +51058,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:01:03",
     "end": "20:01:09",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+and+co,Televisions.mp3"
   },
   {
@@ -51068,7 +51068,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:01:09",
     "end": "20:01:13",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -51078,7 +51078,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:01:13",
     "end": "20:01:19",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -51108,7 +51108,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:06:11",
     "end": "20:06:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Harini+Jewellers.mp3"
   },
   {
@@ -51128,7 +51128,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:10:42",
     "end": "20:10:51",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -51138,7 +51138,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:10:51",
     "end": "20:11:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -51148,7 +51148,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:11:11",
     "end": "20:11:21",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -51158,7 +51158,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:11:21",
     "end": "20:11:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Poorvika+Mobiles.mp3"
   },
   {
@@ -51168,7 +51168,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:11:36",
     "end": "20:11:46",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Chettinad+Cement.mp3"
   },
   {
@@ -51178,7 +51178,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:11:46",
     "end": "20:12:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -51188,7 +51188,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:12:17",
     "end": "20:12:31",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BPL+Ac.mp3"
   },
   {
@@ -51198,7 +51198,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:12:31",
     "end": "20:12:42",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Cotton+Collection.mp3"
   },
   {
@@ -51208,7 +51208,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:12:42",
     "end": "20:13:02",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Devadarshan+Dhoop.mp3"
   },
   {
@@ -51218,7 +51218,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:13:02",
     "end": "20:13:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sri+Thaila+Jewellares.mp3"
   },
   {
@@ -51228,7 +51228,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:13:17",
     "end": "20:13:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator,Digital+al.mp3"
   },
   {
@@ -51238,7 +51238,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:13:26",
     "end": "20:13:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kota+Kinabalu+International+Airport.mp3"
   },
   {
@@ -51268,7 +51268,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:16:13",
     "end": "20:16:22",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Cotton+Collection.mp3"
   },
   {
@@ -51278,7 +51278,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:16:22",
     "end": "20:16:28",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -51288,7 +51288,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:16:28",
     "end": "20:16:34",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -51298,7 +51298,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:16:34",
     "end": "20:16:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Arun+Tiles.mp3"
   },
   {
@@ -51308,7 +51308,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:16:40",
     "end": "20:16:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Ganesan+Collage.mp3"
   },
   {
@@ -51318,7 +51318,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:16:45",
     "end": "20:16:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -51328,7 +51328,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:16:55",
     "end": "20:17:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -51338,7 +51338,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:17:01",
     "end": "20:17:16",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -51408,7 +51408,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:30:51",
     "end": "20:31:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+and+co,Televisions.mp3"
   },
   {
@@ -51418,7 +51418,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:31:20",
     "end": "20:31:30",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas,Sarees.mp3"
   },
   {
@@ -51428,7 +51428,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:31:30",
     "end": "20:31:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -51438,7 +51438,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:31:41",
     "end": "20:32:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kota+Kinabalu+International+Airport.mp3"
   },
   {
@@ -51448,7 +51448,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:32:06",
     "end": "20:32:11",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/BEA,+Electronics.mp3"
   },
   {
@@ -51468,7 +51468,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:33:26",
     "end": "20:33:41",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Darling+Ac.mp3"
   },
   {
@@ -51478,7 +51478,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:33:41",
     "end": "20:34:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Bhim+Upi.mp3"
   },
   {
@@ -51488,7 +51488,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:34:01",
     "end": "20:34:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Eye+Foundation+.mp3"
   },
   {
@@ -51518,7 +51518,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:25",
     "end": "20:36:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -51528,7 +51528,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:35",
     "end": "20:36:40",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -51538,7 +51538,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:40",
     "end": "20:36:47",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -51548,7 +51548,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:47",
     "end": "20:36:54",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anuj+Tiles.mp3"
   },
   {
@@ -51558,7 +51558,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:54",
     "end": "20:36:59",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Medical+College+&+Art.mp3"
   },
   {
@@ -51568,7 +51568,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:36:59",
     "end": "20:37:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -51578,7 +51578,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:37:06",
     "end": "20:37:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -51588,7 +51588,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:37:15",
     "end": "20:37:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -51608,7 +51608,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:42:16",
     "end": "20:42:27",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -51638,7 +51638,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:46:00",
     "end": "20:46:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -51658,7 +51658,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:50:06",
     "end": "20:50:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sowdambika+World+School.mp3"
   },
   {
@@ -51668,7 +51668,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:50:36",
     "end": "20:50:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -51678,7 +51678,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:50:45",
     "end": "20:51:04",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+and+co,Televisions.mp3"
   },
   {
@@ -51688,7 +51688,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:51:04",
     "end": "20:51:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Skoda+Kylaq.mp3"
   },
   {
@@ -51698,7 +51698,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:51:25",
     "end": "20:51:35",
-    "type": "ad",
+    "type": "advertisement",
     "audio": ""
   },
   {
@@ -51708,7 +51708,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:51:35",
     "end": "20:51:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/LG+Refrigerator.mp3"
   },
   {
@@ -51718,7 +51718,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:51:55",
     "end": "20:52:25",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/SBI+Faurd+.mp3"
   },
   {
@@ -51728,7 +51728,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:52:25",
     "end": "20:53:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pm+Internship.mp3"
   },
   {
@@ -51738,7 +51738,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:53:10",
     "end": "20:53:20",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Kelvinator+Ac.mp3"
   },
   {
@@ -51748,7 +51748,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:53:20",
     "end": "20:53:26",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Anantha+Silks+Paradise.mp3"
   },
   {
@@ -51768,7 +51768,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:53:45",
     "end": "20:53:55",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Mangal+and+Mangal+Thanga+Maligai.mp3"
   },
   {
@@ -51778,7 +51778,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:53:55",
     "end": "20:54:01",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Shakti+Masala.mp3"
   },
   {
@@ -51788,7 +51788,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:54:01",
     "end": "20:54:06",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Vasanth+and+co,Televisions.mp3"
   },
   {
@@ -51798,7 +51798,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:54:06",
     "end": "20:54:15",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Sarathas+Clothing.mp3"
   },
   {
@@ -51808,7 +51808,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:55:55",
     "end": "20:56:05",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Pothys+Swarna+Mahal.mp3"
   },
   {
@@ -51818,7 +51818,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:56:05",
     "end": "20:56:10",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/VijayaLaxmi+Eye+Hospital.mp3"
   },
   {
@@ -51828,7 +51828,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:56:10",
     "end": "20:56:17",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Dhanlakshmi+Srinivasan+University.mp3"
   },
   {
@@ -51838,7 +51838,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:56:23",
     "end": "20:56:29",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Indra+Medical+College+&+Art.mp3"
   },
   {
@@ -51848,7 +51848,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:56:29",
     "end": "20:56:36",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Ramani+Kia+.mp3"
   },
   {
@@ -51858,7 +51858,7 @@ export const epgData = [
     "date": "2025-04-15",
     "start": "20:56:36",
     "end": "20:56:45",
-    "type": "ad",
+    "type": "advertisement",
     "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Ads/Viking.mp3"
   },
   {
@@ -51965,7 +51965,7 @@ export const mergeAdjacentPrograms = (data) => {
     }
     
     // Handle long ads
-    if (nextProgram.type === "ad") {
+    if (nextProgram.type === "advertisement") {
       const adStartTime = timeToSeconds(nextProgram.start);
       const adEndTime = timeToSeconds(nextProgram.end);
       
@@ -51981,7 +51981,7 @@ export const mergeAdjacentPrograms = (data) => {
     // Song-Ad-Song merging
     if (
       merged[i].type === "song" &&
-      merged[i + 1]?.type === "ad" &&
+      merged[i + 1]?.type === "advertisement" &&
       merged[i + 2]?.type === "song" &&
       merged[i].program === merged[i + 2].program
     ) {
