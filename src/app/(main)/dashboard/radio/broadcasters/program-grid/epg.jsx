@@ -107,7 +107,7 @@ const EPG = () => {
   const [selectedBrand, setSelectedBrand] = useState("all");
   const [selectedContentType, setSelectedContentType] = useState("all");
   const [selectedRadioStation, setSelectedRadioStation] = useState("all");
-  const [selectedCity, setSelectedCity] = useState("Trichy");
+  const [selectedCity, setSelectedCity] = useState("all");
   const [isDatePickerOpen, setIsDatePickerOpen] = useState(false);
 
   const channels = getUniqueChannels(epgData, selectedDate);
@@ -334,12 +334,12 @@ const EPG = () => {
               </DropdownMenuItem>
               <DropdownMenuItem className="flex flex-col items-start p-2">
                 <label className="text-sm font-medium text-zinc-800 dark:text-zinc-200 mb-1">City</label>
-                <Select value={selectedCity} >
+                <Select value={selectedCity} onValueChange={setSelectedCity}>
                   <SelectTrigger className="w-full bg-white dark:bg-zinc-800 border-zinc-200 dark:border-zinc-700">
                     <SelectValue placeholder="Filter by City" />
                   </SelectTrigger>
                   <SelectContent>
-                    <SelectItem value="all">Trichy</SelectItem>
+                    <SelectItem value="all">All Cities</SelectItem>
                     {cities.map((city) => (
                       <SelectItem key={city} value={city}>{city}</SelectItem>
                     ))}
