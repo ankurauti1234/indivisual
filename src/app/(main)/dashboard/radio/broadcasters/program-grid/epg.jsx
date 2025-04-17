@@ -13,7 +13,11 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 const MINUTES_IN_DAY = 24 * 60;
 const FIXED_WIDTH = 9600;
 
-const getUniqueChannels = (data) => [...new Set(data.map((item) => item.channel))];
+const getUniqueChannels = (data, selectedDate) => {
+  // Filter programs by selected date and get unique channels
+  const filteredPrograms = data.filter((item) => item.date === selectedDate);
+  return [...new Set(filteredPrograms.map((item) => item.channel))];
+};
 const getUniqueBrands = (data) => [...new Set(data.filter((item) => item.type === "ad").map((item) => item.brand).filter(Boolean))];
 const getUniqueContentTypes = (data) => [...new Set(data.map((item) => item.type))];
 
@@ -78,7 +82,8 @@ const EPG = () => {
   const [selectedBrand, setSelectedBrand] = useState("all");
   const [selectedContentType, setSelectedContentType] = useState("all");
 
-  const channels = getUniqueChannels(epgData);
+  // Pass selectedDate to getUniqueChannels to filter channels with data for the selected date
+  const channels = getUniqueChannels(epgData, selectedDate);
   const brands = getUniqueBrands(epgData);
   const contentTypes = getUniqueContentTypes(epgData);
 
@@ -274,4 +279,3 @@ const EPG = () => {
 };
 
 export default EPG;
-

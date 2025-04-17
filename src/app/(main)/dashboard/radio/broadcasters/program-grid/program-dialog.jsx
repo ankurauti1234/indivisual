@@ -49,13 +49,11 @@ const ProgramDialog = ({ selectedProgram, setSelectedProgram }) => {
           </div>
           {selectedProgram?.audio && (
             <div className="p-4 rounded-lg bg-white dark:bg-zinc-800 shadow-md">
-              <iframe
+              <audio
                 src={selectedProgram.audio}
-                width="100%"
-                height="80"
-                allow="autoplay"
+                controls
+                className="w-full rounded-lg"
                 title={`${selectedProgram.program} Audio`}
-                className="rounded-lg"
               />
             </div>
           )}

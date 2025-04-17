@@ -42429,7 +42429,7 @@ export const epgData = [
     "start": "09:06:14",
     "end": "09:10:00",
     "type": "song",
-    "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Songs/Yennai+IzhukkuthAdi.mp3"
+    "audio": "https://radio-playback-files.s3.ap-south-1.amazonaws.com/Songs/Yennai+Izhukkuthadi.mp3"
   },
   {
     "program": "Jingle",
