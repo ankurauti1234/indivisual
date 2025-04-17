@@ -40373,7 +40373,7 @@ export const epgData = [
 
   {
     "program": "song:Mukunda Mukunda,Himesh Reshammiya,\nSAdhana Sargam & kamal Hasan,Sony Music Entertainment,2008",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5DD41B52",
     "date": "2025-04-15",
     "start": "07:00:00",
@@ -40383,7 +40383,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CDC77F84",
     "date": "2025-04-15",
     "start": "07:00:14",
@@ -40393,7 +40393,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-60FD5C60",
     "date": "2025-04-15",
     "start": "07:00:50",
@@ -40403,7 +40403,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2094108E",
     "date": "2025-04-15",
     "start": "07:01:00",
@@ -40413,7 +40413,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silverline Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AC069702",
     "date": "2025-04-15",
     "start": "07:01:05",
@@ -40423,7 +40423,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sree Nidhi Promoters,\nConstruction,\nReal Estate",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F21E710E",
     "date": "2025-04-15",
     "start": "07:01:14",
@@ -40433,7 +40433,7 @@ export const epgData = [
   },
   {
     "program": "Ad: K Ramakrishnan College \nof Engineering,\nCollege,\nEducation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A8B4078C",
     "date": "2025-04-15",
     "start": "07:01:18",
@@ -40443,7 +40443,7 @@ export const epgData = [
   },
   {
     "program": "song:Nallai Allai From Katru\nVeliyidai,A.R.Raheman,Sathya Prakash,Chinmayi SripAda,A.R.Rahman Essantials,\nSony Music Entertainment India Pvt Ltd,2017",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E2B01598",
     "date": "2025-04-15",
     "start": "07:01:22",
@@ -40453,7 +40453,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-63288056",
     "date": "2025-04-15",
     "start": "07:05:14",
@@ -40463,7 +40463,7 @@ export const epgData = [
   },
   {
     "program": "program:rj keshav",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D44C9C8C",
     "date": "2025-04-15",
     "start": "07:05:32",
@@ -40473,7 +40473,7 @@ export const epgData = [
   },
   {
     "program": "song:Kurumugil from Sita Ramam,Vishal Chandrashekhar & Sai Vignesh,Kurumugil from Sita Ramam,Sony Music Entertainment India Pvt Ltd,2022",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E2283CD8",
     "date": "2025-04-15",
     "start": "07:06:45",
@@ -40483,7 +40483,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CBB8511C",
     "date": "2025-04-15",
     "start": "07:10:13",
@@ -40493,7 +40493,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E547737A",
     "date": "2025-04-15",
     "start": "07:10:25",
@@ -40503,7 +40503,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B2D147D7",
     "date": "2025-04-15",
     "start": "07:10:34",
@@ -40513,7 +40513,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AB7478FD",
     "date": "2025-04-15",
     "start": "07:10:54",
@@ -40523,7 +40523,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kerala Ayurveda Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7301A68A",
     "date": "2025-04-15",
     "start": "07:11:05",
@@ -40533,7 +40533,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA ,Electronics & Appliances,Retail-Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-320B5EED",
     "date": "2025-04-15",
     "start": "07:11:20",
@@ -40543,7 +40543,7 @@ export const epgData = [
   },
   {
     "program": "Ad: ChettinAd Cement, Cement, Building Products",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7B00FF23",
     "date": "2025-04-15",
     "start": "07:11:30",
@@ -40553,7 +40553,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-31E83920",
     "date": "2025-04-15",
     "start": "07:11:40",
@@ -40563,7 +40563,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Social Awareness On\nObesity & To Reduce Oil Intake",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A6A6EF44",
     "date": "2025-04-15",
     "start": "07:12:15",
@@ -40573,7 +40573,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CF7B5304",
     "date": "2025-04-15",
     "start": "07:12:35",
@@ -40583,7 +40583,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-44D642CA",
     "date": "2025-04-15",
     "start": "07:12:55",
@@ -40593,7 +40593,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9D404D46",
     "date": "2025-04-15",
     "start": "07:13:10",
@@ -40603,7 +40603,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E8F75FCE",
     "date": "2025-04-15",
     "start": "07:13:25",
@@ -40613,7 +40613,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kerala Ayurveda Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EEA3F18A",
     "date": "2025-04-15",
     "start": "07:13:45",
@@ -40623,7 +40623,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A76679B2",
     "date": "2025-04-15",
     "start": "07:14:00",
@@ -40633,7 +40633,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Cotton Collection,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D2BDFFFE",
     "date": "2025-04-15",
     "start": "07:14:10",
@@ -40643,7 +40643,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Tahila Jwellers,Jwellery Shop",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0CF3DA24",
     "date": "2025-04-15",
     "start": "07:14:15",
@@ -40653,7 +40653,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4732770B",
     "date": "2025-04-15",
     "start": "07:14:30",
@@ -40663,7 +40663,7 @@ export const epgData = [
   },
   {
     "program": "Ad:rj keshav",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9B78C33E",
     "date": "2025-04-15",
     "start": "07:14:50",
@@ -40673,7 +40673,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C8C61A85",
     "date": "2025-04-15",
     "start": "07:15:05",
@@ -40683,7 +40683,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E204AC4E",
     "date": "2025-04-15",
     "start": "07:16:20",
@@ -40693,7 +40693,7 @@ export const epgData = [
   },
   {
     "program": "song:Kannamoochchhi YenAda,K.S.Chitra,Evergreen Love Hit-Tamil,Saregama,2000",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-442CA354",
     "date": "2025-04-15",
     "start": "07:16:30",
@@ -40703,7 +40703,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E0A329F2",
     "date": "2025-04-15",
     "start": "07:21:38",
@@ -40713,7 +40713,7 @@ export const epgData = [
   },
   {
     "program": "song:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AB82A5C9",
     "date": "2025-04-15",
     "start": "07:21:51",
@@ -40723,7 +40723,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-76E041E6",
     "date": "2025-04-15",
     "start": "07:26:39",
@@ -40733,7 +40733,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad :Unngal Surya FM,Party Premier,Pothys  Premium League",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-20FFEE85",
     "date": "2025-04-15",
     "start": "07:27:28",
@@ -40743,7 +40743,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Cotton Collection,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-41F95FD5",
     "date": "2025-04-15",
     "start": "07:28:20",
@@ -40753,7 +40753,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Vijayalaxmi Eye Foundation,Hospital,Health",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2574B4DA",
     "date": "2025-04-15",
     "start": "07:28:26",
@@ -40763,7 +40763,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-48DC7E00",
     "date": "2025-04-15",
     "start": "07:28:32",
@@ -40773,7 +40773,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anuj Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C5B66303",
     "date": "2025-04-15",
     "start": "07:28:40",
@@ -40783,7 +40783,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2E749A10",
     "date": "2025-04-15",
     "start": "07:28:45",
@@ -40793,7 +40793,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\nAutomotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C8F1B7B2",
     "date": "2025-04-15",
     "start": "07:28:50",
@@ -40803,7 +40803,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking Baniyan,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-44EB99AC",
     "date": "2025-04-15",
     "start": "07:28:58",
@@ -40813,7 +40813,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E264A3A4",
     "date": "2025-04-15",
     "start": "07:30:55",
@@ -40823,7 +40823,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-32DAAF38",
     "date": "2025-04-15",
     "start": "07:31:00",
@@ -40833,7 +40833,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-92F0284D",
     "date": "2025-04-15",
     "start": "07:31:12",
@@ -40843,7 +40843,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7258EBC4",
     "date": "2025-04-15",
     "start": "07:31:32",
@@ -40853,7 +40853,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D20C050F",
     "date": "2025-04-15",
     "start": "07:31:52",
@@ -40863,7 +40863,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silverline Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-10D04884",
     "date": "2025-04-15",
     "start": "07:32:06",
@@ -40873,7 +40873,7 @@ export const epgData = [
   },
   {
     "program": "Ad: ChettinAd Cement, Cement, Building Products",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C12F16BC",
     "date": "2025-04-15",
     "start": "07:32:27",
@@ -40883,7 +40883,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-140BDF1A",
     "date": "2025-04-15",
     "start": "07:32:37",
@@ -40893,7 +40893,7 @@ export const epgData = [
   },
   {
     "program": "Ad: VandiMandi Second Car Selling App,App",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D7FF4287",
     "date": "2025-04-15",
     "start": "07:32:42",
@@ -40903,7 +40903,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-26F80432",
     "date": "2025-04-15",
     "start": "07:32:52",
@@ -40913,7 +40913,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kerala Ayurveda Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CAD8AA4F",
     "date": "2025-04-15",
     "start": "07:33:07",
@@ -40923,7 +40923,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B571ECC9",
     "date": "2025-04-15",
     "start": "07:33:22",
@@ -40933,7 +40933,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8D6CC472",
     "date": "2025-04-15",
     "start": "07:33:32",
@@ -40943,7 +40943,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-49766C36",
     "date": "2025-04-15",
     "start": "07:33:42",
@@ -40953,7 +40953,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D7E0CEB5",
     "date": "2025-04-15",
     "start": "07:34:03",
@@ -40963,7 +40963,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-172CDA37",
     "date": "2025-04-15",
     "start": "07:34:23",
@@ -40973,7 +40973,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-12B5E55D",
     "date": "2025-04-15",
     "start": "07:34:30",
@@ -40983,7 +40983,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-771A6AA1",
     "date": "2025-04-15",
     "start": "07:35:15",
@@ -40993,7 +40993,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CF0B440D",
     "date": "2025-04-15",
     "start": "07:35:22",
@@ -41003,7 +41003,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BBE9181F",
     "date": "2025-04-15",
     "start": "07:36:30",
@@ -41013,7 +41013,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-11433256",
     "date": "2025-04-15",
     "start": "07:36:33",
@@ -41023,7 +41023,7 @@ export const epgData = [
   },
   {
     "program": "song:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-75EB18F1",
     "date": "2025-04-15",
     "start": "07:36:41",
@@ -41033,7 +41033,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D5772534",
     "date": "2025-04-15",
     "start": "07:41:35",
@@ -41043,7 +41043,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8657FA68",
     "date": "2025-04-15",
     "start": "07:41:40",
@@ -41053,7 +41053,7 @@ export const epgData = [
   },
   {
     "program": "song:ArAdhya,Sid Sriram & Chinmayi SripAda,Chennai super Hits,Saregama India,Pvt Ltd,2023",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2EAEAEAE",
     "date": "2025-04-15",
     "start": "07:41:45",
@@ -41063,7 +41063,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A45185C3",
     "date": "2025-04-15",
     "start": "07:46:25",
@@ -41073,7 +41073,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6B975EEE",
     "date": "2025-04-15",
     "start": "07:46:29",
@@ -41083,7 +41083,7 @@ export const epgData = [
   },
   {
     "program": "song:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B1AF817F",
     "date": "2025-04-15",
     "start": "07:46:35",
@@ -41093,7 +41093,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C5D7F8B9",
     "date": "2025-04-15",
     "start": "07:50:33",
@@ -41103,7 +41103,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-59199C87",
     "date": "2025-04-15",
     "start": "07:50:44",
@@ -41113,7 +41113,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\nMall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AB9CC7EE",
     "date": "2025-04-15",
     "start": "07:51:05",
@@ -41123,7 +41123,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sree Nidhi Promoters,\nConstruction,\nReal Estate",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CF86BB7F",
     "date": "2025-04-15",
     "start": "07:51:16",
@@ -41133,7 +41133,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kerala Ayurveda Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7827EF43",
     "date": "2025-04-15",
     "start": "07:52:16",
@@ -41143,7 +41143,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA ,Electronics & Appliances,Retail-Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ADDACAD5",
     "date": "2025-04-15",
     "start": "07:52:31",
@@ -41153,7 +41153,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pm Internship,Internship Program, Education / Information Technology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-151C27F8",
     "date": "2025-04-15",
     "start": "07:52:36",
@@ -41163,7 +41163,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DB4BF54F",
     "date": "2025-04-15",
     "start": "07:53:20",
@@ -41173,7 +41173,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AFC34C26",
     "date": "2025-04-15",
     "start": "07:53:41",
@@ -41183,7 +41183,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Cotton Collection,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5340A2B5",
     "date": "2025-04-15",
     "start": "07:53:56",
@@ -41193,7 +41193,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8B74C9DD",
     "date": "2025-04-15",
     "start": "07:54:02",
@@ -41203,7 +41203,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A4767CAA",
     "date": "2025-04-15",
     "start": "07:54:12",
@@ -41213,7 +41213,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silverline Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-95E2C930",
     "date": "2025-04-15",
     "start": "07:54:18",
@@ -41223,7 +41223,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sree Nidhi Promoters,\nConstruction,\nReal Estate",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-44B0A8B1",
     "date": "2025-04-15",
     "start": "07:54:22",
@@ -41233,7 +41233,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Ramkrushna College Of Engineearing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-28B466D0",
     "date": "2025-04-15",
     "start": "07:54:28",
@@ -41243,7 +41243,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D868A669",
     "date": "2025-04-15",
     "start": "07:54:31",
@@ -41253,7 +41253,7 @@ export const epgData = [
   },
   {
     "program": "program:rj keshav",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-87244A85",
     "date": "2025-04-15",
     "start": "07:54:38",
@@ -41263,7 +41263,7 @@ export const epgData = [
   },
   {
     "program": "song:VaayAdi Petha Pulla,Sivakartikeyan,Vaikom Vijayalakshmi & Dhibu Niman Thomas,Kana,Sony Music Entertainment Pvt Ltd,2018",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-981661D9",
     "date": "2025-04-15",
     "start": "07:54:56",
@@ -41273,7 +41273,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-457D4DF3",
     "date": "2025-04-15",
     "start": "08:00:00",
@@ -41283,7 +41283,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F4A0B600",
     "date": "2025-04-15",
     "start": "08:00:38",
@@ -41293,7 +41293,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8750527C",
     "date": "2025-04-15",
     "start": "08:00:48",
@@ -41303,7 +41303,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-87367805",
     "date": "2025-04-15",
     "start": "08:00:54",
@@ -41313,7 +41313,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C9F52204",
     "date": "2025-04-15",
     "start": "08:00:00",
@@ -41323,7 +41323,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0F070A41",
     "date": "2025-04-15",
     "start": "08:00:38",
@@ -41333,7 +41333,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-793E1E04",
     "date": "2025-04-15",
     "start": "08:00:48",
@@ -41343,7 +41343,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-88E5962A",
     "date": "2025-04-15",
     "start": "08:00:54",
@@ -41353,7 +41353,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E3347A7F",
     "date": "2025-04-15",
     "start": "08:00:00",
@@ -41363,7 +41363,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5CD5AC5A",
     "date": "2025-04-15",
     "start": "08:00:38",
@@ -41373,7 +41373,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E6D5CFF7",
     "date": "2025-04-15",
     "start": "08:00:48",
@@ -41383,7 +41383,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-015DE821",
     "date": "2025-04-15",
     "start": "08:00:54",
@@ -41393,7 +41393,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Saravana Electricals,Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DEB6EEA2",
     "date": "2025-04-15",
     "start": "08:01:03",
@@ -41403,7 +41403,7 @@ export const epgData = [
   },
   {
     "program": "song:Beer Song from Diesel,Rokesh,Dhibu Ninan Thomas & Gana Guna,Beer Song From Diesel,Think Music,2023",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-77A8697D",
     "date": "2025-04-15",
     "start": "08:01:06",
@@ -41413,7 +41413,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E6EF4194",
     "date": "2025-04-15",
     "start": "08:04:22",
@@ -41423,7 +41423,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-14BEE4E3",
     "date": "2025-04-15",
     "start": "08:04:42",
@@ -41433,7 +41433,7 @@ export const epgData = [
   },
   {
     "program": "song:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E8E1F971",
     "date": "2025-04-15",
     "start": "08:06:00",
@@ -41443,7 +41443,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F30E9341",
     "date": "2025-04-15",
     "start": "08:10:30",
@@ -41453,7 +41453,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-04F586CD",
     "date": "2025-04-15",
     "start": "08:10:48",
@@ -41463,7 +41463,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-87AD8ED4",
     "date": "2025-04-15",
     "start": "08:10:57",
@@ -41473,7 +41473,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-82BE6591",
     "date": "2025-04-15",
     "start": "08:11:07",
@@ -41483,7 +41483,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-06EDDCD1",
     "date": "2025-04-15",
     "start": "08:11:42",
@@ -41493,7 +41493,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6FA28193",
     "date": "2025-04-15",
     "start": "08:11:52",
@@ -41503,7 +41503,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3BF55DDA",
     "date": "2025-04-15",
     "start": "08:12:13",
@@ -41513,7 +41513,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichy Eye Foundation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CA8BF242",
     "date": "2025-04-15",
     "start": "08:12:31",
@@ -41523,7 +41523,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Saravana Electricals,Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-10D27EDE",
     "date": "2025-04-15",
     "start": "08:12:47",
@@ -41533,7 +41533,7 @@ export const epgData = [
   },
   {
     "program": "Ad:  ChettinAd cement, \nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4BF93FFC",
     "date": "2025-04-15",
     "start": "08:13:03",
@@ -41543,7 +41543,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EEDED5DC",
     "date": "2025-04-15",
     "start": "08:13:12",
@@ -41553,7 +41553,7 @@ export const epgData = [
   },
   {
     "program": "Ad:VedrAda",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-38CDCB7E",
     "date": "2025-04-15",
     "start": "08:13:32",
@@ -41563,7 +41563,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SBI ,Faurd ,Public Sector Bank, Banking and Financial Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5579B442",
     "date": "2025-04-15",
     "start": "08:13:42",
@@ -41573,7 +41573,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Tahila Jwellers,Jwellery Shop",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-177EADB8",
     "date": "2025-04-15",
     "start": "08:14:12",
@@ -41583,7 +41583,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4CA0E4BA",
     "date": "2025-04-15",
     "start": "08:14:28",
@@ -41593,7 +41593,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Anitha Jewellers, Jewellery, Fashion",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-216C1883",
     "date": "2025-04-15",
     "start": "08:14:43",
@@ -41603,7 +41603,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-693D98E3",
     "date": "2025-04-15",
     "start": "08:14:48",
@@ -41613,7 +41613,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3D718512",
     "date": "2025-04-15",
     "start": "08:15:09",
@@ -41623,7 +41623,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys ,Textile,ReAdymAde Garment Retailers",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A67603DC",
     "date": "2025-04-15",
     "start": "08:15:28",
@@ -41633,7 +41633,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0970304F",
     "date": "2025-04-15",
     "start": "08:15:34",
@@ -41643,7 +41643,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EFABA7BB",
     "date": "2025-04-15",
     "start": "08:15:54",
@@ -41653,7 +41653,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-11331304",
     "date": "2025-04-15",
     "start": "08:16:07",
@@ -41663,7 +41663,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9A17F738",
     "date": "2025-04-15",
     "start": "08:18:02",
@@ -41673,7 +41673,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ashwin Shop,Sweet \n and Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D756A6EB",
     "date": "2025-04-15",
     "start": "08:18:10",
@@ -41683,7 +41683,7 @@ export const epgData = [
   },
   {
     "program": "song:Unna Paartha Naeram from \n All in All Azhagu Raja,Thaman S,Vijay Yesudas & Srivardhini,My Playlist:Thaman,\n Sony Music Entertainment India Pvt Ltd,2013",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-347E6041",
     "date": "2025-04-15",
     "start": "08:18:14",
@@ -41693,7 +41693,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FC996169",
     "date": "2025-04-15",
     "start": "08:22:03",
@@ -41703,7 +41703,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ashwin Shop,Sweet \n and Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BF678803",
     "date": "2025-04-15",
     "start": "08:22:08",
@@ -41713,7 +41713,7 @@ export const epgData = [
   },
   {
     "program": "song:Kannave Kannave from Sketch,Chaiyaan Vikram Bighits Mixtape,Think Music,2017",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-462813AA",
     "date": "2025-04-15",
     "start": "08:22:14",
@@ -41723,7 +41723,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F584540D",
     "date": "2025-04-15",
     "start": "08:26:54",
@@ -41733,7 +41733,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EF90AB27",
     "date": "2025-04-15",
     "start": "08:27:27",
@@ -41743,7 +41743,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A681A3EB",
     "date": "2025-04-15",
     "start": "08:28:32",
@@ -41753,7 +41753,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-421AE7B0",
     "date": "2025-04-15",
     "start": "08:28:38",
@@ -41763,7 +41763,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-34987AD5",
     "date": "2025-04-15",
     "start": "08:28:49",
@@ -41773,7 +41773,7 @@ export const epgData = [
   },
   {
     "program": "Ad: K Ramakrishnan College \n of Engineering & Technology,\n College,\n Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-675505D0",
     "date": "2025-04-15",
     "start": "08:29:15",
@@ -41783,7 +41783,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Hamsa Electronics,Fans,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4B8424BB",
     "date": "2025-04-15",
     "start": "08:29:35",
@@ -41793,7 +41793,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1DB05095",
     "date": "2025-04-15",
     "start": "08:29:45",
@@ -41803,7 +41803,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Social Awareness On\n Obesity & To Reduce Oil Intake",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B9414F1C",
     "date": "2025-04-15",
     "start": "08:30:00",
@@ -41813,7 +41813,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-73E3A127",
     "date": "2025-04-15",
     "start": "08:30:40",
@@ -41823,7 +41823,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anantha Silks ParAdise,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-24F91B62",
     "date": "2025-04-15",
     "start": "08:30:55",
@@ -41833,7 +41833,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CB7A83B2",
     "date": "2025-04-15",
     "start": "08:31:10",
@@ -41843,7 +41843,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FB2CECF3",
     "date": "2025-04-15",
     "start": "08:31:30",
@@ -41853,7 +41853,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA ,Electronics & Appliances,Retail-Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A7EB618F",
     "date": "2025-04-15",
     "start": "08:31:50",
@@ -41863,7 +41863,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3A9E8C0E",
     "date": "2025-04-15",
     "start": "08:32:00",
@@ -41873,7 +41873,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator Ac,Retail,Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DB663C7B",
     "date": "2025-04-15",
     "start": "08:32:20",
@@ -41883,7 +41883,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-80A96F38",
     "date": "2025-04-15",
     "start": "08:32:30",
@@ -41893,7 +41893,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-65CC2EE9",
     "date": "2025-04-15",
     "start": "08:32:40",
@@ -41903,7 +41903,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D546803B",
     "date": "2025-04-15",
     "start": "08:33:00",
@@ -41913,7 +41913,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F791A925",
     "date": "2025-04-15",
     "start": "08:35:30",
@@ -41923,7 +41923,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8A5BE3B9",
     "date": "2025-04-15",
     "start": "08:35:35",
@@ -41933,7 +41933,7 @@ export const epgData = [
   },
   {
     "program": "song:EngAdi Porandha,Vanakkam Chennai,Annirudh Ravichander,Sony Music Entertainment,2013",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D80A3A97",
     "date": "2025-04-15",
     "start": "08:35:41",
@@ -41943,7 +41943,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-519115AA",
     "date": "2025-04-15",
     "start": "08:39:03",
@@ -41953,7 +41953,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\n Mall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-26260E66",
     "date": "2025-04-15",
     "start": "08:39:08",
@@ -41963,7 +41963,7 @@ export const epgData = [
   },
   {
     "program": "song:Aathi Adi Aathi , G V Prakash kumar , Veere Dheera Sooran, Think Music ,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-326AB5F3",
     "date": "2025-04-15",
     "start": "08:39:14",
@@ -41973,7 +41973,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7448235A",
     "date": "2025-04-15",
     "start": "08:41:52",
@@ -41983,7 +41983,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\n Mall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2632FD5F",
     "date": "2025-04-15",
     "start": "08:41:56",
@@ -41993,7 +41993,7 @@ export const epgData = [
   },
   {
     "program": "song:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6D306A87",
     "date": "2025-04-15",
     "start": "08:42:04",
@@ -42003,7 +42003,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-14C81503",
     "date": "2025-04-15",
     "start": "08:45:53",
@@ -42013,7 +42013,7 @@ export const epgData = [
   },
   {
     "program": "Ad :\n Unngal Surya FM ,Pothys Premium League\n memories",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FA2E9180",
     "date": "2025-04-15",
     "start": "08:46:18",
@@ -42023,7 +42023,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BBDB6053",
     "date": "2025-04-15",
     "start": "08:47:02",
@@ -42033,7 +42033,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-443CC90E",
     "date": "2025-04-15",
     "start": "08:47:05",
@@ -42043,7 +42043,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Vijayalaxmi Eye Foundation,Hospital,Health",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1A8D9000",
     "date": "2025-04-15",
     "start": "08:47:12",
@@ -42053,7 +42053,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F7592988",
     "date": "2025-04-15",
     "start": "08:47:18",
@@ -42063,7 +42063,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anuj Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0F7638AB",
     "date": "2025-04-15",
     "start": "08:47:25",
@@ -42073,7 +42073,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ED848F69",
     "date": "2025-04-15",
     "start": "08:47:32",
@@ -42083,7 +42083,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\n Automotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3FCFBDAF",
     "date": "2025-04-15",
     "start": "08:47:38",
@@ -42093,7 +42093,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking Baniyan,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8E5BB39F",
     "date": "2025-04-15",
     "start": "08:47:45",
@@ -42103,7 +42103,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sowdambikaa World School,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7430C69D",
     "date": "2025-04-15",
     "start": "08:47:53",
@@ -42113,7 +42113,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-52D02E6E",
     "date": "2025-04-15",
     "start": "08:48:22",
@@ -42123,7 +42123,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas,Sarees,Fashion,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ABB07DC5",
     "date": "2025-04-15",
     "start": "08:48:30",
@@ -42133,7 +42133,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-70CAE33B",
     "date": "2025-04-15",
     "start": "08:48:40",
@@ -42143,7 +42143,7 @@ export const epgData = [
   },
   {
     "program": "Ad:ChettinAd Cement, Cement, Building Products",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6F2002A9",
     "date": "2025-04-15",
     "start": "08:49:27",
@@ -42153,7 +42153,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Lemon Salt",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FEDD111B",
     "date": "2025-04-15",
     "start": "08:49:37",
@@ -42163,7 +42163,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Lemon Salt",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0F090EEE",
     "date": "2025-04-15",
     "start": "08:49:42",
@@ -42173,7 +42173,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SBI ,Faurd ,Public Sector Bank, Banking and Financial Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E793182C",
     "date": "2025-04-15",
     "start": "08:49:52",
@@ -42183,7 +42183,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sodhi Premium Hall",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-38C5E451",
     "date": "2025-04-15",
     "start": "08:50:07",
@@ -42193,7 +42193,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Anitha Jewellers, Jewellery, Fashion",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8F1F3C68",
     "date": "2025-04-15",
     "start": "08:50:36",
@@ -42203,7 +42203,7 @@ export const epgData = [
   },
   {
     "program": "Ad:The Eye Foundation,Eye Care Hospital Chain,Healthcare / Ophthalmology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-37063E0C",
     "date": "2025-04-15",
     "start": "08:50:40",
@@ -42213,7 +42213,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3199F82B",
     "date": "2025-04-15",
     "start": "08:50:42",
@@ -42223,7 +42223,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai,Authorized Car Dealership,Automotive Retail / Vehicle Sales & Service\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4C623630",
     "date": "2025-04-15",
     "start": "08:50:57",
@@ -42233,7 +42233,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pm Internship,Internship Program, Education / Information Technology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8A6BCDA8",
     "date": "2025-04-15",
     "start": "08:51:12",
@@ -42243,7 +42243,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-894A0EC9",
     "date": "2025-04-15",
     "start": "08:51:32",
@@ -42253,7 +42253,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys ,Textile,ReAdymAde Garment Retailers",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-354E865B",
     "date": "2025-04-15",
     "start": "08:52:15",
@@ -42263,7 +42263,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-43FC26CD",
     "date": "2025-04-15",
     "start": "08:52:37",
@@ -42273,7 +42273,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2E93BC6A",
     "date": "2025-04-15",
     "start": "08:52:42",
@@ -42283,7 +42283,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-530B9B64",
     "date": "2025-04-15",
     "start": "08:53:03",
@@ -42293,7 +42293,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6BE893CD",
     "date": "2025-04-15",
     "start": "08:53:12",
@@ -42303,7 +42303,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Saravana Electricals,Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-924D37FB",
     "date": "2025-04-15",
     "start": "08:53:18",
@@ -42313,7 +42313,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Tahila jwellers,jwellery shop",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0285136F",
     "date": "2025-04-15",
     "start": "08:53:28",
@@ -42323,7 +42323,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1069A7FF",
     "date": "2025-04-15",
     "start": "08:53:32",
@@ -42333,7 +42333,7 @@ export const epgData = [
   },
   {
     "program": "jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-35981F55",
     "date": "2025-04-15",
     "start": "08:53:34",
@@ -42343,7 +42343,7 @@ export const epgData = [
   },
   {
     "program": "program:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-51E50E83",
     "date": "2025-04-15",
     "start": "08:53:45",
@@ -42353,7 +42353,7 @@ export const epgData = [
   },
   {
     "program": "Song:Kannukulle,Vidyasagar,Kalaikumar & Manicka Vinayagam,Dhill,Divo Tv Private Limited,2001",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FDDBA455",
     "date": "2025-04-15",
     "start": "09:00:00",
@@ -42363,7 +42363,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1B60B4D1",
     "date": "2025-04-15",
     "start": "09:00:12",
@@ -42373,7 +42373,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Mahalaxmi Silks Sarees,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8C9CEC7A",
     "date": "2025-04-15",
     "start": "09:00:49",
@@ -42383,7 +42383,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sakti Masale,Food,FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BE831CFC",
     "date": "2025-04-15",
     "start": "09:01:04",
@@ -42393,7 +42393,7 @@ export const epgData = [
   },
   {
     "program": "Ad:AC Mela",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9C128D36",
     "date": "2025-04-15",
     "start": "09:01:08",
@@ -42403,7 +42403,7 @@ export const epgData = [
   },
   {
     "program": "Song:Vettu Pottu,Santhosh Narayanan & Shankar MahAdevan,Kodi,Sony Music Entertainment India Pvt. Ltd.,2016",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-92726F37",
     "date": "2025-04-15",
     "start": "09:01:22",
@@ -42413,7 +42413,7 @@ export const epgData = [
   },
   {
     "program": "Program:rj Kesavan",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F20FFF71",
     "date": "2025-04-15",
     "start": "09:04:18",
@@ -42423,7 +42423,7 @@ export const epgData = [
   },
   {
     "program": "Song:Yennai IzhukkuthAdi From KAdhalikka Neramillai,A.R. Rahman,Dhee & Vivek,T-Series,2024",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A8B863DC",
     "date": "2025-04-15",
     "start": "09:06:14",
@@ -42433,7 +42433,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1A54671A",
     "date": "2025-04-15",
     "start": "09:10:00",
@@ -42443,7 +42443,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E7DB3816",
     "date": "2025-04-15",
     "start": "09:10:18",
@@ -42453,7 +42453,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Cars,Automative",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-15CE3630",
     "date": "2025-04-15",
     "start": "09:10:24",
@@ -42463,7 +42463,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C2E22DB5",
     "date": "2025-04-15",
     "start": "09:10:46",
@@ -42473,7 +42473,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Air Conditioners,Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C7089BD6",
     "date": "2025-04-15",
     "start": "09:10:56",
@@ -42483,7 +42483,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BA82A548",
     "date": "2025-04-15",
     "start": "09:11:10",
@@ -42493,7 +42493,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Eye Foundation,Hospital,Health",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4B66F898",
     "date": "2025-04-15",
     "start": "09:11:45",
@@ -42503,7 +42503,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator Ac,Retail,Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5482BE0F",
     "date": "2025-04-15",
     "start": "09:12:01",
@@ -42513,7 +42513,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Saravana Electricals,Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7D258BCC",
     "date": "2025-04-15",
     "start": "09:12:11",
@@ -42523,7 +42523,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Kongu Thanga Maligai,\n Jewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-06A17183",
     "date": "2025-04-15",
     "start": "09:12:26",
@@ -42533,7 +42533,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM UPI Payments App",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-53975983",
     "date": "2025-04-15",
     "start": "09:12:46",
@@ -42543,7 +42543,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9D97F095",
     "date": "2025-04-15",
     "start": "09:13:06",
@@ -42553,7 +42553,7 @@ export const epgData = [
   },
   {
     "program": "Ad: VandiMandi Second Car Selling App,App",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-41192092",
     "date": "2025-04-15",
     "start": "09:13:21",
@@ -42563,7 +42563,7 @@ export const epgData = [
   },
   {
     "program": "Song:Oh Ringa Ringa ,7 aum Arivu,Harris Jayaraj,Roshan & Jerry John ,20 Biggest Hits ,Sony Music Entertainment India Pvt.Ltd,2011",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DA3293DC",
     "date": "2025-04-15",
     "start": "09:13:41",
@@ -42573,7 +42573,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Lemon Salt",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CD698286",
     "date": "2025-04-15",
     "start": "09:13:56",
@@ -42583,7 +42583,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anantha Silks ParAdise,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F3CE6AB2",
     "date": "2025-04-15",
     "start": "09:14:06",
@@ -42593,7 +42593,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-908186F4",
     "date": "2025-04-15",
     "start": "09:14:31",
@@ -42603,7 +42603,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-29C219BE",
     "date": "2025-04-15",
     "start": "09:14:52",
@@ -42613,7 +42613,7 @@ export const epgData = [
   },
   {
     "program": "Program:rj Keshav",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-966317ED",
     "date": "2025-04-15",
     "start": "09:15:12",
@@ -42623,7 +42623,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ashwin Shop,Sweet \n and Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2062F2E7",
     "date": "2025-04-15",
     "start": "09:17:52",
@@ -42633,7 +42633,7 @@ export const epgData = [
   },
   {
     "program": "Song:KannAdi Poove From Retro,Santhosh Narayanan & Vivek,KannAdi Poove,T-Series,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0E1BEAB6",
     "date": "2025-04-15",
     "start": "09:17:58",
@@ -42643,7 +42643,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E20779F6",
     "date": "2025-04-15",
     "start": "09:22:16",
@@ -42653,7 +42653,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ashwin Shop,Sweet \n and Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1F2A113E",
     "date": "2025-04-15",
     "start": "09:22:24",
@@ -42663,7 +42663,7 @@ export const epgData = [
   },
   {
     "program": "Song:Minikki Minikki From Thangalaan,Sinduri Vishal,G.V. Prakash Kumar & Uma Devi,Times Music,2024",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-36E7E537",
     "date": "2025-04-15",
     "start": "09:22:30",
@@ -42673,7 +42673,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5EFE5987",
     "date": "2025-04-15",
     "start": "09:25:51",
@@ -42683,7 +42683,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad :Unngal Surya FM,Party Premier,Pothys  Premium League",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-85055EE7",
     "date": "2025-04-15",
     "start": "09:26:22",
@@ -42693,7 +42693,7 @@ export const epgData = [
   },
   {
     "program": "Sponserd Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9406A10C",
     "date": "2025-04-15",
     "start": "09:27:03",
@@ -42703,7 +42703,7 @@ export const epgData = [
   },
   {
     "program": "Powred By Ad:Vijaylaxmi Eye Hospital ,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8419A2A2",
     "date": "2025-04-15",
     "start": "09:27:10",
@@ -42713,7 +42713,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9BFDA221",
     "date": "2025-04-15",
     "start": "09:27:15",
@@ -42723,7 +42723,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Aruchi Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-44221FCE",
     "date": "2025-04-15",
     "start": "09:27:22",
@@ -42733,7 +42733,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E843916C",
     "date": "2025-04-15",
     "start": "09:27:29",
@@ -42743,7 +42743,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\nAutomotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-942FCEAC",
     "date": "2025-04-15",
     "start": "09:27:34",
@@ -42753,7 +42753,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-791B220D",
     "date": "2025-04-15",
     "start": "09:27:40",
@@ -42763,7 +42763,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Vasanth and Co, Televisions, Refrigerators, Washing Machines, ACs, Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7F11DF0B",
     "date": "2025-04-15",
     "start": "09:28:47",
@@ -42773,7 +42773,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-93FDFBC0",
     "date": "2025-04-15",
     "start": "09:29:19",
@@ -42783,7 +42783,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silverline Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4EF73313",
     "date": "2025-04-15",
     "start": "09:29:29",
@@ -42793,7 +42793,7 @@ export const epgData = [
   },
   {
     "program": "Ad:B E A(Bharath Electronics & Appliances),Electronic Store",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-46BACB68",
     "date": "2025-04-15",
     "start": "09:29:49",
@@ -42803,7 +42803,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C737F57F",
     "date": "2025-04-15",
     "start": "09:29:54",
@@ -42813,7 +42813,7 @@ export const epgData = [
   },
   {
     "program": "Ad: ChettinAd Cement, Cement, Building Products",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F09F31E2",
     "date": "2025-04-15",
     "start": "09:30:09",
@@ -42823,7 +42823,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5AADADAF",
     "date": "2025-04-15",
     "start": "09:30:19",
@@ -42833,7 +42833,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Eye Foundation,Hospital,Health",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F55393A0",
     "date": "2025-04-15",
     "start": "09:30:39",
@@ -42843,7 +42843,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3CB48468",
     "date": "2025-04-15",
     "start": "09:30:54",
@@ -42853,7 +42853,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Social Awareness On\n Obesity & To Reduce Oil Intake",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B830B7F7",
     "date": "2025-04-15",
     "start": "09:31:10",
@@ -42863,7 +42863,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1A353818",
     "date": "2025-04-15",
     "start": "09:31:30",
@@ -42873,7 +42873,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-14A45840",
     "date": "2025-04-15",
     "start": "09:31:40",
@@ -42883,7 +42883,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anant,Jewellery,Fashion / Lifestyle,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B0381B23",
     "date": "2025-04-15",
     "start": "09:32:00",
@@ -42893,7 +42893,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DF7CC50B",
     "date": "2025-04-15",
     "start": "09:32:05",
@@ -42903,7 +42903,7 @@ export const epgData = [
   },
   {
     "program": "program:rj Keshav",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-59D96480",
     "date": "2025-04-15",
     "start": "09:32:25",
@@ -42913,7 +42913,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-76486905",
     "date": "2025-04-15",
     "start": "09:34:31",
@@ -42923,7 +42923,7 @@ export const epgData = [
   },
   {
     "program": "Song: Golden Sparrow From Nilavuku En Mel EnnAdi Kobam,G.V. Prakash Kumar, Arivu, Dhanush & Sublahshini,Nilavuku En Mel EnnAdi Kobam,Wunderbar Films,2024",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-88F99E85",
     "date": "2025-04-15",
     "start": "09:34:37",
@@ -42933,7 +42933,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-138D0B7F",
     "date": "2025-04-15",
     "start": "09:38:24",
@@ -42943,7 +42943,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ECE54DD2",
     "date": "2025-04-15",
     "start": "09:38:30",
@@ -42953,7 +42953,7 @@ export const epgData = [
   },
   {
     "program": "song:Dei Machan Dev,Naresh Iyer,Velmurugan,Maalavikka Manoj & Deepika VarAdarajan,Dev,Times Music,2018",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2184925F",
     "date": "2025-04-15",
     "start": "09:38:35",
@@ -42963,7 +42963,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BCDAB6E0",
     "date": "2025-04-15",
     "start": "09:43:31",
@@ -42973,7 +42973,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C7BCA220",
     "date": "2025-04-15",
     "start": "09:43:37",
@@ -42983,7 +42983,7 @@ export const epgData = [
   },
   {
     "program": "song:Kokkorakko From Gilli,Udit Narayan & Sujatha,Singer Special Udit Narayan,Five Star Audio,2004",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D5969BB9",
     "date": "2025-04-15",
     "start": "09:43:43",
@@ -42993,7 +42993,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5DF5D008",
     "date": "2025-04-15",
     "start": "09:48:11",
@@ -43003,7 +43003,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C7319199",
     "date": "2025-04-15",
     "start": "09:48:26",
@@ -43013,7 +43013,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-458E8D10",
     "date": "2025-04-15",
     "start": "09:49:10",
@@ -43023,7 +43023,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-33C6E6C6",
     "date": "2025-04-15",
     "start": "09:49:30",
@@ -43033,7 +43033,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4F8CB13D",
     "date": "2025-04-15",
     "start": "09:49:41",
@@ -43043,7 +43043,7 @@ export const epgData = [
   },
   {
     "program": "Ad: K Ramakrishnan College \nof Engineering & Technology,\nCollege,\nEducation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A47D1527",
     "date": "2025-04-15",
     "start": "09:50:00",
@@ -43053,7 +43053,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Hamsa Electronics,Fans,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9804EAAF",
     "date": "2025-04-15",
     "start": "09:50:20",
@@ -43063,7 +43063,7 @@ export const epgData = [
   },
   {
     "program": "Ad:  ChettinAd cement, \nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-10C9055C",
     "date": "2025-04-15",
     "start": "09:50:31",
@@ -43073,7 +43073,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A67E474F",
     "date": "2025-04-15",
     "start": "09:50:41",
@@ -43083,7 +43083,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-13D96F60",
     "date": "2025-04-15",
     "start": "09:50:41",
@@ -43093,7 +43093,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anantha Silks ParAdise,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-81C21ADD",
     "date": "2025-04-15",
     "start": "09:51:15",
@@ -43103,7 +43103,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SBI ,Faurd ,Public Sector Bank, Banking and Financial Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-73011C06",
     "date": "2025-04-15",
     "start": "09:51:31",
@@ -43113,7 +43113,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Poorvika Mobiles, Smartphone, Retail Mobile Phone",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-294C1566",
     "date": "2025-04-15",
     "start": "09:52:00",
@@ -43123,7 +43123,7 @@ export const epgData = [
   },
   {
     "program": "Ad:B E A(Bharath Electronics & Appliances),Electronic Store",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EA7007C0",
     "date": "2025-04-15",
     "start": "09:52:16",
@@ -43133,7 +43133,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Cotton Collection,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2C075CC5",
     "date": "2025-04-15",
     "start": "09:52:22",
@@ -43143,7 +43143,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-48BEE7E6",
     "date": "2025-04-15",
     "start": "09:52:26",
@@ -43153,7 +43153,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5B27FC57",
     "date": "2025-04-15",
     "start": "09:52:36",
@@ -43163,7 +43163,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kancheepuram Varmahalakshmi Silks,Sarees,Clothing,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8F8CD898",
     "date": "2025-04-15",
     "start": "09:52:45",
@@ -43173,7 +43173,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sakti Masale,Food,FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7CC938AB",
     "date": "2025-04-15",
     "start": "09:52:51",
@@ -43183,7 +43183,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Poorvika Ac Mela,Electronics,Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F58C3EB8",
     "date": "2025-04-15",
     "start": "09:52:55",
@@ -43193,7 +43193,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4239303A",
     "date": "2025-04-15",
     "start": "09:53:09",
@@ -43203,7 +43203,7 @@ export const epgData = [
   },
   {
     "program": "program:rj Keshav",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4B1CE2C9",
     "date": "2025-04-15",
     "start": "09:53:21",
@@ -43213,7 +43213,7 @@ export const epgData = [
   },
   {
     "program": "song:Nilamay Poru Nilamy,Land,Shankar MahAdevan,Shankar MahAdevan Super Hits,Saregama,2001",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-63CEEDE5",
     "date": "2025-04-15",
     "start": "09:54:41",
@@ -43223,7 +43223,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A1B9059F",
     "date": "2025-04-15",
     "start": "10:00:00",
@@ -43233,7 +43233,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-52EA6AA8",
     "date": "2025-04-15",
     "start": "10:00:39",
@@ -43243,7 +43243,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-63FE7892",
     "date": "2025-04-15",
     "start": "10:00:52",
@@ -43253,7 +43253,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai,Authorized Car Dealership,Automotive Retail / Vehicle Sales & Service\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C6D5C000",
     "date": "2025-04-15",
     "start": "10:00:57",
@@ -43263,7 +43263,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A5E2F220",
     "date": "2025-04-15",
     "start": "10:01:01",
@@ -43273,7 +43273,7 @@ export const epgData = [
   },
   {
     "program": "song:Kutti Story From Master,Anirudh Ravichander & Vijay,Sony Music Entertainment India Pvt. Ltd.,2020",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-26122ADD",
     "date": "2025-04-15",
     "start": "10:01:06",
@@ -43283,7 +43283,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D87562FC",
     "date": "2025-04-15",
     "start": "10:06:04",
@@ -43293,7 +43293,7 @@ export const epgData = [
   },
   {
     "program": "song:Rise Of Dragon From Dragon,Leon James,Anirudh Ravichander,NAdisha Thomas & El F\u00e9 Choir,Rise Of Dragon,Think Music,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A22142AD",
     "date": "2025-04-15",
     "start": "10:07:50",
@@ -43303,7 +43303,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-54B4D714",
     "date": "2025-04-15",
     "start": "10:11:15",
@@ -43313,7 +43313,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-134CE16E",
     "date": "2025-04-15",
     "start": "10:11:35",
@@ -43323,7 +43323,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas,Sarees,Fashion,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BBA78B13",
     "date": "2025-04-15",
     "start": "10:11:40",
@@ -43333,7 +43333,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai,Authorized Car Dealership,Automotive Retail / Vehicle Sales & Service\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F80DE942",
     "date": "2025-04-15",
     "start": "10:11:53",
@@ -43343,7 +43343,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-51F5A9C3",
     "date": "2025-04-15",
     "start": "10:12:12",
@@ -43353,7 +43353,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Rayzon Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8078CC6D",
     "date": "2025-04-15",
     "start": "10:12:27",
@@ -43363,7 +43363,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Lemon Salt",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-029F7456",
     "date": "2025-04-15",
     "start": "10:12:38",
@@ -43373,7 +43373,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Eye Foundation,Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-135EBBA4",
     "date": "2025-04-15",
     "start": "10:12:46",
@@ -43383,7 +43383,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6EECA1A2",
     "date": "2025-04-15",
     "start": "10:13:03",
@@ -43393,7 +43393,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-79B1F326",
     "date": "2025-04-15",
     "start": "10:13:18",
@@ -43403,7 +43403,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7BA69059",
     "date": "2025-04-15",
     "start": "10:13:38",
@@ -43413,7 +43413,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Social Awareness On\nObesity & To Reduce Oil Intake",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-399D6766",
     "date": "2025-04-15",
     "start": "10:13:54",
@@ -43423,7 +43423,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA ,Electronics & Appliances,Retail-Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3E9E5B69",
     "date": "2025-04-15",
     "start": "10:14:13",
@@ -43433,7 +43433,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FF7A3B1E",
     "date": "2025-04-15",
     "start": "10:14:23",
@@ -43443,7 +43443,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silverline Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7E5B7578",
     "date": "2025-04-15",
     "start": "10:14:43",
@@ -43453,7 +43453,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6F9387C6",
     "date": "2025-04-15",
     "start": "10:15:03",
@@ -43463,7 +43463,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3F652A55",
     "date": "2025-04-15",
     "start": "10:15:23",
@@ -43473,7 +43473,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-01733CD0",
     "date": "2025-04-15",
     "start": "10:15:33",
@@ -43483,7 +43483,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EECD4861",
     "date": "2025-04-15",
     "start": "10:15:53",
@@ -43493,7 +43493,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-23541BB2",
     "date": "2025-04-15",
     "start": "10:16:14",
@@ -43503,7 +43503,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ashwin Shop,Sweet \nand Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0ACBDCFE",
     "date": "2025-04-15",
     "start": "10:18:05",
@@ -43513,7 +43513,7 @@ export const epgData = [
   },
   {
     "program": "song:Vaa Kannamma From Once More,Hesham Abdul Wahab,Uthara Unnikrishnan & Vignesh Srikanth,Think Music,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AFE79D15",
     "date": "2025-04-15",
     "start": "10:18:10",
@@ -43523,7 +43523,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C106F1B1",
     "date": "2025-04-15",
     "start": "10:22:44",
@@ -43533,7 +43533,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ashwin Shop,Sweet \nand Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6F6F3829",
     "date": "2025-04-15",
     "start": "10:22:52",
@@ -43543,7 +43543,7 @@ export const epgData = [
   },
   {
     "program": "song:U R My Darling,Thaman S.,Vaalu,Think Music,2014",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B7EC4D23",
     "date": "2025-04-15",
     "start": "10:22:57",
@@ -43553,7 +43553,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AE893847",
     "date": "2025-04-15",
     "start": "10:27:30",
@@ -43563,7 +43563,7 @@ export const epgData = [
   },
   {
     "program": "Jingle:T20 Match Alarm",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-27EEF395",
     "date": "2025-04-15",
     "start": "10:27:58",
@@ -43573,7 +43573,7 @@ export const epgData = [
   },
   {
     "program": "program Ad :Unngal Surya FM ,Pothys  Premium League",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-10C596DD",
     "date": "2025-04-15",
     "start": "10:28:12",
@@ -43583,7 +43583,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B9B73407",
     "date": "2025-04-15",
     "start": "10:28:16",
@@ -43593,7 +43593,7 @@ export const epgData = [
   },
   {
     "program": "Powred By Ad:Vijaylaxmi Eye Hospital ,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-60A531EF",
     "date": "2025-04-15",
     "start": "10:28:21",
@@ -43603,7 +43603,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-78E8607F",
     "date": "2025-04-15",
     "start": "10:28:27",
@@ -43613,7 +43613,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anuj Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3D93D1A5",
     "date": "2025-04-15",
     "start": "10:28:34",
@@ -43623,7 +43623,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BA9B2E19",
     "date": "2025-04-15",
     "start": "10:28:41",
@@ -43633,7 +43633,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\nAutomotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2F90F0FC",
     "date": "2025-04-15",
     "start": "10:28:47",
@@ -43643,7 +43643,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking Baniyan,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F4238A67",
     "date": "2025-04-15",
     "start": "10:28:53",
@@ -43653,7 +43653,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D333691D",
     "date": "2025-04-15",
     "start": "10:29:02",
@@ -43663,7 +43663,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B583E1C6",
     "date": "2025-04-15",
     "start": "10:30:30",
@@ -43673,7 +43673,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-155FD7E9",
     "date": "2025-04-15",
     "start": "10:30:39",
@@ -43683,7 +43683,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FD1350B4",
     "date": "2025-04-15",
     "start": "10:31:00",
@@ -43693,7 +43693,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E34D09F3",
     "date": "2025-04-15",
     "start": "10:31:10",
@@ -43703,7 +43703,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D56E152E",
     "date": "2025-04-15",
     "start": "10:31:29",
@@ -43713,7 +43713,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DDC85A1B",
     "date": "2025-04-15",
     "start": "10:31:50",
@@ -43723,7 +43723,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sree Nidhi Promoters,\nConstruction,\nReal Estate",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-415FA719",
     "date": "2025-04-15",
     "start": "10:32:05",
@@ -43733,7 +43733,7 @@ export const epgData = [
   },
   {
     "program": "Ad:K Ramakrishnan College \nof Engineering & Technology,\nCollege,\nEducation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FF3E9CB7",
     "date": "2025-04-15",
     "start": "10:33:05",
@@ -43743,7 +43743,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E86048E5",
     "date": "2025-04-15",
     "start": "10:33:25",
@@ -43753,7 +43753,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anant Jewellers,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-19A4CE8D",
     "date": "2025-04-15",
     "start": "10:33:40",
@@ -43763,7 +43763,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronic\nWashing Machines, ACs, \nRetail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-74E83283",
     "date": "2025-04-15",
     "start": "10:33:45",
@@ -43773,7 +43773,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas,Sarees,Fashion,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7CB32BF9",
     "date": "2025-04-15",
     "start": "10:34:00",
@@ -43783,7 +43783,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B79BE7D5",
     "date": "2025-04-15",
     "start": "10:34:10",
@@ -43793,7 +43793,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-60C04E45",
     "date": "2025-04-15",
     "start": "10:34:30",
@@ -43803,7 +43803,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas,Sarees,Fashion,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-608BBC34",
     "date": "2025-04-15",
     "start": "10:36:04",
@@ -43813,7 +43813,7 @@ export const epgData = [
   },
   {
     "program": "song:Saroja Saman Nikalo,Shankar MahAdevan & Premji Amaran,Hits Of Shankar MahAdevan,Five Star Audio,2003",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C99AA5DC",
     "date": "2025-04-15",
     "start": "10:36:10",
@@ -43823,7 +43823,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7C75CE1E",
     "date": "2025-04-15",
     "start": "10:40:19",
@@ -43833,7 +43833,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas,Sarees,Fashion,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-02D7A921",
     "date": "2025-04-15",
     "start": "10:40:23",
@@ -43843,7 +43843,7 @@ export const epgData = [
   },
   {
     "program": "song:Showkali,A. R. Rahman,Aditya Rao,Aaryan Dinesh Kanagaratnam & Sri Rascol,Achcham Yenbandhu MAdamaiyAda,Ondraga Entertainment,2016",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D678C369",
     "date": "2025-04-15",
     "start": "10:40:30",
@@ -43853,7 +43853,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2BEDA8BB",
     "date": "2025-04-15",
     "start": "10:45:06",
@@ -43863,7 +43863,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas,Sarees,Fashion,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EBB69CC6",
     "date": "2025-04-15",
     "start": "10:45:11",
@@ -43873,7 +43873,7 @@ export const epgData = [
   },
   {
     "program": "song:Naattu Koothu From RRR,Rahul Sipligunj,Yazin Nizar & Maragathamani,T-Series,2022",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-20C8EC33",
     "date": "2025-04-15",
     "start": "10:45:18",
@@ -43883,7 +43883,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C359921A",
     "date": "2025-04-15",
     "start": "10:48:47",
@@ -43893,7 +43893,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sowdambikaa World School,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CB35A907",
     "date": "2025-04-15",
     "start": "10:48:59",
@@ -43903,7 +43903,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1DEA517B",
     "date": "2025-04-15",
     "start": "10:49:31",
@@ -43913,7 +43913,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Vasanth and Co, Televisions, Refrigerators, Washing Machines, ACs, Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-578E353C",
     "date": "2025-04-15",
     "start": "10:49:38",
@@ -43923,7 +43923,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas,Sarees,Fashion,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BC124A12",
     "date": "2025-04-15",
     "start": "10:49:58",
@@ -43933,7 +43933,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Poorvika Mobiles, Smartphone, Retail Mobile Phone",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-740E117C",
     "date": "2025-04-15",
     "start": "10:50:09",
@@ -43943,7 +43943,7 @@ export const epgData = [
   },
   {
     "program": "Ad:ChettinAd cement, \nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-59690AC4",
     "date": "2025-04-15",
     "start": "10:50:23",
@@ -43953,7 +43953,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG AC,Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-10A1186B",
     "date": "2025-04-15",
     "start": "10:50:33",
@@ -43963,7 +43963,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anantha Silks ParAdise,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-444107C6",
     "date": "2025-04-15",
     "start": "10:50:53",
@@ -43973,7 +43973,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A879C243",
     "date": "2025-04-15",
     "start": "10:50:59",
@@ -43983,7 +43983,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Eye Foundation,Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-40C81D87",
     "date": "2025-04-15",
     "start": "10:51:09",
@@ -43993,7 +43993,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SBI ,Faurd ,Public Sector Bank, Banking and Financial Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9EC08D5D",
     "date": "2025-04-15",
     "start": "10:51:24",
@@ -44003,7 +44003,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C7BF3100",
     "date": "2025-04-15",
     "start": "10:51:54",
@@ -44013,7 +44013,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Priyam Internship,Internship Program, Education / Information Technology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E9EC087D",
     "date": "2025-04-15",
     "start": "10:52:09",
@@ -44023,7 +44023,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anant,Jewellery,Fashion / Lifestyle,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7FBDDD85",
     "date": "2025-04-15",
     "start": "10:52:54",
@@ -44033,7 +44033,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronic\nWashing Machines, ACs, \nRetail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-16AD002F",
     "date": "2025-04-15",
     "start": "10:52:59",
@@ -44043,7 +44043,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1B5659F7",
     "date": "2025-04-15",
     "start": "10:53:14",
@@ -44053,7 +44053,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0DB3AE2A",
     "date": "2025-04-15",
     "start": "10:53:19",
@@ -44063,7 +44063,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EB4F44B9",
     "date": "2025-04-15",
     "start": "10:53:33",
@@ -44073,7 +44073,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai,Authorized Car Dealership,Automotive Retail / Vehicle Sales & Service\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-341AFD22",
     "date": "2025-04-15",
     "start": "10:53:38",
@@ -44083,7 +44083,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas,Sarees,Fashion,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FC19369E",
     "date": "2025-04-15",
     "start": "10:53:41",
@@ -44093,7 +44093,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-926E319E",
     "date": "2025-04-15",
     "start": "10:53:46",
@@ -44103,7 +44103,7 @@ export const epgData = [
   },
   {
     "program": "song:Onnum Puriyala,D. Imman,Kumi,Sony Music Entertainment India Pvt. Ltd.,2012",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E34B075D",
     "date": "2025-04-15",
     "start": "10:55:57",
@@ -44113,7 +44113,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B2289A4C",
     "date": "2025-04-15",
     "start": "11:00:06",
@@ -44123,7 +44123,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Thanga Maligai Showroom",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BE66EF23",
     "date": "2025-04-15",
     "start": "11:00:43",
@@ -44133,7 +44133,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8223FEB9",
     "date": "2025-04-15",
     "start": "11:00:51",
@@ -44143,7 +44143,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Saravana Electricals,Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F893EC1C",
     "date": "2025-04-15",
     "start": "11:00:59",
@@ -44153,7 +44153,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-81C99174",
     "date": "2025-04-15",
     "start": "11:01:02",
@@ -44163,7 +44163,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-60713551",
     "date": "2025-04-15",
     "start": "11:01:07",
@@ -44173,7 +44173,7 @@ export const epgData = [
   },
   {
     "program": "song:Anbae Peranbae,Sid Sriram & Shreya Ghoshal,NGK,Sony Music Entertainment India Pvt. Ltd.,2019",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5B161A7E",
     "date": "2025-04-15",
     "start": "11:01:12",
@@ -44183,7 +44183,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1BC0CEFE",
     "date": "2025-04-15",
     "start": "11:05:32",
@@ -44193,7 +44193,7 @@ export const epgData = [
   },
   {
     "program": "song:Naan Aval Illai,Karthick &  Chinmayi SripAda,Mass,Sony Music/Eroc Now Music,2015",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-426CDA75",
     "date": "2025-04-15",
     "start": "11:06:42",
@@ -44203,7 +44203,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-96C56002",
     "date": "2025-04-15",
     "start": "11:11:10",
@@ -44213,7 +44213,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C642FE69",
     "date": "2025-04-15",
     "start": "11:11:30",
@@ -44223,7 +44223,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas,Sarees,Fashion,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C07205D6",
     "date": "2025-04-15",
     "start": "11:11:36",
@@ -44233,7 +44233,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C7B7F916",
     "date": "2025-04-15",
     "start": "11:11:47",
@@ -44243,7 +44243,7 @@ export const epgData = [
   },
   {
     "program": "Ad:ChettinAd Cement, Cement, Building Products",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-980FA3AD",
     "date": "2025-04-15",
     "start": "11:12:07",
@@ -44253,7 +44253,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Saravana Electricals,Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A0E3EFF4",
     "date": "2025-04-15",
     "start": "11:12:16",
@@ -44263,7 +44263,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AF0A4DDD",
     "date": "2025-04-15",
     "start": "11:12:31",
@@ -44273,7 +44273,7 @@ export const epgData = [
   },
   {
     "program": "Ad: VandiMandi Second Car Selling App,App",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-09CAEF37",
     "date": "2025-04-15",
     "start": "11:12:52",
@@ -44283,7 +44283,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3862E146",
     "date": "2025-04-15",
     "start": "11:13:20",
@@ -44293,7 +44293,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Eye Foundation,Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9C8C48D9",
     "date": "2025-04-15",
     "start": "11:13:32",
@@ -44303,7 +44303,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3A74B6A8",
     "date": "2025-04-15",
     "start": "11:13:46",
@@ -44313,7 +44313,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8AEC34AC",
     "date": "2025-04-15",
     "start": "11:13:57",
@@ -44323,7 +44323,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E3609F71",
     "date": "2025-04-15",
     "start": "11:14:12",
@@ -44333,7 +44333,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-47E9C52F",
     "date": "2025-04-15",
     "start": "11:14:32",
@@ -44343,7 +44343,7 @@ export const epgData = [
   },
   {
     "program": "song:Desaandhiri,Siddharth & Santhosh Narayanan,Gypsy,Saregama,2019",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FA5A4CB8",
     "date": "2025-04-15",
     "start": "11:14:50",
@@ -44353,7 +44353,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C4613B34",
     "date": "2025-04-15",
     "start": "11:18:18",
@@ -44363,7 +44363,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Ashwin Shop,Sweet \nand Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C65DE255",
     "date": "2025-04-15",
     "start": "11:19:55",
@@ -44373,7 +44373,7 @@ export const epgData = [
   },
   {
     "program": "song:Kanimaa From Retro,Santhosh Narayanan,The Indian Choral Ensemble & Vivek,T-Series,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D83DACD6",
     "date": "2025-04-15",
     "start": "11:20:01",
@@ -44383,7 +44383,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BE562F84",
     "date": "2025-04-15",
     "start": "11:24:02",
@@ -44393,7 +44393,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Ashwin Shop,Sweet \nand Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5164168E",
     "date": "2025-04-15",
     "start": "11:24:10",
@@ -44403,7 +44403,7 @@ export const epgData = [
   },
   {
     "program": "song:Kamala From Sangathamizhan,Vivek - Mervin,Vivek Siva & Sanjana Kalmanje,Sony Music Entertainment India Pvt. Ltd.,2019",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1D4279A5",
     "date": "2025-04-15",
     "start": "11:24:15",
@@ -44413,7 +44413,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3223269C",
     "date": "2025-04-15",
     "start": "11:28:10",
@@ -44423,7 +44423,7 @@ export const epgData = [
   },
   {
     "program": "program Ad:Unngal Surya FM ,Pothys  Premium League",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D68AFBE5",
     "date": "2025-04-15",
     "start": "11:28:58",
@@ -44433,7 +44433,7 @@ export const epgData = [
   },
   {
     "program": "Sponserd Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-73A0E871",
     "date": "2025-04-15",
     "start": "11:29:46",
@@ -44443,7 +44443,7 @@ export const epgData = [
   },
   {
     "program": "Powred By Ad:Vijaylaxmi Eye Hospital ,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-37E4440C",
     "date": "2025-04-15",
     "start": "11:29:57",
@@ -44453,7 +44453,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3BD192D9",
     "date": "2025-04-15",
     "start": "11:30:03",
@@ -44463,7 +44463,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anuj Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D7E7FA4E",
     "date": "2025-04-15",
     "start": "11:30:09",
@@ -44473,7 +44473,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DC36194C",
     "date": "2025-04-15",
     "start": "11:30:16",
@@ -44483,7 +44483,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\nAutomotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A3247190",
     "date": "2025-04-15",
     "start": "11:30:22",
@@ -44493,7 +44493,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking Baniyan,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AB35DC38",
     "date": "2025-04-15",
     "start": "11:30:29",
@@ -44503,7 +44503,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas,Cotton,Sarees,Fashion,Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4564F8CB",
     "date": "2025-04-15",
     "start": "11:31:45",
@@ -44513,7 +44513,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0DE37154",
     "date": "2025-04-15",
     "start": "11:31:57",
@@ -44523,7 +44523,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3F10B79B",
     "date": "2025-04-15",
     "start": "11:32:07",
@@ -44533,7 +44533,7 @@ export const epgData = [
   },
   {
     "program": "Ad:ChettinAd cement, \nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A0C96037",
     "date": "2025-04-15",
     "start": "11:32:22",
@@ -44543,7 +44543,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG AC,Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7179FFD2",
     "date": "2025-04-15",
     "start": "11:32:32",
@@ -44553,7 +44553,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SBI ,Faurd ,Public Sector Bank, Banking and Financial Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9B08E6CB",
     "date": "2025-04-15",
     "start": "11:32:52",
@@ -44563,7 +44563,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA ,Electronics & Appliances,Retail-Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8DC578F1",
     "date": "2025-04-15",
     "start": "11:33:22",
@@ -44573,7 +44573,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai,Authorized Car Dealership,Automotive Retail / Vehicle Sales & Service\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7A1D6733",
     "date": "2025-04-15",
     "start": "11:33:32",
@@ -44583,7 +44583,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-72E06A30",
     "date": "2025-04-15",
     "start": "11:33:52",
@@ -44593,7 +44593,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-863390FE",
     "date": "2025-04-15",
     "start": "11:34:02",
@@ -44603,7 +44603,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-09DCE6A4",
     "date": "2025-04-15",
     "start": "11:35:28",
@@ -44613,7 +44613,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F309A2D7",
     "date": "2025-04-15",
     "start": "11:35:45",
@@ -44623,7 +44623,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-70B724B8",
     "date": "2025-04-15",
     "start": "11:35:52",
@@ -44633,7 +44633,7 @@ export const epgData = [
   },
   {
     "program": "song:Idhazhin Oram From 3,The Innocence Of Love,Ajesh Ashok & Anirudh Ravichander,Best Of Anirudh,Sony Music Entertainment India Pvt. Ltd.,2011",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E682E7C0",
     "date": "2025-04-15",
     "start": "11:35:57",
@@ -44643,7 +44643,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A34053AB",
     "date": "2025-04-15",
     "start": "11:39:17",
@@ -44653,7 +44653,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DED9483B",
     "date": "2025-04-15",
     "start": "11:39:22",
@@ -44663,7 +44663,7 @@ export const epgData = [
   },
   {
     "program": "song:Vaa Senthaazhini From Adiye,Justin Prabhakaran,Sid Sriram & Bagavathy P K,Think Music,2023",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7B3EE1B3",
     "date": "2025-04-15",
     "start": "11:39:28",
@@ -44673,7 +44673,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C5C58315",
     "date": "2025-04-15",
     "start": "11:43:34",
@@ -44683,7 +44683,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-06F38352",
     "date": "2025-04-15",
     "start": "11:43:39",
@@ -44693,7 +44693,7 @@ export const epgData = [
   },
   {
     "program": "song:Ovvundraai Thirudugiraai,D. Imman,Karthik & Bhavya Pandit,Jeeva,Sony Music Entertainment India Pvt. Ltd.,2014",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7E7D10FF",
     "date": "2025-04-15",
     "start": "11:43:44",
@@ -44703,7 +44703,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Harini Jewellers,Gold Rate Update,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CA157EFD",
     "date": "2025-04-15",
     "start": "11:48:16",
@@ -44713,7 +44713,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AED8B2B4",
     "date": "2025-04-15",
     "start": "11:48:36",
@@ -44723,7 +44723,7 @@ export const epgData = [
   },
   {
     "program": "program:Movie Update",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AAD7AE24",
     "date": "2025-04-15",
     "start": "11:49:04",
@@ -44733,7 +44733,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anantha Silks ParAdise,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7D0D8A27",
     "date": "2025-04-15",
     "start": "11:49:54",
@@ -44743,7 +44743,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-13F6CF27",
     "date": "2025-04-15",
     "start": "11:50:10",
@@ -44753,7 +44753,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-29605D34",
     "date": "2025-04-15",
     "start": "11:50:30",
@@ -44763,7 +44763,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\n Building Materials,\n Construction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CDC952E0",
     "date": "2025-04-15",
     "start": "11:50:45",
@@ -44773,7 +44773,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-97F4DF5E",
     "date": "2025-04-15",
     "start": "11:51:05",
@@ -44783,7 +44783,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anant,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F95A94F2",
     "date": "2025-04-15",
     "start": "11:51:15",
@@ -44793,7 +44793,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silverline Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-08FB296E",
     "date": "2025-04-15",
     "start": "11:51:20",
@@ -44803,7 +44803,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Rayzon Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C6AFABA9",
     "date": "2025-04-15",
     "start": "11:51:40",
@@ -44813,7 +44813,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SBI ,Faurd ,Public Sector Bank, Banking and Financial Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-87E151EE",
     "date": "2025-04-15",
     "start": "11:51:50",
@@ -44823,7 +44823,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4EDCA93D",
     "date": "2025-04-15",
     "start": "11:52:20",
@@ -44833,7 +44833,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B1E7A159",
     "date": "2025-04-15",
     "start": "11:52:39",
@@ -44843,7 +44843,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Saravana Electricals,Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-11AE3837",
     "date": "2025-04-15",
     "start": "11:52:46",
@@ -44853,7 +44853,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail\u2013Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9A0DD80A",
     "date": "2025-04-15",
     "start": "11:52:50",
@@ -44863,7 +44863,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CD5C6962",
     "date": "2025-04-15",
     "start": "11:52:54",
@@ -44873,7 +44873,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-50566602",
     "date": "2025-04-15",
     "start": "11:52:59",
@@ -44883,7 +44883,7 @@ export const epgData = [
   },
   {
     "program": "song:Poovae Poochudava,K.S.Chithra,IMM,1984",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E04CD5C9",
     "date": "2025-04-15",
     "start": "11:54:20",
@@ -44893,7 +44893,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3A3B5FD8",
     "date": "2025-04-15",
     "start": "11:58:28",
@@ -44903,7 +44903,7 @@ export const epgData = [
   },
   {
     "program": "song:Orumurai Aval Vizhi From Run,Jack Smelly,Kan Pesum Varthaigal-Tender Songs,Five Star Audio,2002",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AFEF1166",
     "date": "2025-04-15",
     "start": "11:58:45",
@@ -44913,7 +44913,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AE8816A0",
     "date": "2025-04-15",
     "start": "11:59:55",
@@ -44923,7 +44923,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-656BE2F1",
     "date": "2025-04-15",
     "start": "12:00:00",
@@ -44933,7 +44933,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal & Mangal Thanga Maligai, Jewellery Retail, Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-43328AF0",
     "date": "2025-04-15",
     "start": "12:00:32",
@@ -44943,7 +44943,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Hamsa Electronics,Fans,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9F593D54",
     "date": "2025-04-15",
     "start": "12:00:43",
@@ -44953,7 +44953,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-853CDF07",
     "date": "2025-04-15",
     "start": "12:00:55",
@@ -44963,7 +44963,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D9AA6C9C",
     "date": "2025-04-15",
     "start": "12:00:58",
@@ -44973,7 +44973,7 @@ export const epgData = [
   },
   {
     "program": "song:Masthie From The Gretest Of All Time,Yuvan Shankar Raja,Shenbagaraj,Velu,Sam,Narayan Ravishankar &Ramajogayya Sastry,Masthie From The Gretest Of All Time-Single,T-Series,2024",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-315F6EDB",
     "date": "2025-04-15",
     "start": "12:01:04",
@@ -44983,7 +44983,7 @@ export const epgData = [
   },
   {
     "program": "program by Rj Hasni",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4C3D334B",
     "date": "2025-04-15",
     "start": "12:04:29",
@@ -44993,7 +44993,7 @@ export const epgData = [
   },
   {
     "program": "song:Chalmaar,Benny Dayal,Sajid Wajid & Na.Muthukumar,Devi Orisional Motion Picture Soundtrack-EP,Divo Tv Private Limited,2016",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9A64AF2C",
     "date": "2025-04-15",
     "start": "12:05:54",
@@ -45003,7 +45003,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D8B8A76B",
     "date": "2025-04-15",
     "start": "12:10:11",
@@ -45013,7 +45013,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7210126D",
     "date": "2025-04-15",
     "start": "12:10:27",
@@ -45023,7 +45023,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-609E3D24",
     "date": "2025-04-15",
     "start": "12:10:36",
@@ -45033,7 +45033,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F9B69138",
     "date": "2025-04-15",
     "start": "12:10:46",
@@ -45043,7 +45043,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal & Mangal Thanga Maligai, Jewellery Retail, Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A1E98187",
     "date": "2025-04-15",
     "start": "12:10:56",
@@ -45053,7 +45053,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Poorvika Showroom,Mobile,Eletronic Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D8C5EC7F",
     "date": "2025-04-15",
     "start": "12:11:06",
@@ -45063,7 +45063,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Moon Parivar",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-21ACB437",
     "date": "2025-04-15",
     "start": "12:11:21",
@@ -45073,7 +45073,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AA39D9D8",
     "date": "2025-04-15",
     "start": "12:11:41",
@@ -45083,7 +45083,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal & Mangal Thanga Maligai, Jewellery Retail, Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-80E4D5DD",
     "date": "2025-04-15",
     "start": "12:12:26",
@@ -45093,7 +45093,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-25CA1447",
     "date": "2025-04-15",
     "start": "12:12:42",
@@ -45103,7 +45103,7 @@ export const epgData = [
   },
   {
     "program": "song:Peelings From Pushpa 2 The Rule-Tamil,Senthil Ganesh,Rajalakshmi,Viveka &Siju Thuravoor,Peelings From Pushpa 2 The Rule-Tamil-Single,T-Series,2024",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3EAEF962",
     "date": "2025-04-15",
     "start": "12:12:53",
@@ -45113,7 +45113,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-84DD3297",
     "date": "2025-04-15",
     "start": "12:16:57",
@@ -45123,7 +45123,7 @@ export const epgData = [
   },
   {
     "program": "song:Kambathu Ponnu,Yuvan Shankar Raja,Sandakozhi 2,Sony Music Entertainment India,Pvt Ltd,2018",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5A773751",
     "date": "2025-04-15",
     "start": "12:18:46",
@@ -45133,7 +45133,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-97BF4300",
     "date": "2025-04-15",
     "start": "12:22:21",
@@ -45143,7 +45143,7 @@ export const epgData = [
   },
   {
     "program": "song:KAdhal Anukkal From Enthiran,Vijay Prakash & Shreya Ghoshal,Love,Thike Music,2010",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4F89720A",
     "date": "2025-04-15",
     "start": "12:22:28",
@@ -45153,7 +45153,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C5D0FA49",
     "date": "2025-04-15",
     "start": "12:28:12",
@@ -45163,7 +45163,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-31C495A2",
     "date": "2025-04-15",
     "start": "12:28:43",
@@ -45173,7 +45173,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Vasanth and Co, Televisions, Refrigerators, Washing Machines, ACs, Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D7938E77",
     "date": "2025-04-15",
     "start": "12:30:36",
@@ -45183,7 +45183,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F6631B01",
     "date": "2025-04-15",
     "start": "12:31:06",
@@ -45193,7 +45193,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-94FF60D2",
     "date": "2025-04-15",
     "start": "12:31:06",
@@ -45203,7 +45203,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Ramkrushna College Of Engineearing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-612B8ECD",
     "date": "2025-04-15",
     "start": "12:31:36",
@@ -45213,7 +45213,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Purvika,Showroom",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-854665E4",
     "date": "2025-04-15",
     "start": "12:31:55",
@@ -45223,7 +45223,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichy The Eye Foundation,Eye Care Hospital Chain,Healthcare / Ophthalmology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C1131727",
     "date": "2025-04-15",
     "start": "12:32:11",
@@ -45233,7 +45233,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA ,Electronics & Appliances,Retail-Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-94E99596",
     "date": "2025-04-15",
     "start": "12:32:26",
@@ -45243,7 +45243,7 @@ export const epgData = [
   },
   {
     "program": "Program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-901F9913",
     "date": "2025-04-15",
     "start": "12:32:36",
@@ -45253,7 +45253,7 @@ export const epgData = [
   },
   {
     "program": "Program About Apollo City Center",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-050F45C4",
     "date": "2025-04-15",
     "start": "12:32:52",
@@ -45263,7 +45263,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0D98C14C",
     "date": "2025-04-15",
     "start": "12:34:09",
@@ -45273,7 +45273,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C4B7A066",
     "date": "2025-04-15",
     "start": "12:34:12",
@@ -45283,7 +45283,7 @@ export const epgData = [
   },
   {
     "program": "song:Ussumu Laresey From Uthama Puthiran,Vijay Anthony,Emcee Jazz & Janaki Iyer,Dance Hits,Vol.2,Think Music,2010",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3B23CC52",
     "date": "2025-04-15",
     "start": "12:34:18",
@@ -45293,7 +45293,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FF4B94ED",
     "date": "2025-04-15",
     "start": "12:38:59",
@@ -45303,7 +45303,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BEFDD2C1",
     "date": "2025-04-15",
     "start": "12:39:04",
@@ -45313,7 +45313,7 @@ export const epgData = [
   },
   {
     "program": "song:Vannarapettayila From Maaveeran,Sivakartikeyan,Aditi Shankar,Bharath Sankar & Yugabharathi,Vannarapettayilla From Maaveeran-Single,Saregama,2023",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6D7DD776",
     "date": "2025-04-15",
     "start": "12:39:12",
@@ -45323,7 +45323,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B737DECA",
     "date": "2025-04-15",
     "start": "12:42:34",
@@ -45333,7 +45333,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-89F4F271",
     "date": "2025-04-15",
     "start": "12:42:39",
@@ -45343,7 +45343,7 @@ export const epgData = [
   },
   {
     "program": "song:Chella Kutti From Theri,Vijay & Neeti Mohan,Hits Of 2016,Vol. 2,Think Music,2016",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8909346C",
     "date": "2025-04-15",
     "start": "12:42:45",
@@ -45353,7 +45353,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8C6E3232",
     "date": "2025-04-15",
     "start": "12:47:32",
@@ -45363,7 +45363,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2EEC6FB1",
     "date": "2025-04-15",
     "start": "12:47:44",
@@ -45373,7 +45373,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Tiruchi Clothing Summer Collection",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2E55CA37",
     "date": "2025-04-15",
     "start": "12:48:26",
@@ -45383,7 +45383,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichy The Eye Foundation,Eye Care Hospital Chain,Healthcare / Ophthalmology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B0F75ACA",
     "date": "2025-04-15",
     "start": "12:49:13",
@@ -45393,7 +45393,7 @@ export const epgData = [
   },
   {
     "program": "program:Talk About Star Suryan",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DFE4EF5E",
     "date": "2025-04-15",
     "start": "12:49:42",
@@ -45403,7 +45403,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4509AD2B",
     "date": "2025-04-15",
     "start": "12:50:39",
@@ -45413,7 +45413,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-62B3551C",
     "date": "2025-04-15",
     "start": "12:50:59",
@@ -45423,7 +45423,7 @@ export const epgData = [
   },
   {
     "program": "Program:talk modi about food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-99A5C185",
     "date": "2025-04-15",
     "start": "12:51:09",
@@ -45433,7 +45433,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Tirchy ReAdymAde silk Collection",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CB79F4E5",
     "date": "2025-04-15",
     "start": "12:51:49",
@@ -45443,7 +45443,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FD465CBE",
     "date": "2025-04-15",
     "start": "12:51:54",
@@ -45453,7 +45453,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichy The Eye Foundation,Eye Care Hospital Chain,Healthcare / Ophthalmology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-61E3686E",
     "date": "2025-04-15",
     "start": "12:52:09",
@@ -45463,7 +45463,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys ,Textile,ReAdymAde Garment Retailers",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-742E1915",
     "date": "2025-04-15",
     "start": "12:52:30",
@@ -45473,7 +45473,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal & Mangal",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2165382F",
     "date": "2025-04-15",
     "start": "12:52:35",
@@ -45483,7 +45483,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Hamsa Electronics,Fans,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B9FFC628",
     "date": "2025-04-15",
     "start": "12:52:45",
@@ -45493,7 +45493,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichysarathas Silk Sarees,Textile and Apparel",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AAC57987",
     "date": "2025-04-15",
     "start": "12:53:01",
@@ -45503,7 +45503,7 @@ export const epgData = [
   },
   {
     "program": "song:AathAdi AathAdi,Harris Jayaraj,Bhavatharini,Tipu,Dhanush & Abhay Jodhpurkar,Anegan Orisional Motion Picture Soundtrack,Sony Music Entertainment India Pvt Ltd,2014",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-30FE47D0",
     "date": "2025-04-15",
     "start": "12:54:23",
@@ -45513,7 +45513,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1B3ED25C",
     "date": "2025-04-15",
     "start": "13:00:00",
@@ -45523,7 +45523,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6903BC97",
     "date": "2025-04-15",
     "start": "13:00:46",
@@ -45533,7 +45533,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sakthi Masala, Food, FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A581C545",
     "date": "2025-04-15",
     "start": "13:01:02",
@@ -45543,7 +45543,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E09F12F3",
     "date": "2025-04-15",
     "start": "13:01:06",
@@ -45553,7 +45553,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Salt",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D5A651DE",
     "date": "2025-04-15",
     "start": "13:01:13",
@@ -45563,7 +45563,7 @@ export const epgData = [
   },
   {
     "program": "Song:Sol Pechu From ThillalangAdi,Yuvan Shankar Raja,K.S. Chithra &Shreya Ghoshal,Voice Of Yuvanshankar Raja,Vol.2,Sony Music Entertainment India Pvt.Ltd,2010",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D1AD8E86",
     "date": "2025-04-15",
     "start": "13:01:13",
@@ -45573,7 +45573,7 @@ export const epgData = [
   },
   {
     "program": "Program:rj Kesavan",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-50B7048F",
     "date": "2025-04-15",
     "start": "13:06:08",
@@ -45583,7 +45583,7 @@ export const epgData = [
   },
   {
     "program": "Song:Naracha Mudi From Dhruva Natchathiram,Haris Jayaraj &Srilekha Parthasarathy,Sony Music Entertainment India Pvt.Ltd.,2023",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ECF06F4E",
     "date": "2025-04-15",
     "start": "13:07:41",
@@ -45593,7 +45593,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D9E57A9F",
     "date": "2025-04-15",
     "start": "13:10:35",
@@ -45603,7 +45603,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-48713977",
     "date": "2025-04-15",
     "start": "13:11:00",
@@ -45613,7 +45613,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronic\n Washing Machines, ACs, \n Retail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4560094F",
     "date": "2025-04-15",
     "start": "13:11:02",
@@ -45623,7 +45623,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SarAdas",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-61F6F93B",
     "date": "2025-04-15",
     "start": "13:11:10",
@@ -45633,7 +45633,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EC26A713",
     "date": "2025-04-15",
     "start": "13:11:18",
@@ -45643,7 +45643,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7B2F580C",
     "date": "2025-04-15",
     "start": "13:11:28",
@@ -45653,7 +45653,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-552B9FB5",
     "date": "2025-04-15",
     "start": "13:11:34",
@@ -45663,7 +45663,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Gopal..",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7175A9CD",
     "date": "2025-04-15",
     "start": "13:11:50",
@@ -45673,7 +45673,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Fridge,Refrigerators",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F86466DC",
     "date": "2025-04-15",
     "start": "13:12:00",
@@ -45683,7 +45683,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Showroom",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-29AEF534",
     "date": "2025-04-15",
     "start": "13:12:20",
@@ -45693,7 +45693,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3DF29F28",
     "date": "2025-04-15",
     "start": "13:12:40",
@@ -45703,7 +45703,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Payments App",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-12EA39D6",
     "date": "2025-04-15",
     "start": "13:12:51",
@@ -45713,7 +45713,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9D4C5520",
     "date": "2025-04-15",
     "start": "13:13:11",
@@ -45723,7 +45723,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2A1CE36B",
     "date": "2025-04-15",
     "start": "13:11:25",
@@ -45733,7 +45733,7 @@ export const epgData = [
   },
   {
     "program": "Song:KaAdhal,Harris Jeyaraj & Naresh Iyer,Patchai Kili Muthucharan,Divo Tv Private Limited,2007",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7710AFC0",
     "date": "2025-04-15",
     "start": "13:13:44",
@@ -45743,7 +45743,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-45F2608A",
     "date": "2025-04-15",
     "start": "13:18:26",
@@ -45753,7 +45753,7 @@ export const epgData = [
   },
   {
     "program": "program :rj Kesavan",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8B6F8FD1",
     "date": "2025-04-15",
     "start": "13:18:31",
@@ -45763,7 +45763,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-02B6E73D",
     "date": "2025-04-15",
     "start": "13:19:53",
@@ -45773,7 +45773,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Aswin Shop,Sweet \n and Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8FC20938",
     "date": "2025-04-15",
     "start": "13:20:00",
@@ -45783,7 +45783,7 @@ export const epgData = [
   },
   {
     "program": "song:Nenjorathil,Supriya Joshi,Pichaikkaran,2016",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CB4D5427",
     "date": "2025-04-15",
     "start": "13:20:06",
@@ -45793,7 +45793,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-48C10B11",
     "date": "2025-04-15",
     "start": "13:24:19",
@@ -45803,7 +45803,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Aswin Shop,Sweet \n and Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5C4981D1",
     "date": "2025-04-15",
     "start": "13:24:23",
@@ -45813,7 +45813,7 @@ export const epgData = [
   },
   {
     "program": "Song:Mudher Kanave,Bombay Jayashri,Harish Raghavendra & O.S.Arun,Harish The Hit Machine,Saregama,2001",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3B1F0624",
     "date": "2025-04-15",
     "start": "13:24:30",
@@ -45823,7 +45823,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-13B35B37",
     "date": "2025-04-15",
     "start": "13:29:32",
@@ -45833,7 +45833,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ECB9C25E",
     "date": "2025-04-15",
     "start": "13:30:20",
@@ -45843,7 +45843,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Vijaylaxmi Eye Hospital",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5D3CE226",
     "date": "2025-04-15",
     "start": "13:30:30",
@@ -45853,7 +45853,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1F11DB88",
     "date": "2025-04-15",
     "start": "13:30:36",
@@ -45863,7 +45863,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Medical College & Art ,Scienece, Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-23A539FF",
     "date": "2025-04-15",
     "start": "13:30:49",
@@ -45873,7 +45873,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\n Automotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A1C8894E",
     "date": "2025-04-15",
     "start": "13:30:55",
@@ -45883,7 +45883,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sponsored Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C5F7B798",
     "date": "2025-04-15",
     "start": "13:31:01",
@@ -45893,7 +45893,7 @@ export const epgData = [
   },
   {
     "program": "Program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-87D7927F",
     "date": "2025-04-15",
     "start": "13:31:10",
@@ -45903,7 +45903,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B37DAC33",
     "date": "2025-04-15",
     "start": "13:32:00",
@@ -45913,7 +45913,7 @@ export const epgData = [
   },
   {
     "program": "Ad: K Ramakrishnan College \n of Engineering & Technology,\n College,\n Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B5F4FA59",
     "date": "2025-04-15",
     "start": "13:32:10",
@@ -45923,7 +45923,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silver lion Hospital",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B30E203F",
     "date": "2025-04-15",
     "start": "13:32:30",
@@ -45933,7 +45933,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Anant,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-200B2CE5",
     "date": "2025-04-15",
     "start": "13:32:50",
@@ -45943,7 +45943,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Purvika,Showroom",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C7D8FC6B",
     "date": "2025-04-15",
     "start": "13:32:56",
@@ -45953,7 +45953,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Kongu Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3970A00E",
     "date": "2025-04-15",
     "start": "13:33:10",
@@ -45963,7 +45963,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Eye Foundation,Hospital,Health",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E822BCE0",
     "date": "2025-04-15",
     "start": "13:33:30",
@@ -45973,7 +45973,7 @@ export const epgData = [
   },
   {
     "program": "Ad:MoonParivar,Jewellars",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-697AEA38",
     "date": "2025-04-15",
     "start": "13:33:46",
@@ -45983,7 +45983,7 @@ export const epgData = [
   },
   {
     "program": "Program-rj Kesavanam",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5B1E508C",
     "date": "2025-04-15",
     "start": "13:34:06",
@@ -45993,7 +45993,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0EB845B3",
     "date": "2025-04-15",
     "start": "13:36:02",
@@ -46003,7 +46003,7 @@ export const epgData = [
   },
   {
     "program": "Song:Oh Maaney Maaney,llaiyaraaja,1984",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-41D621BF",
     "date": "2025-04-15",
     "start": "13:36:09",
@@ -46013,7 +46013,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3CC01F96",
     "date": "2025-04-15",
     "start": "13:40:15",
@@ -46023,7 +46023,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\n Mall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6443EDD6",
     "date": "2025-04-15",
     "start": "13:40:20",
@@ -46033,7 +46033,7 @@ export const epgData = [
   },
   {
     "program": "Song:Valaiyosai,Ilaiyaraaja, S.P. Balasubrahmanyam & Lata Mangeshkar,Sathya Original Motion Picture Soundtrack,Echo Recording Co. Pvt. Ltd.,1987",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B273B386",
     "date": "2025-04-15",
     "start": "13:40:26",
@@ -46043,7 +46043,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1A5ABA29",
     "date": "2025-04-15",
     "start": "13:44:58",
@@ -46053,7 +46053,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\n Mall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7E3270EF",
     "date": "2025-04-15",
     "start": "13:45:03",
@@ -46063,7 +46063,7 @@ export const epgData = [
   },
   {
     "program": "Song: Kungkummam Manjalukku,K. J. Yesudas & S. Janaki,Enga Muthalali Original Motion Picture Soundtrack,Music Master,1991",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B7F451AC",
     "date": "2025-04-15",
     "start": "13:45:09",
@@ -46073,7 +46073,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-53E425C8",
     "date": "2025-04-15",
     "start": "13:50:04",
@@ -46083,7 +46083,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\n Mall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1EE1BC71",
     "date": "2025-04-15",
     "start": "13:50:22",
@@ -46093,7 +46093,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-09644F6C",
     "date": "2025-04-15",
     "start": "13:50:33",
@@ -46103,7 +46103,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise on Solar,Sunlights",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-286CCCB8",
     "date": "2025-04-15",
     "start": "13:50:48",
@@ -46113,7 +46113,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Tiruchi",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-639258A7",
     "date": "2025-04-15",
     "start": "13:50:58",
@@ -46123,7 +46123,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Intership",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4CDA01DE",
     "date": "2025-04-15",
     "start": "13:51:18",
@@ -46133,7 +46133,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anant,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5153CEF0",
     "date": "2025-04-15",
     "start": "13:52:03",
@@ -46143,7 +46143,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7419A159",
     "date": "2025-04-15",
     "start": "13:52:08",
@@ -46153,7 +46153,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C7927F16",
     "date": "2025-04-15",
     "start": "13:52:28",
@@ -46163,7 +46163,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B6FA0DE5",
     "date": "2025-04-15",
     "start": "13:52:33",
@@ -46173,7 +46173,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sakti Masale,Food,FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F84A42B0",
     "date": "2025-04-15",
     "start": "13:52:49",
@@ -46183,7 +46183,7 @@ export const epgData = [
   },
   {
     "program": "Ad:salt",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A533EC47",
     "date": "2025-04-15",
     "start": "13:52:58",
@@ -46193,7 +46193,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-57A0490F",
     "date": "2025-04-15",
     "start": "13:53:05",
@@ -46203,7 +46203,7 @@ export const epgData = [
   },
   {
     "program": "program:rk kesavam",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-59963568",
     "date": "2025-04-15",
     "start": "13:53:21",
@@ -46213,7 +46213,7 @@ export const epgData = [
   },
   {
     "program": "song:Sahana Saral Thoo,A.R. Rahman,Sivaji (Original Motion Picture Soundtrack),Avm productions,2007",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9451F339",
     "date": "2025-04-15",
     "start": "13:55:58",
@@ -46223,7 +46223,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CB6CB0A5",
     "date": "2025-04-15",
     "start": "14:00:00",
@@ -46233,7 +46233,7 @@ export const epgData = [
   },
   {
     "program": "Ad:sponsored Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E078F242",
     "date": "2025-04-15",
     "start": "14:00:43",
@@ -46243,7 +46243,7 @@ export const epgData = [
   },
   {
     "program": "Ad: K Ramakrishnan College \nof Engineering & Technology,\nCollege,\nEducation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6EB5DB6B",
     "date": "2025-04-15",
     "start": "14:01:06",
@@ -46253,7 +46253,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A8113E8F",
     "date": "2025-04-15",
     "start": "14:01:10",
@@ -46263,7 +46263,7 @@ export const epgData = [
   },
   {
     "program": "song:Hello Mister Edirkatchi From Iruvar,A.R. Rahman, Harini & Rajagopal,A.R. Rahman Hits, Vol.2,Divo Tv Private Limited,1994",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D32873D9",
     "date": "2025-04-15",
     "start": "14:01:16",
@@ -46273,7 +46273,7 @@ export const epgData = [
   },
   {
     "program": "program:rj kesavam",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7982D43D",
     "date": "2025-04-15",
     "start": "14:05:23",
@@ -46283,7 +46283,7 @@ export const epgData = [
   },
   {
     "program": "Enakkaaga Poranthaayae,Justin Prabhakaran, S.P. Charan & Anu Anand,Pannaiyaarum PAdminiyum Original Motion Picture Soundtrack,Sony Music Entertainment India Pvt. Ltd.,2013",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E7BE5DBB",
     "date": "2025-04-15",
     "start": "14:07:00",
@@ -46293,7 +46293,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6AC9515B",
     "date": "2025-04-15",
     "start": "14:10:38",
@@ -46303,7 +46303,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5430A622",
     "date": "2025-04-15",
     "start": "14:10:50",
@@ -46313,7 +46313,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EF64FF0D",
     "date": "2025-04-15",
     "start": "14:10:52",
@@ -46323,7 +46323,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EA429B09",
     "date": "2025-04-15",
     "start": "14:11:00",
@@ -46333,7 +46333,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D82B244A",
     "date": "2025-04-15",
     "start": "14:11:05",
@@ -46343,7 +46343,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-259B0FB5",
     "date": "2025-04-15",
     "start": "14:11:25",
@@ -46353,7 +46353,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A2A4F8FC",
     "date": "2025-04-15",
     "start": "14:11:35",
@@ -46363,7 +46363,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7AA3BB69",
     "date": "2025-04-15",
     "start": "14:11:50",
@@ -46373,7 +46373,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Purvika,Showroom",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C15B6BBC",
     "date": "2025-04-15",
     "start": "14:12:00",
@@ -46383,7 +46383,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sharda,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-20C4B1DF",
     "date": "2025-04-15",
     "start": "14:12:15",
@@ -46393,7 +46393,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-29527007",
     "date": "2025-04-15",
     "start": "14:12:30",
@@ -46403,7 +46403,7 @@ export const epgData = [
   },
   {
     "program": "Song: Aathangarai Maramea, Adhil Original Motion Picture Soundtrack,Mano & Sujatha Mohan,Kizhakku Cheemayile Original Motion Picture Soundtrack- EP,V Creations,1993",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5EDB3F42",
     "date": "2025-04-15",
     "start": "14:12:44",
@@ -46413,7 +46413,7 @@ export const epgData = [
   },
   {
     "program": "program:rj Kesavam",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5D69B0A6",
     "date": "2025-04-15",
     "start": "14:17:33",
@@ -46423,7 +46423,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3D39DFAA",
     "date": "2025-04-15",
     "start": "14:19:04",
@@ -46433,7 +46433,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ashwin Shop,Sweet \nand Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-30DFAD5D",
     "date": "2025-04-15",
     "start": "14:19:12",
@@ -46443,7 +46443,7 @@ export const epgData = [
   },
   {
     "program": "Irupathu Kodi From Thullatha Manamum Thullum,Hariharan & Vijay,Hits of Hariharan,Star Music,1996",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DA889619",
     "date": "2025-04-15",
     "start": "14:19:17",
@@ -46453,7 +46453,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-411D7887",
     "date": "2025-04-15",
     "start": "14:23:58",
@@ -46463,7 +46463,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ashwin Shop,Sweet \nand Snacks, FMCG, Food",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D2364140",
     "date": "2025-04-15",
     "start": "14:24:06",
@@ -46473,7 +46473,7 @@ export const epgData = [
   },
   {
     "program": "song:KAdhal Niagara From En Swasa Katre,A.R. Rahman, PalakkAd Sreeram, Harini & Anupama,A.R. Rahman Hits, Vol.2,Divo Tv Private Limited,1992",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-199FDC86",
     "date": "2025-04-15",
     "start": "14:24:11",
@@ -46483,7 +46483,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DE3992B3",
     "date": "2025-04-15",
     "start": "14:28:56",
@@ -46493,7 +46493,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-58EEB467",
     "date": "2025-04-15",
     "start": "14:30:23",
@@ -46503,7 +46503,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9B20755A",
     "date": "2025-04-15",
     "start": "14:30:45",
@@ -46513,7 +46513,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7F15CF4A",
     "date": "2025-04-15",
     "start": "14:30:55",
@@ -46523,7 +46523,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anant,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5AAECAFB",
     "date": "2025-04-15",
     "start": "14:31:11",
@@ -46533,7 +46533,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-83FB1211",
     "date": "2025-04-15",
     "start": "14:31:22",
@@ -46543,7 +46543,7 @@ export const epgData = [
   },
   {
     "program": "program:rj Kesavam",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DB5BCB02",
     "date": "2025-04-15",
     "start": "14:31:40",
@@ -46553,7 +46553,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\nMall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4A8BE309",
     "date": "2025-04-15",
     "start": "14:33:09",
@@ -46563,7 +46563,7 @@ export const epgData = [
   },
   {
     "program": "Naan Thedum Sevanthi,Ilaiyaraaja & S. Janaki,Dharma Pathini Original Motion Picture Soundtrack,IMM,1986",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C1DDDB26",
     "date": "2025-04-15",
     "start": "14:33:13",
@@ -46573,7 +46573,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-505B0B94",
     "date": "2025-04-15",
     "start": "14:37:49",
@@ -46583,7 +46583,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\nMall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F5E1840A",
     "date": "2025-04-15",
     "start": "14:37:55",
@@ -46593,7 +46593,7 @@ export const epgData = [
   },
   {
     "program": "Enakenna Yerkanavey From Parthen Rasithen,P. Unnikrishnan & Harini,Mega Hits of Unnikrishnan,Five Star Audio,2000",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B7312BB6",
     "date": "2025-04-15",
     "start": "14:38:00",
@@ -46603,7 +46603,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6D830230",
     "date": "2025-04-15",
     "start": "14:43:20",
@@ -46613,7 +46613,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\nMall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-647BB12F",
     "date": "2025-04-15",
     "start": "14:43:26",
@@ -46623,7 +46623,7 @@ export const epgData = [
   },
   {
     "program": "Muthumani Maala,S.P. Balasubrahmanyam & P. Susheela,1992",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E506A7C2",
     "date": "2025-04-15",
     "start": "14:43:32",
@@ -46633,7 +46633,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F5A4AF0A",
     "date": "2025-04-15",
     "start": "14:48:28",
@@ -46643,7 +46643,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C83E7442",
     "date": "2025-04-15",
     "start": "14:49:30",
@@ -46653,7 +46653,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AF94F0D7",
     "date": "2025-04-15",
     "start": "14:49:46",
@@ -46663,7 +46663,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-491F7593",
     "date": "2025-04-15",
     "start": "14:49:53",
@@ -46673,7 +46673,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9A192CBE",
     "date": "2025-04-15",
     "start": "14:49:59",
@@ -46683,7 +46683,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\nAutomotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1C70389C",
     "date": "2025-04-15",
     "start": "14:50:05",
@@ -46693,7 +46693,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking Baniyan,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-27BF06A0",
     "date": "2025-04-15",
     "start": "14:50:13",
@@ -46703,7 +46703,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3F157923",
     "date": "2025-04-15",
     "start": "14:50:22",
@@ -46713,7 +46713,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Vasanth and Co, Televisions, Refrigerators, Washing Machines, ACs, Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3DEEA588",
     "date": "2025-04-15",
     "start": "14:51:00",
@@ -46723,7 +46723,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\nMall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-87BD0EDF",
     "date": "2025-04-15",
     "start": "14:51:20",
@@ -46733,7 +46733,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2285E0A9",
     "date": "2025-04-15",
     "start": "14:51:30",
@@ -46743,7 +46743,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4CFE7684",
     "date": "2025-04-15",
     "start": "14:51:50",
@@ -46753,7 +46753,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-85743822",
     "date": "2025-04-15",
     "start": "14:52:00",
@@ -46763,7 +46763,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D6AB1A04",
     "date": "2025-04-15",
     "start": "14:52:10",
@@ -46773,7 +46773,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Purvika,Showroom",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-97A0DE44",
     "date": "2025-04-15",
     "start": "14:52:30",
@@ -46783,7 +46783,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BD666674",
     "date": "2025-04-15",
     "start": "14:52:51",
@@ -46793,7 +46793,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\nJewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1B99D927",
     "date": "2025-04-15",
     "start": "14:52:59",
@@ -46803,7 +46803,7 @@ export const epgData = [
   },
   {
     "program": "Ad: K Ramakrishnan College \nof Engineering,\nCollege,\nEducation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CBA52546",
     "date": "2025-04-15",
     "start": "14:53:11",
@@ -46813,7 +46813,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\nMall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6A215D60",
     "date": "2025-04-15",
     "start": "14:53:23",
@@ -46823,7 +46823,7 @@ export const epgData = [
   },
   {
     "program": "program:rj Kesavam",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4A68F701",
     "date": "2025-04-15",
     "start": "14:53:28",
@@ -46833,7 +46833,7 @@ export const epgData = [
   },
   {
     "program": "Song: Akkam Pakkam,SAdhana Sargam,Kireedam Original Motion Picture Soundtrack EP,T Series,2007",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5EC6FE98",
     "date": "2025-04-15",
     "start": "14:55:08",
@@ -46843,7 +46843,7 @@ export const epgData = [
   },
   {
     "program": "song:Akkam Pakkam,SAdhana Sargam,Kireedam Original Motion Picture Soundtrack EP,T Series,2007",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E29FC93C",
     "date": "2025-04-15",
     "start": "15:00:00",
@@ -46853,7 +46853,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4BB80F8F",
     "date": "2025-04-15",
     "start": "15:00:10",
@@ -46863,7 +46863,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0A2AF1B1",
     "date": "2025-04-15",
     "start": "15:00:47",
@@ -46873,7 +46873,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C6CDBA5B",
     "date": "2025-04-15",
     "start": "15:00:56",
@@ -46883,7 +46883,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C280D26A",
     "date": "2025-04-15",
     "start": "15:01:10",
@@ -46893,7 +46893,7 @@ export const epgData = [
   },
   {
     "program": "song:Wicked, Andrea Jeremiah,Dj Shainth,2014",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3E1AE694",
     "date": "2025-04-15",
     "start": "15:01:15",
@@ -46903,7 +46903,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D3DBDA3A",
     "date": "2025-04-15",
     "start": "15:05:18",
@@ -46913,7 +46913,7 @@ export const epgData = [
   },
   {
     "program": "program:rj Srinu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B2149B30",
     "date": "2025-04-15",
     "start": "15:05:36",
@@ -46923,7 +46923,7 @@ export const epgData = [
   },
   {
     "program": "song:Saami Saami From Pushpa The Rise,Rajalakshmi Senthilganesh & Devi Sri PrasAd,Aditya Music,2021",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-04528E0E",
     "date": "2025-04-15",
     "start": "15:06:39",
@@ -46933,7 +46933,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B1090A85",
     "date": "2025-04-15",
     "start": "15:10:22",
@@ -46943,7 +46943,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-98BAD472",
     "date": "2025-04-15",
     "start": "15:10:41",
@@ -46953,7 +46953,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1A224971",
     "date": "2025-04-15",
     "start": "15:10:44",
@@ -46963,7 +46963,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3DAB3036",
     "date": "2025-04-15",
     "start": "15:10:48",
@@ -46973,7 +46973,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichy Eye Foundation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-06DA5C22",
     "date": "2025-04-15",
     "start": "15:11:00",
@@ -46983,7 +46983,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8A5F2D99",
     "date": "2025-04-15",
     "start": "15:11:16",
@@ -46993,7 +46993,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Intrship",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B05BE371",
     "date": "2025-04-15",
     "start": "15:11:31",
@@ -47003,7 +47003,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7CABBD34",
     "date": "2025-04-15",
     "start": "15:12:16",
@@ -47013,7 +47013,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-90B0B19D",
     "date": "2025-04-15",
     "start": "15:12:21",
@@ -47023,7 +47023,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Thaila,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BBA3F7EA",
     "date": "2025-04-15",
     "start": "15:12:41",
@@ -47033,7 +47033,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8B222335",
     "date": "2025-04-15",
     "start": "15:12:56",
@@ -47043,7 +47043,7 @@ export const epgData = [
   },
   {
     "program": "song:Pudichirukku,Harris Jayaraj, Hariharan, Komal Ramesh & Mahathi,Saamy Original Motion Picture Soundtrack EP,Divo Tv Private Limited,2003",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2CDEEFBF",
     "date": "2025-04-15",
     "start": "15:13:12",
@@ -47053,7 +47053,7 @@ export const epgData = [
   },
   {
     "program": "program:rj punith",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ACE15324",
     "date": "2025-04-15",
     "start": "15:18:06",
@@ -47063,7 +47063,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Aswins Sweets, Food & Beverage, TrAditional South Indian Sweets, FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4D7866F8",
     "date": "2025-04-15",
     "start": "15:19:32",
@@ -47073,7 +47073,7 @@ export const epgData = [
   },
   {
     "program": "song:Thumbi Thullal From Cobra,A.R. Rahman, Nakul Abhyankar & Shreya Ghoshal,Thumbi Thullal From Cobra Single,Sony Music Entertainment India Pvt. Ltd.,2020",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F4586955",
     "date": "2025-04-15",
     "start": "15:19:36",
@@ -47083,7 +47083,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6E93DC67",
     "date": "2025-04-15",
     "start": "15:24:16",
@@ -47093,7 +47093,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Aswins Sweets, Food & Beverage, TrAditional South Indian Sweets, FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DFAE5F50",
     "date": "2025-04-15",
     "start": "15:24:24",
@@ -47103,7 +47103,7 @@ export const epgData = [
   },
   {
     "program": "song:Karuppaana Kaiyale,Ranjith & Roshni,Thaamirabharani Original Motion Picture Soundtrack EP,Saregama,2006",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8ADC9F0D",
     "date": "2025-04-15",
     "start": "15:24:30",
@@ -47113,7 +47113,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3390CE70",
     "date": "2025-04-15",
     "start": "15:27:53",
@@ -47123,7 +47123,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-62EAE357",
     "date": "2025-04-15",
     "start": "15:29:40",
@@ -47133,7 +47133,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3D76860B",
     "date": "2025-04-15",
     "start": "15:29:56",
@@ -47143,7 +47143,7 @@ export const epgData = [
   },
   {
     "program": "Powred By Ad:Vijaylaxmi Eye Hospital ,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6849CB8F",
     "date": "2025-04-15",
     "start": "15:30:03",
@@ -47153,7 +47153,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-96254ED2",
     "date": "2025-04-15",
     "start": "15:30:10",
@@ -47163,7 +47163,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anuj Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-31691CEC",
     "date": "2025-04-15",
     "start": "15:30:17",
@@ -47173,7 +47173,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A5ECA79E",
     "date": "2025-04-15",
     "start": "15:30:22",
@@ -47183,7 +47183,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\n Automotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D0764DED",
     "date": "2025-04-15",
     "start": "15:30:27",
@@ -47193,7 +47193,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking Baniyan,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CB4B0CC0",
     "date": "2025-04-15",
     "start": "15:30:35",
@@ -47203,7 +47203,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E6F0D896",
     "date": "2025-04-15",
     "start": "15:30:43",
@@ -47213,7 +47213,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-61EB6F99",
     "date": "2025-04-15",
     "start": "15:32:00",
@@ -47223,7 +47223,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\n Building Materials,\n Construction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2993A8FC",
     "date": "2025-04-15",
     "start": "15:32:12",
@@ -47233,7 +47233,7 @@ export const epgData = [
   },
   {
     "program": "Ad: VandiMandi Second Car Selling App,App",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9894B50B",
     "date": "2025-04-15",
     "start": "15:32:33",
@@ -47243,7 +47243,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichy Eye Foundation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D31C6697",
     "date": "2025-04-15",
     "start": "15:32:42",
@@ -47253,7 +47253,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-416DC715",
     "date": "2025-04-15",
     "start": "15:32:57",
@@ -47263,7 +47263,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Appolo Hospitals,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0B7F3C2A",
     "date": "2025-04-15",
     "start": "15:33:12",
@@ -47273,7 +47273,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anant,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C0769F72",
     "date": "2025-04-15",
     "start": "15:33:33",
@@ -47283,7 +47283,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-39F05689",
     "date": "2025-04-15",
     "start": "15:33:37",
@@ -47293,7 +47293,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F0CB2515",
     "date": "2025-04-15",
     "start": "15:34:55",
@@ -47303,7 +47303,7 @@ export const epgData = [
   },
   {
     "program": "Song:En Iniya Thanimaye From Teddy,Sid Sriram & D. Imman,En Iniya Thanimaye From Teddy Single,Think Music,2020",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B7C7BB5D",
     "date": "2025-04-15",
     "start": "15:35:00",
@@ -47313,7 +47313,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8FC00BA2",
     "date": "2025-04-15",
     "start": "15:39:27",
@@ -47323,7 +47323,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CD09D6A6",
     "date": "2025-04-15",
     "start": "15:39:32",
@@ -47333,7 +47333,7 @@ export const epgData = [
   },
   {
     "program": "Song: Spark From The Greatest Of All Time,Yuvan Shankar Raja & Vrusha Balu,Yuvan Shankar Raja Birthday Hits EP,T Series,2024",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AE44BBDD",
     "date": "2025-04-15",
     "start": "15:39:38",
@@ -47343,7 +47343,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-12759481",
     "date": "2025-04-15",
     "start": "15:43:44",
@@ -47353,7 +47353,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B15BB5BF",
     "date": "2025-04-15",
     "start": "15:43:50",
@@ -47363,7 +47363,7 @@ export const epgData = [
   },
   {
     "program": "song:Kaal Mulaitha Poovae,Javed Ali, Mahalakshmi Iyer, Nincy Vincent & Harris Jayaraj,Maattrraan Original Motion Picture Soundtrack,Sony Music Entertainment India Pvt. Ltd.,2012",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-64AF7901",
     "date": "2025-04-15",
     "start": "15:43:55",
@@ -47373,7 +47373,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5559E1A0",
     "date": "2025-04-15",
     "start": "15:49:19",
@@ -47383,7 +47383,7 @@ export const epgData = [
   },
   {
     "program": "program:rj Hasini",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E55DBF73",
     "date": "2025-04-15",
     "start": "15:49:35",
@@ -47393,7 +47393,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-08EF0DE4",
     "date": "2025-04-15",
     "start": "15:50:20",
@@ -47403,7 +47403,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3B219C53",
     "date": "2025-04-15",
     "start": "15:50:30",
@@ -47413,7 +47413,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA ,Electronics & Appliances,Retail-Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4F06AB9A",
     "date": "2025-04-15",
     "start": "15:50:40",
@@ -47423,7 +47423,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anantha Silks ParAdise,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9409019B",
     "date": "2025-04-15",
     "start": "15:50:51",
@@ -47433,7 +47433,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6DFDB464",
     "date": "2025-04-15",
     "start": "15:51:01",
@@ -47443,7 +47443,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A78ABB1C",
     "date": "2025-04-15",
     "start": "15:51:10",
@@ -47453,7 +47453,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9FDE3849",
     "date": "2025-04-15",
     "start": "15:51:16",
@@ -47463,7 +47463,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-43ABF238",
     "date": "2025-04-15",
     "start": "15:51:36",
@@ -47473,7 +47473,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-91DA5F10",
     "date": "2025-04-15",
     "start": "15:51:56",
@@ -47483,7 +47483,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F00B4C29",
     "date": "2025-04-15",
     "start": "15:52:09",
@@ -47493,7 +47493,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Salt",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6602B3CB",
     "date": "2025-04-15",
     "start": "15:52:14",
@@ -47503,7 +47503,7 @@ export const epgData = [
   },
   {
     "program": "Ad: SarAdas Shopping ,\n Mall, Trichy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B28FCA9D",
     "date": "2025-04-15",
     "start": "15:52:19",
@@ -47513,7 +47513,7 @@ export const epgData = [
   },
   {
     "program": "program:rj",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6797C561",
     "date": "2025-04-15",
     "start": "15:52:25",
@@ -47523,7 +47523,7 @@ export const epgData = [
   },
   {
     "program": "song:Og Sambavam From Good BAd Ugly,G.V. Prakash Kumar, Adhik Ravi Chandran & Vishnu Edavan,Og Sambavam From Good BAd Ugly Single,T-Series,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4869CFBA",
     "date": "2025-04-15",
     "start": "15:53:41",
@@ -47533,7 +47533,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-982562C6",
     "date": "2025-04-15",
     "start": "15:56:51",
@@ -47543,7 +47543,7 @@ export const epgData = [
   },
   {
     "program": "Song: Oh Shanthi Shanthi,Clinton, Harris Jayaraj & S.P. Charan,Vaaranam Aayiram Original Motion Picture Soundtrack,Sony Music Entertainment India Pvt. Ltd.,2008",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A318204B",
     "date": "2025-04-15",
     "start": "15:57:10",
@@ -47553,7 +47553,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FACF0A51",
     "date": "2025-04-15",
     "start": "16:00:00",
@@ -47563,7 +47563,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-55561425",
     "date": "2025-04-15",
     "start": "16:00:45",
@@ -47573,7 +47573,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai i 20,Automotive / Passenger Vehicles\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1F39D3C9",
     "date": "2025-04-15",
     "start": "16:00:56",
@@ -47583,7 +47583,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sakthi Masale, Food & Beverage, Spice Powders, FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8AD4F188",
     "date": "2025-04-15",
     "start": "16:00:58",
@@ -47593,7 +47593,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kongu Thanga Malagai, Jewellery, Fashion\\Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-54C5A344",
     "date": "2025-04-15",
     "start": "16:01:03",
@@ -47603,7 +47603,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichy sarathas Silk Sarees,Textile and Apparel",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1CBC6A55",
     "date": "2025-04-15",
     "start": "16:01:12",
@@ -47613,7 +47613,7 @@ export const epgData = [
   },
   {
     "program": "Song:Inbam Pongum Vennila From Aambala,Hip Hop Thamizha,Saregamapa,2014",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-24E5EC51",
     "date": "2025-04-15",
     "start": "16:01:17",
@@ -47623,7 +47623,7 @@ export const epgData = [
   },
   {
     "program": "Program:Suriyan StarTalks",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2429647F",
     "date": "2025-04-15",
     "start": "16:04:40",
@@ -47633,7 +47633,7 @@ export const epgData = [
   },
   {
     "program": "Song:Anbenum From Leo,Anirudh Ravichander & Lothika,Love Hits Of Anirudh Ravichander,Sony Music Entertainment India Pvt Ltd,2023",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C4AA19A4",
     "date": "2025-04-15",
     "start": "16:05:38",
@@ -47643,7 +47643,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-24F996C5",
     "date": "2025-04-15",
     "start": "16:09:06",
@@ -47653,7 +47653,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-80AFBAC1",
     "date": "2025-04-15",
     "start": "16:09:25",
@@ -47663,7 +47663,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators,",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D24C6DF9",
     "date": "2025-04-15",
     "start": "16:09:27",
@@ -47673,7 +47673,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys ,Textile,ReAdymAde Garment Retailers",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-54FEC316",
     "date": "2025-04-15",
     "start": "16:09:33",
@@ -47683,7 +47683,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles, Building Ceramics, Floor Tiles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-59CC1071",
     "date": "2025-04-15",
     "start": "16:09:39",
@@ -47693,7 +47693,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Ananth Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4A6AB510",
     "date": "2025-04-15",
     "start": "16:10:14",
@@ -47703,7 +47703,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EDE5404A",
     "date": "2025-04-15",
     "start": "16:10:19",
@@ -47713,7 +47713,7 @@ export const epgData = [
   },
   {
     "program": "**Ad:Akshay Tritiya",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CF91F4CF",
     "date": "2025-04-15",
     "start": "16:10:29",
@@ -47723,7 +47723,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichy sarathas Silk Sarees,Textile and Apparel",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-389C947E",
     "date": "2025-04-15",
     "start": "16:10:49",
@@ -47733,7 +47733,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai i 20,Automotive / Passenger Vehicles\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FAA9F144",
     "date": "2025-04-15",
     "start": "16:10:59",
@@ -47743,7 +47743,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A9477495",
     "date": "2025-04-15",
     "start": "16:11:20",
@@ -47753,7 +47753,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys ,Textile,ReAdymAde Garment Retailers",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-16F48C20",
     "date": "2025-04-15",
     "start": "16:11:40",
@@ -47763,7 +47763,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-47E95EEB",
     "date": "2025-04-15",
     "start": "16:11:50",
@@ -47773,7 +47773,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BE141B41",
     "date": "2025-04-15",
     "start": "16:12:05",
@@ -47783,7 +47783,7 @@ export const epgData = [
   },
   {
     "program": "Song:Thavani Pootta From Sandakozhi,Vijay Yesudas & Sujatha,Hits Of Harris Jayaraj &Yuvan Sankar Raja Isai Thendral,New Music,2005",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B835AF28",
     "date": "2025-04-15",
     "start": "16:12:20",
@@ -47793,7 +47793,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad Suriyam FM,Cine Cafe",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C56B6FF0",
     "date": "2025-04-15",
     "start": "16:16:41",
@@ -47803,7 +47803,7 @@ export const epgData = [
   },
   {
     "program": "Program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-857D1CD1",
     "date": "2025-04-15",
     "start": "16:16:53",
@@ -47813,7 +47813,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Aswins Sweets, Food & Beverage, TrAditional South Indian Sweets, FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E780CCFE",
     "date": "2025-04-15",
     "start": "16:17:53",
@@ -47823,7 +47823,7 @@ export const epgData = [
   },
   {
     "program": "Song:Eiffel Melay,Ranjith and suchithra,Thozha,Times Music,2016",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BAF094A5",
     "date": "2025-04-15",
     "start": "16:17:59",
@@ -47833,7 +47833,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B81075A3",
     "date": "2025-04-15",
     "start": "16:21:44",
@@ -47843,7 +47843,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Aswins Sweets, Food & Beverage, TrAditional South Indian Sweets, FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-01C7B1E2",
     "date": "2025-04-15",
     "start": "16:21:52",
@@ -47853,7 +47853,7 @@ export const epgData = [
   },
   {
     "program": "Song:Raasa Raasa From Kingston,G.V.prakash Kumar,Sublahshini & Yugabharathi,Saregama India Ltd,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9B9ABFEF",
     "date": "2025-04-15",
     "start": "16:21:58",
@@ -47863,7 +47863,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A377F7B2",
     "date": "2025-04-15",
     "start": "16:25:18",
@@ -47873,7 +47873,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad :Unngal Surya FM,Party Premier,Pothys Premium League",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E50155AA",
     "date": "2025-04-15",
     "start": "16:25:53",
@@ -47883,7 +47883,7 @@ export const epgData = [
   },
   {
     "program": "Sponsoerd Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4B8CBBB5",
     "date": "2025-04-15",
     "start": "16:26:42",
@@ -47893,7 +47893,7 @@ export const epgData = [
   },
   {
     "program": "Powered By Ad:Vijaylaxmi Eye Hospital ,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-65C74601",
     "date": "2025-04-15",
     "start": "16:26:49",
@@ -47903,7 +47903,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B7259DA3",
     "date": "2025-04-15",
     "start": "16:26:54",
@@ -47913,7 +47913,7 @@ export const epgData = [
   },
   {
     "program": "Sponsored Ad:Aruchi Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8A6F7DD8",
     "date": "2025-04-15",
     "start": "16:27:01",
@@ -47923,7 +47923,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7003178F",
     "date": "2025-04-15",
     "start": "16:27:08",
@@ -47933,7 +47933,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\n Automotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CA06ECCF",
     "date": "2025-04-15",
     "start": "16:27:13",
@@ -47943,7 +47943,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking Baniyan,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-390A7039",
     "date": "2025-04-15",
     "start": "16:27:19",
@@ -47953,7 +47953,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D1CA152F",
     "date": "2025-04-15",
     "start": "16:27:28",
@@ -47963,7 +47963,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-828AEF7F",
     "date": "2025-04-15",
     "start": "16:28:44",
@@ -47973,7 +47973,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Steamer",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-14ED4BB9",
     "date": "2025-04-15",
     "start": "16:28:54",
@@ -47983,7 +47983,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Kongu Thanga Maligai,\n Jewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-434EEB99",
     "date": "2025-04-15",
     "start": "16:29:14",
@@ -47993,7 +47993,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silverline Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9471D2F6",
     "date": "2025-04-15",
     "start": "16:29:34",
@@ -48003,7 +48003,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Ananth Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AEAC238D",
     "date": "2025-04-15",
     "start": "16:29:54",
@@ -48013,7 +48013,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-534ACA97",
     "date": "2025-04-15",
     "start": "16:29:59",
@@ -48023,7 +48023,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichy The Eye Foundation,Eye Care Hospital Chain,Healthcare / Ophthalmology\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E5699126",
     "date": "2025-04-15",
     "start": "16:30:14",
@@ -48033,7 +48033,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA ,Electronics & Appliances,Retail-Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D7131E79",
     "date": "2025-04-15",
     "start": "16:30:29",
@@ -48043,7 +48043,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Akshay trutiyam related",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8A6B82FA",
     "date": "2025-04-15",
     "start": "16:30:39",
@@ -48053,7 +48053,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad:Cine Cafe",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-19C58F72",
     "date": "2025-04-15",
     "start": "16:30:59",
@@ -48063,7 +48063,7 @@ export const epgData = [
   },
   {
     "program": "Program:Suriyan StarTalks",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6FC88C6E",
     "date": "2025-04-15",
     "start": "16:31:14",
@@ -48073,7 +48073,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Trichy Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5F537FEA",
     "date": "2025-04-15",
     "start": "16:32:14",
@@ -48083,7 +48083,7 @@ export const epgData = [
   },
   {
     "program": "Song:Vaaliba Vaa Vaa,Ilaiyaraaja,Yuvan Shankar Raja,S.P.Balasubrahmanyam & K.S.Chithra,Goa,Sony Music Entertainment India Pvt.Ltd,2010",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0E67D726",
     "date": "2025-04-15",
     "start": "16:32:20",
@@ -48093,7 +48093,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad:Suriyan FM",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D4E1BCF2",
     "date": "2025-04-15",
     "start": "16:37:01",
@@ -48103,7 +48103,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Trichy Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2ED563A9",
     "date": "2025-04-15",
     "start": "16:37:07",
@@ -48113,7 +48113,7 @@ export const epgData = [
   },
   {
     "program": "Song:Thikku Thikku,Harris Jayaraj,Benny Dayal & Sayanora Philip,Dhaam Dhoom,Divo Tv Private Limited,2008",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4AE39FA8",
     "date": "2025-04-15",
     "start": "16:37:12",
@@ -48123,7 +48123,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad:Suriyan FM",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E29DD32D",
     "date": "2025-04-15",
     "start": "16:42:28",
@@ -48133,7 +48133,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Trichy Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1C927049",
     "date": "2025-04-15",
     "start": "16:42:34",
@@ -48143,7 +48143,7 @@ export const epgData = [
   },
   {
     "program": "song:Bang Bang Bang From Anjaan,Yuvan Shankar Raja,K.G.Ranjith & MAdhan Karky,My Playlist:Yuvanshankar Raja,Sony Music Entertainment India PVT LTD,2014",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-55FADF9F",
     "date": "2025-04-15",
     "start": "16:42:40",
@@ -48153,7 +48153,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-42B66AE6",
     "date": "2025-04-15",
     "start": "16:46:52",
@@ -48163,7 +48163,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad:Suriyam FM",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-22B1A105",
     "date": "2025-04-15",
     "start": "16:47:14",
@@ -48173,7 +48173,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sowdambikaa World School,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9F3A2351",
     "date": "2025-04-15",
     "start": "16:47:20",
@@ -48183,7 +48183,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kasata Ice-creame,Cafe,Contonment",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C2C5728A",
     "date": "2025-04-15",
     "start": "16:47:44",
@@ -48193,7 +48193,7 @@ export const epgData = [
   },
   {
     "program": "Ad",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B9832CE6",
     "date": "2025-04-15",
     "start": "16:47:51",
@@ -48203,7 +48203,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Ticket,Travel",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-165B92B6",
     "date": "2025-04-15",
     "start": "16:47:56",
@@ -48213,7 +48213,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Food,Biryani",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C52C1ADC",
     "date": "2025-04-15",
     "start": "16:48:04",
@@ -48223,7 +48223,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad:Suriym Fm",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E6CAC05C",
     "date": "2025-04-15",
     "start": "16:48:09",
@@ -48233,7 +48233,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Trichy Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FCF4FAF9",
     "date": "2025-04-15",
     "start": "16:48:29",
@@ -48243,7 +48243,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Ramkrushna College Of Engineearing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-714CE032",
     "date": "2025-04-15",
     "start": "16:48:41",
@@ -48253,7 +48253,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-24D8716D",
     "date": "2025-04-15",
     "start": "16:49:00",
@@ -48263,7 +48263,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pm Internship,Internship Program, Education / Information Technology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B7B4DD22",
     "date": "2025-04-15",
     "start": "16:49:11",
@@ -48273,7 +48273,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anantha Silks ParAdise,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D3B0E65E",
     "date": "2025-04-15",
     "start": "16:49:55",
@@ -48283,7 +48283,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Saravana Elecrical,Appliances,Lights,Switches,Showroom",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B419298F",
     "date": "2025-04-15",
     "start": "16:50:10",
@@ -48293,7 +48293,7 @@ export const epgData = [
   },
   {
     "program": "Ad:The Eye Foundation,Eye Care Hospital Chain,Healthcare / Ophthalmology\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5959B0DE",
     "date": "2025-04-15",
     "start": "16:50:26",
@@ -48303,7 +48303,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Cotton Collection,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-97060BD3",
     "date": "2025-04-15",
     "start": "16:50:41",
@@ -48313,7 +48313,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-246148AA",
     "date": "2025-04-15",
     "start": "16:50:46",
@@ -48323,7 +48323,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Cine Cafe",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6BCEFC7D",
     "date": "2025-04-15",
     "start": "16:51:05",
@@ -48333,7 +48333,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangalam Thanga Maligai,Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-58A55910",
     "date": "2025-04-15",
     "start": "16:51:09",
@@ -48343,7 +48343,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Hyundai i 20,Automotive / Passenger Vehicles\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6DE1FCD4",
     "date": "2025-04-15",
     "start": "16:51:16",
@@ -48353,7 +48353,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sakti Masale,Food,FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5192B0B0",
     "date": "2025-04-15",
     "start": "16:51:20",
@@ -48363,7 +48363,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Trichy Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-07283724",
     "date": "2025-04-15",
     "start": "16:51:32",
@@ -48373,7 +48373,7 @@ export const epgData = [
   },
   {
     "program": "Program Ad:Suriyan FM",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7B57DB54",
     "date": "2025-04-15",
     "start": "16:51:38",
@@ -48383,7 +48383,7 @@ export const epgData = [
   },
   {
     "program": "Song:Vazhithunaiye From dragon,Leon James,Sid Sriram,Sanjana Kalmanje,Vignesh Shivan,Think Music,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-499A9C41",
     "date": "2025-04-15",
     "start": "16:52:56",
@@ -48393,7 +48393,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-666C7608",
     "date": "2025-04-15",
     "start": "16:56:30",
@@ -48403,7 +48403,7 @@ export const epgData = [
   },
   {
     "program": "Song:Dippam Dappam From Kaathuvaakula Rendu KaAdhal,Anirudh Ravichander,Anthony Daasan,Sony Music Entertainment India PVT LTD,2022",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D5ABB7B2",
     "date": "2025-04-15",
     "start": "16:56:44",
@@ -48413,7 +48413,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-02385148",
     "date": "2025-04-15",
     "start": "17:00:07",
@@ -48423,7 +48423,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9D0C0733",
     "date": "2025-04-15",
     "start": "17:00:43",
@@ -48433,7 +48433,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Vasanth and Co, Televisions, Refrigerators, Washing Machines, ACs, Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2B21151B",
     "date": "2025-04-15",
     "start": "17:01:05",
@@ -48443,7 +48443,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\n Building Materials,\n Construction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1360E468",
     "date": "2025-04-15",
     "start": "17:01:09",
@@ -48453,7 +48453,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DA86C391",
     "date": "2025-04-15",
     "start": "17:01:15",
@@ -48463,7 +48463,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D848684C",
     "date": "2025-04-15",
     "start": "17:01:18",
@@ -48473,7 +48473,7 @@ export const epgData = [
   },
   {
     "program": "Song:Endrendrum Punnagai,Srinivas,Clinton,Pravveen & L.Shankar,Alaipayuthey,saregama,2000",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C44D050A",
     "date": "2025-04-15",
     "start": "17:05:09",
@@ -48483,7 +48483,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9D1F85AE",
     "date": "2025-04-15",
     "start": "17:05:20",
@@ -48493,7 +48493,7 @@ export const epgData = [
   },
   {
     "program": "song:Varlaam Varlaam Vaa,Roshan Jamrock & Arunraja Kamaraj,Bairavaa,T-Series,2016",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-45019E02",
     "date": "2025-04-15",
     "start": "17:09:07",
@@ -48503,7 +48503,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-74C83C9A",
     "date": "2025-04-15",
     "start": "17:09:26",
@@ -48513,7 +48513,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1D8ED042",
     "date": "2025-04-15",
     "start": "17:09:30",
@@ -48523,7 +48523,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4BAA54FE",
     "date": "2025-04-15",
     "start": "17:09:35",
@@ -48533,7 +48533,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-025FCE26",
     "date": "2025-04-15",
     "start": "17:09:45",
@@ -48543,7 +48543,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\n Building Materials,\n Construction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-10CE5D8E",
     "date": "2025-04-15",
     "start": "17:10:06",
@@ -48553,7 +48553,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7D07D589",
     "date": "2025-04-15",
     "start": "17:10:16",
@@ -48563,7 +48563,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0291A1DA",
     "date": "2025-04-15",
     "start": "17:10:32",
@@ -48573,7 +48573,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA ,Electronics & Appliances,Retail-Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9E3A7081",
     "date": "2025-04-15",
     "start": "17:10:42",
@@ -48583,7 +48583,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DB81CF1C",
     "date": "2025-04-15",
     "start": "17:10:52",
@@ -48593,7 +48593,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8EFE8D52",
     "date": "2025-04-15",
     "start": "17:11:03",
@@ -48603,7 +48603,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5013A50C",
     "date": "2025-04-15",
     "start": "17:11:11",
@@ -48613,7 +48613,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A3B49CEE",
     "date": "2025-04-15",
     "start": "17:11:17",
@@ -48623,7 +48623,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A8E77901",
     "date": "2025-04-15",
     "start": "17:11:27",
@@ -48633,7 +48633,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1E14A890",
     "date": "2025-04-15",
     "start": "17:11:48",
@@ -48643,7 +48643,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-73A61B8F",
     "date": "2025-04-15",
     "start": "17:12:02",
@@ -48653,7 +48653,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-43719B48",
     "date": "2025-04-15",
     "start": "17:12:23",
@@ -48663,7 +48663,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D9C265B3",
     "date": "2025-04-15",
     "start": "17:12:26",
@@ -48673,7 +48673,7 @@ export const epgData = [
   },
   {
     "program": "song:Kan Pesum Varthaigal,7/G Rainbow Colony,Karthik,Vijay Jesudas and Karthhik Hits,Five Star,Audio,2000",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-909EA15A",
     "date": "2025-04-15",
     "start": "17:18:12",
@@ -48683,7 +48683,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3B454281",
     "date": "2025-04-15",
     "start": "17:18:16",
@@ -48693,7 +48693,7 @@ export const epgData = [
   },
   {
     "program": "song:Nannare,A.R.Rahman,Shreya Goshal & Uday Majumdar,Big FM Rahman Ungaludan,Sony Music Entertainnment India Pvt.Ltd,2001",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3C0752E9",
     "date": "2025-04-15",
     "start": "17:22:59",
@@ -48703,7 +48703,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D6487008",
     "date": "2025-04-15",
     "start": "17:23:03",
@@ -48713,7 +48713,7 @@ export const epgData = [
   },
   {
     "program": "song:Oh Ringa Ringa ,7 Aum Arivu,Harris Jayaraj ,Roshan & Jerry John,20 Biggest Hits,Sony Music Entertainment India Pvt.Ltd,2001",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-97DE3AE8",
     "date": "2025-04-15",
     "start": "17:28:11",
@@ -48723,7 +48723,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Harini Jewellers,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FE731E68",
     "date": "2025-04-15",
     "start": "17:28:31",
@@ -48733,7 +48733,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B3955A34",
     "date": "2025-04-15",
     "start": "17:29:07",
@@ -48743,7 +48743,7 @@ export const epgData = [
   },
   {
     "program": "program Ad :Unngal Surya FM ,Pothys Premium League",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2B7A171F",
     "date": "2025-04-15",
     "start": "17:29:28",
@@ -48753,7 +48753,7 @@ export const epgData = [
   },
   {
     "program": "Sponserd Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BB7E351A",
     "date": "2025-04-15",
     "start": "17:29:31",
@@ -48763,7 +48763,7 @@ export const epgData = [
   },
   {
     "program": "Powred By Ad:Vijaylaxmi Eye Hospital ,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B3A58CA2",
     "date": "2025-04-15",
     "start": "17:29:37",
@@ -48773,7 +48773,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanlakshmi Hospital,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5BD83915",
     "date": "2025-04-15",
     "start": "17:29:43",
@@ -48783,7 +48783,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Aruchi Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F91D8FD4",
     "date": "2025-04-15",
     "start": "17:29:49",
@@ -48793,7 +48793,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0ADA22C4",
     "date": "2025-04-15",
     "start": "17:29:55",
@@ -48803,7 +48803,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\n Automotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1FBA1149",
     "date": "2025-04-15",
     "start": "17:30:03",
@@ -48813,7 +48813,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D63D8070",
     "date": "2025-04-15",
     "start": "17:30:10",
@@ -48823,7 +48823,7 @@ export const epgData = [
   },
   {
     "program": "program:Surya Star Talk",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7A68CF9E",
     "date": "2025-04-15",
     "start": "17:31:00",
@@ -48833,7 +48833,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3D9B2D9D",
     "date": "2025-04-15",
     "start": "17:21:22",
@@ -48843,7 +48843,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9A431B70",
     "date": "2025-04-15",
     "start": "17:31:31",
@@ -48853,7 +48853,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2E8A9020",
     "date": "2025-04-15",
     "start": "17:31:52",
@@ -48863,7 +48863,7 @@ export const epgData = [
   },
   {
     "program": "Ad: K Ramakrishnan College \n of Engineering,\n College,\n Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-16E0E2AD",
     "date": "2025-04-15",
     "start": "17:32:12",
@@ -48873,7 +48873,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Trichy Eye Foundation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-371BFC42",
     "date": "2025-04-15",
     "start": "17:32:26",
@@ -48883,7 +48883,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Akshay Tritiya",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-52245D1C",
     "date": "2025-04-15",
     "start": "17:32:46",
@@ -48893,7 +48893,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BDF25F0F",
     "date": "2025-04-15",
     "start": "17:33:02",
@@ -48903,7 +48903,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-59EC3230",
     "date": "2025-04-15",
     "start": "17:33:23",
@@ -48913,7 +48913,7 @@ export const epgData = [
   },
   {
     "program": "song:KannAdi Poove,Retro,Santhosh Narayanan & Vivek ,T- Series,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B7F4D224",
     "date": "2025-04-15",
     "start": "17:33:26",
@@ -48923,7 +48923,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-99A30F90",
     "date": "2025-04-15",
     "start": "17:37:45",
@@ -48933,7 +48933,7 @@ export const epgData = [
   },
   {
     "program": "song:Namma Thamizh Folku,DAda,Jen Martin ,Vaisagh & Ashique AR,Think Music,2023",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-59D9F876",
     "date": "2025-04-15",
     "start": "17:37:55",
@@ -48943,7 +48943,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8E50077E",
     "date": "2025-04-15",
     "start": "17:42:19",
@@ -48953,7 +48953,7 @@ export const epgData = [
   },
   {
     "program": "song:Thunder Kaaran ,Veeran,Anirudh Ravichander,Hiphop Tamizha & Vivek,Saregama,2023",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3FD847E1",
     "date": "2025-04-15",
     "start": "17:42:22",
@@ -48963,7 +48963,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0EB9271A",
     "date": "2025-04-15",
     "start": "17:44:51",
@@ -48973,7 +48973,7 @@ export const epgData = [
   },
   {
     "program": "song:Naa Romba Busy,D.Imman,Santhosh hariharan,Neeti Mohan & Sharanya Gopinath,Vasuvum Saravananum Onna PAdichavangna,Sony Music Entertainment India Pvt.Ltd,2015",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-57FD6C96",
     "date": "2025-04-15",
     "start": "17:44:57",
@@ -48983,7 +48983,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6D87E1C1",
     "date": "2025-04-15",
     "start": "17:49:27",
@@ -48993,7 +48993,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-20E1A4ED",
     "date": "2025-04-15",
     "start": "17:49:44",
@@ -49003,7 +49003,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5F2B7EA3",
     "date": "2025-04-15",
     "start": "17:49:55",
@@ -49013,7 +49013,7 @@ export const epgData = [
   },
   {
     "program": "Ad:EngAda EngAda",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4AEC2EBB",
     "date": "2025-04-15",
     "start": "17:50:14",
@@ -49023,7 +49023,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silverline Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5B7D26A9",
     "date": "2025-04-15",
     "start": "17:50:30",
@@ -49033,7 +49033,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6C10B565",
     "date": "2025-04-15",
     "start": "17:50:50",
@@ -49043,7 +49043,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-26183DBD",
     "date": "2025-04-15",
     "start": "17:51:05",
@@ -49053,7 +49053,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Raise Solar Energy,Solar,Power Products,Renewable Energy",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-694333C9",
     "date": "2025-04-15",
     "start": "17:51:15",
@@ -49063,7 +49063,7 @@ export const epgData = [
   },
   {
     "program": "Ad:",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-70D94693",
     "date": "2025-04-15",
     "start": "17:51:22",
@@ -49073,7 +49073,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F362617E",
     "date": "2025-04-15",
     "start": "17:51:40",
@@ -49083,7 +49083,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-38CDEC4F",
     "date": "2025-04-15",
     "start": "17:51:44",
@@ -49093,7 +49093,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Vasanth and Co, Televisions, Refrigerators, Washing Machines, ACs, Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0110155F",
     "date": "2025-04-15",
     "start": "17:51:56",
@@ -49103,7 +49103,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\n Building Materials,\n Construction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1DCD33BC",
     "date": "2025-04-15",
     "start": "17:52:01",
@@ -49113,7 +49113,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9A4E49BD",
     "date": "2025-04-15",
     "start": "17:52:07",
@@ -49123,7 +49123,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-78708CD5",
     "date": "2025-04-15",
     "start": "17:52:11",
@@ -49133,7 +49133,7 @@ export const epgData = [
   },
   {
     "program": "song:Kaavaalaa,Jailer,Shilpa Rao,Anirudh Ravichander & Arunraja Kamaraj,Sun Pictures,2023",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-930C7E6C",
     "date": "2025-04-15",
     "start": "17:52:13",
@@ -49143,7 +49143,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C36EA3F3",
     "date": "2025-04-15",
     "start": "17:55:20",
@@ -49153,7 +49153,7 @@ export const epgData = [
   },
   {
     "program": "song:Engeyum Eppothum ,PollAdhavan,Yugabharathi,G.V.Prakash Kumar,Kaviyarasu KannAdasan & Yogi.B,Five Star Creations,2021",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C691600F",
     "date": "2025-04-15",
     "start": "17:55:23",
@@ -49163,7 +49163,7 @@ export const epgData = [
   },
   {
     "program": "Song",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F1329ECE",
     "date": "2025-04-15",
     "start": "17:59:59",
@@ -49173,7 +49173,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-989ED5F1",
     "date": "2025-04-15",
     "start": "18:00:08",
@@ -49183,7 +49183,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-34BCC39D",
     "date": "2025-04-15",
     "start": "18:00:44",
@@ -49193,7 +49193,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Saravana Electricals,Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-53AB8995",
     "date": "2025-04-15",
     "start": "18:00:53",
@@ -49203,7 +49203,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Appala",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8ED9A9BB",
     "date": "2025-04-15",
     "start": "18:00:57",
@@ -49213,7 +49213,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EABFBD93",
     "date": "2025-04-15",
     "start": "18:01:00",
@@ -49223,7 +49223,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai,Authorized Car Dealership,Automotive Retail / Vehicle Sales & Service\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D558B9C1",
     "date": "2025-04-15",
     "start": "18:01:03",
@@ -49233,7 +49233,7 @@ export const epgData = [
   },
   {
     "program": "song:Whistle Podu ,The Greastest Of All Time ,Thalapathy Vijay & Yuvan Shankar Raja ,Yuvan Shankar Raja Birthday Hits,T-Series,2024",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ADE1CE23",
     "date": "2025-04-15",
     "start": "18:01:06",
@@ -49243,7 +49243,7 @@ export const epgData = [
   },
   {
     "program": "program :RJ Shringa",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2DCF7E50",
     "date": "2025-04-15",
     "start": "18:05:36",
@@ -49253,7 +49253,7 @@ export const epgData = [
   },
   {
     "program": "song:Makkamishi ,Brother,Harris Jayaraj & Paal Dabba ,Think Music,2024",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-874554CA",
     "date": "2025-04-15",
     "start": "18:07:30",
@@ -49263,7 +49263,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-99CECA4C",
     "date": "2025-04-15",
     "start": "18:11:21",
@@ -49273,7 +49273,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A8581579",
     "date": "2025-04-15",
     "start": "18:11:39",
@@ -49283,7 +49283,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-00C36DE0",
     "date": "2025-04-15",
     "start": "18:11:48",
@@ -49293,7 +49293,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Blank",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E3C2DA4E",
     "date": "2025-04-15",
     "start": "18:11:59",
@@ -49303,7 +49303,7 @@ export const epgData = [
   },
   {
     "program": "Ad:  ChettinAd cement, \nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0F7F57DB",
     "date": "2025-04-15",
     "start": "18:12:19",
@@ -49313,7 +49313,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SBI ,Faurd ,Public Sector Bank, Banking and Financial Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AA3BF7B4",
     "date": "2025-04-15",
     "start": "18:12:28",
@@ -49323,7 +49323,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9A79368B",
     "date": "2025-04-15",
     "start": "18:12:58",
@@ -49333,7 +49333,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4B58BD87",
     "date": "2025-04-15",
     "start": "18:13:19",
@@ -49343,7 +49343,7 @@ export const epgData = [
   },
   {
     "program": "Ad:The Eye Foundation,Eye Care Hospital Chain,Healthcare / Ophthalmology\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-40D05EDD",
     "date": "2025-04-15",
     "start": "18:13:34",
@@ -49353,7 +49353,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-812024A4",
     "date": "2025-04-15",
     "start": "18:13:49",
@@ -49363,7 +49363,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A7875B08",
     "date": "2025-04-15",
     "start": "18:13:59",
@@ -49373,7 +49373,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai,Authorized Car Dealership,Automotive Retail / Vehicle Sales & Service\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-200FF6E4",
     "date": "2025-04-15",
     "start": "18:14:41",
@@ -49383,7 +49383,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG AC,Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6864CDDB",
     "date": "2025-04-15",
     "start": "18:14:34",
@@ -49393,7 +49393,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0842DB1D",
     "date": "2025-04-15",
     "start": "18:14:54",
@@ -49403,7 +49403,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-031C8E63",
     "date": "2025-04-15",
     "start": "18:15:15",
@@ -49413,7 +49413,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A3D1996D",
     "date": "2025-04-15",
     "start": "18:15:30",
@@ -49423,7 +49423,7 @@ export const epgData = [
   },
   {
     "program": "program:RJ Shirnu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9F256EEE",
     "date": "2025-04-15",
     "start": "18:15:50",
@@ -49433,7 +49433,7 @@ export const epgData = [
   },
   {
     "program": "Sponsed Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BA0FACAF",
     "date": "2025-04-15",
     "start": "18:18:15",
@@ -49443,7 +49443,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Vijaylakshme Eye Hospital,Eye Care Hospital,Healthcare / Ophthalmology\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-63FDA95C",
     "date": "2025-04-15",
     "start": "18:18:21",
@@ -49453,7 +49453,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2F8BAB87",
     "date": "2025-04-15",
     "start": "18:18:26",
@@ -49463,7 +49463,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anuj Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D390D83B",
     "date": "2025-04-15",
     "start": "18:18:33",
@@ -49473,7 +49473,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6C4B05D9",
     "date": "2025-04-15",
     "start": "18:18:40",
@@ -49483,7 +49483,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\nAutomotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CA1E0297",
     "date": "2025-04-15",
     "start": "18:18:45",
@@ -49493,7 +49493,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6AE29D0A",
     "date": "2025-04-15",
     "start": "18:18:52",
@@ -49503,7 +49503,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CDF574A8",
     "date": "2025-04-15",
     "start": "18:19:00",
@@ -49513,7 +49513,7 @@ export const epgData = [
   },
   {
     "program": "song:Karuppu Nerathazhagi ,Komban,G.V.Prakash,Velmurugan,Maalavika Sundar & Ra.Thanikodi,Komban,Divo Tv Private Limited,2015",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9EE8C8DC",
     "date": "2025-04-15",
     "start": "18:19:08",
@@ -49523,7 +49523,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AC00E8F5",
     "date": "2025-04-15",
     "start": "18:23:38",
@@ -49533,7 +49533,7 @@ export const epgData = [
   },
   {
     "program": "song:Chillanjirukkiye,Lubber,Sean Roldan,PrAdeep Kumar & K.Sivaangi,Sony Music Entertainment India Pvt.Ltd,2023",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E1B2D35E",
     "date": "2025-04-15",
     "start": "18:23:45",
@@ -49543,7 +49543,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ED30D852",
     "date": "2025-04-15",
     "start": "18:27:50",
@@ -49553,7 +49553,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4E3248EA",
     "date": "2025-04-15",
     "start": "18:28:22",
@@ -49563,7 +49563,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-823077B3",
     "date": "2025-04-15",
     "start": "18:29:55",
@@ -49573,7 +49573,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silverline Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A596BBBB",
     "date": "2025-04-15",
     "start": "18:30:07",
@@ -49583,7 +49583,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling AC, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-90D437ED",
     "date": "2025-04-15",
     "start": "18:30:27",
@@ -49593,7 +49593,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3C5C353B",
     "date": "2025-04-15",
     "start": "18:30:42",
@@ -49603,7 +49603,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA ,Electronics & Appliances,Retail-Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7EAB9406",
     "date": "2025-04-15",
     "start": "18:31:02",
@@ -49613,7 +49613,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Anitha Jewellers, Jewellery, Fashion",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-60CEDF4F",
     "date": "2025-04-15",
     "start": "18:31:12",
@@ -49623,7 +49623,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8C310141",
     "date": "2025-04-15",
     "start": "18:31:18",
@@ -49633,7 +49633,7 @@ export const epgData = [
   },
   {
     "program": "Ad: K Ramakrishnan College \nof Engineering,\nCollege,\nEducation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F149B6F5",
     "date": "2025-04-15",
     "start": "18:31:42",
@@ -49643,7 +49643,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Social Awareness On\nObesity & To Reduce Oil Intake",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8AA6760F",
     "date": "2025-04-15",
     "start": "18:32:02",
@@ -49653,7 +49653,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4E78C359",
     "date": "2025-04-15",
     "start": "18:32:43",
@@ -49663,7 +49663,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-254BC461",
     "date": "2025-04-15",
     "start": "18:32:57",
@@ -49673,7 +49673,7 @@ export const epgData = [
   },
   {
     "program": "Jingle:RJ Shrilu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E11F764E",
     "date": "2025-04-15",
     "start": "18:33:18",
@@ -49683,7 +49683,7 @@ export const epgData = [
   },
   {
     "program": "program:RJ Shrilu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-73860EC9",
     "date": "2025-04-15",
     "start": "18:33:34",
@@ -49693,7 +49693,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-55551313",
     "date": "2025-04-15",
     "start": "18:35:06",
@@ -49703,7 +49703,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3100108A",
     "date": "2025-04-15",
     "start": "18:35:09",
@@ -49713,7 +49713,7 @@ export const epgData = [
   },
   {
     "program": "song:Karka Karka,Harris Jayaraj ,Devan Ekambaram ,Nakkhul,Tippu & Andrea Jeremiah,VettaiyaAdu VilaiyaAdu,Divo Tv,Private Limited,2006",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-755C0B79",
     "date": "2025-04-15",
     "start": "18:35:17",
@@ -49723,7 +49723,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-95DE864A",
     "date": "2025-04-15",
     "start": "18:40:01",
@@ -49733,7 +49733,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E9FD4B79",
     "date": "2025-04-15",
     "start": "18:40:06",
@@ -49743,7 +49743,7 @@ export const epgData = [
   },
   {
     "program": "song:Hey Vetri Velaa,PAdikkathavan,Mani Sharma,Naveen & Ranjith,Dhanush Dhamaka,Sony Music Entertainment India Pvt.Ltd,2009",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-206F9E96",
     "date": "2025-04-15",
     "start": "18:40:11",
@@ -49753,7 +49753,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ADF66996",
     "date": "2025-04-15",
     "start": "18:44:51",
@@ -49763,7 +49763,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B2980734",
     "date": "2025-04-15",
     "start": "18:44:55",
@@ -49773,7 +49773,7 @@ export const epgData = [
   },
   {
     "program": "song:Kathari Poovazhagi,G.V.Prakash,EkAdesi,Velmurungan,Napolia & Rajalakshmi,Valentine's Love Voltage ,Divo Tv Private Limited,2019",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AC80CEE0",
     "date": "2025-04-15",
     "start": "18:45:02",
@@ -49783,7 +49783,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B885BA64",
     "date": "2025-04-15",
     "start": "18:48:47",
@@ -49793,7 +49793,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Cricket Kud Kud Prakre",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2B13751C",
     "date": "2025-04-15",
     "start": "18:49:02",
@@ -49803,7 +49803,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AFEE0C9E",
     "date": "2025-04-15",
     "start": "18:49:52",
@@ -49813,7 +49813,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Vijaylaxmi Eye Hospital ,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7C9F5494",
     "date": "2025-04-15",
     "start": "18:49:58",
@@ -49823,7 +49823,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-55B5237E",
     "date": "2025-04-15",
     "start": "18:50:03",
@@ -49833,7 +49833,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anuj Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1D03F940",
     "date": "2025-04-15",
     "start": "18:50:01",
@@ -49843,7 +49843,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7C51C5C0",
     "date": "2025-04-15",
     "start": "18:50:17",
@@ -49853,7 +49853,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\nAutomotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-10D15FA0",
     "date": "2025-04-15",
     "start": "18:50:23",
@@ -49863,7 +49863,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking Baniyan,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4F04C1A0",
     "date": "2025-04-15",
     "start": "18:50:30",
@@ -49873,7 +49873,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Blank",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-02F59A30",
     "date": "2025-04-15",
     "start": "18:50:38",
@@ -49883,7 +49883,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Blank",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8F6F2096",
     "date": "2025-04-15",
     "start": "18:51:05",
@@ -49893,7 +49893,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas Clothing Store,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DFEE2057",
     "date": "2025-04-15",
     "start": "18:51:19",
@@ -49903,7 +49903,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Hamsa Electronics,Fans,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-165CCF0A",
     "date": "2025-04-15",
     "start": "18:51:27",
@@ -49913,7 +49913,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SBI ,Faurd ,Public Sector Bank, Banking and Financial Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A1DF51D4",
     "date": "2025-04-15",
     "start": "18:51:38",
@@ -49923,7 +49923,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9987C024",
     "date": "2025-04-15",
     "start": "18:52:07",
@@ -49933,7 +49933,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Social Awareness On\nObesity & To Reduce Oil Intake",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CF5D9E61",
     "date": "2025-04-15",
     "start": "18:52:18",
@@ -49943,7 +49943,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Blank",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D19F1BBC",
     "date": "2025-04-15",
     "start": "18:52:53",
@@ -49953,7 +49953,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E006C297",
     "date": "2025-04-15",
     "start": "18:53:14",
@@ -49963,7 +49963,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Priyam Internship,Internship Program, Education / Information Technology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2A0CAA17",
     "date": "2025-04-15",
     "start": "18:53:28",
@@ -49973,7 +49973,7 @@ export const epgData = [
   },
   {
     "program": "Ad: LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4921CFC2",
     "date": "2025-04-15",
     "start": "18:54:13",
@@ -49983,7 +49983,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6FF35432",
     "date": "2025-04-15",
     "start": "18:54:39",
@@ -49993,7 +49993,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D9B7465E",
     "date": "2025-04-15",
     "start": "18:54:59",
@@ -50003,7 +50003,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Saravana Electricals,Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D2034819",
     "date": "2025-04-15",
     "start": "18:55:07",
@@ -50013,7 +50013,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Apollo",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-404F0389",
     "date": "2025-04-15",
     "start": "18:55:11",
@@ -50023,7 +50023,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-08CA959B",
     "date": "2025-04-15",
     "start": "18:55:14",
@@ -50033,7 +50033,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Hyundai i 20,Automotive / Passenger Vehicles\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-009D8C84",
     "date": "2025-04-15",
     "start": "18:55:18",
@@ -50043,7 +50043,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F8425D97",
     "date": "2025-04-15",
     "start": "18:55:21",
@@ -50053,7 +50053,7 @@ export const epgData = [
   },
   {
     "program": "program:RJ Shingu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7D10863E",
     "date": "2025-04-15",
     "start": "18:55:39",
@@ -50063,7 +50063,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D269B8A7",
     "date": "2025-04-15",
     "start": "18:57:19",
@@ -50073,7 +50073,7 @@ export const epgData = [
   },
   {
     "program": "song:Tak Bak,Thangamagan,Anirudh Ravicharander,Chill Level,Sony Music Entertainment India Pvt.Ltd,2015",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-80DF38FB",
     "date": "2025-04-15",
     "start": "18:57:47",
@@ -50083,7 +50083,7 @@ export const epgData = [
   },
   {
     "program": "song:Tak Bak,Thangamagan,Anirudh Ravicharander,Chill Level,Sony Music Entertainment India Pvt.Ltd,2015",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0FDB5727",
     "date": "2025-04-15",
     "start": "18:59:59",
@@ -50093,7 +50093,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-56FBA500",
     "date": "2025-04-15",
     "start": "19:00:15",
@@ -50103,7 +50103,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal & Mangal Thanga Maligai, Jewellery Retail, Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1DB28B4E",
     "date": "2025-04-15",
     "start": "19:00:52",
@@ -50113,7 +50113,7 @@ export const epgData = [
   },
   {
     "program": "Ad:  ChettinAd cement, \nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A5731A48",
     "date": "2025-04-15",
     "start": "19:01:02",
@@ -50123,7 +50123,7 @@ export const epgData = [
   },
   {
     "program": "Ad: K Ramakrishnan College \nof Engineering,\nCollege,\nEducation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0A98E455",
     "date": "2025-04-15",
     "start": "19:01:08",
@@ -50133,7 +50133,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai,Authorized Car Dealership,Automotive Retail / Vehicle Sales & Service\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F1AE1469",
     "date": "2025-04-15",
     "start": "19:01:12",
@@ -50143,7 +50143,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-CA6F629F",
     "date": "2025-04-15",
     "start": "19:01:15",
@@ -50153,7 +50153,7 @@ export const epgData = [
   },
   {
     "program": "song:Marakkuma Nenjam ,Vendhu Thanindhathu KAddu,Thamarai & A.R.Rahman,Think Music,2022",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2DA3A4EC",
     "date": "2025-04-15",
     "start": "19:01:20",
@@ -50163,7 +50163,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8C5DACD8",
     "date": "2025-04-15",
     "start": "19:05:30",
@@ -50173,7 +50173,7 @@ export const epgData = [
   },
   {
     "program": "program :RJ Shrinu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-909188BB",
     "date": "2025-04-15",
     "start": "19:05:45",
@@ -50183,7 +50183,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2199FF32",
     "date": "2025-04-15",
     "start": "19:07:10",
@@ -50193,7 +50193,7 @@ export const epgData = [
   },
   {
     "program": "program:RJ Shrinu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-066FF6B0",
     "date": "2025-04-15",
     "start": "19:07:14",
@@ -50203,7 +50203,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-587D5A86",
     "date": "2025-04-15",
     "start": "19:07:33",
@@ -50213,7 +50213,7 @@ export const epgData = [
   },
   {
     "program": "Sponsoerd Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-245D29A0",
     "date": "2025-04-15",
     "start": "19:07:36",
@@ -50223,7 +50223,7 @@ export const epgData = [
   },
   {
     "program": "Powered By Ad:Vijaylaxmi Eye Hospital ,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D315C738",
     "date": "2025-04-15",
     "start": "19:07:43",
@@ -50233,7 +50233,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2B259893",
     "date": "2025-04-15",
     "start": "19:07:48",
@@ -50243,7 +50243,7 @@ export const epgData = [
   },
   {
     "program": "Sponsored Ad:Anuj Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F2FEF533",
     "date": "2025-04-15",
     "start": "19:07:54",
@@ -50253,7 +50253,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F2ED8CC7",
     "date": "2025-04-15",
     "start": "19:08:01",
@@ -50263,7 +50263,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\nAutomotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1DC8E55A",
     "date": "2025-04-15",
     "start": "19:08:08",
@@ -50273,7 +50273,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D388900C",
     "date": "2025-04-15",
     "start": "19:08:16",
@@ -50283,7 +50283,7 @@ export const epgData = [
   },
   {
     "program": "song:Stole My Heart ,Singam,Devi Sri PrasAd ,Shaan &  Megha,Take 10,Sony Music Entertainment India Pvt.Ltd,2010",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0095D216",
     "date": "2025-04-15",
     "start": "19:08:23",
@@ -50293,7 +50293,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling AC, Televisions, Refrigerators, \nWashing Machines, ACs, \nRetail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-56C649C4",
     "date": "2025-04-15",
     "start": "19:11:41",
@@ -50303,7 +50303,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas, Sarees,\nFashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-342A679E",
     "date": "2025-04-15",
     "start": "19:11:49",
@@ -50313,7 +50313,7 @@ export const epgData = [
   },
   {
     "program": "Ad: KAG Tiles,\nBuilding Materials,\nConstruction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D518346B",
     "date": "2025-04-15",
     "start": "19:12:01",
@@ -50323,7 +50323,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-26567972",
     "date": "2025-04-15",
     "start": "19:12:21",
@@ -50333,7 +50333,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C00F25A4",
     "date": "2025-04-15",
     "start": "19:12:42",
@@ -50343,7 +50343,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Kongu Thanga Maligai,\n Jewellery,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9723117F",
     "date": "2025-04-15",
     "start": "19:12:51",
@@ -50353,7 +50353,7 @@ export const epgData = [
   },
   {
     "program": "Ad: ChettinAd cement, \n Building Materials,\n Construction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8E8DF196",
     "date": "2025-04-15",
     "start": "19:13:12",
@@ -50363,7 +50363,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Hamsa Electronics,Fans,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B6045852",
     "date": "2025-04-15",
     "start": "19:13:22",
@@ -50373,7 +50373,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3E4554B9",
     "date": "2025-04-15",
     "start": "19:13:32",
@@ -50383,7 +50383,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2730B711",
     "date": "2025-04-15",
     "start": "19:13:42",
@@ -50393,7 +50393,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5991382E",
     "date": "2025-04-15",
     "start": "19:13:57",
@@ -50403,7 +50403,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9FFF4F13",
     "date": "2025-04-15",
     "start": "19:14:07",
@@ -50413,7 +50413,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AAE4D8C4",
     "date": "2025-04-15",
     "start": "19:14:27",
@@ -50423,7 +50423,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Air Asia,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5DCB81C1",
     "date": "2025-04-15",
     "start": "19:14:41",
@@ -50433,7 +50433,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BE1F5918",
     "date": "2025-04-15",
     "start": "19:15:02",
@@ -50443,7 +50443,7 @@ export const epgData = [
   },
   {
     "program": "song:Kalasala Kalasala,L.R.Eswari ,Solar Sai,T.Rajendar & Thaman S.,Osthe,Sony Music Entertainment India Pvt.Ltd,2011",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8AE0C4BD",
     "date": "2025-04-15",
     "start": "19:15:16",
@@ -50453,7 +50453,7 @@ export const epgData = [
   },
   {
     "program": "program:RJ Shrinu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-83754241",
     "date": "2025-04-15",
     "start": "19:19:25",
@@ -50463,7 +50463,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4ED83061",
     "date": "2025-04-15",
     "start": "19:21:16",
@@ -50473,7 +50473,7 @@ export const epgData = [
   },
   {
     "program": "song:Aathi Adi Aathi,Veera Dheera Sooran,G.V.Prakash Kumar ,SAdhika K R & Vivek ,Think Music ,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B202FD0C",
     "date": "2025-04-15",
     "start": "19:21:24",
@@ -50483,7 +50483,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6C36F1C7",
     "date": "2025-04-15",
     "start": "19:24:07",
@@ -50493,7 +50493,7 @@ export const epgData = [
   },
   {
     "program": "song:Tharam Maara Single,Anirudh Ravichandran & Arun Chandy ,Darbar ,Divo Tv Private Limited,2019",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-831A21D5",
     "date": "2025-04-15",
     "start": "19:24:15",
@@ -50503,7 +50503,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-112200AC",
     "date": "2025-04-15",
     "start": "19:28:08",
@@ -50513,7 +50513,7 @@ export const epgData = [
   },
   {
     "program": "program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AE4D898C",
     "date": "2025-04-15",
     "start": "19:28:37",
@@ -50523,7 +50523,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-06BBE220",
     "date": "2025-04-15",
     "start": "19:29:52",
@@ -50533,7 +50533,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9A9B8E65",
     "date": "2025-04-15",
     "start": "19:30:13",
@@ -50543,7 +50543,7 @@ export const epgData = [
   },
   {
     "program": "Ad: LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AE7E00FE",
     "date": "2025-04-15",
     "start": "19:30:24",
@@ -50553,7 +50553,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Silverline Hospital,Healthcare",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7088309D",
     "date": "2025-04-15",
     "start": "19:30:44",
@@ -50563,7 +50563,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-47139574",
     "date": "2025-04-15",
     "start": "19:31:04",
@@ -50573,7 +50573,7 @@ export const epgData = [
   },
   {
     "program": "Ad: ChettinAd cement, \n Building Materials,\n Construction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-787C032E",
     "date": "2025-04-15",
     "start": "19:31:14",
@@ -50583,7 +50583,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SBI ,Faurd ,Public Sector Bank, Banking and Financial Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FB3BE54A",
     "date": "2025-04-15",
     "start": "19:31:24",
@@ -50593,7 +50593,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling AC, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B9760AD3",
     "date": "2025-04-15",
     "start": "19:31:53",
@@ -50603,7 +50603,7 @@ export const epgData = [
   },
   {
     "program": "Ad:The Eye Foundation,Eye Care Hospital Chain,Healthcare / Ophthalmology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5DC8E109",
     "date": "2025-04-15",
     "start": "19:32:09",
@@ -50613,7 +50613,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-ED160A47",
     "date": "2025-04-15",
     "start": "19:32:24",
@@ -50623,7 +50623,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E1AA9DB9",
     "date": "2025-04-15",
     "start": "19:32:39",
@@ -50633,7 +50633,7 @@ export const epgData = [
   },
   {
     "program": "program :RJ Srinu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A8012983",
     "date": "2025-04-15",
     "start": "19:33:00",
@@ -50643,7 +50643,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BA91711A",
     "date": "2025-04-15",
     "start": "19:34:54",
@@ -50653,7 +50653,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-504046AD",
     "date": "2025-04-15",
     "start": "19:34:59",
@@ -50663,7 +50663,7 @@ export const epgData = [
   },
   {
     "program": "song:SawAdeeka ,Vidaamuyarchi,Anirudha Ravichander ,Anthony Daasan & Arivu,Sony Music Entertainment India Pvt.Ltd,2024",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-62422071",
     "date": "2025-04-15",
     "start": "19:34:04",
@@ -50673,7 +50673,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7C0B1F91",
     "date": "2025-04-15",
     "start": "19:38:22",
@@ -50683,7 +50683,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B6A71DE7",
     "date": "2025-04-15",
     "start": "19:38:29",
@@ -50693,7 +50693,7 @@ export const epgData = [
   },
   {
     "program": "song:Maari Thara Local,Anirudha Ravichander & Dhanush,Mass Level ,Sony Music Entertainment India Pvt.Ltd,2015",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-37D5D15B",
     "date": "2025-04-15",
     "start": "19:38:35",
@@ -50703,7 +50703,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-17F53285",
     "date": "2025-04-15",
     "start": "19:42:22",
@@ -50713,7 +50713,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0422D401",
     "date": "2025-04-15",
     "start": "19:42:26",
@@ -50723,7 +50723,7 @@ export const epgData = [
   },
   {
     "program": "song:Thathai Thathai,Yuvan Shankar Raja,Silambarasan TR,Blaaze & Vasundara Das,ManmAdhan,Think Tapes,2004",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3DBC6F4A",
     "date": "2025-04-15",
     "start": "19:42:32",
@@ -50733,7 +50733,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FB598A44",
     "date": "2025-04-15",
     "start": "19:47:48",
@@ -50743,7 +50743,7 @@ export const epgData = [
   },
   {
     "program": "program:RJ Srinu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-530A801E",
     "date": "2025-04-15",
     "start": "19:48:13",
@@ -50753,7 +50753,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Swarna Mahal,Jewellery,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9D79E55C",
     "date": "2025-04-15",
     "start": "19:48:47",
@@ -50763,7 +50763,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Vijaylaxmi Eye Hospital ,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F4DEA26D",
     "date": "2025-04-15",
     "start": "19:48:53",
@@ -50773,7 +50773,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-10F3473A",
     "date": "2025-04-15",
     "start": "19:49:00",
@@ -50783,7 +50783,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anuj Tiles,Tiles Manufacturer,Building Materials / Ceramics Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1ED40AF3",
     "date": "2025-04-15",
     "start": "19:46:06",
@@ -50793,7 +50793,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E8F7C678",
     "date": "2025-04-15",
     "start": "19:49:13",
@@ -50803,7 +50803,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\n Automotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-42AE9FC3",
     "date": "2025-04-15",
     "start": "19:49:20",
@@ -50813,7 +50813,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking Baniyan,Innerwear Baniyan,Textile & Apparel Manufacturing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0FDC6F8A",
     "date": "2025-04-15",
     "start": "19:49:25",
@@ -50823,7 +50823,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Surya FM",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8418ECE4",
     "date": "2025-04-15",
     "start": "19:49:34",
@@ -50833,7 +50833,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-87AD6F5F",
     "date": "2025-04-15",
     "start": "19:50:12",
@@ -50843,7 +50843,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Srinidhi Promoters,Construction,Real Estate,",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3584FADF",
     "date": "2025-04-15",
     "start": "19:50:25",
@@ -50853,7 +50853,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A11D8B3D",
     "date": "2025-04-15",
     "start": "19:51:23",
@@ -50863,7 +50863,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sodi Premimum Hall,Event Venue / Banquet Hall,Hospitality / Event Management",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AA72F4FC",
     "date": "2025-04-15",
     "start": "19:51:35",
@@ -50873,7 +50873,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Poorvika Showroom,Mobile,Eletronic Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DFB36A2B",
     "date": "2025-04-15",
     "start": "19:51:40",
@@ -50883,7 +50883,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Social Awareness On\n Obesity & To Reduce Oil Intake",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1623A52A",
     "date": "2025-04-15",
     "start": "19:51:55",
@@ -50893,7 +50893,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B73C799C",
     "date": "2025-04-15",
     "start": "19:52:30",
@@ -50903,7 +50903,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Moon Parivar",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0F07CB1A",
     "date": "2025-04-15",
     "start": "19:52:45",
@@ -50913,7 +50913,7 @@ export const epgData = [
   },
   {
     "program": "",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9D185524",
     "date": "2025-04-15",
     "start": "19:53:05",
@@ -50923,7 +50923,7 @@ export const epgData = [
   },
   {
     "program": "Ad: LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-231F2329",
     "date": "2025-04-15",
     "start": "19:53:10",
@@ -50933,7 +50933,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EF623EDE",
     "date": "2025-04-15",
     "start": "19:53:28",
@@ -50943,7 +50943,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal & Mangal Thanga Maligai, Jewellery Retail, Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9C14F120",
     "date": "2025-04-15",
     "start": "19:53:34",
@@ -50953,7 +50953,7 @@ export const epgData = [
   },
   {
     "program": "Ad: ChettinAd cement, \n Building Materials,\n Construction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F1F6D5A4",
     "date": "2025-04-15",
     "start": "19:53:40",
@@ -50963,7 +50963,7 @@ export const epgData = [
   },
   {
     "program": "Ad: K Ramakrishnan College \n of Engineering,\n College,\n Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-34CDCF46",
     "date": "2025-04-15",
     "start": "19:53:46",
@@ -50973,7 +50973,7 @@ export const epgData = [
   },
   {
     "program": "Ad:GT Hyundai,Authorized Car Dealership,Automotive Retail / Vehicle Sales & Service\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B7DE04EB",
     "date": "2025-04-15",
     "start": "19:53:50",
@@ -50983,7 +50983,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sarathas, Sarees,\n Fashion, Textile",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-447E37F7",
     "date": "2025-04-15",
     "start": "19:53:53",
@@ -50993,7 +50993,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9D67B754",
     "date": "2025-04-15",
     "start": "19:53:58",
@@ -51003,7 +51003,7 @@ export const epgData = [
   },
   {
     "program": "program :RJ Srinu",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-919C73B4",
     "date": "2025-04-15",
     "start": "19:54:22",
@@ -51013,7 +51013,7 @@ export const epgData = [
   },
   {
     "program": "song:Vaa Kannamma,Once More,Hesham Abdul Wahab ,Uthara Unnikrishnan & Vignesh Srikanth,Think Music ,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-953F86BC",
     "date": "2025-04-15",
     "start": "19:55:38",
@@ -51023,7 +51023,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B56FBAFF",
     "date": "2025-04-15",
     "start": "20:00:00",
@@ -51033,7 +51033,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-20BFD694",
     "date": "2025-04-15",
     "start": "20:00:48",
@@ -51043,7 +51043,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sakthi Masale, Food & Beverage, Spice Powders, FMCG",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1FFE887E",
     "date": "2025-04-15",
     "start": "20:00:59",
@@ -51053,7 +51053,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Vasanth and Co, Televisions, Refrigerators, Washing Machines, ACs, Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-35C0A0C0",
     "date": "2025-04-15",
     "start": "20:01:03",
@@ -51063,7 +51063,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Poorvika Showroom,Mobile,Eletronic Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-76307DE7",
     "date": "2025-04-15",
     "start": "20:01:09",
@@ -51073,7 +51073,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4B416B3A",
     "date": "2025-04-15",
     "start": "20:01:13",
@@ -51083,7 +51083,7 @@ export const epgData = [
   },
   {
     "program": "song:Takkunu Takkunu(From Mr.Local),Hiphop Tamizha & Anirudh Ravichander,Takkunu Takkunu(From Mr.Local)-Single,Think Music,2019",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-7E2A2629",
     "date": "2025-04-15",
     "start": "20:01:19",
@@ -51093,7 +51093,7 @@ export const epgData = [
   },
   {
     "program": "program:Suriyan Star Talk,RJ Shrini",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FBEC0A5A",
     "date": "2025-04-15",
     "start": "20:04:49",
@@ -51103,7 +51103,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Harani Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9D3E0D42",
     "date": "2025-04-15",
     "start": "20:06:11",
@@ -51113,7 +51113,7 @@ export const epgData = [
   },
   {
     "program": "song:Yendi Vittu Pona(From Dragon),Leon James,Silambarasan TR & ko.Sesha,Yendi Vittu Pona(From Dragon)-Single,Think Music,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2FD6C44C",
     "date": "2025-04-15",
     "start": "20:06:35",
@@ -51123,7 +51123,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A0C4E6BE",
     "date": "2025-04-15",
     "start": "20:10:42",
@@ -51133,7 +51133,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E1F12C32",
     "date": "2025-04-15",
     "start": "20:10:51",
@@ -51143,7 +51143,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-575A1856",
     "date": "2025-04-15",
     "start": "20:11:11",
@@ -51153,7 +51153,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Poorvika Showroom,Mobile,Eletronic Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D6401989",
     "date": "2025-04-15",
     "start": "20:11:21",
@@ -51163,7 +51163,7 @@ export const epgData = [
   },
   {
     "program": "Ad: ChettinAd cement, \n Building Materials,\n Construction",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-40806438",
     "date": "2025-04-15",
     "start": "20:11:36",
@@ -51173,7 +51173,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Samsung,Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E9FECFF4",
     "date": "2025-04-15",
     "start": "20:11:46",
@@ -51183,7 +51183,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BPL Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2719C057",
     "date": "2025-04-15",
     "start": "20:12:17",
@@ -51193,7 +51193,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys ,Textile,ReAdymAde Garment Retailers",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D3BDC4BC",
     "date": "2025-04-15",
     "start": "20:12:31",
@@ -51203,7 +51203,7 @@ export const epgData = [
   },
   {
     "program": "Ad:DevAdarshan Dhoop,Agarbatti",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-07521634",
     "date": "2025-04-15",
     "start": "20:12:42",
@@ -51213,7 +51213,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sri Thaila Jewellars,Luxury Goods",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-20D77E0D",
     "date": "2025-04-15",
     "start": "20:13:02",
@@ -51223,7 +51223,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B36DBB36",
     "date": "2025-04-15",
     "start": "20:13:17",
@@ -51233,7 +51233,7 @@ export const epgData = [
   },
   {
     "program": "Ad:kota Kinabalu International Airport",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-40C11CA3",
     "date": "2025-04-15",
     "start": "20:13:26",
@@ -51243,7 +51243,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6A4114CF",
     "date": "2025-04-15",
     "start": "20:13:47",
@@ -51253,7 +51253,7 @@ export const epgData = [
   },
   {
     "program": "program:Suriyan Star Talk",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A68397C9",
     "date": "2025-04-15",
     "start": "20:14:03",
@@ -51263,7 +51263,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Cotton Collection,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-978053D5",
     "date": "2025-04-15",
     "start": "20:16:13",
@@ -51273,7 +51273,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Vijaylaxmi Eye Hospital ,Healthcare,Multispecialty Hospital Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3C88B1D5",
     "date": "2025-04-15",
     "start": "20:16:22",
@@ -51283,7 +51283,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C3FFF6B6",
     "date": "2025-04-15",
     "start": "20:16:28",
@@ -51293,7 +51293,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Arun Tiles,Ceramic Tiles Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2F4478E7",
     "date": "2025-04-15",
     "start": "20:16:34",
@@ -51303,7 +51303,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-8DA73ADD",
     "date": "2025-04-15",
     "start": "20:16:40",
@@ -51313,7 +51313,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\n Automotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D83DFD8B",
     "date": "2025-04-15",
     "start": "20:16:45",
@@ -51323,7 +51323,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking innerwear,Textile,ReAdymAde Garment",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2F9A8828",
     "date": "2025-04-15",
     "start": "20:16:55",
@@ -51333,7 +51333,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6F48B6D4",
     "date": "2025-04-15",
     "start": "20:17:01",
@@ -51343,7 +51343,7 @@ export const epgData = [
   },
   {
     "program": "song:Enkeyoo Partha(From yaarAdi nee Mohini),Yuvan Shankar Raja & Udit Narayan,MasterWorks-Yuvan Shankar Raja,Sony Music Entertainment India Pvt.Ltd.,2008",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A9D1936C",
     "date": "2025-04-15",
     "start": "20:17:16",
@@ -51353,7 +51353,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-83853F6B",
     "date": "2025-04-15",
     "start": "20:22:30",
@@ -51363,7 +51363,7 @@ export const epgData = [
   },
   {
     "program": "song:Ranga Ranga,C.Sathya & Rita,Ivan Vera Mathiri-Ep,Sony Music Entertainment India Pvt.Ltd.,2013",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-683219FF",
     "date": "2025-04-15",
     "start": "20:22:45",
@@ -51373,7 +51373,7 @@ export const epgData = [
   },
   {
     "program": "program:RJ Shrini Talk About IPL",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-79A70F03",
     "date": "2025-04-15",
     "start": "20:26:35",
@@ -51383,7 +51383,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0D9DFF06",
     "date": "2025-04-15",
     "start": "20:28:35",
@@ -51393,7 +51393,7 @@ export const epgData = [
   },
   {
     "program": "Program",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C97FB396",
     "date": "2025-04-15",
     "start": "20:29:23",
@@ -51403,7 +51403,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Vasanth and Co,Eletronics Store",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0C7E9FB2",
     "date": "2025-04-15",
     "start": "20:30:51",
@@ -51413,7 +51413,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0E36FE2F",
     "date": "2025-04-15",
     "start": "20:31:20",
@@ -51423,7 +51423,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-31298A1E",
     "date": "2025-04-15",
     "start": "20:31:30",
@@ -51433,7 +51433,7 @@ export const epgData = [
   },
   {
     "program": "Ad:kota Kinabalu International Airport,Airline,Aviation / Air Transportation",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E9A4BEDA",
     "date": "2025-04-15",
     "start": "20:31:41",
@@ -51443,7 +51443,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BEA Ac,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-5DC5BB54",
     "date": "2025-04-15",
     "start": "20:32:06",
@@ -51453,7 +51453,7 @@ export const epgData = [
   },
   {
     "program": "Program:Talk About Dr Ambedkar 135th Aniversary",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9FC984E5",
     "date": "2025-04-15",
     "start": "20:32:31",
@@ -51463,7 +51463,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Darling, Televisions, Refrigerators, \n Washing Machines, ACs, \n Retail \u2013 Electronic",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-82E0BAD8",
     "date": "2025-04-15",
     "start": "20:33:26",
@@ -51473,7 +51473,7 @@ export const epgData = [
   },
   {
     "program": "Ad:BHIM,UPI,Online Payment, Mobile Payments Application, Financial Technology (FinTech) / Digital Payments\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-E36F843C",
     "date": "2025-04-15",
     "start": "20:33:41",
@@ -51483,7 +51483,7 @@ export const epgData = [
   },
   {
     "program": "Ad:The Eye Foundation,Eye Care Hospital Chain,Healthcare / Ophthalmology\u200b",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9F5B014A",
     "date": "2025-04-15",
     "start": "20:34:01",
@@ -51493,7 +51493,7 @@ export const epgData = [
   },
   {
     "program": "Program: RJ shrini ,RJ Shrini ,Recharge",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-00E9D890",
     "date": "2025-04-15",
     "start": "20:34:17",
@@ -51503,7 +51503,7 @@ export const epgData = [
   },
   {
     "program": "Program:RJ Shrini,Recharge",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-51EECE60",
     "date": "2025-04-15",
     "start": "20:34:35",
@@ -51513,7 +51513,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Cotton Collection,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C4FF9E01",
     "date": "2025-04-15",
     "start": "20:36:25",
@@ -51523,7 +51523,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Vijayalaxmi Eye Foundation,Hospital,Health",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-DFDDBFCE",
     "date": "2025-04-15",
     "start": "20:36:35",
@@ -51533,7 +51533,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-55EB7B27",
     "date": "2025-04-15",
     "start": "20:36:40",
@@ -51543,7 +51543,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Arun Tiles,Ceramic Tiles Industry",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-9B60328C",
     "date": "2025-04-15",
     "start": "20:36:47",
@@ -51553,7 +51553,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-88771206",
     "date": "2025-04-15",
     "start": "20:36:54",
@@ -51563,7 +51563,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\n Automotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-57305F23",
     "date": "2025-04-15",
     "start": "20:36:59",
@@ -51573,7 +51573,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking innerwear,Textile,ReAdymAde Garment",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-31276D04",
     "date": "2025-04-15",
     "start": "20:37:06",
@@ -51583,7 +51583,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-655F880D",
     "date": "2025-04-15",
     "start": "20:37:15",
@@ -51593,7 +51593,7 @@ export const epgData = [
   },
   {
     "program": "song:Nenjinile (From Uyire),S.Janaki,Music Director's Choice-Evergreen Moods Of Love,New Music,1998",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C8B01096",
     "date": "2025-04-15",
     "start": "20:37:25",
@@ -51603,7 +51603,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-86BFEE10",
     "date": "2025-04-15",
     "start": "20:42:16",
@@ -51613,7 +51613,7 @@ export const epgData = [
   },
   {
     "program": "song:Kalloorum (From veera Dheera Sooran),G.V.Prakash Kumar, Haricharan,Shweta Mohan & Vivek,Kalloorum (From veera Dheera Sooran)-Single,Think Music,2025",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B0684527",
     "date": "2025-04-15",
     "start": "20:42:28",
@@ -51623,7 +51623,7 @@ export const epgData = [
   },
   {
     "program": "Jingle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B550D657",
     "date": "2025-04-15",
     "start": "20:45:55",
@@ -51633,7 +51633,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-4CBF56DF",
     "date": "2025-04-15",
     "start": "20:46:00",
@@ -51643,7 +51643,7 @@ export const epgData = [
   },
   {
     "program": "song:EnnAdi Maayavi Nee (From VAdachennai),santhosh Narayanan,Vivek & Sid Sriram,VAdachennai(Original Motion Picture Soundtrack),Divo Tv Private Limited,2018",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-6E090DE3",
     "date": "2025-04-15",
     "start": "20:46:06",
@@ -51653,7 +51653,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Sowdambikaa World School,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-61618CEB",
     "date": "2025-04-15",
     "start": "20:50:06",
@@ -51663,7 +51663,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Ca Sa Taa Premium Ice Creams,Food and Beverage",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F5D59249",
     "date": "2025-04-15",
     "start": "20:50:36",
@@ -51673,7 +51673,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Vasanth and Co, Televisions, Refrigerators, Washing Machines, ACs, Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EF1398BF",
     "date": "2025-04-15",
     "start": "20:50:45",
@@ -51683,7 +51683,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Skoda Kylaq,Subcompact SUV,Automotive / Passenger Vehicles",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-2FDC1196",
     "date": "2025-04-15",
     "start": "20:51:04",
@@ -51693,7 +51693,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AC923B8F",
     "date": "2025-04-15",
     "start": "20:51:25",
@@ -51703,7 +51703,7 @@ export const epgData = [
   },
   {
     "program": "Ad:LG Refrigerator,Home Appliance ,Consumer Electronics / Home Appliances",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-80FE879B",
     "date": "2025-04-15",
     "start": "20:51:35",
@@ -51713,7 +51713,7 @@ export const epgData = [
   },
   {
     "program": "Ad:SBI ,Faurd ,Public Sector Bank, Banking and Financial Services",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-01A55850",
     "date": "2025-04-15",
     "start": "20:51:55",
@@ -51723,7 +51723,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pm Internship,Internship Program, Education / Information Technology",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-FE322853",
     "date": "2025-04-15",
     "start": "20:52:25",
@@ -51733,7 +51733,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Kelvinator,Digital Expert ,Electronics & Applications",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-930AE062",
     "date": "2025-04-15",
     "start": "20:53:10",
@@ -51743,7 +51743,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Anantha Silks ParAdise,Clothing",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A951A0F5",
     "date": "2025-04-15",
     "start": "20:53:20",
@@ -51753,7 +51753,7 @@ export const epgData = [
   },
   {
     "program": "Program:RJ Shrini",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-BDF4B1C7",
     "date": "2025-04-15",
     "start": "20:53:45",
@@ -51763,7 +51763,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Mangal and Mangal Thanga Maligai,\n Jewellery",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-C1F52662",
     "date": "2025-04-15",
     "start": "20:53:45",
@@ -51773,7 +51773,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Shakti Masala",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-B885C972",
     "date": "2025-04-15",
     "start": "20:53:55",
@@ -51783,7 +51783,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Vasanth and Co, Televisions, Refrigerators, Washing Machines, ACs, Retail \u2013 Electronics",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-51E386D5",
     "date": "2025-04-15",
     "start": "20:54:01",
@@ -51793,7 +51793,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Sarathas,Retail Textile,Silk Sarees Cotton Sarees",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-A2937B10",
     "date": "2025-04-15",
     "start": "20:54:06",
@@ -51803,7 +51803,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Pothys Cotton Collection,Fashion / Lifestyle",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-EC8C17AC",
     "date": "2025-04-15",
     "start": "20:55:55",
@@ -51813,7 +51813,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Vijayalaxmi Eye Foundation,Hospital,Health",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-D80E1C50",
     "date": "2025-04-15",
     "start": "20:56:05",
@@ -51823,7 +51823,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Dhanalakshmi Srinivasan University,Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-1A8A5A9E",
     "date": "2025-04-15",
     "start": "20:56:10",
@@ -51833,7 +51833,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Indra Ganesan College Of Engineering,Research Institude,Higher Education / Technical Education",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-AA27CE27",
     "date": "2025-04-15",
     "start": "20:56:23",
@@ -51843,7 +51843,7 @@ export const epgData = [
   },
   {
     "program": "Ad: Ramani KIA Car dealer, Car,\n Automotive",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-F41F9795",
     "date": "2025-04-15",
     "start": "20:56:29",
@@ -51853,7 +51853,7 @@ export const epgData = [
   },
   {
     "program": "Ad:Viking innerwear,Textile,ReAdymAde Garment",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-0A187849",
     "date": "2025-04-15",
     "start": "20:56:36",
@@ -51863,7 +51863,7 @@ export const epgData = [
   },
   {
     "program": "song:Inaye(From thAdam),Sid Sriram, PAdmalatha & Arun Raj,Inaye(From thAdam)-Single,,Saregama,2018",
-    "channel": "Red FM",
+    "channel": "Suryan FM",
     "id": "ITEM-3EFC7D2F",
     "date": "2025-04-15",
     "start": "20:56:45",
