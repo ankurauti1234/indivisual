@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 import {
   PieChart,
@@ -14,54 +14,54 @@ import {
   LineChart,
   Line,
   Legend,
-} from 'recharts';
-import { useState } from 'react';
+} from "recharts";
+import { useState } from "react";
 
 // Dummy data
 const sovByBrandData = [
-  { name: 'Nike', value: 35 },
-  { name: 'Adidas', value: 25 },
-  { name: 'Puma', value: 20 },
-  { name: 'Reebok', value: 15 },
-  { name: 'Under Armour', value: 5 },
+  { name: "Nike", value: 35 },
+  { name: "Adidas", value: 25 },
+  { name: "Puma", value: 20 },
+  { name: "Reebok", value: 15 },
+  { name: "Under Armour", value: 5 },
 ];
 
 const brandConsistencyData = [
-  { brand: 'Nike', 'Day 1': 8, 'Day 2': 7, 'Day 3': 9 },
-  { brand: 'Adidas', 'Day 1': 6, 'Day 2': 5, 'Day 3': 6 },
-  { brand: 'Puma', 'Day 1': 4, 'Day 2': 6, 'Day 3': 5 },
-  { brand: 'Reebok', 'Day 1': 3, 'Day 2': 2, 'Day 3': 4 },
+  { brand: "Nike", "Day 1": 8, "Day 2": 7, "Day 3": 9 },
+  { brand: "Adidas", "Day 1": 6, "Day 2": 5, "Day 3": 6 },
+  { brand: "Puma", "Day 1": 4, "Day 2": 6, "Day 3": 5 },
+  { brand: "Reebok", "Day 1": 3, "Day 2": 2, "Day 3": 4 },
 ];
 
 const categorySOVData = [
   {
-    category: 'Sportswear',
+    category: "Sportswear",
     Nike: 35,
     Adidas: 25,
     Puma: 20,
     Reebok: 15,
   },
-  { category: 'Beverages', Pepsi: 40, Coke: 30, Sprite: 20 },
-  { category: 'Tech', Apple: 50, Samsung: 30 },
+  { category: "Beverages", Pepsi: 40, Coke: 30, Sprite: 20 },
+  { category: "Tech", Apple: 50, Samsung: 30 },
 ];
 
 const sectorDominanceData = [
-  { phase: 'Group', Sportswear: 40, Beverages: 30, Tech: 20 },
-  { phase: 'Quarter', Sportswear: 35, Beverages: 35, Tech: 25 },
-  { phase: 'Semi', Sportswear: 30, Beverages: 40, Tech: 20 },
-  { phase: 'Final', Sportswear: 25, Beverages: 45, Tech: 20 },
+  { phase: "Group", Sportswear: 40, Beverages: 30, Tech: 20 },
+  { phase: "Quarter", Sportswear: 35, Beverages: 35, Tech: 25 },
+  { phase: "Semi", Sportswear: 30, Beverages: 40, Tech: 20 },
+  { phase: "Final", Sportswear: 25, Beverages: 45, Tech: 20 },
 ];
 
 const matchWiseSOVData = [
-  { match: 'Match 1', Nike: 40, Adidas: 30, Puma: 20 },
-  { match: 'Match 2', Nike: 35, Adidas: 25, Puma: 25 },
-  { match: 'Match 3', Nike: 30, Adidas: 35, Puma: 20 },
+  { match: "Match 1", Nike: 40, Adidas: 30, Puma: 20 },
+  { match: "Match 2", Nike: 35, Adidas: 25, Puma: 25 },
+  { match: "Match 3", Nike: 30, Adidas: 35, Puma: 20 },
 ];
 
-const COLORS = ['#8884d8', '#82ca9d', '#ffc658', '#ff7300', '#ff4d4f'];
+const COLORS = ["#8884d8", "#82ca9d", "#ffc658", "#ff7300", "#ff4d4f"];
 
 export default function ShareOfVoicePage() {
-  const [selectedMatch, setSelectedMatch] = useState('Match 1');
+  const [selectedMatch, setSelectedMatch] = useState("Match 1");
 
   return (
     <div className="space-y-8 p-4">
@@ -93,9 +93,9 @@ export default function ShareOfVoicePage() {
         </ResponsiveContainer>
       </div>
 
-      {/* Brand Consistency Heatmap - Line Chart Alternative */}
+      {/* Asian Paintsonsistency Heatmap - Line Chart Alternative */}
       <div className="w-full">
-        <h2 className="text-xl font-bold mb-4">Brand Consistency</h2>
+        <h2 className="text-xl font-bold mb-4">Asian Paintsonsistency</h2>
         <ResponsiveContainer width="100%" height={300}>
           <LineChart data={brandConsistencyData}>
             <CartesianGrid strokeDasharray="3 3" />

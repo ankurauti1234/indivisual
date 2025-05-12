@@ -1,8 +1,15 @@
-"use client"
+"use client";
 
-import { TrendingUp } from "lucide-react"
-import { Line, LineChart, CartesianGrid, XAxis, YAxis, ResponsiveContainer } from "recharts"
-import { PieChart, Pie, Cell } from "recharts"
+import { TrendingUp } from "lucide-react";
+import {
+  Line,
+  LineChart,
+  CartesianGrid,
+  XAxis,
+  YAxis,
+  ResponsiveContainer,
+} from "recharts";
+import { PieChart, Pie, Cell } from "recharts";
 import {
   Card,
   CardContent,
@@ -10,30 +17,30 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "@/components/ui/card"
+} from "@/components/ui/card";
 import {
   ChartConfig,
   ChartContainer,
   ChartTooltip,
   ChartTooltipContent,
-} from "@/components/ui/chart"
+} from "@/components/ui/chart";
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select"
-import { useState } from "react"
+} from "@/components/ui/select";
+import { useState } from "react";
 
 // Sample data
 const brandSOVData = {
   all: [
-    { name: "Brand A", value: 35 },
-    { name: "Brand B", value: 25 },
-    { name: "Brand C", value: 20 },
-    { name: "Brand D", value: 10 },
-    { name: "Brand E", value: 5 },
+    { name: "Shivam Cement", value: 35 },
+    { name: "N Cell", value: 25 },
+    { name: "Asian Paints", value: 20 },
+    { name: "Nike", value: 10 },
+    { name: "Coca Cola", value: 5 },
     { name: "Others", value: 5 },
   ],
   tech: [
@@ -52,7 +59,7 @@ const brandSOVData = {
     { name: "Retail E", value: 8 },
     { name: "Others", value: 2 },
   ],
-}
+};
 
 const sectorTrendsData = {
   all: [
@@ -76,13 +83,13 @@ const sectorTrendsData = {
     { phase: "Semifinals", tech: 0, retail: 32, auto: 0 },
     { phase: "Finals", tech: 0, retail: 35, auto: 0 },
   ],
-}
+};
 
 const heatmapData = {
   all: [
-    { brand: "Brand A", match1: 80, match2: 60, match3: 90, match4: 70 },
-    { brand: "Brand B", match1: 50, match2: 70, match3: 40, match4: 60 },
-    { brand: "Brand C", match1: 30, match2: 20, match3: 50, match4: 40 },
+    { brand: "Shivam Cement", match1: 80, match2: 60, match3: 90, match4: 70 },
+    { brand: "N Cell", match1: 50, match2: 70, match3: 40, match4: 60 },
+    { brand: "Asian Paints", match1: 30, match2: 20, match3: 50, match4: 40 },
   ],
   tech: [
     { brand: "Tech A", match1: 90, match2: 70, match3: 85, match4: 80 },
@@ -94,7 +101,7 @@ const heatmapData = {
     { brand: "Retail B", match1: 40, match2: 60, match3: 30, match4: 50 },
     { brand: "Retail C", match1: 20, match2: 30, match3: 40, match4: 30 },
   ],
-}
+};
 
 // Chart configurations
 const sovConfig = {
@@ -102,7 +109,7 @@ const sovConfig = {
     label: "Share of Voice",
     color: "hsl(var(--chart-1))",
   },
-}
+};
 
 const sectorConfig = {
   tech: {
@@ -117,7 +124,7 @@ const sectorConfig = {
     label: "Auto",
     color: "hsl(var(--chart-3))",
   },
-}
+};
 
 const COLORS = [
   "hsl(var(--chart-1))",
@@ -126,10 +133,10 @@ const COLORS = [
   "hsl(var(--chart-4))",
   "hsl(var(--chart-5))",
   "hsl(var(--chart-6))",
-]
+];
 
 export function ShareOfVoice() {
-  const [viewFilter, setViewFilter] = useState("all")
+  const [viewFilter, setViewFilter] = useState("all");
 
   return (
     <div className="p-6 bg-background min-h-screen">
@@ -168,7 +175,10 @@ export function ShareOfVoice() {
                     label
                   >
                     {brandSOVData[viewFilter].map((entry, index) => (
-                      <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                      <Cell
+                        key={`cell-${index}`}
+                        fill={COLORS[index % COLORS.length]}
+                      />
                     ))}
                   </Pie>
                   <ChartTooltip content={<ChartTooltipContent />} />
@@ -178,7 +188,7 @@ export function ShareOfVoice() {
           </CardContent>
           <CardFooter className="flex-col items-start gap-2 text-sm">
             <div className="flex gap-2 font-medium leading-none">
-              Finals spike for Brand A <TrendingUp className="h-4 w-4" />
+              Finals spike for Shivam Cement <TrendingUp className="h-4 w-4" />
             </div>
             <div className="leading-none text-muted-foreground">
               Click slices to drill down
@@ -209,12 +219,28 @@ export function ShareOfVoice() {
                 <ChartTooltip content={<ChartTooltipContent />} />
                 {viewFilter === "all" ? (
                   <>
-                    <Line type="monotone" dataKey="tech" stroke="var(--color-tech)" />
-                    <Line type="monotone" dataKey="retail" stroke="var(--color-retail)" />
-                    <Line type="monotone" dataKey="auto" stroke="var(--color-auto)" />
+                    <Line
+                      type="monotone"
+                      dataKey="tech"
+                      stroke="var(--color-tech)"
+                    />
+                    <Line
+                      type="monotone"
+                      dataKey="retail"
+                      stroke="var(--color-retail)"
+                    />
+                    <Line
+                      type="monotone"
+                      dataKey="auto"
+                      stroke="var(--color-auto)"
+                    />
                   </>
                 ) : (
-                  <Line type="monotone" dataKey={viewFilter} stroke={`var(--color-${viewFilter})`} />
+                  <Line
+                    type="monotone"
+                    dataKey={viewFilter}
+                    stroke={`var(--color-${viewFilter})`}
+                  />
                 )}
               </LineChart>
             </ChartContainer>
@@ -243,25 +269,33 @@ export function ShareOfVoice() {
               <div className="text-center text-sm">Match 4</div>
               {heatmapData[viewFilter].map((row, rowIndex) => (
                 <>
-                  <div key={`brand-${rowIndex}`} className="text-sm font-medium flex items-center">
+                  <div
+                    key={`brand-${rowIndex}`}
+                    className="text-sm font-medium flex items-center"
+                  >
                     {row.brand}
                   </div>
-                  {["match1", "match2", "match3", "match4"].map((match, colIndex) => (
-                    <div
-                      key={`cell-${rowIndex}-${colIndex}`}
-                      className="h-12 rounded"
-                      style={{
-                        backgroundColor: `hsl(240, 70%, ${100 - row[match]}%)`,
-                      }}
-                    />
-                  ))}
+                  {["match1", "match2", "match3", "match4"].map(
+                    (match, colIndex) => (
+                      <div
+                        key={`cell-${rowIndex}-${colIndex}`}
+                        className="h-12 rounded"
+                        style={{
+                          backgroundColor: `hsl(240, 70%, ${
+                            100 - row[match]
+                          }%)`,
+                        }}
+                      />
+                    )
+                  )}
                 </>
               ))}
             </div>
           </CardContent>
           <CardFooter className="flex-col items-start gap-2 text-sm">
             <div className="flex gap-2 font-medium leading-none">
-              Brand A consistent across matches <TrendingUp className="h-4 w-4" />
+              Shivam Cement consistent across matches{" "}
+              <TrendingUp className="h-4 w-4" />
             </div>
             <div className="leading-none text-muted-foreground">
               Darker colors indicate higher exposure
@@ -270,5 +304,5 @@ export function ShareOfVoice() {
         </Card>
       </div>
     </div>
-  )
+  );
 }

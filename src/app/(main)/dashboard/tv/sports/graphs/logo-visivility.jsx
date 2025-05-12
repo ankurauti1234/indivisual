@@ -1,7 +1,7 @@
-"use client"
+"use client";
 
-import { TrendingUp } from "lucide-react"
-import { Bar, BarChart, CartesianGrid, Cell, XAxis, YAxis } from "recharts"
+import { TrendingUp } from "lucide-react";
+import { Bar, BarChart, CartesianGrid, Cell, XAxis, YAxis } from "recharts";
 import {
   Card,
   CardContent,
@@ -9,13 +9,13 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "@/components/ui/card"
+} from "@/components/ui/card";
 import {
   ChartConfig,
   ChartContainer,
   ChartTooltip,
   ChartTooltipContent,
-} from "@/components/ui/chart"
+} from "@/components/ui/chart";
 import {
   Table,
   TableBody,
@@ -23,13 +23,13 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@/components/ui/table"
+} from "@/components/ui/table";
 import {
   Tooltip,
   TooltipContent,
   TooltipProvider,
   TooltipTrigger,
-} from "@/components/ui/tooltip"
+} from "@/components/ui/tooltip";
 
 // Sample data
 const placementImpactData = [
@@ -38,20 +38,20 @@ const placementImpactData = [
   { placement: "Boundary", duration: 120 },
   { placement: "Billboard", duration: 90 },
   { placement: "Overlay", duration: 60 },
-]
+];
 
 const durationLeaderboardData = [
-  { brand: "Brand A", screenTime: 1200, matches: 8 },
-  { brand: "Brand B", screenTime: 1000, matches: 7 },
-  { brand: "Brand C", screenTime: 900, matches: 6 },
-  { brand: "Brand D", screenTime: 800, matches: 7 },
-  { brand: "Brand E", screenTime: 700, matches: 5 },
+  { brand: "Shivam Cement", screenTime: 1200, matches: 8 },
+  { brand: "N Cell", screenTime: 1000, matches: 7 },
+  { brand: "Asian Paints", screenTime: 900, matches: 6 },
+  { brand: "Nike", screenTime: 800, matches: 7 },
+  { brand: "Coca Cola", screenTime: 700, matches: 5 },
   { brand: "Brand F", screenTime: 600, matches: 6 },
   { brand: "Brand G", screenTime: 500, matches: 4 },
   { brand: "Brand H", screenTime: 400, matches: 5 },
   { brand: "Brand I", screenTime: 300, matches: 3 },
   { brand: "Brand J", screenTime: 200, matches: 2 },
-]
+];
 
 // Heatmap data for zones
 const zoneHeatmapData = [
@@ -61,7 +61,7 @@ const zoneHeatmapData = [
   { zone: "Midfield", visibility: 50 },
   { zone: "Billboard Top", visibility: 40 },
   { zone: "Billboard Side", visibility: 30 },
-]
+];
 
 // Chart configurations
 const placementConfig = {
@@ -69,14 +69,14 @@ const placementConfig = {
     label: "Avg. Duration (s)",
     color: "hsl(var(--chart-1))",
   },
-}
+};
 
 const heatmapConfig = {
   visibility: {
     label: "Visibility Score",
     color: "hsl(var(--chart-1))",
   },
-}
+};
 
 export function LogoVisibilityDeepDive() {
   return (
@@ -87,7 +87,9 @@ export function LogoVisibilityDeepDive() {
         <Card>
           <CardHeader>
             <CardTitle>Placement Impact</CardTitle>
-            <CardDescription>Average duration by placement type</CardDescription>
+            <CardDescription>
+              Average duration by placement type
+            </CardDescription>
           </CardHeader>
           <CardContent>
             <ChartContainer config={placementConfig}>
@@ -107,7 +109,11 @@ export function LogoVisibilityDeepDive() {
                   tickMargin={8}
                 />
                 <ChartTooltip content={<ChartTooltipContent />} />
-                <Bar dataKey="duration" fill="var(--color-duration)" radius={4} />
+                <Bar
+                  dataKey="duration"
+                  fill="var(--color-duration)"
+                  radius={4}
+                />
               </BarChart>
             </ChartContainer>
           </CardContent>
@@ -181,7 +187,9 @@ export function LogoVisibilityDeepDive() {
         <Card className="lg:col-span-2">
           <CardHeader>
             <CardTitle>Duration Leaderboard</CardTitle>
-            <CardDescription>Top 10 brands by total screen time</CardDescription>
+            <CardDescription>
+              Top 10 brands by total screen time
+            </CardDescription>
           </CardHeader>
           <CardContent>
             <TooltipProvider>
@@ -214,7 +222,7 @@ export function LogoVisibilityDeepDive() {
           </CardContent>
           <CardFooter className="flex-col items-start gap-2 text-sm">
             <div className="flex gap-2 font-medium leading-none">
-              Brand A leads screen time <TrendingUp className="h-4 w-4" />
+              Shivam Cement leads screen time <TrendingUp className="h-4 w-4" />
             </div>
             <div className="leading-none text-muted-foreground">
               Hover for match count details
@@ -223,5 +231,5 @@ export function LogoVisibilityDeepDive() {
         </Card>
       </div>
     </div>
-  )
+  );
 }

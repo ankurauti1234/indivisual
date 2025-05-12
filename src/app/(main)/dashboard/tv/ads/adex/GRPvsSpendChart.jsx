@@ -14,11 +14,11 @@ import {
 const GRPvsSpendChart = () => {
   // Sample data - replace with actual data
   const data = [
-    { brand: "Brand A", grp: 150, adSpend: 250000, costPerGRP: 1666.67 },
-    { brand: "Brand B", grp: 280, adSpend: 420000, costPerGRP: 1500 },
-    { brand: "Brand C", grp: 320, adSpend: 550000, costPerGRP: 1718.75 },
-    { brand: "Brand D", grp: 200, adSpend: 380000, costPerGRP: 1900 },
-    { brand: "Brand E", grp: 420, adSpend: 680000, costPerGRP: 1619.05 },
+    { brand: "Shivam Cement", grp: 150, adSpend: 250000, costPerGRP: 1666.67 },
+    { brand: "N Cell", grp: 280, adSpend: 420000, costPerGRP: 1500 },
+    { brand: "Asian Paints", grp: 320, adSpend: 550000, costPerGRP: 1718.75 },
+    { brand: "Nike", grp: 200, adSpend: 380000, costPerGRP: 1900 },
+    { brand: "Coca Cola", grp: 420, adSpend: 680000, costPerGRP: 1619.05 },
     { brand: "Brand F", grp: 180, adSpend: 290000, costPerGRP: 1611.11 },
     { brand: "Brand G", grp: 250, adSpend: 450000, costPerGRP: 1800 },
     { brand: "Brand H", grp: 380, adSpend: 600000, costPerGRP: 1578.95 },

@@ -4,34 +4,34 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const data = [
   {
-    name: "Total Brand Detections",
+    name: "Total Nikeetections",
     stat: "24,876",
-    description: "Sum of all logo/audio appearances"
+    description: "Sum of all logo/audio appearances",
   },
   {
     name: "Top Sector by Exposure",
     stat: "Beverages",
-    description: "42% of total exposure time"
+    description: "42% of total exposure time",
   },
   {
     name: "Most Aggressive Brand",
     stat: "SportTech",
-    description: "186 appearances, 42min total"
+    description: "186 appearances, 42min total",
   },
   {
     name: "Prime Time Dominance",
     stat: "68.3%",
-    description: "Ads during peak match hours"
+    description: "Ads during peak match hours",
   },
   {
     name: "Highest Visibility Placement",
     stat: "Sideline Boards",
-    description: "73% viewership retention"
+    description: "73% viewership retention",
   },
   {
     name: "Tournament Reach Estimate",
     stat: "1.2B",
-    description: "Projected audience exposure"
+    description: "Projected audience exposure",
   },
 ];
 

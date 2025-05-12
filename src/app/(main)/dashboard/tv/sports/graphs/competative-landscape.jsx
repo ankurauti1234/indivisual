@@ -1,8 +1,15 @@
-"use client"
+"use client";
 
-import { TrendingUp } from "lucide-react"
-import { Bar, BarChart, CartesianGrid, XAxis, YAxis, ResponsiveContainer } from "recharts"
-import { GanttChart } from "lucide-react"
+import { TrendingUp } from "lucide-react";
+import {
+  Bar,
+  BarChart,
+  CartesianGrid,
+  XAxis,
+  YAxis,
+  ResponsiveContainer,
+} from "recharts";
+import { GanttChart } from "lucide-react";
 import {
   Card,
   CardContent,
@@ -10,49 +17,44 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "@/components/ui/card"
+} from "@/components/ui/card";
 import {
   ChartConfig,
   ChartContainer,
   ChartTooltip,
   ChartTooltipContent,
-} from "@/components/ui/chart"
-import {
-  Tabs,
-  TabsContent,
-  TabsList,
-  TabsTrigger,
-} from "@/components/ui/tabs"
+} from "@/components/ui/chart";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select"
-import { useState } from "react"
+} from "@/components/ui/select";
+import { useState } from "react";
 
 // Sample data for charts
 const brandBattleData = [
-  { brand: "Brand A", frequency: 120, duration: 1800 },
-  { brand: "Brand B", frequency: 90, duration: 1500 },
-  { brand: "Brand C", frequency: 80, duration: 1200 },
-  { brand: "Brand D", frequency: 60, duration: 900 },
-  { brand: "Brand E", frequency: 50, duration: 600 },
-]
+  { brand: "Shivam Cement", frequency: 120, duration: 1800 },
+  { brand: "N Cell", frequency: 90, duration: 1500 },
+  { brand: "Asian Paints", frequency: 80, duration: 1200 },
+  { brand: "Nike", frequency: 60, duration: 900 },
+  { brand: "Coca Cola", frequency: 50, duration: 600 },
+];
 
 const sectorClashData = [
   { sector: "Tech", brandA: 30, brandB: 20, brandC: 15 },
   { sector: "Retail", brandA: 25, brandB: 15, brandC: 10 },
   { sector: "Auto", brandA: 20, brandB: 10, brandC: 5 },
-]
+];
 
 const adOverlapData = [
-  { brand: "Brand A", start: 0, end: 300 },
-  { brand: "Brand B", start: 200, end: 500 },
-  { brand: "Brand C", start: 400, end: 700 },
-  { brand: "Brand D", start: 600, end: 900 },
-]
+  { brand: "Shivam Cement", start: 0, end: 300 },
+  { brand: "N Cell", start: 200, end: 500 },
+  { brand: "Asian Paints", start: 400, end: 700 },
+  { brand: "Nike", start: 600, end: 900 },
+];
 
 // Chart configurations
 const brandBattleConfig = {
@@ -64,26 +66,26 @@ const brandBattleConfig = {
     label: "Duration (s)",
     color: "hsl(var(--chart-2))",
   },
-}
+};
 
 const sectorClashConfig = {
   brandA: {
-    label: "Brand A",
+    label: "Shivam Cement",
     color: "hsl(var(--chart-1))",
   },
   brandB: {
-    label: "Brand B",
+    label: "N Cell",
     color: "hsl(var(--chart-2))",
   },
   brandC: {
-    label: "Brand C",
+    label: "Asian Paints",
     color: "hsl(var(--chart-3))",
   },
-}
+};
 
 export function CompetitiveLandscape() {
-  const [sectorFilter, setSectorFilter] = useState("all")
-  const [matchFilter, setMatchFilter] = useState("match1")
+  const [sectorFilter, setSectorFilter] = useState("all");
+  const [matchFilter, setMatchFilter] = useState("match1");
 
   return (
     <div className="p-6 bg-background min-h-screen">
@@ -116,7 +118,7 @@ export function CompetitiveLandscape() {
 
       <Tabs defaultValue="brandBattle" className="w-full">
         <TabsList className="grid w-full grid-cols-3">
-          <TabsTrigger value="brandBattle">Brand Battle</TabsTrigger>
+          <TabsTrigger value="brandBattle">N Cellattle</TabsTrigger>
           <TabsTrigger value="sectorClash">Sector Clash</TabsTrigger>
           <TabsTrigger value="adOverlap">Ad Overlap</TabsTrigger>
         </TabsList>
@@ -124,11 +126,16 @@ export function CompetitiveLandscape() {
         <TabsContent value="brandBattle">
           <Card>
             <CardHeader>
-              <CardTitle>Brand Battle</CardTitle>
-              <CardDescription>Comparing top 5 competing brands</CardDescription>
+              <CardTitle>N Cellattle</CardTitle>
+              <CardDescription>
+                Comparing top 5 competing brands
+              </CardDescription>
             </CardHeader>
             <CardContent>
-              <ChartContainer config={brandBattleConfig}  className="h-[450px] w-full" >
+              <ChartContainer
+                config={brandBattleConfig}
+                className="h-[450px] w-full"
+              >
                 <BarChart accessibilityLayer data={brandBattleData}>
                   <CartesianGrid vertical={false} />
                   <XAxis
@@ -139,14 +146,23 @@ export function CompetitiveLandscape() {
                   />
                   <YAxis />
                   <ChartTooltip content={<ChartTooltipContent />} />
-                  <Bar dataKey="frequency" fill="var(--color-frequency)" radius={4} />
-                  <Bar dataKey="duration" fill="var(--color-duration)" radius={4} />
+                  <Bar
+                    dataKey="frequency"
+                    fill="var(--color-frequency)"
+                    radius={4}
+                  />
+                  <Bar
+                    dataKey="duration"
+                    fill="var(--color-duration)"
+                    radius={4}
+                  />
                 </BarChart>
               </ChartContainer>
             </CardContent>
             <CardFooter className="flex-col items-start gap-2 text-sm">
               <div className="flex gap-2 font-medium leading-none">
-                Brand A leading in frequency <TrendingUp className="h-4 w-4" />
+                Shivam Cement leading in frequency{" "}
+                <TrendingUp className="h-4 w-4" />
               </div>
               <div className="leading-none text-muted-foreground">
                 Showing frequency and duration for top competitors
@@ -162,7 +178,10 @@ export function CompetitiveLandscape() {
               <CardDescription>Share of ad time by sector</CardDescription>
             </CardHeader>
             <CardContent>
-              <ChartContainer config={sectorClashConfig} className="h-[450px] w-full    ">
+              <ChartContainer
+                config={sectorClashConfig}
+                className="h-[450px] w-full    "
+              >
                 <BarChart accessibilityLayer data={sectorClashData}>
                   <CartesianGrid vertical={false} />
                   <XAxis
@@ -173,9 +192,24 @@ export function CompetitiveLandscape() {
                   />
                   <YAxis />
                   <ChartTooltip content={<ChartTooltipContent />} />
-                  <Bar dataKey="brandA" stackId="a" fill="var(--color-brandA)" radius={4} />
-                  <Bar dataKey="brandB" stackId="a" fill="var(--color-brandB)" radius={4} />
-                  <Bar dataKey="brandC" stackId="a" fill="var(--color-brandC)" radius={4} />
+                  <Bar
+                    dataKey="brandA"
+                    stackId="a"
+                    fill="var(--color-brandA)"
+                    radius={4}
+                  />
+                  <Bar
+                    dataKey="brandB"
+                    stackId="a"
+                    fill="var(--color-brandB)"
+                    radius={4}
+                  />
+                  <Bar
+                    dataKey="brandC"
+                    stackId="a"
+                    fill="var(--color-brandC)"
+                    radius={4}
+                  />
                 </BarChart>
               </ChartContainer>
             </CardContent>
@@ -194,7 +228,9 @@ export function CompetitiveLandscape() {
           <Card>
             <CardHeader>
               <CardTitle>Ad Overlap</CardTitle>
-              <CardDescription>Timeline of ad crowding for selected match</CardDescription>
+              <CardDescription>
+                Timeline of ad crowding for selected match
+              </CardDescription>
             </CardHeader>
             <CardContent>
               <div className="h-[300px]">
@@ -202,13 +238,17 @@ export function CompetitiveLandscape() {
                   <div className="space-y-4">
                     {adOverlapData.map((item, index) => (
                       <div key={index} className="flex items-center gap-4">
-                        <div className="w-24 text-sm font-medium">{item.brand}</div>
+                        <div className="w-24 text-sm font-medium">
+                          {item.brand}
+                        </div>
                         <div className="flex-1 h-8 bg-muted rounded relative">
                           <div
                             className="h-full rounded bg-primary"
                             style={{
                               marginLeft: `${(item.start / 900) * 100}%`,
-                              width: `${((item.end - item.start) / 900) * 100}%`,
+                              width: `${
+                                ((item.end - item.start) / 900) * 100
+                              }%`,
                             }}
                           />
                         </div>
@@ -230,5 +270,5 @@ export function CompetitiveLandscape() {
         </TabsContent>
       </Tabs>
     </div>
-  )
+  );
 }

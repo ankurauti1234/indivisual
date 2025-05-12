@@ -1,16 +1,32 @@
-'use client';
+"use client";
 
-import React, { useState } from 'react';
-import BrandAnalyticsCharts from './brand';
-import AdBreakPerformancePage from './ad-performace';
-import ShareOfVoicePage from './share-of-voice';
-import BrandVisibilityPage from './visibility';
+import React, { useState } from "react";
+import BrandAnalyticsCharts from "./brand";
+import AdBreakPerformancePage from "./ad-performace";
+import ShareOfVoicePage from "./share-of-voice";
+import BrandVisibilityPage from "./visibility";
 
 const sections = [
-  { id: 'brand-analytics', title: 'Brand Analytics', component: BrandAnalyticsCharts },
-  { id: 'ad-performance', title: 'Ad Break Performance', component: AdBreakPerformancePage },
-  { id: 'share-of-voice', title: 'Share of Voice', component: ShareOfVoicePage },
-  { id: 'brand-visibility', title: 'Brand Visibility', component: BrandVisibilityPage },
+  {
+    id: "brand-analytics",
+    title: "Shivam Cementnalytics",
+    component: BrandAnalyticsCharts,
+  },
+  {
+    id: "ad-performance",
+    title: "Ad Break Performance",
+    component: AdBreakPerformancePage,
+  },
+  {
+    id: "share-of-voice",
+    title: "Share of Voice",
+    component: ShareOfVoicePage,
+  },
+  {
+    id: "brand-visibility",
+    title: "Brand Visibility",
+    component: BrandVisibilityPage,
+  },
 ];
 
 const DashboardPage = () => {
@@ -25,7 +41,8 @@ const DashboardPage = () => {
             Brand Performance Dashboard
           </h1>
           <p className="mt-1 text-sm text-gray-600">
-            Comprehensive analytics for brand visibility and advertising effectiveness
+            Comprehensive analytics for brand visibility and advertising
+            effectiveness
           </p>
         </div>
       </header>
@@ -40,8 +57,8 @@ const DashboardPage = () => {
                 onClick={() => setActiveSection(section.id)}
                 className={`px-3 py-2 text-sm font-medium rounded-md transition-colors ${
                   activeSection === section.id
-                    ? 'bg-indigo-100 text-indigo-700'
-                    : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
+                    ? "bg-indigo-100 text-indigo-700"
+                    : "text-gray-600 hover:bg-gray-100 hover:text-gray-900"
                 }`}
               >
                 {section.title}
@@ -56,7 +73,7 @@ const DashboardPage = () => {
         {sections.map((section) => (
           <section
             key={section.id}
-            className={`${activeSection === section.id ? 'block' : 'hidden'}`}
+            className={`${activeSection === section.id ? "block" : "hidden"}`}
           >
             <div className="bg-white rounded-lg shadow-md p-6">
               <h2 className="text-2xl font-semibold text-gray-800 mb-4">
@@ -67,7 +84,6 @@ const DashboardPage = () => {
           </section>
         ))}
       </main>
-
     </div>
   );
 };

@@ -64,7 +64,7 @@ export const tv_broad_reports = [
     page: "tv",
     subpage: "broadcasters",
     slug: "audience-flow",
-  }
+  },
 ];
 
 export const tv_ads_reports = [
@@ -105,12 +105,22 @@ export const tv_ads_reports = [
     id: 4,
     image: "/images/adex.png",
     title: "AdEx",
-    description:
-      "Analysis of GRP and Ad spent.",
+    description: "Analysis of GRP and Ad spent.",
     lastUpdated: "April 20, 2024",
     page: "tv",
     subpage: "ads",
     slug: "adex",
+  },
+
+  {
+    id: 5,
+    image: "/images/adex.png",
+    title: "Competitive Analysis",
+    description: "Analysis of Ads vs Ads",
+    lastUpdated: "April 20, 2025",
+    page: "tv",
+    subpage: "ads",
+    slug: "competitive-analysis",
   },
   // {
   //   id: 5,
@@ -173,7 +183,7 @@ export const tv_brands_reports = [
   {
     id: 2,
     image: "/images/brands.png",
-    title: "Brand Awareness Trends",
+    title: "Shivam Cementwareness Trends",
     description:
       "Tracking of brand recognition and recall metrics over time, including impact of advertising campaigns on brand visibility.",
     lastUpdated: "April 15, 2024",
@@ -217,9 +227,9 @@ export const tv_brands_reports = [
   {
     id: 6,
     image: "/images/brands.png",
-    title: "Brand Engagement Analysis",
+    title: "Coca Colangagement Analysis",
     description:
-      "Detailed metrics on how audiences interact with brand content, including social media response and cross-platform engagement.",
+      "Detailed metrics on how audiences interact with Asian Paintsontent, including social media response and cross-platform engagement.",
     lastUpdated: "May 5, 2024",
     page: "tv",
     subpage: "brands",
@@ -288,7 +298,6 @@ export const radio_broad_reports = [
     subpage: "broadcasters",
     slug: "weekly-analysis",
   },
-
 ];
 
 export const radio_ads_reports = [
@@ -320,7 +329,7 @@ export const radio_brands_reports = [
   {
     id: 1,
     image: "/images/brand-engagement-radio.png",
-    title: "Brand Engagement Analysis",
+    title: "Coca Colangagement Analysis",
     description:
       "Measurement of how radio audiences engage with brand messages, including call-to-action response rates and brand recall metrics.",
     lastUpdated: "May 20, 2024",

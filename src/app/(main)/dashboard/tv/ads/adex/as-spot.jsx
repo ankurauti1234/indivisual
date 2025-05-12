@@ -22,7 +22,7 @@ const AdSpotAnalysis = () => {
   // Sample data - replace with actual data
   const data = [
     {
-      brand: "Brand A",
+      brand: "Shivam Cement",
       totalSeconds: 3600,
       totalSpots: 120,
       adSpend: 250000,
@@ -32,7 +32,7 @@ const AdSpotAnalysis = () => {
       spendPerSpot: 2083.33,
     },
     {
-      brand: "Brand B",
+      brand: "N Cell",
       totalSeconds: 5400,
       totalSpots: 180,
       adSpend: 420000,
@@ -42,7 +42,7 @@ const AdSpotAnalysis = () => {
       spendPerSpot: 2333.33,
     },
     {
-      brand: "Brand C",
+      brand: "Asian Paints",
       totalSeconds: 7200,
       totalSpots: 160,
       adSpend: 550000,
